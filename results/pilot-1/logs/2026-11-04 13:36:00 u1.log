@@ -1,0 +1,2013 @@
+{1} [EPISODE REPORT] episode 0: protocol = pbft , throughput = 4585.88req/s , episode time = 2.1806054s, overall time = 2.180605411529541s
+{1} nextProtocol = pbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 1: protocol = pbft , throughput = 6771.75req/s , episode time = 1.4767234s, overall time = 3.6573288440704346s
+{1} nextProtocol = pbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 2: protocol = pbft , throughput = 8829.64req/s , episode time = 1.1325488s, overall time = 4.789877653121948s
+{1} nextProtocol = pbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 3: protocol = pbft , throughput = 9321.21req/s , episode time = 1.0728217s, overall time = 5.862699389457703s
+{1} nextProtocol = pbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 4: protocol = pbft , throughput = 9701.34req/s , episode time = 1.0307852s, overall time = 6.893484592437744s
+{1} nextProtocol = sbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 5: protocol = sbft , throughput = 13851.86req/s , episode time = 0.7219247s, overall time = 7.615409314632416s
+{1} nextProtocol = sbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 6: protocol = sbft , throughput = 14446.32req/s , episode time = 0.69221795s, overall time = 8.307627260684967s
+{1} nextProtocol = pbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 7: protocol = pbft , throughput = 9932.09req/s , episode time = 1.0068375s, overall time = 9.314464747905731s
+{1} nextProtocol = cheapbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 8: protocol = cheapbft , throughput = 15202.75req/s , episode time = 0.65777594s, overall time = 9.972240686416626s
+{1} nextProtocol = hotstuff
+{1} leader mode set to be rotate for the next episode
+{1} [EPISODE REPORT] episode 9: protocol = hotstuff , throughput = 10898.93req/s , episode time = 0.9175209s, overall time = 10.889761567115784s
+{1} nextProtocol = sbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 10: protocol = sbft , throughput = 14774.22req/s , episode time = 0.67685467s, overall time = 11.566616237163544s
+{1} nextProtocol = prime
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 11: protocol = prime , throughput = 4603.98req/s , episode time = 2.1720335s, overall time = 13.738649785518646s
+{1} nextProtocol = cheapbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 12: protocol = cheapbft , throughput = 15746.14req/s , episode time = 0.6350762s, overall time = 14.37372601032257s
+{1} nextProtocol = sbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 13: protocol = sbft , throughput = 14829.77req/s , episode time = 0.6743194s, overall time = 15.04804539680481s
+{1} nextProtocol = cheapbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 14: protocol = cheapbft , throughput = 15860.92req/s , episode time = 0.63048047s, overall time = 15.678525865077972s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 15: protocol = zyzzyva , throughput = 19388.50req/s , episode time = 0.5157697s, overall time = 16.194295585155487s
+{1} nextProtocol = hotstuff
+{1} leader mode set to be rotate for the next episode
+{1} [EPISODE REPORT] episode 16: protocol = hotstuff , throughput = 12944.12req/s , episode time = 0.7725515s, overall time = 16.9668470621109s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 17: protocol = zyzzyva , throughput = 20076.07req/s , episode time = 0.49810538s, overall time = 17.464952439069748s
+{1} nextProtocol = cheapbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 18: protocol = cheapbft , throughput = 15685.90req/s , episode time = 0.63751525s, overall time = 18.10246768593788s
+{1} nextProtocol = pbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 19: protocol = pbft , throughput = 9906.08req/s , episode time = 1.0094811s, overall time = 19.111948758363724s
+{1} nextProtocol = pbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 20: protocol = pbft , throughput = 9890.94req/s , episode time = 1.011026s, overall time = 20.122974783182144s
+{1} nextProtocol = prime
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 21: protocol = prime , throughput = 4743.34req/s , episode time = 2.1082184s, overall time = 22.231193214654922s
+{1} nextProtocol = sbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 22: protocol = sbft , throughput = 15289.89req/s , episode time = 0.65402687s, overall time = 22.88522008061409s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 23: protocol = zyzzyva , throughput = 19680.26req/s , episode time = 0.50812334s, overall time = 23.393343418836594s
+{1} nextProtocol = sbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 24: protocol = sbft , throughput = 15433.82req/s , episode time = 0.6479278s, overall time = 24.04127123951912s
+{1} nextProtocol = hotstuff
+{1} leader mode set to be rotate for the next episode
+{1} [EPISODE REPORT] episode 25: protocol = hotstuff , throughput = 13631.38req/s , episode time = 0.7336014s, overall time = 24.77487263083458s
+{1} nextProtocol = pbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 26: protocol = pbft , throughput = 9835.18req/s , episode time = 1.0167582s, overall time = 25.79163083434105s
+{1} nextProtocol = hotstuff
+{1} leader mode set to be rotate for the next episode
+{1} [EPISODE REPORT] episode 27: protocol = hotstuff , throughput = 14052.62req/s , episode time = 0.71161115s, overall time = 26.5032419860363s
+{1} nextProtocol = hotstuff
+{1} leader mode set to be rotate for the next episode
+{1} [EPISODE REPORT] episode 28: protocol = hotstuff , throughput = 14308.75req/s , episode time = 0.69887304s, overall time = 27.202115029096603s
+{1} nextProtocol = cheapbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 29: protocol = cheapbft , throughput = 16107.12req/s , episode time = 0.6208435s, overall time = 27.822958558797836s
+{1} nextProtocol = prime
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 30: protocol = prime , throughput = 4768.20req/s , episode time = 2.097228s, overall time = 29.92018660902977s
+{1} nextProtocol = prime
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 31: protocol = prime , throughput = 4618.34req/s , episode time = 2.1652803s, overall time = 32.08546695113182s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 32: protocol = zyzzyva , throughput = 20412.77req/s , episode time = 0.4898894s, overall time = 32.57535636425018s
+{1} nextProtocol = prime
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 33: protocol = prime , throughput = 4594.79req/s , episode time = 2.1763792s, overall time = 34.75173556804657s
+{1} nextProtocol = pbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 34: protocol = pbft , throughput = 10130.86req/s , episode time = 0.98708284s, overall time = 35.738818407058716s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 35: protocol = zyzzyva , throughput = 20851.88req/s , episode time = 0.47957298s, overall time = 36.21839138865471s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 36: protocol = zyzzyva , throughput = 20814.93req/s , episode time = 0.48042428s, overall time = 36.698815673589706s
+{1} nextProtocol = pbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 37: protocol = pbft , throughput = 10072.69req/s , episode time = 0.9927833s, overall time = 37.69159898161888s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 38: protocol = zyzzyva , throughput = 20943.16req/s , episode time = 0.4774829s, overall time = 38.16908186674118s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 39: protocol = zyzzyva , throughput = 19678.55req/s , episode time = 0.5081676s, overall time = 38.67724949121475s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 40: protocol = zyzzyva , throughput = 20690.44req/s , episode time = 0.4833149s, overall time = 39.1605643928051s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 41: protocol = zyzzyva , throughput = 20572.53req/s , episode time = 0.486085s, overall time = 39.64664939045906s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 42: protocol = zyzzyva , throughput = 20699.73req/s , episode time = 0.48309797s, overall time = 40.12974736094475s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 43: protocol = zyzzyva , throughput = 20943.46req/s , episode time = 0.4774761s, overall time = 40.60722345113754s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 44: protocol = zyzzyva , throughput = 20475.25req/s , episode time = 0.4883945s, overall time = 41.095617949962616s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 45: protocol = zyzzyva , throughput = 20038.19req/s , episode time = 0.49904704s, overall time = 41.59466499090195s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 46: protocol = zyzzyva , throughput = 20592.86req/s , episode time = 0.48560515s, overall time = 42.080270141363144s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 47: protocol = zyzzyva , throughput = 19972.63req/s , episode time = 0.5006853s, overall time = 42.58095541596413s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 48: protocol = zyzzyva , throughput = 20833.39req/s , episode time = 0.47999874s, overall time = 43.06095415353775s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 49: protocol = zyzzyva , throughput = 20844.45req/s , episode time = 0.479744s, overall time = 43.540698140859604s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 50: protocol = zyzzyva , throughput = 20826.12req/s , episode time = 0.48016617s, overall time = 44.0208643078804s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 51: protocol = zyzzyva , throughput = 20822.58req/s , episode time = 0.4802479s, overall time = 44.50111222267151s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 52: protocol = zyzzyva , throughput = 21076.20req/s , episode time = 0.47446883s, overall time = 44.97558104991913s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 53: protocol = zyzzyva , throughput = 20559.19req/s , episode time = 0.4864004s, overall time = 45.46198144555092s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 54: protocol = zyzzyva , throughput = 20540.13req/s , episode time = 0.48685184s, overall time = 45.94883328676224s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 55: protocol = zyzzyva , throughput = 20881.58req/s , episode time = 0.47889102s, overall time = 46.42772430181503s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 56: protocol = zyzzyva , throughput = 20808.71req/s , episode time = 0.48056787s, overall time = 46.908292174339294s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 57: protocol = zyzzyva , throughput = 20519.04req/s , episode time = 0.48735228s, overall time = 47.39564445614815s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 58: protocol = zyzzyva , throughput = 20708.62req/s , episode time = 0.48289078s, overall time = 47.878535240888596s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 59: protocol = zyzzyva , throughput = 20733.69req/s , episode time = 0.4823069s, overall time = 48.360842138528824s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 60: protocol = zyzzyva , throughput = 20959.92req/s , episode time = 0.47710106s, overall time = 48.83794319629669s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 61: protocol = zyzzyva , throughput = 20852.87req/s , episode time = 0.47955024s, overall time = 49.3174934387207s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 62: protocol = zyzzyva , throughput = 20287.49req/s , episode time = 0.4929147s, overall time = 49.810408145189285s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 63: protocol = zyzzyva , throughput = 20844.74req/s , episode time = 0.47973728s, overall time = 50.2901454269886s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 64: protocol = zyzzyva , throughput = 20787.54req/s , episode time = 0.48105752s, overall time = 50.77120295166969s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 65: protocol = zyzzyva , throughput = 21028.72req/s , episode time = 0.47554004s, overall time = 51.246742993593216s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 66: protocol = zyzzyva , throughput = 20688.87req/s , episode time = 0.4833517s, overall time = 51.73009470105171s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 67: protocol = zyzzyva , throughput = 20539.29req/s , episode time = 0.4868718s, overall time = 52.21696650981903s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 68: protocol = zyzzyva , throughput = 20643.44req/s , episode time = 0.48441544s, overall time = 52.70138195157051s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 69: protocol = zyzzyva , throughput = 19568.77req/s , episode time = 0.5110183s, overall time = 53.21240022778511s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 70: protocol = zyzzyva , throughput = 20524.78req/s , episode time = 0.48721588s, overall time = 53.699616104364395s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 71: protocol = zyzzyva , throughput = 20842.17req/s , episode time = 0.47979638s, overall time = 54.179412484169006s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 72: protocol = zyzzyva , throughput = 20895.47req/s , episode time = 0.47857252s, overall time = 54.657985001802444s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 73: protocol = zyzzyva , throughput = 20964.08req/s , episode time = 0.47700635s, overall time = 55.134991347789764s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 74: protocol = zyzzyva , throughput = 20726.58req/s , episode time = 0.48247233s, overall time = 55.61746367812157s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 75: protocol = zyzzyva , throughput = 20946.24req/s , episode time = 0.47741258s, overall time = 56.09487625956535s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 76: protocol = zyzzyva , throughput = 20923.36req/s , episode time = 0.47793466s, overall time = 56.57281091809273s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 77: protocol = zyzzyva , throughput = 20663.78req/s , episode time = 0.48393863s, overall time = 57.05674955248833s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 78: protocol = zyzzyva , throughput = 19800.61req/s , episode time = 0.5050349s, overall time = 57.561784476041794s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 79: protocol = zyzzyva , throughput = 19972.81req/s , episode time = 0.5006806s, overall time = 58.062465101480484s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 80: protocol = zyzzyva , throughput = 20028.15req/s , episode time = 0.4992973s, overall time = 58.561762392520905s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 81: protocol = zyzzyva , throughput = 20058.73req/s , episode time = 0.49853596s, overall time = 59.06029835343361s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 82: protocol = zyzzyva , throughput = 20427.90req/s , episode time = 0.4895265s, overall time = 59.54982486367226s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 83: protocol = zyzzyva , throughput = 19875.82req/s , episode time = 0.5031239s, overall time = 60.052948743104935s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 84: protocol = zyzzyva , throughput = 20259.38req/s , episode time = 0.49359852s, overall time = 60.5465472638607s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 85: protocol = zyzzyva , throughput = 20696.34req/s , episode time = 0.4831772s, overall time = 61.02972447872162s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 86: protocol = zyzzyva , throughput = 20627.49req/s , episode time = 0.48478994s, overall time = 61.51451441645622s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 87: protocol = zyzzyva , throughput = 20562.18req/s , episode time = 0.48632976s, overall time = 62.000844180583954s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 88: protocol = zyzzyva , throughput = 20923.10req/s , episode time = 0.47794074s, overall time = 62.478784918785095s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 89: protocol = zyzzyva , throughput = 20899.49req/s , episode time = 0.47848055s, overall time = 62.957265466451645s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 90: protocol = zyzzyva , throughput = 20886.16req/s , episode time = 0.47878605s, overall time = 63.43605151772499s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 91: protocol = zyzzyva , throughput = 20914.00req/s , episode time = 0.47814855s, overall time = 63.91420006752014s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 92: protocol = zyzzyva , throughput = 20885.28req/s , episode time = 0.47880608s, overall time = 64.39300614595413s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 93: protocol = zyzzyva , throughput = 20949.48req/s , episode time = 0.4773389s, overall time = 64.87034505605698s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 94: protocol = zyzzyva , throughput = 20624.81req/s , episode time = 0.48485297s, overall time = 65.35519802570343s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 95: protocol = zyzzyva , throughput = 21030.43req/s , episode time = 0.47550157s, overall time = 65.83069959282875s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 96: protocol = zyzzyva , throughput = 20827.79req/s , episode time = 0.48012775s, overall time = 66.31082734465599s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 97: protocol = zyzzyva , throughput = 20768.65req/s , episode time = 0.48149493s, overall time = 66.79232227802277s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 98: protocol = zyzzyva , throughput = 20913.79req/s , episode time = 0.4781534s, overall time = 67.27047568559647s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 99: protocol = zyzzyva , throughput = 20367.95req/s , episode time = 0.49096748s, overall time = 67.76144316792488s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 100: protocol = zyzzyva , throughput = 20976.80req/s , episode time = 0.4767172s, overall time = 68.2381603717804s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 101: protocol = zyzzyva , throughput = 21003.96req/s , episode time = 0.47610074s, overall time = 68.71426111459732s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 102: protocol = zyzzyva , throughput = 20829.56req/s , episode time = 0.48008695s, overall time = 69.19434806704521s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 103: protocol = zyzzyva , throughput = 20796.27req/s , episode time = 0.48085555s, overall time = 69.67520362138748s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 104: protocol = zyzzyva , throughput = 20892.97req/s , episode time = 0.47862995s, overall time = 70.15383356809616s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 105: protocol = zyzzyva , throughput = 20943.54req/s , episode time = 0.47747424s, overall time = 70.63130781054497s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 106: protocol = zyzzyva , throughput = 20843.57req/s , episode time = 0.47976416s, overall time = 71.11107197403908s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 107: protocol = zyzzyva , throughput = 20680.37req/s , episode time = 0.48355025s, overall time = 71.59462222456932s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 108: protocol = zyzzyva , throughput = 21118.15req/s , episode time = 0.47352633s, overall time = 72.06814855337143s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 109: protocol = zyzzyva , throughput = 20500.97req/s , episode time = 0.48778188s, overall time = 72.5559304356575s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 110: protocol = zyzzyva , throughput = 20952.73req/s , episode time = 0.4772647s, overall time = 73.0331951379776s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 111: protocol = zyzzyva , throughput = 20642.10req/s , episode time = 0.48444673s, overall time = 73.51764187216759s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 112: protocol = zyzzyva , throughput = 20961.79req/s , episode time = 0.47705847s, overall time = 73.99470034241676s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 113: protocol = zyzzyva , throughput = 20663.68req/s , episode time = 0.4839408s, overall time = 74.4786411523819s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 114: protocol = zyzzyva , throughput = 20798.75req/s , episode time = 0.48079807s, overall time = 74.95943921804428s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 115: protocol = zyzzyva , throughput = 20713.49req/s , episode time = 0.48277724s, overall time = 75.44221645593643s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 116: protocol = zyzzyva , throughput = 20564.93req/s , episode time = 0.48626468s, overall time = 75.92848113179207s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 117: protocol = zyzzyva , throughput = 20750.87req/s , episode time = 0.4819075s, overall time = 76.41038861870766s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 118: protocol = zyzzyva , throughput = 20339.91req/s , episode time = 0.49164417s, overall time = 76.9020327925682s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 119: protocol = zyzzyva , throughput = 20610.01req/s , episode time = 0.48520112s, overall time = 77.3872339129448s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 120: protocol = zyzzyva , throughput = 20686.39req/s , episode time = 0.48340955s, overall time = 77.87064346671104s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 121: protocol = zyzzyva , throughput = 20874.46req/s , episode time = 0.47905436s, overall time = 78.34969782829285s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 122: protocol = zyzzyva , throughput = 20921.85req/s , episode time = 0.4779693s, overall time = 78.82766711711884s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 123: protocol = zyzzyva , throughput = 21022.38req/s , episode time = 0.47568357s, overall time = 79.30335068702698s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 124: protocol = zyzzyva , throughput = 20907.04req/s , episode time = 0.47830778s, overall time = 79.78165847063065s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 125: protocol = zyzzyva , throughput = 20746.16req/s , episode time = 0.4820168s, overall time = 80.26367527246475s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 126: protocol = zyzzyva , throughput = 20942.34req/s , episode time = 0.47750154s, overall time = 80.74117681384087s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 127: protocol = zyzzyva , throughput = 20756.17req/s , episode time = 0.48178437s, overall time = 81.22296118736267s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 128: protocol = zyzzyva , throughput = 20375.34req/s , episode time = 0.4907893s, overall time = 81.71375048160553s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 129: protocol = zyzzyva , throughput = 20760.73req/s , episode time = 0.48167852s, overall time = 82.19542899727821s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 130: protocol = zyzzyva , throughput = 21081.16req/s , episode time = 0.4743571s, overall time = 82.6697860956192s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 131: protocol = zyzzyva , throughput = 21074.32req/s , episode time = 0.47451118s, overall time = 83.14429727196693s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 132: protocol = zyzzyva , throughput = 20436.99req/s , episode time = 0.48930886s, overall time = 83.63360613584518s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 133: protocol = zyzzyva , throughput = 21045.49req/s , episode time = 0.47516108s, overall time = 84.10876721143723s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 134: protocol = zyzzyva , throughput = 20916.48req/s , episode time = 0.47809184s, overall time = 84.58685904741287s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 135: protocol = zyzzyva , throughput = 20842.14req/s , episode time = 0.4797972s, overall time = 85.06665626168251s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 136: protocol = zyzzyva , throughput = 21076.19req/s , episode time = 0.47446916s, overall time = 85.54112541675568s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 137: protocol = zyzzyva , throughput = 20721.36req/s , episode time = 0.48259377s, overall time = 86.02371919155121s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 138: protocol = zyzzyva , throughput = 20761.96req/s , episode time = 0.48165005s, overall time = 86.50536924600601s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 139: protocol = zyzzyva , throughput = 20906.97req/s , episode time = 0.47830927s, overall time = 86.9836785197258s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 140: protocol = zyzzyva , throughput = 20740.95req/s , episode time = 0.48213795s, overall time = 87.46581646800041s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 141: protocol = zyzzyva , throughput = 21026.79req/s , episode time = 0.47558385s, overall time = 87.94140031933784s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 142: protocol = zyzzyva , throughput = 20954.63req/s , episode time = 0.47722152s, overall time = 88.4186218380928s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 143: protocol = zyzzyva , throughput = 20945.15req/s , episode time = 0.47743747s, overall time = 88.89605930447578s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 144: protocol = zyzzyva , throughput = 20807.93req/s , episode time = 0.48058596s, overall time = 89.37664526700974s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 145: protocol = zyzzyva , throughput = 20879.29req/s , episode time = 0.47894347s, overall time = 89.85558873414993s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 146: protocol = zyzzyva , throughput = 20850.53req/s , episode time = 0.47960404s, overall time = 90.33519276976585s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 147: protocol = zyzzyva , throughput = 21040.41req/s , episode time = 0.47527584s, overall time = 90.81046861410141s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 148: protocol = zyzzyva , throughput = 20952.02req/s , episode time = 0.47728106s, overall time = 91.2877496778965s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 149: protocol = zyzzyva , throughput = 20700.84req/s , episode time = 0.4830721s, overall time = 91.77082177996635s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 150: protocol = zyzzyva , throughput = 21025.95req/s , episode time = 0.47560272s, overall time = 92.24642449617386s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 151: protocol = zyzzyva , throughput = 20987.10req/s , episode time = 0.47648326s, overall time = 92.72290775179863s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 152: protocol = zyzzyva , throughput = 21065.19req/s , episode time = 0.47471693s, overall time = 93.19762468338013s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 153: protocol = zyzzyva , throughput = 20909.70req/s , episode time = 0.47824687s, overall time = 93.67587155103683s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 154: protocol = zyzzyva , throughput = 21043.59req/s , episode time = 0.475204s, overall time = 94.15107554197311s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 155: protocol = zyzzyva , throughput = 20893.82req/s , episode time = 0.4786103s, overall time = 94.62968584895134s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 156: protocol = zyzzyva , throughput = 21033.89req/s , episode time = 0.47542328s, overall time = 95.10510912537575s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 157: protocol = zyzzyva , throughput = 18121.13req/s , episode time = 0.5518419s, overall time = 95.65695104002953s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 158: protocol = zyzzyva , throughput = 19133.32req/s , episode time = 0.52264845s, overall time = 96.17959949374199s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 159: protocol = zyzzyva , throughput = 20306.14req/s , episode time = 0.49246177s, overall time = 96.67206126451492s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 160: protocol = zyzzyva , throughput = 20489.83req/s , episode time = 0.48804688s, overall time = 97.16010814905167s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 161: protocol = zyzzyva , throughput = 20677.09req/s , episode time = 0.48362705s, overall time = 97.6437352001667s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 162: protocol = zyzzyva , throughput = 20447.94req/s , episode time = 0.48904687s, overall time = 98.13278207182884s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 163: protocol = zyzzyva , throughput = 20703.98req/s , episode time = 0.482999s, overall time = 98.61578106880188s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 164: protocol = zyzzyva , throughput = 20161.03req/s , episode time = 0.4960064s, overall time = 99.11178746819496s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 165: protocol = zyzzyva , throughput = 20411.27req/s , episode time = 0.48992553s, overall time = 99.60171300172806s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 166: protocol = zyzzyva , throughput = 20550.58req/s , episode time = 0.48660427s, overall time = 100.0883172750473s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 167: protocol = zyzzyva , throughput = 20676.42req/s , episode time = 0.4836428s, overall time = 100.57196006178856s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 168: protocol = zyzzyva , throughput = 21005.64req/s , episode time = 0.47606266s, overall time = 101.04802271723747s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 169: protocol = zyzzyva , throughput = 20578.98req/s , episode time = 0.48593274s, overall time = 101.53395545482635s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 170: protocol = zyzzyva , throughput = 20818.34req/s , episode time = 0.48034567s, overall time = 102.0143011212349s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 171: protocol = zyzzyva , throughput = 20932.95req/s , episode time = 0.4777158s, overall time = 102.49201691150665s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 172: protocol = zyzzyva , throughput = 21153.16req/s , episode time = 0.4727426s, overall time = 102.96475949883461s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 173: protocol = zyzzyva , throughput = 20915.05req/s , episode time = 0.47812453s, overall time = 103.44288402795792s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 174: protocol = zyzzyva , throughput = 21118.27req/s , episode time = 0.4735236s, overall time = 103.91640761494637s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 175: protocol = zyzzyva , throughput = 21027.15req/s , episode time = 0.4755757s, overall time = 104.39198330044746s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 176: protocol = zyzzyva , throughput = 20851.95req/s , episode time = 0.47957137s, overall time = 104.87155467271805s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 177: protocol = zyzzyva , throughput = 20730.85req/s , episode time = 0.48237285s, overall time = 105.35392752289772s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 178: protocol = zyzzyva , throughput = 21154.70req/s , episode time = 0.4727081s, overall time = 105.82663562893867s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 179: protocol = zyzzyva , throughput = 21019.80req/s , episode time = 0.47574183s, overall time = 106.30237746238708s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 180: protocol = zyzzyva , throughput = 20905.71req/s , episode time = 0.47833833s, overall time = 106.7807157933712s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 181: protocol = zyzzyva , throughput = 21124.69req/s , episode time = 0.4733798s, overall time = 107.25409558415413s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 182: protocol = zyzzyva , throughput = 20889.54req/s , episode time = 0.47870842s, overall time = 107.73280400037766s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 183: protocol = zyzzyva , throughput = 20421.01req/s , episode time = 0.48969185s, overall time = 108.22249585390091s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 184: protocol = zyzzyva , throughput = 20344.58req/s , episode time = 0.49153143s, overall time = 108.71402728557587s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 185: protocol = zyzzyva , throughput = 20989.72req/s , episode time = 0.47642368s, overall time = 109.19045096635818s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 186: protocol = zyzzyva , throughput = 20821.39req/s , episode time = 0.48027536s, overall time = 109.67072632908821s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 187: protocol = zyzzyva , throughput = 20672.44req/s , episode time = 0.48373583s, overall time = 110.15446215867996s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 188: protocol = zyzzyva , throughput = 20831.79req/s , episode time = 0.4800356s, overall time = 110.63449776172638s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 189: protocol = zyzzyva , throughput = 20805.44req/s , episode time = 0.48064345s, overall time = 111.11514121294022s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 190: protocol = zyzzyva , throughput = 20786.09req/s , episode time = 0.48109087s, overall time = 111.59623208642006s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 191: protocol = zyzzyva , throughput = 20910.96req/s , episode time = 0.47821805s, overall time = 112.07445013523102s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 192: protocol = zyzzyva , throughput = 20980.89req/s , episode time = 0.47662422s, overall time = 112.55107435584068s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 193: protocol = zyzzyva , throughput = 19856.51req/s , episode time = 0.5036132s, overall time = 113.05468752980232s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 194: protocol = zyzzyva , throughput = 19755.70req/s , episode time = 0.50618315s, overall time = 113.56087067723274s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 195: protocol = zyzzyva , throughput = 20641.19req/s , episode time = 0.48446825s, overall time = 114.0453389286995s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 196: protocol = zyzzyva , throughput = 20536.19req/s , episode time = 0.48694524s, overall time = 114.53228417038918s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 197: protocol = zyzzyva , throughput = 20888.43req/s , episode time = 0.47873396s, overall time = 115.01101812720299s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 198: protocol = zyzzyva , throughput = 20540.71req/s , episode time = 0.48683816s, overall time = 115.49785628914833s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 199: protocol = zyzzyva , throughput = 20754.25req/s , episode time = 0.48182908s, overall time = 115.97968536615372s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 200: protocol = zyzzyva , throughput = 20680.71req/s , episode time = 0.4835424s, overall time = 116.46322777867317s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 201: protocol = zyzzyva , throughput = 20901.76req/s , episode time = 0.47842854s, overall time = 116.94165632128716s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 202: protocol = zyzzyva , throughput = 20873.02req/s , episode time = 0.47908726s, overall time = 117.42074358463287s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 203: protocol = zyzzyva , throughput = 20811.12req/s , episode time = 0.48051226s, overall time = 117.90125584602356s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 204: protocol = zyzzyva , throughput = 20037.44req/s , episode time = 0.49906567s, overall time = 118.40032151341438s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 205: protocol = zyzzyva , throughput = 20426.96req/s , episode time = 0.48954913s, overall time = 118.88987064361572s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 206: protocol = zyzzyva , throughput = 20041.43req/s , episode time = 0.4989664s, overall time = 119.38883703947067s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 207: protocol = zyzzyva , throughput = 20284.83req/s , episode time = 0.49297917s, overall time = 119.88181620836258s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 208: protocol = zyzzyva , throughput = 20947.78req/s , episode time = 0.47737765s, overall time = 120.35919386148453s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 209: protocol = zyzzyva , throughput = 20444.33req/s , episode time = 0.48913327s, overall time = 120.84832713007927s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 210: protocol = zyzzyva , throughput = 19870.11req/s , episode time = 0.50326854s, overall time = 121.35159566998482s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 211: protocol = zyzzyva , throughput = 20672.79req/s , episode time = 0.4837277s, overall time = 121.83532336354256s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 212: protocol = zyzzyva , throughput = 20850.91req/s , episode time = 0.47959527s, overall time = 122.3149186372757s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 213: protocol = zyzzyva , throughput = 20877.14req/s , episode time = 0.47899282s, overall time = 122.79391145706177s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 214: protocol = zyzzyva , throughput = 21123.89req/s , episode time = 0.47339758s, overall time = 123.26730903983116s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 215: protocol = zyzzyva , throughput = 20865.13req/s , episode time = 0.47926864s, overall time = 123.74657768011093s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 216: protocol = zyzzyva , throughput = 21123.67req/s , episode time = 0.4734026s, overall time = 124.21998026967049s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 217: protocol = zyzzyva , throughput = 20848.46req/s , episode time = 0.47965175s, overall time = 124.69963201880455s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 218: protocol = zyzzyva , throughput = 20836.25req/s , episode time = 0.4799328s, overall time = 125.17956483364105s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 219: protocol = zyzzyva , throughput = 20802.84req/s , episode time = 0.48070362s, overall time = 125.66026845574379s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 220: protocol = zyzzyva , throughput = 21023.63req/s , episode time = 0.47565526s, overall time = 126.13592371344566s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 221: protocol = zyzzyva , throughput = 21141.83req/s , episode time = 0.47299585s, overall time = 126.60891956090927s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 222: protocol = zyzzyva , throughput = 20833.90req/s , episode time = 0.47998685s, overall time = 127.08890640735626s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 223: protocol = zyzzyva , throughput = 20999.65req/s , episode time = 0.47619846s, overall time = 127.5651048719883s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 224: protocol = zyzzyva , throughput = 20986.61req/s , episode time = 0.47649437s, overall time = 128.04159924387932s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 225: protocol = zyzzyva , throughput = 21098.10req/s , episode time = 0.47397628s, overall time = 128.51557552814484s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 226: protocol = zyzzyva , throughput = 21087.77req/s , episode time = 0.4742085s, overall time = 128.9897840321064s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 227: protocol = zyzzyva , throughput = 20556.38req/s , episode time = 0.48646706s, overall time = 129.47625109553337s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 228: protocol = zyzzyva , throughput = 21032.21req/s , episode time = 0.47546127s, overall time = 129.95171236991882s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 229: protocol = zyzzyva , throughput = 20903.60req/s , episode time = 0.4783866s, overall time = 130.4300989806652s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 230: protocol = zyzzyva , throughput = 20960.72req/s , episode time = 0.47708288s, overall time = 130.90718185901642s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 231: protocol = zyzzyva , throughput = 20616.14req/s , episode time = 0.4850568s, overall time = 131.39223864674568s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 232: protocol = zyzzyva , throughput = 21192.59req/s , episode time = 0.47186315s, overall time = 131.8641017973423s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 233: protocol = zyzzyva , throughput = 20930.88req/s , episode time = 0.4777629s, overall time = 132.34186470508575s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 234: protocol = zyzzyva , throughput = 20993.61req/s , episode time = 0.4763355s, overall time = 132.81820020079613s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 235: protocol = zyzzyva , throughput = 21083.98req/s , episode time = 0.47429365s, overall time = 133.29249384999275s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 236: protocol = zyzzyva , throughput = 20884.32req/s , episode time = 0.47882804s, overall time = 133.77132189273834s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 237: protocol = zyzzyva , throughput = 21043.85req/s , episode time = 0.47519812s, overall time = 134.2465200126171s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 238: protocol = zyzzyva , throughput = 20897.02req/s , episode time = 0.4785371s, overall time = 134.72505712509155s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 239: protocol = zyzzyva , throughput = 20838.57req/s , episode time = 0.47987935s, overall time = 135.2049364745617s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 240: protocol = zyzzyva , throughput = 20853.56req/s , episode time = 0.47953448s, overall time = 135.68447095155716s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 241: protocol = zyzzyva , throughput = 21127.76req/s , episode time = 0.47331086s, overall time = 136.1577818095684s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 242: protocol = zyzzyva , throughput = 20944.27req/s , episode time = 0.4774575s, overall time = 136.63523930311203s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 243: protocol = zyzzyva , throughput = 21081.21req/s , episode time = 0.4743561s, overall time = 137.10959541797638s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 244: protocol = zyzzyva , throughput = 20749.73req/s , episode time = 0.4819339s, overall time = 137.5915293097496s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 245: protocol = zyzzyva , throughput = 20816.13req/s , episode time = 0.48039663s, overall time = 138.07192593812943s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 246: protocol = zyzzyva , throughput = 21010.33req/s , episode time = 0.47595632s, overall time = 138.54788225889206s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 247: protocol = zyzzyva , throughput = 20985.03req/s , episode time = 0.47653016s, overall time = 139.02441242337227s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 248: protocol = zyzzyva , throughput = 20879.37req/s , episode time = 0.4789417s, overall time = 139.50335413217545s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 249: protocol = zyzzyva , throughput = 21004.25req/s , episode time = 0.47609404s, overall time = 139.97944816946983s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 250: protocol = zyzzyva , throughput = 21093.09req/s , episode time = 0.47408894s, overall time = 140.45353710651398s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 251: protocol = zyzzyva , throughput = 20484.69req/s , episode time = 0.4881695s, overall time = 140.94170659780502s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 252: protocol = zyzzyva , throughput = 20882.68req/s , episode time = 0.47886577s, overall time = 141.42057237029076s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 253: protocol = zyzzyva , throughput = 21044.82req/s , episode time = 0.47517633s, overall time = 141.89574870467186s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 254: protocol = zyzzyva , throughput = 21101.49req/s , episode time = 0.4739003s, overall time = 142.3696489930153s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 255: protocol = zyzzyva , throughput = 20788.44req/s , episode time = 0.48103663s, overall time = 142.8506856262684s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 256: protocol = zyzzyva , throughput = 21036.72req/s , episode time = 0.4753592s, overall time = 143.32604482769966s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 257: protocol = zyzzyva , throughput = 20957.52req/s , episode time = 0.47715577s, overall time = 143.80320060253143s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 258: protocol = zyzzyva , throughput = 20787.86req/s , episode time = 0.4810501s, overall time = 144.28425070643425s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 259: protocol = zyzzyva , throughput = 21171.56req/s , episode time = 0.47233176s, overall time = 144.7565824687481s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 260: protocol = zyzzyva , throughput = 20935.31req/s , episode time = 0.47766182s, overall time = 145.234244287014s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 261: protocol = zyzzyva , throughput = 20961.93req/s , episode time = 0.47705528s, overall time = 145.7112995684147s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 262: protocol = zyzzyva , throughput = 21040.81req/s , episode time = 0.47526693s, overall time = 146.18656650185585s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 263: protocol = zyzzyva , throughput = 20976.46req/s , episode time = 0.47672498s, overall time = 146.6632914841175s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 264: protocol = zyzzyva , throughput = 21004.48req/s , episode time = 0.4760888s, overall time = 147.13938027620316s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 265: protocol = zyzzyva , throughput = 20884.91req/s , episode time = 0.47881466s, overall time = 147.618194937706s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 266: protocol = zyzzyva , throughput = 21209.43req/s , episode time = 0.4714884s, overall time = 148.0896833240986s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 267: protocol = zyzzyva , throughput = 20630.16req/s , episode time = 0.4847272s, overall time = 148.57441052794456s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 268: protocol = zyzzyva , throughput = 21154.45req/s , episode time = 0.4727137s, overall time = 149.04712423682213s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 269: protocol = zyzzyva , throughput = 20944.92req/s , episode time = 0.4774427s, overall time = 149.52456694841385s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 270: protocol = zyzzyva , throughput = 20971.53req/s , episode time = 0.47683692s, overall time = 150.0014038681984s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 271: protocol = zyzzyva , throughput = 20757.41req/s , episode time = 0.48175573s, overall time = 150.48315960168839s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 272: protocol = zyzzyva , throughput = 20877.77req/s , episode time = 0.47897846s, overall time = 150.96213805675507s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 273: protocol = zyzzyva , throughput = 20869.74req/s , episode time = 0.47916272s, overall time = 151.44130077958107s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 274: protocol = zyzzyva , throughput = 19826.79req/s , episode time = 0.50436807s, overall time = 151.9456688463688s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 275: protocol = zyzzyva , throughput = 20885.78req/s , episode time = 0.47879475s, overall time = 152.42446359992027s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 276: protocol = zyzzyva , throughput = 21062.12req/s , episode time = 0.4747861s, overall time = 152.89924970269203s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 277: protocol = zyzzyva , throughput = 20666.79req/s , episode time = 0.48386797s, overall time = 153.38311767578125s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 278: protocol = zyzzyva , throughput = 20987.99req/s , episode time = 0.47646293s, overall time = 153.85958060622215s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 279: protocol = zyzzyva , throughput = 20706.82req/s , episode time = 0.48293263s, overall time = 154.34251323342323s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 280: protocol = zyzzyva , throughput = 21005.63req/s , episode time = 0.47606295s, overall time = 154.81857618689537s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 281: protocol = zyzzyva , throughput = 20848.39req/s , episode time = 0.47965324s, overall time = 155.29822942614555s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 282: protocol = zyzzyva , throughput = 20759.10req/s , episode time = 0.4817164s, overall time = 155.77994582057s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 283: protocol = zyzzyva , throughput = 21031.86req/s , episode time = 0.47546914s, overall time = 156.25541496276855s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 284: protocol = zyzzyva , throughput = 20744.17req/s , episode time = 0.4820632s, overall time = 156.73747816681862s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 285: protocol = zyzzyva , throughput = 21130.29req/s , episode time = 0.47325423s, overall time = 157.21073240041733s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 286: protocol = zyzzyva , throughput = 21016.65req/s , episode time = 0.4758132s, overall time = 157.68654561042786s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 287: protocol = zyzzyva , throughput = 20718.34req/s , episode time = 0.48266417s, overall time = 158.16920977830887s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 288: protocol = zyzzyva , throughput = 21309.21req/s , episode time = 0.46928063s, overall time = 158.63849040865898s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 289: protocol = zyzzyva , throughput = 20913.29req/s , episode time = 0.47816473s, overall time = 159.1166551411152s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 290: protocol = zyzzyva , throughput = 20967.61req/s , episode time = 0.47692606s, overall time = 159.593581199646s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 291: protocol = zyzzyva , throughput = 21005.21req/s , episode time = 0.47607243s, overall time = 160.06965363025665s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 292: protocol = zyzzyva , throughput = 20881.39req/s , episode time = 0.47889534s, overall time = 160.5485489666462s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 293: protocol = zyzzyva , throughput = 21096.83req/s , episode time = 0.47400495s, overall time = 161.02255392074585s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 294: protocol = zyzzyva , throughput = 20985.46req/s , episode time = 0.4765203s, overall time = 161.49907422065735s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 295: protocol = zyzzyva , throughput = 21097.12req/s , episode time = 0.47399837s, overall time = 161.97307258844376s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 296: protocol = zyzzyva , throughput = 21028.67req/s , episode time = 0.47554114s, overall time = 162.4486137330532s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 297: protocol = zyzzyva , throughput = 20859.00req/s , episode time = 0.47940928s, overall time = 162.92802301049232s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 298: protocol = zyzzyva , throughput = 20870.53req/s , episode time = 0.47914463s, overall time = 163.40716764330864s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 299: protocol = zyzzyva , throughput = 20709.49req/s , episode time = 0.48287034s, overall time = 163.89003798365593s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 300: protocol = zyzzyva , throughput = 20819.13req/s , episode time = 0.4803275s, overall time = 164.3703654706478s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 301: protocol = zyzzyva , throughput = 20411.05req/s , episode time = 0.48993063s, overall time = 164.86029610037804s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 302: protocol = zyzzyva , throughput = 21015.45req/s , episode time = 0.4758404s, overall time = 165.33613649010658s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 303: protocol = zyzzyva , throughput = 20435.45req/s , episode time = 0.48934582s, overall time = 165.8254823088646s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 304: protocol = zyzzyva , throughput = 21061.97req/s , episode time = 0.47478938s, overall time = 166.30027168989182s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 305: protocol = zyzzyva , throughput = 20448.00req/s , episode time = 0.4890454s, overall time = 166.78931710124016s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 306: protocol = zyzzyva , throughput = 21041.35req/s , episode time = 0.47525474s, overall time = 167.26457184553146s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 307: protocol = zyzzyva , throughput = 20581.58req/s , episode time = 0.4858713s, overall time = 167.75044313073158s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 308: protocol = zyzzyva , throughput = 20975.47req/s , episode time = 0.47674745s, overall time = 168.22719058394432s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 309: protocol = zyzzyva , throughput = 20410.56req/s , episode time = 0.48994252s, overall time = 168.71713310480118s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 310: protocol = zyzzyva , throughput = 21093.54req/s , episode time = 0.4740789s, overall time = 169.19121199846268s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 311: protocol = zyzzyva , throughput = 20446.63req/s , episode time = 0.48907802s, overall time = 169.6802900135517s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 312: protocol = zyzzyva , throughput = 20935.32req/s , episode time = 0.47766164s, overall time = 170.1579516530037s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 313: protocol = zyzzyva , throughput = 19977.16req/s , episode time = 0.50057167s, overall time = 170.65852332115173s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 314: protocol = zyzzyva , throughput = 16722.31req/s , episode time = 0.59800345s, overall time = 171.25652676820755s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 315: protocol = zyzzyva , throughput = 17031.22req/s , episode time = 0.58715695s, overall time = 171.843683719635s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 316: protocol = zyzzyva , throughput = 19196.52req/s , episode time = 0.52092767s, overall time = 172.3646113872528s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 317: protocol = zyzzyva , throughput = 18853.19req/s , episode time = 0.53041434s, overall time = 172.89502573013306s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 318: protocol = zyzzyva , throughput = 18730.13req/s , episode time = 0.53389907s, overall time = 173.42892479896545s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 319: protocol = zyzzyva , throughput = 19519.90req/s , episode time = 0.5122978s, overall time = 173.94122260808945s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 320: protocol = zyzzyva , throughput = 20433.05req/s , episode time = 0.48940307s, overall time = 174.43062567710876s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 321: protocol = zyzzyva , throughput = 19902.61req/s , episode time = 0.5024468s, overall time = 174.9330724477768s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 322: protocol = zyzzyva , throughput = 20509.47req/s , episode time = 0.48757967s, overall time = 175.42065212130547s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 323: protocol = zyzzyva , throughput = 20076.69req/s , episode time = 0.49809018s, overall time = 175.9187422990799s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 324: protocol = zyzzyva , throughput = 20510.76req/s , episode time = 0.48754892s, overall time = 176.40629121661186s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 325: protocol = zyzzyva , throughput = 20142.40req/s , episode time = 0.49646512s, overall time = 176.90275633335114s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 326: protocol = zyzzyva , throughput = 20721.12req/s , episode time = 0.4825995s, overall time = 177.38535583019257s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 327: protocol = zyzzyva , throughput = 19598.42req/s , episode time = 0.51024514s, overall time = 177.89560097455978s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 328: protocol = zyzzyva , throughput = 21130.99req/s , episode time = 0.4732386s, overall time = 178.36883956193924s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 329: protocol = zyzzyva , throughput = 19988.27req/s , episode time = 0.5002935s, overall time = 178.8691330552101s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 330: protocol = zyzzyva , throughput = 21092.03req/s , episode time = 0.47411284s, overall time = 179.3432458937168s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 331: protocol = zyzzyva , throughput = 19723.86req/s , episode time = 0.50700015s, overall time = 179.85024604201317s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 332: protocol = zyzzyva , throughput = 19440.98req/s , episode time = 0.51437736s, overall time = 180.36462339758873s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 333: protocol = zyzzyva , throughput = 19809.99req/s , episode time = 0.50479573s, overall time = 180.8694191277027s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 334: protocol = zyzzyva , throughput = 20665.92req/s , episode time = 0.48388845s, overall time = 181.3533075749874s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 335: protocol = zyzzyva , throughput = 19751.37req/s , episode time = 0.5062939s, overall time = 181.85960146784782s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 336: protocol = zyzzyva , throughput = 20567.76req/s , episode time = 0.4861978s, overall time = 182.34579926729202s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 337: protocol = zyzzyva , throughput = 20068.07req/s , episode time = 0.49830398s, overall time = 182.84410324692726s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 338: protocol = zyzzyva , throughput = 20401.61req/s , episode time = 0.4901574s, overall time = 183.33426064252853s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 339: protocol = zyzzyva , throughput = 19457.56req/s , episode time = 0.51393914s, overall time = 183.8481997847557s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 340: protocol = zyzzyva , throughput = 20419.45req/s , episode time = 0.48972908s, overall time = 184.33792886137962s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 341: protocol = zyzzyva , throughput = 19883.26req/s , episode time = 0.5029356s, overall time = 184.84086444973946s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 342: protocol = zyzzyva , throughput = 20204.96req/s , episode time = 0.49492797s, overall time = 185.33579242229462s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 343: protocol = zyzzyva , throughput = 19634.55req/s , episode time = 0.5093063s, overall time = 185.84509873390198s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 344: protocol = zyzzyva , throughput = 20277.34req/s , episode time = 0.49316135s, overall time = 186.33826008439064s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 345: protocol = zyzzyva , throughput = 19808.85req/s , episode time = 0.5048248s, overall time = 186.84308490157127s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 346: protocol = zyzzyva , throughput = 19544.96req/s , episode time = 0.5116407s, overall time = 187.35472562909126s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 347: protocol = zyzzyva , throughput = 18934.41req/s , episode time = 0.5281389s, overall time = 187.88286450505257s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 348: protocol = zyzzyva , throughput = 20178.51req/s , episode time = 0.49557668s, overall time = 188.37844118475914s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 349: protocol = zyzzyva , throughput = 18547.83req/s , episode time = 0.53914666s, overall time = 188.91758784651756s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 350: protocol = zyzzyva , throughput = 20205.08req/s , episode time = 0.49492496s, overall time = 189.41251280903816s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 351: protocol = zyzzyva , throughput = 19099.73req/s , episode time = 0.5235676s, overall time = 189.9360804259777s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 352: protocol = zyzzyva , throughput = 19580.05req/s , episode time = 0.5107238s, overall time = 190.44680425524712s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 353: protocol = zyzzyva , throughput = 20441.75req/s , episode time = 0.48919484s, overall time = 190.9359990954399s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 354: protocol = zyzzyva , throughput = 19147.94req/s , episode time = 0.5222494s, overall time = 191.4582484960556s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 355: protocol = zyzzyva , throughput = 19921.71req/s , episode time = 0.5019648s, overall time = 191.96021330356598s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 356: protocol = zyzzyva , throughput = 18866.03req/s , episode time = 0.53005326s, overall time = 192.49026656150818s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 357: protocol = zyzzyva , throughput = 20115.48req/s , episode time = 0.49712968s, overall time = 192.98739624023438s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 358: protocol = zyzzyva , throughput = 19118.52req/s , episode time = 0.52305293s, overall time = 193.51044917106628s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 359: protocol = zyzzyva , throughput = 19177.04req/s , episode time = 0.5214568s, overall time = 194.03190594911575s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 360: protocol = zyzzyva , throughput = 20073.13req/s , episode time = 0.49817836s, overall time = 194.53008431196213s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 361: protocol = zyzzyva , throughput = 19204.24req/s , episode time = 0.5207182s, overall time = 195.05080252885818s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 362: protocol = zyzzyva , throughput = 19837.42req/s , episode time = 0.5040977s, overall time = 195.5549002289772s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 363: protocol = zyzzyva , throughput = 19882.75req/s , episode time = 0.5029485s, overall time = 196.05784875154495s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 364: protocol = zyzzyva , throughput = 18716.40req/s , episode time = 0.53429073s, overall time = 196.59213948249817s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 365: protocol = zyzzyva , throughput = 20131.33req/s , episode time = 0.4967382s, overall time = 197.08887767791748s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 366: protocol = zyzzyva , throughput = 19322.49req/s , episode time = 0.5175317s, overall time = 197.6064093708992s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 367: protocol = zyzzyva , throughput = 19285.08req/s , episode time = 0.5185357s, overall time = 198.12494504451752s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 368: protocol = zyzzyva , throughput = 19177.47req/s , episode time = 0.5214451s, overall time = 198.6463901400566s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 369: protocol = zyzzyva , throughput = 20719.35req/s , episode time = 0.48264056s, overall time = 199.1290307044983s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 370: protocol = zyzzyva , throughput = 19224.28req/s , episode time = 0.52017546s, overall time = 199.64920616149902s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 371: protocol = zyzzyva , throughput = 19554.76req/s , episode time = 0.51138455s, overall time = 200.16059070825577s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 372: protocol = zyzzyva , throughput = 19119.18req/s , episode time = 0.52303493s, overall time = 200.68362563848495s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 373: protocol = zyzzyva , throughput = 20415.82req/s , episode time = 0.48981616s, overall time = 201.1734417974949s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 374: protocol = zyzzyva , throughput = 18994.20req/s , episode time = 0.52647656s, overall time = 201.69991835951805s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 375: protocol = zyzzyva , throughput = 20524.31req/s , episode time = 0.48722705s, overall time = 202.18714541196823s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 376: protocol = zyzzyva , throughput = 18984.71req/s , episode time = 0.52673966s, overall time = 202.71388506889343s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 377: protocol = zyzzyva , throughput = 19700.11req/s , episode time = 0.50761145s, overall time = 203.2214965224266s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 378: protocol = zyzzyva , throughput = 18684.69req/s , episode time = 0.5351975s, overall time = 203.7566940188408s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 379: protocol = zyzzyva , throughput = 20518.52req/s , episode time = 0.4873645s, overall time = 204.24405851960182s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 380: protocol = zyzzyva , throughput = 19132.65req/s , episode time = 0.5226669s, overall time = 204.76672539114952s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 381: protocol = zyzzyva , throughput = 19713.00req/s , episode time = 0.5072796s, overall time = 205.27400496602058s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 382: protocol = zyzzyva , throughput = 19113.13req/s , episode time = 0.52320045s, overall time = 205.7972054183483s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 383: protocol = zyzzyva , throughput = 20580.80req/s , episode time = 0.4858898s, overall time = 206.28309521079063s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 384: protocol = zyzzyva , throughput = 19709.05req/s , episode time = 0.50738114s, overall time = 206.7904763519764s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 385: protocol = zyzzyva , throughput = 19610.67req/s , episode time = 0.5099265s, overall time = 207.30040284991264s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 386: protocol = zyzzyva , throughput = 19675.08req/s , episode time = 0.5082571s, overall time = 207.80865994095802s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 387: protocol = zyzzyva , throughput = 19776.41req/s , episode time = 0.50565284s, overall time = 208.31431278586388s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 388: protocol = zyzzyva , throughput = 19439.23req/s , episode time = 0.5144236s, overall time = 208.82873639464378s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 389: protocol = zyzzyva , throughput = 18743.85req/s , episode time = 0.5335083s, overall time = 209.36224469542503s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 390: protocol = zyzzyva , throughput = 19832.68req/s , episode time = 0.5042182s, overall time = 209.8664629161358s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 391: protocol = zyzzyva , throughput = 20456.63req/s , episode time = 0.48883903s, overall time = 210.3553019464016s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 392: protocol = zyzzyva , throughput = 19835.37req/s , episode time = 0.50415003s, overall time = 210.85945197939873s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 393: protocol = zyzzyva , throughput = 19829.88req/s , episode time = 0.5042894s, overall time = 211.36374136805534s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 394: protocol = zyzzyva , throughput = 19631.31req/s , episode time = 0.50939035s, overall time = 211.87313172221184s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 395: protocol = zyzzyva , throughput = 19992.56req/s , episode time = 0.5001861s, overall time = 212.37331780791283s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 396: protocol = zyzzyva , throughput = 20135.66req/s , episode time = 0.49663132s, overall time = 212.86994913220406s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 397: protocol = zyzzyva , throughput = 19821.47req/s , episode time = 0.5045033s, overall time = 213.37445244193077s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 398: protocol = zyzzyva , throughput = 19735.81req/s , episode time = 0.5066931s, overall time = 213.8811455667019s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 399: protocol = zyzzyva , throughput = 19968.01req/s , episode time = 0.50080115s, overall time = 214.38194671273232s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 400: protocol = zyzzyva , throughput = 19817.52req/s , episode time = 0.504604s, overall time = 214.88655069470406s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 401: protocol = zyzzyva , throughput = 19930.49req/s , episode time = 0.50174373s, overall time = 215.38829442858696s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 402: protocol = zyzzyva , throughput = 19527.99req/s , episode time = 0.51208556s, overall time = 215.9003799855709s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 403: protocol = zyzzyva , throughput = 19947.12req/s , episode time = 0.50132555s, overall time = 216.40170553326607s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 404: protocol = zyzzyva , throughput = 19571.26req/s , episode time = 0.51095325s, overall time = 216.91265878081322s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 405: protocol = zyzzyva , throughput = 20163.32req/s , episode time = 0.4959501s, overall time = 217.4086088836193s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 406: protocol = zyzzyva , throughput = 19480.90req/s , episode time = 0.5133233s, overall time = 217.92193219065666s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 407: protocol = zyzzyva , throughput = 19363.80req/s , episode time = 0.5164276s, overall time = 218.43835976719856s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 408: protocol = zyzzyva , throughput = 20056.16req/s , episode time = 0.49859983s, overall time = 218.93695959448814s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 409: protocol = zyzzyva , throughput = 19486.97req/s , episode time = 0.5131633s, overall time = 219.45012292265892s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 410: protocol = zyzzyva , throughput = 20020.19req/s , episode time = 0.4994959s, overall time = 219.94961881637573s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 411: protocol = zyzzyva , throughput = 20120.64req/s , episode time = 0.49700212s, overall time = 220.4466209411621s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 412: protocol = zyzzyva , throughput = 19264.78req/s , episode time = 0.51908207s, overall time = 220.96570301055908s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 413: protocol = zyzzyva , throughput = 18766.13req/s , episode time = 0.53287494s, overall time = 221.49857795238495s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 414: protocol = zyzzyva , throughput = 19656.71req/s , episode time = 0.50873226s, overall time = 222.00731021165848s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 415: protocol = zyzzyva , throughput = 18510.02req/s , episode time = 0.54024804s, overall time = 222.54755824804306s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 416: protocol = zyzzyva , throughput = 19026.96req/s , episode time = 0.5255699s, overall time = 223.07312816381454s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 417: protocol = zyzzyva , throughput = 20407.65req/s , episode time = 0.49001223s, overall time = 223.56314039230347s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 418: protocol = zyzzyva , throughput = 19557.72req/s , episode time = 0.51130694s, overall time = 224.0744473338127s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 419: protocol = zyzzyva , throughput = 18865.76req/s , episode time = 0.5300608s, overall time = 224.6045081615448s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 420: protocol = zyzzyva , throughput = 19511.45req/s , episode time = 0.5125197s, overall time = 225.1170278787613s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 421: protocol = zyzzyva , throughput = 19908.37req/s , episode time = 0.5023014s, overall time = 225.6193292737007s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 422: protocol = zyzzyva , throughput = 18747.61req/s , episode time = 0.53340137s, overall time = 226.15273064374924s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 423: protocol = zyzzyva , throughput = 19591.81req/s , episode time = 0.51041746s, overall time = 226.6631481051445s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 424: protocol = zyzzyva , throughput = 18339.53req/s , episode time = 0.5452702s, overall time = 227.20841830968857s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 425: protocol = zyzzyva , throughput = 19887.02req/s , episode time = 0.5028406s, overall time = 227.71125888824463s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 426: protocol = zyzzyva , throughput = 18137.67req/s , episode time = 0.55133885s, overall time = 228.2625977396965s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 427: protocol = zyzzyva , throughput = 19596.60req/s , episode time = 0.51029265s, overall time = 228.7728903889656s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 428: protocol = zyzzyva , throughput = 18935.54req/s , episode time = 0.5281075s, overall time = 229.30099791288376s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 429: protocol = zyzzyva , throughput = 19827.69req/s , episode time = 0.5043451s, overall time = 229.80534303188324s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 430: protocol = zyzzyva , throughput = 18265.78req/s , episode time = 0.54747194s, overall time = 230.35281497240067s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 431: protocol = zyzzyva , throughput = 19659.31req/s , episode time = 0.50866485s, overall time = 230.86147981882095s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 432: protocol = zyzzyva , throughput = 18796.60req/s , episode time = 0.53201103s, overall time = 231.39349085092545s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 433: protocol = zyzzyva , throughput = 19095.64req/s , episode time = 0.5236798s, overall time = 231.91717064380646s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 434: protocol = zyzzyva , throughput = 19329.90req/s , episode time = 0.51733327s, overall time = 232.43450391292572s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 435: protocol = zyzzyva , throughput = 19065.21req/s , episode time = 0.5245157s, overall time = 232.95901960134506s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 436: protocol = zyzzyva , throughput = 17767.19req/s , episode time = 0.5628352s, overall time = 233.52185481786728s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 437: protocol = zyzzyva , throughput = 18968.98req/s , episode time = 0.5271764s, overall time = 234.04903119802475s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 438: protocol = zyzzyva , throughput = 17752.41req/s , episode time = 0.56330395s, overall time = 234.61233514547348s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 439: protocol = zyzzyva , throughput = 19588.16req/s , episode time = 0.51051253s, overall time = 235.12284767627716s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 440: protocol = zyzzyva , throughput = 19059.00req/s , episode time = 0.52468646s, overall time = 235.64753413200378s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 441: protocol = zyzzyva , throughput = 20045.37req/s , episode time = 0.49886823s, overall time = 236.1464023590088s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 442: protocol = zyzzyva , throughput = 19083.37req/s , episode time = 0.5240165s, overall time = 236.67041885852814s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 443: protocol = zyzzyva , throughput = 19590.90req/s , episode time = 0.5104411s, overall time = 237.18085998296738s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 444: protocol = zyzzyva , throughput = 18830.54req/s , episode time = 0.53105223s, overall time = 237.711912214756s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 445: protocol = zyzzyva , throughput = 19388.22req/s , episode time = 0.51577705s, overall time = 238.22768926620483s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 446: protocol = zyzzyva , throughput = 17789.50req/s , episode time = 0.5621293s, overall time = 238.78981858491898s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 447: protocol = zyzzyva , throughput = 18713.37req/s , episode time = 0.5343772s, overall time = 239.32419580221176s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 448: protocol = zyzzyva , throughput = 18650.92req/s , episode time = 0.5361666s, overall time = 239.86036241054535s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 449: protocol = zyzzyva , throughput = 19811.96req/s , episode time = 0.5047456s, overall time = 240.36510801315308s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 450: protocol = zyzzyva , throughput = 18368.68req/s , episode time = 0.54440504s, overall time = 240.90951305627823s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 451: protocol = zyzzyva , throughput = 19291.76req/s , episode time = 0.5183561s, overall time = 241.42786914110184s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 452: protocol = zyzzyva , throughput = 19368.24req/s , episode time = 0.5163091s, overall time = 241.94417822360992s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 453: protocol = zyzzyva , throughput = 19222.97req/s , episode time = 0.5202109s, overall time = 242.4643891453743s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 454: protocol = zyzzyva , throughput = 18696.12req/s , episode time = 0.53487045s, overall time = 242.9992595911026s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 455: protocol = zyzzyva , throughput = 19392.15req/s , episode time = 0.5156726s, overall time = 243.51493221521378s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 456: protocol = zyzzyva , throughput = 19621.10req/s , episode time = 0.5096555s, overall time = 244.02458769083023s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 457: protocol = zyzzyva , throughput = 19155.68req/s , episode time = 0.5220383s, overall time = 244.54662597179413s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 458: protocol = zyzzyva , throughput = 19247.67req/s , episode time = 0.51954347s, overall time = 245.0661694407463s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 459: protocol = zyzzyva , throughput = 19542.73req/s , episode time = 0.51169914s, overall time = 245.57786858081818s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 460: protocol = zyzzyva , throughput = 19473.43req/s , episode time = 0.5135203s, overall time = 246.0913888812065s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 461: protocol = zyzzyva , throughput = 19144.58req/s , episode time = 0.52234113s, overall time = 246.6137300133705s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 462: protocol = zyzzyva , throughput = 18791.08req/s , episode time = 0.5321673s, overall time = 247.1458973288536s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 463: protocol = zyzzyva , throughput = 19805.85req/s , episode time = 0.50490135s, overall time = 247.65079867839813s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 464: protocol = zyzzyva , throughput = 19103.88req/s , episode time = 0.5234538s, overall time = 248.17425245046616s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 465: protocol = zyzzyva , throughput = 20059.96req/s , episode time = 0.49850535s, overall time = 248.67275780439377s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 466: protocol = zyzzyva , throughput = 18852.15req/s , episode time = 0.5304434s, overall time = 249.20320117473602s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 467: protocol = zyzzyva , throughput = 20304.60req/s , episode time = 0.49249917s, overall time = 249.69570034742355s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 468: protocol = zyzzyva , throughput = 18017.16req/s , episode time = 0.5550265s, overall time = 250.2507268190384s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 469: protocol = zyzzyva , throughput = 19575.25req/s , episode time = 0.51084906s, overall time = 250.76157587766647s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 470: protocol = zyzzyva , throughput = 18231.38req/s , episode time = 0.548505s, overall time = 251.31008088588715s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 471: protocol = zyzzyva , throughput = 19183.11req/s , episode time = 0.5212918s, overall time = 251.83137267827988s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 472: protocol = zyzzyva , throughput = 19351.12req/s , episode time = 0.5167659s, overall time = 252.34813857078552s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 473: protocol = zyzzyva , throughput = 19425.34req/s , episode time = 0.5147915s, overall time = 252.86293005943298s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 474: protocol = zyzzyva , throughput = 19291.54req/s , episode time = 0.5183618s, overall time = 253.3812918663025s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 475: protocol = zyzzyva , throughput = 19520.01req/s , episode time = 0.51229477s, overall time = 253.8935866355896s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 476: protocol = zyzzyva , throughput = 19082.58req/s , episode time = 0.5240382s, overall time = 254.41762483119965s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 477: protocol = zyzzyva , throughput = 19081.90req/s , episode time = 0.52405685s, overall time = 254.9416816830635s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 478: protocol = zyzzyva , throughput = 18378.36req/s , episode time = 0.54411817s, overall time = 255.48579984903336s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 479: protocol = zyzzyva , throughput = 19358.23req/s , episode time = 0.5165762s, overall time = 256.0023760199547s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 480: protocol = zyzzyva , throughput = 18711.16req/s , episode time = 0.5344404s, overall time = 256.53681641817093s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 481: protocol = zyzzyva , throughput = 19334.70req/s , episode time = 0.51720476s, overall time = 257.05402117967606s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 482: protocol = zyzzyva , throughput = 18371.20req/s , episode time = 0.5443303s, overall time = 257.59835147857666s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 483: protocol = zyzzyva , throughput = 18153.43req/s , episode time = 0.55086s, overall time = 258.1492114663124s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 484: protocol = zyzzyva , throughput = 18861.21req/s , episode time = 0.53018856s, overall time = 258.67940002679825s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 485: protocol = zyzzyva , throughput = 18649.99req/s , episode time = 0.5361932s, overall time = 259.2155932188034s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 486: protocol = zyzzyva , throughput = 17326.35req/s , episode time = 0.5771555s, overall time = 259.7927486896515s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 487: protocol = zyzzyva , throughput = 19080.60req/s , episode time = 0.5240925s, overall time = 260.3168411850929s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 488: protocol = zyzzyva , throughput = 19230.14req/s , episode time = 0.520017s, overall time = 260.83685821294785s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 489: protocol = zyzzyva , throughput = 19160.87req/s , episode time = 0.52189696s, overall time = 261.358755171299s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 490: protocol = zyzzyva , throughput = 18656.80req/s , episode time = 0.5359977s, overall time = 261.8947528600693s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 491: protocol = zyzzyva , throughput = 19497.25req/s , episode time = 0.5128929s, overall time = 262.4076457619667s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 492: protocol = zyzzyva , throughput = 18334.24req/s , episode time = 0.5454275s, overall time = 262.95307326316833s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 493: protocol = zyzzyva , throughput = 18959.50req/s , episode time = 0.52743995s, overall time = 263.480513215065s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 494: protocol = zyzzyva , throughput = 19462.73req/s , episode time = 0.5138026s, overall time = 263.994315803051s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 495: protocol = zyzzyva , throughput = 19063.40req/s , episode time = 0.52456546s, overall time = 264.5188812613487s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 496: protocol = zyzzyva , throughput = 18469.98req/s , episode time = 0.541419s, overall time = 265.06030029058456s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 497: protocol = zyzzyva , throughput = 19319.93req/s , episode time = 0.5176001s, overall time = 265.5779004096985s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 498: protocol = zyzzyva , throughput = 18809.22req/s , episode time = 0.53165406s, overall time = 266.1095544695854s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 499: protocol = zyzzyva , throughput = 19007.71req/s , episode time = 0.5261023s, overall time = 266.63565677404404s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 500: protocol = zyzzyva , throughput = 19121.80req/s , episode time = 0.5229632s, overall time = 267.15861999988556s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 501: protocol = zyzzyva , throughput = 19534.42req/s , episode time = 0.5119169s, overall time = 267.6705368757248s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 502: protocol = zyzzyva , throughput = 18051.03req/s , episode time = 0.553985s, overall time = 268.22452187538147s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 503: protocol = zyzzyva , throughput = 18256.64req/s , episode time = 0.54774576s, overall time = 268.772267639637s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 504: protocol = zyzzyva , throughput = 19226.06req/s , episode time = 0.52012736s, overall time = 269.2923949956894s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 505: protocol = zyzzyva , throughput = 18321.00req/s , episode time = 0.54582185s, overall time = 269.83821684122086s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 506: protocol = zyzzyva , throughput = 18826.61req/s , episode time = 0.53116316s, overall time = 270.3693799972534s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 507: protocol = zyzzyva , throughput = 19255.05req/s , episode time = 0.5193443s, overall time = 270.88872426748276s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 508: protocol = zyzzyva , throughput = 18997.72req/s , episode time = 0.5263788s, overall time = 271.4151030778885s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 509: protocol = zyzzyva , throughput = 18535.17req/s , episode time = 0.5395148s, overall time = 271.95461785793304s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 510: protocol = zyzzyva , throughput = 18395.40req/s , episode time = 0.54361415s, overall time = 272.4982320070267s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 511: protocol = zyzzyva , throughput = 19598.59req/s , episode time = 0.51024073s, overall time = 273.0084727406502s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 512: protocol = zyzzyva , throughput = 18188.94req/s , episode time = 0.5497848s, overall time = 273.5582575201988s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 513: protocol = zyzzyva , throughput = 18461.69req/s , episode time = 0.5416622s, overall time = 274.09991973638535s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 514: protocol = zyzzyva , throughput = 17825.38req/s , episode time = 0.5609977s, overall time = 274.6609174609184s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 515: protocol = zyzzyva , throughput = 20572.41req/s , episode time = 0.486088s, overall time = 275.14700546860695s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 516: protocol = zyzzyva , throughput = 17897.36req/s , episode time = 0.5587417s, overall time = 275.7057471573353s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 517: protocol = zyzzyva , throughput = 17815.72req/s , episode time = 0.561302s, overall time = 276.26704916357994s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 518: protocol = zyzzyva , throughput = 18743.53req/s , episode time = 0.53351736s, overall time = 276.8005665242672s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 519: protocol = zyzzyva , throughput = 19347.18req/s , episode time = 0.5168711s, overall time = 277.31743761897087s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 520: protocol = zyzzyva , throughput = 17929.60req/s , episode time = 0.55773693s, overall time = 277.8751745522022s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 521: protocol = zyzzyva , throughput = 18412.25req/s , episode time = 0.5431168s, overall time = 278.41829136013985s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 522: protocol = zyzzyva , throughput = 19047.17req/s , episode time = 0.5250124s, overall time = 278.9433037340641s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 523: protocol = zyzzyva , throughput = 19184.14req/s , episode time = 0.5212639s, overall time = 279.4645676314831s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 524: protocol = zyzzyva , throughput = 18452.60req/s , episode time = 0.5419291s, overall time = 280.0064967572689s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 525: protocol = zyzzyva , throughput = 18348.02req/s , episode time = 0.5450181s, overall time = 280.5515148341656s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 526: protocol = zyzzyva , throughput = 20281.37req/s , episode time = 0.49306345s, overall time = 281.0445782840252s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 527: protocol = zyzzyva , throughput = 18443.25req/s , episode time = 0.54220384s, overall time = 281.5867821276188s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 528: protocol = zyzzyva , throughput = 19331.32req/s , episode time = 0.5172951s, overall time = 282.1040772497654s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 529: protocol = zyzzyva , throughput = 18547.18req/s , episode time = 0.5391656s, overall time = 282.64324286580086s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 530: protocol = zyzzyva , throughput = 19057.62req/s , episode time = 0.5247246s, overall time = 283.16796746850014s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 531: protocol = zyzzyva , throughput = 18705.74req/s , episode time = 0.5345953s, overall time = 283.70256277918816s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 532: protocol = zyzzyva , throughput = 18864.50req/s , episode time = 0.5300963s, overall time = 284.2326590716839s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 533: protocol = zyzzyva , throughput = 19937.15req/s , episode time = 0.50157624s, overall time = 284.73423531651497s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 534: protocol = zyzzyva , throughput = 18036.93req/s , episode time = 0.55441797s, overall time = 285.2886532843113s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 535: protocol = zyzzyva , throughput = 18154.38req/s , episode time = 0.5508314s, overall time = 285.83948466181755s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 536: protocol = zyzzyva , throughput = 19020.34req/s , episode time = 0.5257531s, overall time = 286.36523774266243s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 537: protocol = zyzzyva , throughput = 19212.93req/s , episode time = 0.52048296s, overall time = 286.88572070002556s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 538: protocol = zyzzyva , throughput = 18872.70req/s , episode time = 0.5298658s, overall time = 287.41558650135994s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 539: protocol = zyzzyva , throughput = 18072.98req/s , episode time = 0.5533123s, overall time = 287.9688988029957s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 540: protocol = zyzzyva , throughput = 20122.74req/s , episode time = 0.49695012s, overall time = 288.4658489227295s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 541: protocol = zyzzyva , throughput = 19343.42req/s , episode time = 0.5169717s, overall time = 288.98282063007355s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 542: protocol = zyzzyva , throughput = 18435.25req/s , episode time = 0.54243916s, overall time = 289.5252597928047s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 543: protocol = zyzzyva , throughput = 18915.80req/s , episode time = 0.5286586s, overall time = 290.05391842126846s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 544: protocol = zyzzyva , throughput = 19627.75req/s , episode time = 0.50948274s, overall time = 290.56340116262436s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 545: protocol = zyzzyva , throughput = 18154.51req/s , episode time = 0.55082744s, overall time = 291.11422860622406s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 546: protocol = zyzzyva , throughput = 17725.08req/s , episode time = 0.56417227s, overall time = 291.6784008741379s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 547: protocol = zyzzyva , throughput = 20627.59req/s , episode time = 0.4847876s, overall time = 292.16318848729134s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 548: protocol = zyzzyva , throughput = 18653.09req/s , episode time = 0.53610426s, overall time = 292.6992927491665s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 549: protocol = zyzzyva , throughput = 17193.13req/s , episode time = 0.58162767s, overall time = 293.2809204161167s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 550: protocol = zyzzyva , throughput = 19676.67req/s , episode time = 0.508216s, overall time = 293.78913643956184s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 551: protocol = zyzzyva , throughput = 18472.08req/s , episode time = 0.5413576s, overall time = 294.3304940164089s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 552: protocol = zyzzyva , throughput = 18000.83req/s , episode time = 0.55552983s, overall time = 294.8860238492489s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 553: protocol = zyzzyva , throughput = 19439.25req/s , episode time = 0.514423s, overall time = 295.40044686198235s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 554: protocol = zyzzyva , throughput = 19679.69req/s , episode time = 0.5081382s, overall time = 295.9085850417614s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 555: protocol = zyzzyva , throughput = 18577.58req/s , episode time = 0.5382831s, overall time = 296.4468681514263s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 556: protocol = zyzzyva , throughput = 19049.01req/s , episode time = 0.52496177s, overall time = 296.97182992100716s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 557: protocol = zyzzyva , throughput = 20677.90req/s , episode time = 0.48360813s, overall time = 297.4554380476475s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 558: protocol = zyzzyva , throughput = 17104.88req/s , episode time = 0.58462834s, overall time = 298.04006639122963s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 559: protocol = zyzzyva , throughput = 19553.15req/s , episode time = 0.51142645s, overall time = 298.55149284005165s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 560: protocol = zyzzyva , throughput = 20027.19req/s , episode time = 0.49932116s, overall time = 299.0508140027523s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 561: protocol = zyzzyva , throughput = 18583.26req/s , episode time = 0.5381187s, overall time = 299.58893272280693s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 562: protocol = zyzzyva , throughput = 18810.86req/s , episode time = 0.53160775s, overall time = 300.1205404698849s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 563: protocol = zyzzyva , throughput = 18453.39req/s , episode time = 0.54190594s, overall time = 300.6624464094639s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 564: protocol = zyzzyva , throughput = 19325.34req/s , episode time = 0.51745534s, overall time = 301.17990174889565s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 565: protocol = zyzzyva , throughput = 19278.33req/s , episode time = 0.5187172s, overall time = 301.69861897826195s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 566: protocol = zyzzyva , throughput = 19770.06req/s , episode time = 0.5058154s, overall time = 302.2044343650341s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 567: protocol = zyzzyva , throughput = 18100.80req/s , episode time = 0.55246186s, overall time = 302.7568962275982s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 568: protocol = zyzzyva , throughput = 17824.61req/s , episode time = 0.56102204s, overall time = 303.31791827082634s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 569: protocol = zyzzyva , throughput = 19990.13req/s , episode time = 0.50024676s, overall time = 303.8181650340557s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 570: protocol = zyzzyva , throughput = 18330.75req/s , episode time = 0.5455315s, overall time = 304.3636965453625s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 571: protocol = zyzzyva , throughput = 18051.81req/s , episode time = 0.5539609s, overall time = 304.91765746474266s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 572: protocol = zyzzyva , throughput = 19958.80req/s , episode time = 0.5010322s, overall time = 305.41868963837624s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 573: protocol = zyzzyva , throughput = 18641.72req/s , episode time = 0.5364311s, overall time = 305.9551207125187s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 574: protocol = zyzzyva , throughput = 17548.63req/s , episode time = 0.5698452s, overall time = 306.52496591210365s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 575: protocol = zyzzyva , throughput = 9926.67req/s , episode time = 1.0073876s, overall time = 307.5323535501957s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 576: protocol = zyzzyva , throughput = 16413.43req/s , episode time = 0.60925734s, overall time = 308.1416108906269s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 577: protocol = zyzzyva , throughput = 16947.75req/s , episode time = 0.59004897s, overall time = 308.73165985941887s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 578: protocol = zyzzyva , throughput = 17278.99req/s , episode time = 0.5787376s, overall time = 309.31039747595787s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 579: protocol = zyzzyva , throughput = 16533.21req/s , episode time = 0.6048434s, overall time = 309.9152408540249s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 580: protocol = zyzzyva , throughput = 13655.18req/s , episode time = 0.73232293s, overall time = 310.64756378531456s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 581: protocol = zyzzyva , throughput = 14711.02req/s , episode time = 0.67976254s, overall time = 311.32732632756233s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 582: protocol = zyzzyva , throughput = 16146.26req/s , episode time = 0.6193386s, overall time = 311.94666489958763s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 583: protocol = zyzzyva , throughput = 12457.49req/s , episode time = 0.8027298s, overall time = 312.74939468503s
+{1} nextProtocol = cheapbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 584: protocol = cheapbft , throughput = 10915.40req/s , episode time = 0.9161366s, overall time = 313.6655313074589s
+{1} nextProtocol = cheapbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 585: protocol = cheapbft , throughput = 11112.18req/s , episode time = 0.8999135s, overall time = 314.56544479727745s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 586: protocol = zyzzyva , throughput = 17812.06req/s , episode time = 0.56141746s, overall time = 315.12686225771904s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 587: protocol = zyzzyva , throughput = 11587.07req/s , episode time = 0.86303073s, overall time = 315.98989298939705s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 588: protocol = zyzzyva , throughput = 14788.49req/s , episode time = 0.6762016s, overall time = 316.666094571352s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 589: protocol = zyzzyva , throughput = 18220.75req/s , episode time = 0.5488248s, overall time = 317.2149193584919s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 590: protocol = zyzzyva , throughput = 16407.04req/s , episode time = 0.60949445s, overall time = 317.8244138062s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 591: protocol = zyzzyva , throughput = 14891.79req/s , episode time = 0.6715111s, overall time = 318.4959249198437s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 592: protocol = zyzzyva , throughput = 18354.88req/s , episode time = 0.5448144s, overall time = 319.04073932766914s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 593: protocol = zyzzyva , throughput = 17186.56req/s , episode time = 0.58184993s, overall time = 319.62258926033974s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 594: protocol = zyzzyva , throughput = 16862.20req/s , episode time = 0.5930424s, overall time = 320.21563163399696s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 595: protocol = zyzzyva , throughput = 15977.90req/s , episode time = 0.62586445s, overall time = 320.84149608016014s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 596: protocol = zyzzyva , throughput = 17491.99req/s , episode time = 0.5716901s, overall time = 321.4131861627102s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 597: protocol = zyzzyva , throughput = 16343.60req/s , episode time = 0.61186033s, overall time = 322.0250464975834s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 598: protocol = zyzzyva , throughput = 15275.48req/s , episode time = 0.65464383s, overall time = 322.6796903312206s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 599: protocol = zyzzyva , throughput = 17116.72req/s , episode time = 0.5842239s, overall time = 323.263914257288s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 600: protocol = zyzzyva , throughput = 16480.63req/s , episode time = 0.606773s, overall time = 323.87068727612495s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 601: protocol = zyzzyva , throughput = 14958.80req/s , episode time = 0.66850275s, overall time = 324.5391900241375s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 602: protocol = zyzzyva , throughput = 15919.94req/s , episode time = 0.6281432s, overall time = 325.1673332154751s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 603: protocol = zyzzyva , throughput = 17011.19req/s , episode time = 0.58784837s, overall time = 325.75518158078194s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 604: protocol = zyzzyva , throughput = 17848.54req/s , episode time = 0.56026983s, overall time = 326.315451413393s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 605: protocol = zyzzyva , throughput = 17359.05req/s , episode time = 0.57606834s, overall time = 326.89151975512505s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 606: protocol = zyzzyva , throughput = 17907.08req/s , episode time = 0.5584384s, overall time = 327.44995817542076s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 607: protocol = zyzzyva , throughput = 17299.40req/s , episode time = 0.57805485s, overall time = 328.02801302075386s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 608: protocol = zyzzyva , throughput = 17241.80req/s , episode time = 0.57998574s, overall time = 328.60799875855446s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 609: protocol = zyzzyva , throughput = 17937.11req/s , episode time = 0.5575033s, overall time = 329.1655020415783s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 610: protocol = zyzzyva , throughput = 14895.97req/s , episode time = 0.6713227s, overall time = 329.8368247449398s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 611: protocol = zyzzyva , throughput = 16837.48req/s , episode time = 0.59391296s, overall time = 330.4307377040386s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 612: protocol = zyzzyva , throughput = 17942.36req/s , episode time = 0.5573402s, overall time = 330.98807790875435s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 613: protocol = zyzzyva , throughput = 18137.05req/s , episode time = 0.55135745s, overall time = 331.5394353568554s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 614: protocol = zyzzyva , throughput = 17588.41req/s , episode time = 0.5685561s, overall time = 332.10799142718315s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 615: protocol = zyzzyva , throughput = 16880.69req/s , episode time = 0.5923928s, overall time = 332.7003842294216s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 616: protocol = zyzzyva , throughput = 18471.80req/s , episode time = 0.54136574s, overall time = 333.241749972105s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 617: protocol = zyzzyva , throughput = 18026.55req/s , episode time = 0.55473715s, overall time = 333.7964871227741s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 618: protocol = zyzzyva , throughput = 17274.17req/s , episode time = 0.5788991s, overall time = 334.3753862082958s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 619: protocol = zyzzyva , throughput = 19082.51req/s , episode time = 0.52404004s, overall time = 334.89942625164986s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 620: protocol = zyzzyva , throughput = 17186.15req/s , episode time = 0.58186376s, overall time = 335.48129001259804s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 621: protocol = zyzzyva , throughput = 17658.63req/s , episode time = 0.56629544s, overall time = 336.0475854575634s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 622: protocol = zyzzyva , throughput = 18061.45req/s , episode time = 0.55366534s, overall time = 336.60125079751015s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 623: protocol = zyzzyva , throughput = 18528.22req/s , episode time = 0.53971714s, overall time = 337.1409679353237s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 624: protocol = zyzzyva , throughput = 16598.36req/s , episode time = 0.6024692s, overall time = 337.74343714118004s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 625: protocol = zyzzyva , throughput = 17324.91req/s , episode time = 0.57720345s, overall time = 338.32064059376717s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 626: protocol = zyzzyva , throughput = 18234.06req/s , episode time = 0.54842407s, overall time = 338.86906465888023s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 627: protocol = zyzzyva , throughput = 17488.53req/s , episode time = 0.5718033s, overall time = 339.4408679306507s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 628: protocol = zyzzyva , throughput = 18719.85req/s , episode time = 0.5341922s, overall time = 339.9750601351261s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 629: protocol = zyzzyva , throughput = 10383.28req/s , episode time = 0.96308655s, overall time = 340.9381466805935s
+{1} nextProtocol = sbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 630: protocol = sbft , throughput = 11330.54req/s , episode time = 0.8825708s, overall time = 341.8207174837589s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 631: protocol = zyzzyva , throughput = 16500.91req/s , episode time = 0.606027s, overall time = 342.4267444908619s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 632: protocol = zyzzyva , throughput = 17597.71req/s , episode time = 0.56825566s, overall time = 342.99500015378s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 633: protocol = zyzzyva , throughput = 17426.94req/s , episode time = 0.57382435s, overall time = 343.5688244998455s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 634: protocol = zyzzyva , throughput = 18086.79req/s , episode time = 0.5528899s, overall time = 344.1217143833637s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 635: protocol = zyzzyva , throughput = 18038.59req/s , episode time = 0.55436695s, overall time = 344.6760813295841s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 636: protocol = zyzzyva , throughput = 15939.67req/s , episode time = 0.62736577s, overall time = 345.3034470975399s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 637: protocol = zyzzyva , throughput = 18391.57req/s , episode time = 0.5437274s, overall time = 345.8471744954586s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 638: protocol = zyzzyva , throughput = 17290.89req/s , episode time = 0.5783391s, overall time = 346.42551359534264s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 639: protocol = zyzzyva , throughput = 16633.45req/s , episode time = 0.6011982s, overall time = 347.02671179175377s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 640: protocol = zyzzyva , throughput = 18646.44req/s , episode time = 0.5362955s, overall time = 347.56300726532936s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 641: protocol = zyzzyva , throughput = 18177.79req/s , episode time = 0.5501219s, overall time = 348.11312916874886s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 642: protocol = zyzzyva , throughput = 17477.58req/s , episode time = 0.57216173s, overall time = 348.685290902853s
+{1} nextProtocol = sbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 643: protocol = sbft , throughput = 13537.07req/s , episode time = 0.73871255s, overall time = 349.4240034520626s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 644: protocol = zyzzyva , throughput = 17183.64req/s , episode time = 0.58194894s, overall time = 350.0059523880482s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 645: protocol = zyzzyva , throughput = 16636.72req/s , episode time = 0.6010798s, overall time = 350.6070322096348s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 646: protocol = zyzzyva , throughput = 17965.90req/s , episode time = 0.55661s, overall time = 351.16364219784737s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 647: protocol = zyzzyva , throughput = 18641.95req/s , episode time = 0.5364247s, overall time = 351.70006689429283s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 648: protocol = zyzzyva , throughput = 16866.16req/s , episode time = 0.59290326s, overall time = 352.29297015070915s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 649: protocol = zyzzyva , throughput = 17526.49req/s , episode time = 0.57056487s, overall time = 352.86353501677513s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 650: protocol = zyzzyva , throughput = 16155.72req/s , episode time = 0.6189758s, overall time = 353.4825108349323s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 651: protocol = zyzzyva , throughput = 17330.67req/s , episode time = 0.57701164s, overall time = 354.05952247977257s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 652: protocol = zyzzyva , throughput = 18486.28req/s , episode time = 0.5409418s, overall time = 354.6004642546177s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 653: protocol = zyzzyva , throughput = 17932.79req/s , episode time = 0.55763763s, overall time = 355.15810188651085s
+{1} nextProtocol = cheapbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 654: protocol = cheapbft , throughput = 12513.83req/s , episode time = 0.79911613s, overall time = 355.9572180211544s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 655: protocol = zyzzyva , throughput = 16790.65req/s , episode time = 0.5955694s, overall time = 356.5527873933315s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 656: protocol = zyzzyva , throughput = 16775.23req/s , episode time = 0.5961169s, overall time = 357.14890429377556s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 657: protocol = zyzzyva , throughput = 19230.38req/s , episode time = 0.5200105s, overall time = 357.66891476511955s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 658: protocol = zyzzyva , throughput = 16369.63req/s , episode time = 0.61088735s, overall time = 358.27980211377144s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 659: protocol = zyzzyva , throughput = 16743.29req/s , episode time = 0.59725416s, overall time = 358.8770562708378s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 660: protocol = zyzzyva , throughput = 17236.04req/s , episode time = 0.5801795s, overall time = 359.45723578333855s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 661: protocol = zyzzyva , throughput = 330.28req/s , episode time = 30.277721s, overall time = 389.73495718836784s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 662: protocol = zyzzyva , throughput = 187.05req/s , episode time = 53.462173s, overall time = 443.1971306502819s
+{1} nextProtocol = sbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 663: protocol = sbft , throughput = 186.96req/s , episode time = 53.487713s, overall time = 496.6848435103893s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 664: protocol = zyzzyva , throughput = 187.15req/s , episode time = 53.434227s, overall time = 550.1190705001354s
+{1} nextProtocol = hotstuff
+{1} leader mode set to be rotate for the next episode
+{1} [EPISODE REPORT] episode 665: protocol = hotstuff , throughput = 727.74req/s , episode time = 13.741229s, overall time = 563.8602995574474s
+{1} nextProtocol = prime
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 666: protocol = prime , throughput = 4806.58req/s , episode time = 2.0804803s, overall time = 565.9407798945904s
+{1} nextProtocol = hotstuff
+{1} leader mode set to be rotate for the next episode
+{1} [EPISODE REPORT] episode 667: protocol = hotstuff , throughput = 733.49req/s , episode time = 13.633486s, overall time = 579.5742656886578s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 668: protocol = zyzzyva , throughput = 187.06req/s , episode time = 53.45961s, overall time = 633.0338756740093s
+{1} nextProtocol = cheapbft
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 669: protocol = cheapbft , throughput = 187.50req/s , episode time = 53.333282s, overall time = 686.3671581447124s
+{1} nextProtocol = zyzzyva
+{1} leader mode set to be stable for the next episode
+{1} [EPISODE REPORT] episode 670: protocol = zyzzyva , throughput = 187.13req/s , episode time = 53.438934s, overall time = 739.8060924708843s
+{1} nextProtocol = pbft
+{1} leader mode set to be stable for the next episode

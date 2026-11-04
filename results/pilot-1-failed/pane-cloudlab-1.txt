@@ -1,0 +1,2000 @@
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:26.692  Sending benchmark results to server.
+13:27:26.693  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:29.698  Sending benchmark results to server.
+13:27:29.698  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:32.699  Sending benchmark results to server.
+13:27:32.700  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:35.704  Sending benchmark results to server.
+13:27:35.705  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:38.709  Sending benchmark results to server.
+13:27:38.710  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:41.714  Sending benchmark results to server.
+13:27:41.715  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:44.718  Sending benchmark results to server.
+13:27:44.719  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:47.721  Sending benchmark results to server.
+13:27:47.722  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:50.726  Sending benchmark results to server.
+13:27:50.726  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:53.730  Sending benchmark results to server.
+13:27:53.731  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:56.734  Sending benchmark results to server.
+13:27:56.734  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:27:59.739  Sending benchmark results to server.
+13:27:59.739  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:02.744  Sending benchmark results to server.
+13:28:02.745  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:05.749  Sending benchmark results to server.
+13:28:05.750  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:08.754  Sending benchmark results to server.
+13:28:08.754  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:11.760  Sending benchmark results to server.
+13:28:11.760  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:14.765  Sending benchmark results to server.
+13:28:14.765  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:17.770  Sending benchmark results to server.
+13:28:17.770  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:20.775  Sending benchmark results to server.
+13:28:20.776  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:23.779  Sending benchmark results to server.
+13:28:23.779  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:26.784  Sending benchmark results to server.
+13:28:26.784  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:29.788  Sending benchmark results to server.
+13:28:29.789  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:32.794  Sending benchmark results to server.
+13:28:32.794  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:35.799  Sending benchmark results to server.
+13:28:35.800  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:38.801  Sending benchmark results to server.
+13:28:38.802  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:41.806  Sending benchmark results to server.
+13:28:41.807  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:44.811  Sending benchmark results to server.
+13:28:44.812  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:47.814  Sending benchmark results to server.
+13:28:47.815  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:50.818  Sending benchmark results to server.
+13:28:50.819  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:53.823  Sending benchmark results to server.
+13:28:53.824  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:56.828  Sending benchmark results to server.
+13:28:56.829  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:28:59.830  Sending benchmark results to server.
+13:28:59.831  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:02.836  Sending benchmark results to server.
+13:29:02.837  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:05.841  Sending benchmark results to server.
+13:29:05.842  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:08.846  Sending benchmark results to server.
+13:29:08.847  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:11.851  Sending benchmark results to server.
+13:29:11.852  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:14.856  Sending benchmark results to server.
+13:29:14.856  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:17.861  Sending benchmark results to server.
+13:29:17.861  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:20.866  Sending benchmark results to server.
+13:29:20.866  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:23.871  Sending benchmark results to server.
+13:29:23.872  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:26.876  Sending benchmark results to server.
+13:29:26.876  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:29.880  Sending benchmark results to server.
+13:29:29.881  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:32.885  Sending benchmark results to server.
+13:29:32.886  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:35.890  Sending benchmark results to server.
+13:29:35.891  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:38.891  Sending benchmark results to server.
+13:29:38.892  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:41.896  Sending benchmark results to server.
+13:29:41.897  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:44.901  Sending benchmark results to server.
+13:29:44.902  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:47.906  Sending benchmark results to server.
+13:29:47.907  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:50.907  Sending benchmark results to server.
+13:29:50.908  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:53.912  Sending benchmark results to server.
+13:29:53.913  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:56.917  Sending benchmark results to server.
+13:29:56.918  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:29:59.917  Sending benchmark results to server.
+13:29:59.917  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:02.918  Sending benchmark results to server.
+13:30:02.919  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:05.923  Sending benchmark results to server.
+13:30:05.923  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:08.929  Sending benchmark results to server.
+13:30:08.929  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:11.929  Sending benchmark results to server.
+13:30:11.929  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:14.934  Sending benchmark results to server.
+13:30:14.935  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:17.937  Sending benchmark results to server.
+13:30:17.938  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:20.942  Sending benchmark results to server.
+13:30:20.943  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:23.945  Sending benchmark results to server.
+13:30:23.946  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:26.947  Sending benchmark results to server.
+13:30:26.948  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:29.949  Sending benchmark results to server.
+13:30:29.950  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:32.954  Sending benchmark results to server.
+13:30:32.955  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:35.959  Sending benchmark results to server.
+13:30:35.960  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:38.961  Sending benchmark results to server.
+13:30:38.961  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:41.961  Sending benchmark results to server.
+13:30:41.962  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:44.967  Sending benchmark results to server.
+13:30:44.968  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:47.969  Sending benchmark results to server.
+13:30:47.970  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:50.974  Sending benchmark results to server.
+13:30:50.974  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:53.979  Sending benchmark results to server.
+13:30:53.979  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:56.979  Sending benchmark results to server.
+13:30:56.980  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:30:59.984  Sending benchmark results to server.
+13:30:59.984  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:02.989  Sending benchmark results to server.
+13:31:02.989  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:05.990  Sending benchmark results to server.
+13:31:05.991  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:08.996  Sending benchmark results to server.
+13:31:08.997  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:12.1  Sending benchmark results to server.
+13:31:12.2  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:15.6  Sending benchmark results to server.
+13:31:15.7  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:18.11  Sending benchmark results to server.
+13:31:18.12  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:21.16  Sending benchmark results to server.
+13:31:21.17  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:24.21  Sending benchmark results to server.
+13:31:24.22  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:27.26  Sending benchmark results to server.
+13:31:27.27  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:30.31  Sending benchmark results to server.
+13:31:30.32  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:33.36  Sending benchmark results to server.
+13:31:33.37  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:36.41  Sending benchmark results to server.
+13:31:36.42  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:39.51  Sending benchmark results to server.
+13:31:39.52  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:42.60  Sending benchmark results to server.
+13:31:42.60  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:45.70  Sending benchmark results to server.
+13:31:45.71  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:48.80  Sending benchmark results to server.
+13:31:48.80  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:51.90  Sending benchmark results to server.
+13:31:51.90  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:54.100  Sending benchmark results to server.
+13:31:54.100  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:31:57.109  Sending benchmark results to server.
+13:31:57.110  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:00.111  Sending benchmark results to server.
+13:32:00.112  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:03.121  Sending benchmark results to server.
+13:32:03.121  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:06.130  Sending benchmark results to server.
+13:32:06.131  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:09.130  Sending benchmark results to server.
+13:32:09.131  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:12.140  Sending benchmark results to server.
+13:32:12.140  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:15.150  Sending benchmark results to server.
+13:32:15.151  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:18.153  Sending benchmark results to server.
+13:32:18.153  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:21.163  Sending benchmark results to server.
+13:32:21.163  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:24.172  Sending benchmark results to server.
+13:32:24.173  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:27.183  Sending benchmark results to server.
+13:32:27.183  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:30.185  Sending benchmark results to server.
+13:32:30.186  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:33.195  Sending benchmark results to server.
+13:32:33.196  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:36.205  Sending benchmark results to server.
+13:32:36.206  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:39.209  Sending benchmark results to server.
+13:32:39.210  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:42.218  Sending benchmark results to server.
+13:32:42.219  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:45.218  Sending benchmark results to server.
+13:32:45.218  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:48.228  Sending benchmark results to server.
+13:32:48.229  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:51.235  Sending benchmark results to server.
+13:32:51.236  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:54.245  Sending benchmark results to server.
+13:32:54.246  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:32:57.255  Sending benchmark results to server.
+13:32:57.255  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:00.265  Sending benchmark results to server.
+13:33:00.265  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:03.275  Sending benchmark results to server.
+13:33:03.275  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:06.279  Sending benchmark results to server.
+13:33:06.279  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:09.287  Sending benchmark results to server.
+13:33:09.288  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:12.288  Sending benchmark results to server.
+13:33:12.289  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:15.298  Sending benchmark results to server.
+13:33:15.299  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:18.302  Sending benchmark results to server.
+13:33:18.303  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:21.312  Sending benchmark results to server.
+13:33:21.313  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:24.322  Sending benchmark results to server.
+13:33:24.322  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:27.325  Sending benchmark results to server.
+13:33:27.325  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:30.334  Sending benchmark results to server.
+13:33:30.335  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:33.344  Sending benchmark results to server.
+13:33:33.345  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:36.353  Sending benchmark results to server.
+13:33:36.354  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:39.362  Sending benchmark results to server.
+13:33:39.363  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:42.373  Sending benchmark results to server.
+13:33:42.374  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:45.383  Sending benchmark results to server.
+13:33:45.384  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:48.385  Sending benchmark results to server.
+13:33:48.386  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:51.395  Sending benchmark results to server.
+13:33:51.396  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:54.401  Sending benchmark results to server.
+13:33:54.402  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:33:57.411  Sending benchmark results to server.
+13:33:57.411  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:00.420  Sending benchmark results to server.
+13:34:00.421  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:03.429  Sending benchmark results to server.
+13:34:03.429  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:06.439  Sending benchmark results to server.
+13:34:06.439  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:09.439  Sending benchmark results to server.
+13:34:09.440  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:12.445  Sending benchmark results to server.
+13:34:12.445  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:15.452  Sending benchmark results to server.
+13:34:15.452  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:18.461  Sending benchmark results to server.
+13:34:18.462  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:21.468  Sending benchmark results to server.
+13:34:21.469  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:24.478  Sending benchmark results to server.
+13:34:24.479  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:27.479  Sending benchmark results to server.
+13:34:27.480  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:30.483  Sending benchmark results to server.
+13:34:30.484  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:33.493  Sending benchmark results to server.
+13:34:33.494  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:36.503  Sending benchmark results to server.
+13:34:36.503  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:39.503  Sending benchmark results to server.
+13:34:39.504  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:42.514  Sending benchmark results to server.
+13:34:42.515  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:45.514  Sending benchmark results to server.
+13:34:45.515  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:48.521  Sending benchmark results to server.
+13:34:48.521  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:51.525  Sending benchmark results to server.
+13:34:51.526  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:54.526  Sending benchmark results to server.
+13:34:54.526  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:34:57.536  Sending benchmark results to server.
+13:34:57.537  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:35:00.544  Sending benchmark results to server.
+13:35:00.545  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+13:35:03.554  Sending benchmark results to server.
+13:35:03.555  -- Node 0
+block-execute   	avg: 0, max: 0, count: 0
+current-episode 	value: 1
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 999
+message-process 	avg: 0, max: 0, count: 0
+proposal (since-start)	count: 1000
+request-queue   	avg: 0, max: 0
+slow-path       	ratio: NaN
+
+
+^C*** shutting down gRPC server since JVM is shutting down
+*** server shut down
+jaywang@Jays-MacBook-Pro code %

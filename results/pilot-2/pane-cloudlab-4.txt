@@ -1,0 +1,1877 @@
+current-episode 	value: 351
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 351738
+message-process 	avg: 627.99us, max: 5.52ms, count: 1488
+proposal (since-start)	count: 2500
+request-queue   	avg: 601.60ms, max: 612.96ms
+slow-path       	ratio: 0.00
+
+
+14:17:41.239  Sending benchmark results to server.
+14:17:41.240  -- Node 3
+block-execute   	avg: 1.27ms, max: 5.21ms, count: 248
+current-episode 	value: 351
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 351986
+message-process 	avg: 632.87us, max: 5.29ms, count: 1488
+proposal (since-start)	count: 2500
+request-queue   	avg: 605.03ms, max: 614.66ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 351: protocol = pbft , throughput = 827.37req/s , episo
+de time = 12.086522s, overall time = 492.79766035079956s
+{3} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+{3} processCheckpoints, checkpointNum:  351
+{3} processCheckpoints, checkpointNum:  351
+{3} Update last stable checkpoint to  351
+{3} processCheckpoints, checkpointNum:  351
+sending report for episode 352, reportSequence=352500
+notify learning agent for episode 352, exchangeSequence=352600
+epoch: 352, received next protocol: sbft
+14:17:44.241  Sending benchmark results to server.
+14:17:44.242  -- Node 3
+block-execute   	avg: 11.78ms, max: 32.30ms, count: 676
+current-episode 	value: 352
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 352806
+message-process 	avg: 3.40ms, max: 19.16ms, count: 4152
+proposal (since-start)	count: 2700
+request-queue   	avg: 198.04ms, max: 617.51ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 352: protocol = hotstuff , throughput = 2895.39req/s ,
+episode time = 3.4537666s, overall time = 496.2514269351959s
+{3} nextProtocol = sbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  352
+{3} processCheckpoints, checkpointNum:  352
+{3} Update last stable checkpoint to  352
+{3} processCheckpoints, checkpointNum:  352
+14:17:47.246  Sending benchmark results to server.
+14:17:47.248  -- Node 3
+block-execute   	avg: 8.12ms, max: 24.88ms, count: 536
+current-episode 	value: 353
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 353198
+message-process 	avg: 2.88ms, max: 11.55ms, count: 2754
+proposal (since-start)	count: 2750
+request-queue   	avg: 257.99ms, max: 609.03ms
+slow-path       	ratio: 0.00
+
+
+14:17:50.251  Sending benchmark results to server.
+14:17:50.252  -- Node 3
+block-execute   	avg: 1.04ms, max: 2.31ms, count: 248
+current-episode 	value: 353
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 353449
+message-process 	avg: 572.11us, max: 6.33ms, count: 496
+proposal (since-start)	count: 2750
+request-queue   	avg: 599.35ms, max: 611.34ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 353, reportSequence=353500
+notify learning agent for episode 353, exchangeSequence=353600
+epoch: 353, received next protocol: hotstuff
+14:17:53.254  Sending benchmark results to server.
+14:17:53.255  -- Node 3
+block-execute   	avg: 1.04ms, max: 6.73ms, count: 250
+current-episode 	value: 353
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 353697
+message-process 	avg: 551.06us, max: 5.35ms, count: 502
+proposal (since-start)	count: 2750
+request-queue   	avg: 598.18ms, max: 611.15ms
+slow-path       	ratio: 0.00
+
+
+14:17:56.260  Sending benchmark results to server.
+14:17:56.261  -- Node 3
+block-execute   	avg: 1.02ms, max: 8.61ms, count: 250
+current-episode 	value: 353
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 353947
+message-process 	avg: 552.27us, max: 7.97ms, count: 498
+proposal (since-start)	count: 2750
+request-queue   	avg: 600.97ms, max: 619.54ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  353
+[EPISODE REPORT] episode 353: protocol = sbft , throughput = 831.32req/s , episo
+de time = 12.029081s, overall time = 508.2805082798004s
+{3} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+{3} processCheckpoints, checkpointNum:  353
+{3} Update last stable checkpoint to  353
+{3} processCheckpoints, checkpointNum:  353
+sending report for episode 354, reportSequence=354500
+notify learning agent for episode 354, exchangeSequence=354600
+epoch: 354, received next protocol: hotstuff
+14:17:59.259  Sending benchmark results to server.
+14:17:59.259  -- Node 3
+block-execute   	avg: 10.05ms, max: 33.02ms, count: 531
+current-episode 	value: 354
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 354620
+message-process 	avg: 3.22ms, max: 12.97ms, count: 2795
+proposal (since-start)	count: 2900
+request-queue   	avg: 249.18ms, max: 612.95ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 354: protocol = hotstuff , throughput = 2842.57req/s ,
+episode time = 3.517948s, overall time = 511.7984561920166s
+{3} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+{3} processCheckpoints, checkpointNum:  354
+{3} processCheckpoints, checkpointNum:  354
+{3} Update last stable checkpoint to  354
+{3} processCheckpoints, checkpointNum:  354
+14:18:02.263  Sending benchmark results to server.
+14:18:02.264  -- Node 3
+block-execute   	avg: 13.51ms, max: 46.77ms, count: 813
+current-episode 	value: 355
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 355436
+message-process 	avg: 3.76ms, max: 14.51ms, count: 5039
+proposal (since-start)	count: 3100
+request-queue   	avg: 166.08ms, max: 596.82ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 355, reportSequence=355500
+notify learning agent for episode 355, exchangeSequence=355600
+epoch: 355, received next protocol: hotstuff
+[EPISODE REPORT] episode 355: protocol = hotstuff , throughput = 2838.21req/s ,
+episode time = 3.5233474s, overall time = 515.3218035697937s
+{3} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+{3} processCheckpoints, checkpointNum:  355
+{3} processCheckpoints, checkpointNum:  355
+{3} Update last stable checkpoint to  355
+{3} processCheckpoints, checkpointNum:  355
+14:18:05.269  Sending benchmark results to server.
+14:18:05.270  -- Node 3
+block-execute   	avg: 12.42ms, max: 30.44ms, count: 960
+current-episode 	value: 356
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 356311
+message-process 	avg: 3.68ms, max: 14.85ms, count: 6134
+proposal (since-start)	count: 3300
+request-queue   	avg: 153.80ms, max: 586.90ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 356, reportSequence=356500
+notify learning agent for episode 356, exchangeSequence=356600
+epoch: 356, received next protocol: hotstuff
+[EPISODE REPORT] episode 356: protocol = hotstuff , throughput = 2891.27req/s ,
+episode time = 3.4586928s, overall time = 518.7804963588715s
+{3} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+{3} processCheckpoints, checkpointNum:  356
+{3} processCheckpoints, checkpointNum:  356
+{3} Update last stable checkpoint to  356
+{3} processCheckpoints, checkpointNum:  356
+14:18:08.273  Sending benchmark results to server.
+14:18:08.274  -- Node 3
+block-execute   	avg: 11.95ms, max: 29.49ms, count: 820
+current-episode 	value: 357
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 357216
+message-process 	avg: 3.46ms, max: 16.54ms, count: 5060
+proposal (since-start)	count: 3550
+request-queue   	avg: 158.93ms, max: 585.77ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 357, reportSequence=357500
+notify learning agent for episode 357, exchangeSequence=357600
+epoch: 357, received next protocol: pbft
+[EPISODE REPORT] episode 357: protocol = hotstuff , throughput = 2673.96req/s ,
+episode time = 3.7397668s, overall time = 522.5202631950378s
+{3} nextProtocol = pbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  357
+{3} processCheckpoints, checkpointNum:  357
+{3} Update last stable checkpoint to  357
+{3} processCheckpoints, checkpointNum:  357
+14:18:11.278  Sending benchmark results to server.
+14:18:11.278  -- Node 3
+block-execute   	avg: 12.12ms, max: 33.06ms, count: 800
+current-episode 	value: 358
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 358011
+message-process 	avg: 3.44ms, max: 18.88ms, count: 5000
+proposal (since-start)	count: 3750
+request-queue   	avg: 171.90ms, max: 665.98ms
+slow-path       	ratio: 0.00
+
+
+14:18:14.286  Sending benchmark results to server.
+14:18:14.286  -- Node 3
+block-execute   	avg: 6.49ms, max: 23.96ms, count: 366
+current-episode 	value: 358
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 358236
+message-process 	avg: 1.72ms, max: 9.28ms, count: 2324
+proposal (since-start)	count: 3750
+request-queue   	avg: 391.15ms, max: 691.81ms
+slow-path       	ratio: 0.00
+
+
+14:18:17.295  Sending benchmark results to server.
+14:18:17.296  -- Node 3
+block-execute   	avg: 1.42ms, max: 8.46ms, count: 219
+current-episode 	value: 358
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 358453
+message-process 	avg: 701.85us, max: 7.76ms, count: 1314
+proposal (since-start)	count: 3750
+request-queue   	avg: 680.07ms, max: 720.31ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 358, reportSequence=358500
+notify learning agent for episode 358, exchangeSequence=358600
+epoch: 358, received next protocol: sbft
+14:18:20.301  Sending benchmark results to server.
+14:18:20.302  -- Node 3
+block-execute   	avg: 1.61ms, max: 12.31ms, count: 218
+current-episode 	value: 358
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 358672
+message-process 	avg: 820.74us, max: 13.19ms, count: 1308
+proposal (since-start)	count: 3750
+request-queue   	avg: 684.98ms, max: 705.37ms
+slow-path       	ratio: 0.00
+
+
+14:18:23.309  Sending benchmark results to server.
+14:18:23.310  -- Node 3
+block-execute   	avg: 1.56ms, max: 8.73ms, count: 217
+current-episode 	value: 358
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 358889
+message-process 	avg: 762.08us, max: 6.40ms, count: 1302
+proposal (since-start)	count: 3750
+request-queue   	avg: 689.20ms, max: 712.58ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 358: protocol = pbft , throughput = 730.98req/s , episo
+de time = 13.6802435s, overall time = 536.2005066871643s
+{3} nextProtocol = sbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  358
+{3} processCheckpoints, checkpointNum:  358
+{3} Update last stable checkpoint to  358
+{3} processCheckpoints, checkpointNum:  358
+14:18:26.317  Sending benchmark results to server.
+14:18:26.318  -- Node 3
+block-execute   	avg: 1.60ms, max: 13.80ms, count: 218
+current-episode 	value: 359
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 359108
+message-process 	avg: 812.93us, max: 13.59ms, count: 1052
+proposal (since-start)	count: 3750
+request-queue   	avg: 615.22ms, max: 712.84ms
+slow-path       	ratio: 0.00
+
+
+14:18:29.320  Sending benchmark results to server.
+14:18:29.321  -- Node 3
+block-execute   	avg: 1.50ms, max: 24.98ms, count: 219
+current-episode 	value: 359
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 359328
+message-process 	avg: 715.14us, max: 22.17ms, count: 438
+proposal (since-start)	count: 3750
+request-queue   	avg: 681.32ms, max: 705.10ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 359, reportSequence=359500
+14:18:32.327  Sending benchmark results to server.
+14:18:32.328  -- Node 3
+block-execute   	avg: 1.27ms, max: 13.19ms, count: 221
+current-episode 	value: 359
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 359550
+message-process 	avg: 605.84us, max: 2.83ms, count: 442
+proposal (since-start)	count: 3750
+request-queue   	avg: 681.56ms, max: 697.92ms
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 359, exchangeSequence=359600
+epoch: 359, received next protocol: hotstuff
+14:18:35.333  Sending benchmark results to server.
+14:18:35.335  -- Node 3
+block-execute   	avg: 1.26ms, max: 13.76ms, count: 220
+current-episode 	value: 359
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 359771
+message-process 	avg: 585.61us, max: 3.01ms, count: 440
+proposal (since-start)	count: 3750
+request-queue   	avg: 676.41ms, max: 702.21ms
+slow-path       	ratio: 0.00
+
+
+14:18:38.333  Sending benchmark results to server.
+14:18:38.335  -- Node 3
+block-execute   	avg: 1.31ms, max: 10.65ms, count: 224
+current-episode 	value: 359
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 359994
+message-process 	avg: 622.09us, max: 4.05ms, count: 448
+proposal (since-start)	count: 3750
+request-queue   	avg: 666.89ms, max: 693.14ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  359
+[EPISODE REPORT] episode 359: protocol = sbft , throughput = 736.25req/s , episo
+de time = 13.582376s, overall time = 549.7828822135925s
+{3} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+{3} processCheckpoints, checkpointNum:  359
+{3} Update last stable checkpoint to  359
+{3} processCheckpoints, checkpointNum:  359
+sending report for episode 360, reportSequence=360500
+notify learning agent for episode 360, exchangeSequence=360600
+epoch: 360, received next protocol: zyzzyva
+14:18:41.337  Sending benchmark results to server.
+14:18:41.338  -- Node 3
+block-execute   	avg: 10.20ms, max: 29.13ms, count: 502
+current-episode 	value: 360
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 360641
+message-process 	avg: 3.18ms, max: 14.98ms, count: 2853
+proposal (since-start)	count: 3900
+request-queue   	avg: 264.52ms, max: 697.81ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 360: protocol = hotstuff , throughput = 2512.77req/s ,
+episode time = 3.9796648s, overall time = 553.7625470161438s
+{3} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  360
+{3} processCheckpoints, checkpointNum:  360
+{3} Update last stable checkpoint to  360
+{3} processCheckpoints, checkpointNum:  360
+14:18:44.349  Sending benchmark results to server.
+14:18:44.351  -- Node 3
+block-execute   	avg: 10.93ms, max: 28.55ms, count: 649
+current-episode 	value: 361
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 361146
+message-process 	avg: 3.86ms, max: 14.56ms, count: 3600
+proposal (since-start)	count: 4000
+request-queue   	avg: 208.09ms, max: 685.70ms
+slow-path       	ratio: 0.00
+
+
+14:18:47.346  Sending benchmark results to server.
+14:18:47.347  -- Node 3
+block-execute   	avg: 99.23us, max: 586.37us, count: 219
+current-episode 	value: 361
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 361365
+message-process 	avg: 819.73us, max: 4.48ms, count: 219
+proposal (since-start)	count: 4000
+request-queue   	avg: 682.99ms, max: 708.84ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 361, reportSequence=361500
+14:18:50.348  Sending benchmark results to server.
+14:18:50.349  -- Node 3
+block-execute   	avg: 97.61us, max: 363.29us, count: 219
+current-episode 	value: 361
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 361583
+message-process 	avg: 969.86us, max: 12.00ms, count: 219
+proposal (since-start)	count: 4000
+request-queue   	avg: 682.78ms, max: 724.80ms
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 361, exchangeSequence=361600
+epoch: 361, received next protocol: zyzzyva
+14:18:53.348  Sending benchmark results to server.
+14:18:53.348  -- Node 3
+block-execute   	avg: 87.53us, max: 942.29us, count: 220
+current-episode 	value: 361
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 361805
+message-process 	avg: 764.19us, max: 3.45ms, count: 220
+proposal (since-start)	count: 4000
+request-queue   	avg: 683.67ms, max: 712.26ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  361
+[EPISODE REPORT] episode 361: protocol = zyzzyva , throughput = 733.97req/s , ep
+isode time = 13.6245575s, overall time = 567.387104511261s
+{3} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  361
+{3} Update last stable checkpoint to  361
+{3} processCheckpoints, checkpointNum:  361
+14:18:56.351  Sending benchmark results to server.
+14:18:56.352  -- Node 3
+block-execute   	avg: 91.37us, max: 787.58us, count: 221
+current-episode 	value: 362
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 362026
+message-process 	avg: 790.72us, max: 2.45ms, count: 221
+proposal (since-start)	count: 4000
+request-queue   	avg: 677.00ms, max: 693.74ms
+slow-path       	ratio: 0.00
+
+
+14:18:59.358  Sending benchmark results to server.
+14:18:59.359  -- Node 3
+block-execute   	avg: 93.62us, max: 670.50us, count: 224
+current-episode 	value: 362
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 362250
+message-process 	avg: 781.64us, max: 2.06ms, count: 224
+proposal (since-start)	count: 4000
+request-queue   	avg: 602.36ms, max: 699.44ms
+slow-path       	ratio: 0.00
+
+
+14:19:02.371  Sending benchmark results to server.
+14:19:02.372  -- Node 3
+block-execute   	avg: 91.31us, max: 282.37us, count: 222
+current-episode 	value: 362
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 362473
+message-process 	avg: 798.55us, max: 10.88ms, count: 222
+proposal (since-start)	count: 4000
+request-queue   	avg: 674.51ms, max: 692.27ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 362, reportSequence=362500
+notify learning agent for episode 362, exchangeSequence=362600
+epoch: 362, received next protocol: zyzzyva
+14:19:05.369  Sending benchmark results to server.
+14:19:05.370  -- Node 3
+block-execute   	avg: 98.74us, max: 2.13ms, count: 222
+current-episode 	value: 362
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 362694
+message-process 	avg: 780.71us, max: 4.98ms, count: 222
+proposal (since-start)	count: 4000
+request-queue   	avg: 674.38ms, max: 696.42ms
+slow-path       	ratio: 0.00
+
+
+14:19:08.377  Sending benchmark results to server.
+14:19:08.379  -- Node 3
+block-execute   	avg: 45.40us, max: 491.25us, count: 220
+current-episode 	value: 362
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 362917
+message-process 	avg: 577.24us, max: 3.86ms, count: 220
+proposal (since-start)	count: 4000
+request-queue   	avg: 679.41ms, max: 699.56ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  362
+[EPISODE REPORT] episode 362: protocol = zyzzyva , throughput = 739.86req/s , ep
+isode time = 13.516141s, overall time = 580.9032454490662s
+{3} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  362
+{3} Update last stable checkpoint to  362
+{3} processCheckpoints, checkpointNum:  362
+14:19:11.378  Sending benchmark results to server.
+14:19:11.378  -- Node 3
+block-execute   	avg: 96.83us, max: 519.20us, count: 218
+current-episode 	value: 363
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 363134
+message-process 	avg: 835.68us, max: 12.18ms, count: 218
+proposal (since-start)	count: 4000
+request-queue   	avg: 612.29ms, max: 712.57ms
+slow-path       	ratio: 0.00
+
+
+14:19:14.382  Sending benchmark results to server.
+14:19:14.383  -- Node 3
+block-execute   	avg: 81.45us, max: 282.29us, count: 220
+current-episode 	value: 363
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 363353
+message-process 	avg: 742.57us, max: 1.94ms, count: 220
+proposal (since-start)	count: 4000
+request-queue   	avg: 682.95ms, max: 705.54ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 363, reportSequence=363500
+14:19:17.391  Sending benchmark results to server.
+14:19:17.392  -- Node 3
+block-execute   	avg: 100.58us, max: 402.66us, count: 216
+current-episode 	value: 363
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 363571
+message-process 	avg: 821.45us, max: 6.22ms, count: 216
+proposal (since-start)	count: 4000
+request-queue   	avg: 693.03ms, max: 715.58ms
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 363, exchangeSequence=363600
+epoch: 363, received next protocol: cheapbft
+14:19:20.402  Sending benchmark results to server.
+14:19:20.404  -- Node 3
+block-execute   	avg: 98.05us, max: 853.00us, count: 227
+current-episode 	value: 363
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 363798
+message-process 	avg: 793.42us, max: 2.90ms, count: 227
+proposal (since-start)	count: 4000
+request-queue   	avg: 659.49ms, max: 696.68ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  363
+[EPISODE REPORT] episode 363: protocol = zyzzyva , throughput = 733.81req/s , ep
+isode time = 13.627595s, overall time = 594.5308403968811s
+{3} nextProtocol = cheapbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  363
+{3} Update last stable checkpoint to  363
+{3} processCheckpoints, checkpointNum:  363
+14:19:23.408  Sending benchmark results to server.
+14:19:23.409  -- Node 3
+block-execute   	avg: 91.84us, max: 299.91us, count: 220
+current-episode 	value: 364
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 364019
+message-process 	avg: 853.91us, max: 12.26ms, count: 220
+proposal (since-start)	count: 4000
+request-queue   	avg: 681.97ms, max: 699.54ms
+slow-path       	ratio: 0.00
+
+
+14:19:26.415  Sending benchmark results to server.
+14:19:26.416  -- Node 3
+block-execute   	avg: 67.98us, max: 460.33us, count: 220
+current-episode 	value: 364
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 364239
+message-process 	avg: 763.51us, max: 10.95ms, count: 595
+proposal (since-start)	count: 4000
+request-queue   	avg: 614.21ms, max: 704.95ms
+slow-path       	ratio: 0.00
+
+
+14:19:29.417  Sending benchmark results to server.
+14:19:29.419  -- Node 3
+block-execute   	avg: 64.82us, max: 252.04us, count: 221
+current-episode 	value: 364
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 364459
+message-process 	avg: 787.27us, max: 8.68ms, count: 663
+proposal (since-start)	count: 4000
+request-queue   	avg: 676.53ms, max: 699.77ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 364, reportSequence=364500
+notify learning agent for episode 364, exchangeSequence=364600
+epoch: 364, received next protocol: pbft
+14:19:32.423  Sending benchmark results to server.
+14:19:32.424  -- Node 3
+block-execute   	avg: 59.18us, max: 409.83us, count: 216
+current-episode 	value: 364
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 364676
+message-process 	avg: 776.11us, max: 10.79ms, count: 648
+proposal (since-start)	count: 4000
+request-queue   	avg: 690.23ms, max: 712.13ms
+slow-path       	ratio: 0.00
+
+
+14:19:35.422  Sending benchmark results to server.
+14:19:35.424  -- Node 3
+block-execute   	avg: 66.34us, max: 351.12us, count: 217
+current-episode 	value: 364
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 364893
+message-process 	avg: 752.52us, max: 11.12ms, count: 651
+proposal (since-start)	count: 4000
+request-queue   	avg: 688.88ms, max: 717.31ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  364
+{3} processCheckpoints, checkpointNum:  364
+{3} Update last stable checkpoint to  364
+[EPISODE REPORT] episode 364: protocol = cheapbft , throughput = 729.42req/s , e
+pisode time = 13.709472s, overall time = 608.2403120994568s
+{3} nextProtocol = pbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  364
+14:19:38.431  Sending benchmark results to server.
+14:19:38.433  -- Node 3
+block-execute   	avg: 512.92us, max: 10.39ms, count: 220
+current-episode 	value: 365
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 365113
+message-process 	avg: 815.52us, max: 10.51ms, count: 843
+proposal (since-start)	count: 4000
+request-queue   	avg: 617.80ms, max: 718.28ms
+slow-path       	ratio: 0.00
+
+
+14:19:41.435  Sending benchmark results to server.
+14:19:41.436  -- Node 3
+block-execute   	avg: 1.71ms, max: 7.76ms, count: 215
+current-episode 	value: 365
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 365329
+message-process 	avg: 862.05us, max: 11.44ms, count: 1290
+proposal (since-start)	count: 4000
+request-queue   	avg: 693.81ms, max: 710.74ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 365, reportSequence=365500
+14:19:44.445  Sending benchmark results to server.
+14:19:44.447  -- Node 3
+block-execute   	avg: 1.64ms, max: 9.79ms, count: 218
+current-episode 	value: 365
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 365548
+message-process 	avg: 800.31us, max: 9.12ms, count: 1309
+proposal (since-start)	count: 4000
+request-queue   	avg: 685.86ms, max: 710.45ms
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 365, exchangeSequence=365600
+epoch: 365, received next protocol: pbft
+14:19:47.455  Sending benchmark results to server.
+14:19:47.456  -- Node 3
+block-execute   	avg: 1.46ms, max: 3.09ms, count: 219
+current-episode 	value: 365
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 365766
+message-process 	avg: 709.49us, max: 4.85ms, count: 1313
+proposal (since-start)	count: 4000
+request-queue   	avg: 681.32ms, max: 699.36ms
+slow-path       	ratio: 0.00
+
+
+14:19:50.465  Sending benchmark results to server.
+14:19:50.466  -- Node 3
+block-execute   	avg: 1.71ms, max: 13.52ms, count: 216
+current-episode 	value: 365
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 365983
+message-process 	avg: 845.37us, max: 13.49ms, count: 1296
+proposal (since-start)	count: 4000
+request-queue   	avg: 695.25ms, max: 711.36ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 365: protocol = pbft , throughput = 722.86req/s , episo
+de time = 13.833973s, overall time = 622.074285030365s
+{3} nextProtocol = pbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  365
+{3} processCheckpoints, checkpointNum:  365
+{3} Update last stable checkpoint to  365
+{3} processCheckpoints, checkpointNum:  365
+14:19:53.470  Sending benchmark results to server.
+14:19:53.471  -- Node 3
+block-execute   	avg: 1.57ms, max: 10.95ms, count: 216
+current-episode 	value: 366
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 366199
+message-process 	avg: 729.80us, max: 9.98ms, count: 1296
+proposal (since-start)	count: 4000
+request-queue   	avg: 618.86ms, max: 706.91ms
+slow-path       	ratio: 0.00
+
+
+14:19:56.482  Sending benchmark results to server.
+14:19:56.484  -- Node 3
+block-execute   	avg: 1.65ms, max: 7.57ms, count: 220
+current-episode 	value: 366
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 366421
+message-process 	avg: 791.04us, max: 9.15ms, count: 1320
+proposal (since-start)	count: 4000
+request-queue   	avg: 675.57ms, max: 711.90ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 366, reportSequence=366500
+notify learning agent for episode 366, exchangeSequence=366600
+epoch: 366, received next protocol: pbft
+14:19:59.491  Sending benchmark results to server.
+14:19:59.492  -- Node 3
+block-execute   	avg: 1.56ms, max: 12.15ms, count: 218
+current-episode 	value: 366
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 366641
+message-process 	avg: 778.99us, max: 12.02ms, count: 1308
+proposal (since-start)	count: 4000
+request-queue   	avg: 691.90ms, max: 709.55ms
+slow-path       	ratio: 0.00
+
+
+14:20:02.502  Sending benchmark results to server.
+14:20:02.507  -- Node 3
+block-execute   	avg: 1.58ms, max: 12.21ms, count: 215
+current-episode 	value: 366
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 366855
+message-process 	avg: 752.94us, max: 11.61ms, count: 1290
+proposal (since-start)	count: 4000
+request-queue   	avg: 688.27ms, max: 714.22ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 366: protocol = pbft , throughput = 724.32req/s , episo
+de time = 13.806024s, overall time = 635.8803086280823s
+{3} nextProtocol = pbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  366
+{3} processCheckpoints, checkpointNum:  366
+{3} Update last stable checkpoint to  366
+{3} processCheckpoints, checkpointNum:  366
+14:20:05.510  Sending benchmark results to server.
+14:20:05.511  -- Node 3
+block-execute   	avg: 1.70ms, max: 6.07ms, count: 216
+current-episode 	value: 367
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 367072
+message-process 	avg: 827.32us, max: 8.58ms, count: 1296
+proposal (since-start)	count: 4000
+request-queue   	avg: 660.81ms, max: 715.00ms
+slow-path       	ratio: 0.00
+
+
+14:20:08.508  Sending benchmark results to server.
+14:20:08.508  -- Node 3
+block-execute   	avg: 1.61ms, max: 9.64ms, count: 217
+current-episode 	value: 367
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 367289
+message-process 	avg: 776.98us, max: 9.28ms, count: 1305
+proposal (since-start)	count: 4000
+request-queue   	avg: 649.80ms, max: 718.94ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 367, reportSequence=367500
+14:20:11.516  Sending benchmark results to server.
+14:20:11.517  -- Node 3
+block-execute   	avg: 1.63ms, max: 9.15ms, count: 220
+current-episode 	value: 367
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 367510
+message-process 	avg: 773.72us, max: 8.43ms, count: 1317
+proposal (since-start)	count: 4000
+request-queue   	avg: 681.86ms, max: 717.41ms
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 367, exchangeSequence=367600
+epoch: 367, received next protocol: zyzzyva
+14:20:14.527  Sending benchmark results to server.
+14:20:14.528  -- Node 3
+block-execute   	avg: 1.47ms, max: 2.90ms, count: 219
+current-episode 	value: 367
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 367729
+message-process 	avg: 717.14us, max: 10.12ms, count: 1314
+proposal (since-start)	count: 4000
+request-queue   	avg: 685.36ms, max: 709.68ms
+slow-path       	ratio: 0.00
+
+
+14:20:17.532  Sending benchmark results to server.
+14:20:17.533  -- Node 3
+block-execute   	avg: 1.75ms, max: 11.10ms, count: 217
+current-episode 	value: 367
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 367945
+message-process 	avg: 837.03us, max: 10.15ms, count: 1302
+proposal (since-start)	count: 4000
+request-queue   	avg: 688.02ms, max: 706.51ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 367: protocol = pbft , throughput = 726.97req/s , episo
+de time = 13.75568s, overall time = 649.6359887123108s
+{3} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  367
+{3} processCheckpoints, checkpointNum:  367
+{3} Update last stable checkpoint to  367
+{3} processCheckpoints, checkpointNum:  367
+14:20:20.531  Sending benchmark results to server.
+14:20:20.533  -- Node 3
+block-execute   	avg: 912.59us, max: 5.82ms, count: 220
+current-episode 	value: 368
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 368166
+message-process 	avg: 819.31us, max: 5.17ms, count: 785
+proposal (since-start)	count: 4000
+request-queue   	avg: 610.10ms, max: 704.10ms
+slow-path       	ratio: 0.00
+
+
+14:20:23.535  Sending benchmark results to server.
+14:20:23.536  -- Node 3
+block-execute   	avg: 82.20us, max: 333.87us, count: 219
+current-episode 	value: 368
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 368387
+message-process 	avg: 752.10us, max: 2.48ms, count: 219
+proposal (since-start)	count: 4000
+request-queue   	avg: 681.45ms, max: 705.13ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 368, reportSequence=368500
+notify learning agent for episode 368, exchangeSequence=368600
+epoch: 368, received next protocol: prime
+14:20:26.536  Sending benchmark results to server.
+14:20:26.537  -- Node 3
+block-execute   	avg: 93.78us, max: 1.10ms, count: 219
+current-episode 	value: 368
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 368605
+message-process 	avg: 750.95us, max: 3.57ms, count: 219
+proposal (since-start)	count: 4000
+request-queue   	avg: 685.30ms, max: 699.10ms
+slow-path       	ratio: 0.00
+
+
+14:20:29.541  Sending benchmark results to server.
+14:20:29.542  -- Node 3
+block-execute   	avg: 86.94us, max: 439.75us, count: 220
+current-episode 	value: 368
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 368826
+message-process 	avg: 756.93us, max: 2.84ms, count: 220
+proposal (since-start)	count: 4000
+request-queue   	avg: 681.51ms, max: 706.73ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  368
+[EPISODE REPORT] episode 368: protocol = zyzzyva , throughput = 733.22req/s , ep
+isode time = 13.638482s, overall time = 663.2744708061218s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  368
+{3} Update last stable checkpoint to  368
+{3} processCheckpoints, checkpointNum:  368
+14:20:32.543  Sending benchmark results to server.
+14:20:32.543  -- Node 3
+block-execute   	avg: 94.84us, max: 1.62ms, count: 220
+current-episode 	value: 369
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 369282
+message-process 	avg: 812.90us, max: 10.77ms, count: 220
+proposal (since-start)	count: 4000
+request-queue   	avg: 677.01ms, max: 698.33ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 369, reportSequence=369500
+notify learning agent for episode 369, exchangeSequence=369600
+epoch: 369, received next protocol: zyzzyva
+[EPISODE REPORT] episode 369: protocol = prime , throughput = 4528.61req/s , epi
+sode time = 2.208181s, overall time = 665.4826517105103s
+{3} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  369
+{3} processCheckpoints, checkpointNum:  369
+{3} Update last stable checkpoint to  369
+{3} processCheckpoints, checkpointNum:  369
+14:20:35.552  Sending benchmark results to server.
+14:20:35.554  -- Node 3
+block-execute   	avg: 75.35ms, max: 112.08ms, count: 1059
+current-episode 	value: 370
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 370107
+message-process 	avg: 322.29us, max: 3.98ms, count: 6227
+proposal (since-start)	count: 4000
+request-queue   	avg: 42.65ms, max: 687.03ms
+slow-path       	ratio: 0.00
+
+
+14:20:38.558  Sending benchmark results to server.
+14:20:38.560  -- Node 3
+block-execute   	avg: 101.64us, max: 572.79us, count: 223
+current-episode 	value: 370
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 370330
+message-process 	avg: 785.78us, max: 2.07ms, count: 223
+proposal (since-start)	count: 4000
+request-queue   	avg: 671.60ms, max: 693.87ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 370, reportSequence=370500
+14:20:41.568  Sending benchmark results to server.
+14:20:41.569  -- Node 3
+block-execute   	avg: 90.73us, max: 343.41us, count: 223
+current-episode 	value: 370
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 370553
+message-process 	avg: 797.60us, max: 7.75ms, count: 223
+proposal (since-start)	count: 4000
+request-queue   	avg: 671.41ms, max: 685.30ms
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 370, exchangeSequence=370600
+epoch: 370, received next protocol: prime
+14:20:44.575  Sending benchmark results to server.
+14:20:44.576  -- Node 3
+block-execute   	avg: 88.67us, max: 799.95us, count: 222
+current-episode 	value: 370
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 370775
+message-process 	avg: 743.20us, max: 4.33ms, count: 222
+proposal (since-start)	count: 4000
+request-queue   	avg: 675.75ms, max: 697.32ms
+slow-path       	ratio: 0.00
+
+
+14:20:47.585  Sending benchmark results to server.
+14:20:47.586  -- Node 3
+block-execute   	avg: 90.11us, max: 761.25us, count: 219
+current-episode 	value: 370
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 370994
+message-process 	avg: 768.54us, max: 2.34ms, count: 219
+proposal (since-start)	count: 4000
+request-queue   	avg: 681.35ms, max: 706.77ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  370
+[EPISODE REPORT] episode 370: protocol = zyzzyva , throughput = 737.27req/s , ep
+isode time = 13.563618s, overall time = 679.0462694168091s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  370
+{3} Update last stable checkpoint to  370
+{3} processCheckpoints, checkpointNum:  370
+sending report for episode 371, reportSequence=371500
+notify learning agent for episode 371, exchangeSequence=371600
+epoch: 371, received next protocol: cheapbft
+[EPISODE REPORT] episode 371: protocol = prime , throughput = 4476.57req/s , epi
+sode time = 2.2338512s, overall time = 681.2801206111908s
+{3} nextProtocol = cheapbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  371
+{3} processCheckpoints, checkpointNum:  371
+{3} Update last stable checkpoint to  371
+{3} processCheckpoints, checkpointNum:  371
+14:20:50.587  Sending benchmark results to server.
+14:20:50.588  -- Node 3
+block-execute   	avg: 73.58ms, max: 112.12ms, count: 1016
+current-episode 	value: 372
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 372048
+message-process 	avg: 334.61us, max: 4.33ms, count: 6056
+proposal (since-start)	count: 4000
+request-queue   	avg: 66.05ms, max: 707.63ms
+slow-path       	ratio: 0.00
+
+
+14:20:53.591  Sending benchmark results to server.
+14:20:53.592  -- Node 3
+block-execute   	avg: 17.77ms, max: 108.47ms, count: 256
+current-episode 	value: 372
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 372268
+message-process 	avg: 656.72us, max: 8.16ms, count: 790
+proposal (since-start)	count: 4000
+request-queue   	avg: 545.45ms, max: 732.62ms
+slow-path       	ratio: 0.00
+
+
+14:20:56.596  Sending benchmark results to server.
+14:20:56.598  -- Node 3
+block-execute   	avg: 68.19us, max: 368.16us, count: 222
+current-episode 	value: 372
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 372491
+message-process 	avg: 782.50us, max: 9.75ms, count: 666
+proposal (since-start)	count: 4000
+request-queue   	avg: 676.05ms, max: 702.27ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 372, reportSequence=372500
+notify learning agent for episode 372, exchangeSequence=372600
+epoch: 372, received next protocol: prime
+14:20:59.605  Sending benchmark results to server.
+14:20:59.605  -- Node 3
+block-execute   	avg: 61.91us, max: 1.14ms, count: 223
+current-episode 	value: 372
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 372714
+message-process 	avg: 789.52us, max: 10.94ms, count: 670
+proposal (since-start)	count: 4000
+request-queue   	avg: 673.81ms, max: 691.41ms
+slow-path       	ratio: 0.00
+
+
+14:21:02.607  Sending benchmark results to server.
+14:21:02.609  -- Node 3
+block-execute   	avg: 62.39us, max: 331.91us, count: 221
+current-episode 	value: 372
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 372934
+message-process 	avg: 777.78us, max: 10.86ms, count: 663
+proposal (since-start)	count: 4000
+request-queue   	avg: 676.67ms, max: 707.01ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  372
+{3} processCheckpoints, checkpointNum:  372
+{3} Update last stable checkpoint to  372
+[EPISODE REPORT] episode 372: protocol = cheapbft , throughput = 735.50req/s , e
+pisode time = 13.596269s, overall time = 694.8763892650604s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  372
+sending report for episode 373, reportSequence=373500
+notify learning agent for episode 373, exchangeSequence=373600
+epoch: 373, received next protocol: sbft
+14:21:05.610  Sending benchmark results to server.
+14:21:05.610  -- Node 3
+block-execute   	avg: 64.54ms, max: 108.53ms, count: 681
+current-episode 	value: 373
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 373949
+message-process 	avg: 385.48us, max: 9.69ms, count: 3933
+proposal (since-start)	count: 4000
+request-queue   	avg: 147.68ms, max: 697.53ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 373: protocol = prime , throughput = 4651.57req/s , epi
+sode time = 2.1498117s, overall time = 697.0262010097504s
+{3} nextProtocol = sbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  373
+{3} processCheckpoints, checkpointNum:  373
+{3} Update last stable checkpoint to  373
+{3} processCheckpoints, checkpointNum:  373
+14:21:08.618  Sending benchmark results to server.
+14:21:08.619  -- Node 3
+block-execute   	avg: 60.47ms, max: 111.02ms, count: 601
+current-episode 	value: 374
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 374217
+message-process 	avg: 358.52us, max: 4.12ms, count: 2922
+proposal (since-start)	count: 4000
+request-queue   	avg: 163.20ms, max: 694.70ms
+slow-path       	ratio: 0.00
+
+
+14:21:11.627  Sending benchmark results to server.
+14:21:11.628  -- Node 3
+block-execute   	avg: 1.25ms, max: 13.18ms, count: 217
+current-episode 	value: 374
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 374435
+message-process 	avg: 577.58us, max: 10.24ms, count: 434
+proposal (since-start)	count: 4000
+request-queue   	avg: 688.01ms, max: 713.63ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 374, reportSequence=374500
+notify learning agent for episode 374, exchangeSequence=374600
+epoch: 374, received next protocol: prime
+14:21:14.638  Sending benchmark results to server.
+14:21:14.638  -- Node 3
+block-execute   	avg: 1.15ms, max: 10.85ms, count: 216
+current-episode 	value: 374
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 374652
+message-process 	avg: 542.42us, max: 1.40ms, count: 432
+proposal (since-start)	count: 4000
+request-queue   	avg: 695.76ms, max: 714.65ms
+slow-path       	ratio: 0.00
+
+
+14:21:17.638  Sending benchmark results to server.
+14:21:17.640  -- Node 3
+block-execute   	avg: 1.23ms, max: 8.83ms, count: 220
+current-episode 	value: 374
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 374875
+message-process 	avg: 599.95us, max: 8.32ms, count: 441
+proposal (since-start)	count: 4000
+request-queue   	avg: 676.13ms, max: 701.18ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  374
+[EPISODE REPORT] episode 374: protocol = sbft , throughput = 732.50req/s , episo
+de time = 13.651849s, overall time = 710.6780498027802s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  374
+{3} Update last stable checkpoint to  374
+{3} processCheckpoints, checkpointNum:  374
+sending report for episode 375, reportSequence=375500
+14:21:20.637  Sending benchmark results to server.
+14:21:20.637  -- Node 3
+block-execute   	avg: 35.05ms, max: 111.91ms, count: 385
+current-episode 	value: 375
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 375588
+message-process 	avg: 428.24us, max: 3.29ms, count: 1709
+proposal (since-start)	count: 4000
+request-queue   	avg: 330.91ms, max: 684.75ms
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 375, exchangeSequence=375600
+epoch: 375, received next protocol: pbft
+[EPISODE REPORT] episode 375: protocol = prime , throughput = 4519.32req/s , epi
+sode time = 2.21272s, overall time = 712.8907697200775s
+{3} nextProtocol = pbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  375
+{3} processCheckpoints, checkpointNum:  375
+{3} Update last stable checkpoint to  375
+{3} processCheckpoints, checkpointNum:  375
+14:21:23.649  Sending benchmark results to server.
+14:21:23.650  -- Node 3
+block-execute   	avg: 73.59ms, max: 108.42ms, count: 896
+current-episode 	value: 376
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 376152
+message-process 	avg: 366.36us, max: 5.77ms, count: 5360
+proposal (since-start)	count: 4000
+request-queue   	avg: 66.19ms, max: 702.67ms
+slow-path       	ratio: 0.00
+
+
+14:21:26.654  Sending benchmark results to server.
+14:21:26.655  -- Node 3
+block-execute   	avg: 1.46ms, max: 4.80ms, count: 216
+current-episode 	value: 376
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 376372
+message-process 	avg: 700.84us, max: 11.24ms, count: 1296
+proposal (since-start)	count: 4000
+request-queue   	avg: 696.71ms, max: 734.05ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 376, reportSequence=376500
+14:21:29.660  Sending benchmark results to server.
+14:21:29.661  -- Node 3
+block-execute   	avg: 1.70ms, max: 10.56ms, count: 220
+current-episode 	value: 376
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 376590
+message-process 	avg: 812.09us, max: 9.86ms, count: 1320
+proposal (since-start)	count: 4000
+request-queue   	avg: 676.39ms, max: 700.79ms
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 376, exchangeSequence=376600
+epoch: 376, received next protocol: hotstuff
+14:21:32.665  Sending benchmark results to server.
+14:21:32.667  -- Node 3
+block-execute   	avg: 1.57ms, max: 10.51ms, count: 215
+current-episode 	value: 376
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 376805
+message-process 	avg: 735.64us, max: 9.78ms, count: 1290
+proposal (since-start)	count: 4000
+request-queue   	avg: 695.22ms, max: 709.87ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 376: protocol = pbft , throughput = 721.81req/s , episo
+de time = 13.854086s, overall time = 726.7448556423187s
+{3} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+{3} processCheckpoints, checkpointNum:  376
+{3} processCheckpoints, checkpointNum:  376
+{3} Update last stable checkpoint to  376
+{3} processCheckpoints, checkpointNum:  376
+14:21:35.675  Sending benchmark results to server.
+14:21:35.676  -- Node 3
+block-execute   	avg: 1.58ms, max: 8.84ms, count: 216
+current-episode 	value: 377
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 377021
+message-process 	avg: 775.83us, max: 10.95ms, count: 1297
+proposal (since-start)	count: 4000
+request-queue   	avg: 689.79ms, max: 700.85ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 377, reportSequence=377500
+notify learning agent for episode 377, exchangeSequence=377600
+epoch: 377, received next protocol: prime
+14:21:38.672  Sending benchmark results to server.
+14:21:38.673  -- Node 3
+block-execute   	avg: 10.76ms, max: 29.26ms, count: 594
+current-episode 	value: 377
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 377814
+message-process 	avg: 2.98ms, max: 13.47ms, count: 3680
+proposal (since-start)	count: 4200
+request-queue   	avg: 239.73ms, max: 713.25ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 377: protocol = hotstuff , throughput = 2567.89req/s ,
+episode time = 3.8942482s, overall time = 730.6391038894653s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  377
+{3} processCheckpoints, checkpointNum:  377
+{3} Update last stable checkpoint to  377
+{3} processCheckpoints, checkpointNum:  377
+sending report for episode 378, reportSequence=378500
+notify learning agent for episode 378, exchangeSequence=378600
+epoch: 378, received next protocol: sbft
+[EPISODE REPORT] episode 378: protocol = prime , throughput = 4603.83req/s , epi
+sode time = 2.1721046s, overall time = 732.811208486557s
+{3} nextProtocol = sbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  378
+{3} processCheckpoints, checkpointNum:  378
+{3} Update last stable checkpoint to  378
+{3} processCheckpoints, checkpointNum:  378
+14:21:41.678  Sending benchmark results to server.
+14:21:41.678  -- Node 3
+block-execute   	avg: 53.03ms, max: 113.81ms, count: 1104
+current-episode 	value: 379
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 379017
+message-process 	avg: 1.87ms, max: 16.35ms, count: 6959
+proposal (since-start)	count: 4250
+request-queue   	avg: 76.72ms, max: 665.96ms
+slow-path       	ratio: 0.00
+
+
+14:21:44.689  Sending benchmark results to server.
+14:21:44.690  -- Node 3
+block-execute   	avg: 54.78ms, max: 108.35ms, count: 515
+current-episode 	value: 379
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 379238
+message-process 	avg: 344.69us, max: 5.47ms, count: 2389
+proposal (since-start)	count: 4250
+request-queue   	avg: 206.30ms, max: 701.99ms
+slow-path       	ratio: 0.00
+
+
+14:21:47.697  Sending benchmark results to server.
+14:21:47.698  -- Node 3
+block-execute   	avg: 1.25ms, max: 11.67ms, count: 222
+current-episode 	value: 379
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 379458
+message-process 	avg: 598.03us, max: 10.97ms, count: 444
+proposal (since-start)	count: 4250
+request-queue   	avg: 674.31ms, max: 694.59ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 379, reportSequence=379500
+notify learning agent for episode 379, exchangeSequence=379600
+epoch: 379, received next protocol: prime
+14:21:50.700  Sending benchmark results to server.
+14:21:50.700  -- Node 3
+block-execute   	avg: 1.20ms, max: 6.21ms, count: 221
+current-episode 	value: 379
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 379680
+message-process 	avg: 586.68us, max: 5.77ms, count: 442
+proposal (since-start)	count: 4250
+request-queue   	avg: 679.03ms, max: 708.08ms
+slow-path       	ratio: 0.00
+
+
+14:21:53.709  Sending benchmark results to server.
+14:21:53.710  -- Node 3
+block-execute   	avg: 1.12ms, max: 13.89ms, count: 217
+current-episode 	value: 379
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 379897
+message-process 	avg: 497.26us, max: 2.59ms, count: 434
+proposal (since-start)	count: 4250
+request-queue   	avg: 685.66ms, max: 709.51ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  379
+[EPISODE REPORT] episode 379: protocol = sbft , throughput = 732.11req/s , episo
+de time = 13.6590605s, overall time = 746.4702689647675s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  379
+{3} Update last stable checkpoint to  379
+{3} processCheckpoints, checkpointNum:  379
+sending report for episode 380, reportSequence=380500
+notify learning agent for episode 380, exchangeSequence=380600
+epoch: 380, received next protocol: sbft
+14:21:56.711  Sending benchmark results to server.
+14:21:56.712  -- Node 3
+block-execute   	avg: 45.41ms, max: 107.97ms, count: 425
+current-episode 	value: 380
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 380749
+message-process 	avg: 379.18us, max: 10.17ms, count: 2190
+proposal (since-start)	count: 4250
+request-queue   	avg: 269.82ms, max: 705.15ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 380: protocol = prime , throughput = 4664.22req/s , epi
+sode time = 2.1439831s, overall time = 748.6142520904541s
+{3} nextProtocol = sbft
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  380
+{3} processCheckpoints, checkpointNum:  380
+{3} Update last stable checkpoint to  380
+{3} processCheckpoints, checkpointNum:  380
+14:21:59.717  Sending benchmark results to server.
+14:21:59.718  -- Node 3
+block-execute   	avg: 70.17ms, max: 108.31ms, count: 860
+current-episode 	value: 381
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 381185
+message-process 	avg: 333.53us, max: 4.62ms, count: 4540
+proposal (since-start)	count: 4250
+request-queue   	avg: 85.92ms, max: 670.04ms
+slow-path       	ratio: 0.00
+
+
+14:22:02.719  Sending benchmark results to server.
+14:22:02.720  -- Node 3
+block-execute   	avg: 1.32ms, max: 10.23ms, count: 224
+current-episode 	value: 381
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 381406
+message-process 	avg: 625.87us, max: 6.47ms, count: 448
+proposal (since-start)	count: 4250
+request-queue   	avg: 667.60ms, max: 681.37ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 381, reportSequence=381500
+notify learning agent for episode 381, exchangeSequence=381600
+epoch: 381, received next protocol: prime
+14:22:05.722  Sending benchmark results to server.
+14:22:05.722  -- Node 3
+block-execute   	avg: 1.12ms, max: 4.23ms, count: 218
+current-episode 	value: 381
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 381625
+message-process 	avg: 547.08us, max: 1.75ms, count: 436
+proposal (since-start)	count: 4250
+request-queue   	avg: 688.18ms, max: 714.52ms
+slow-path       	ratio: 0.00
+
+
+14:22:08.728  Sending benchmark results to server.
+14:22:08.729  -- Node 3
+block-execute   	avg: 1.25ms, max: 14.17ms, count: 223
+current-episode 	value: 381
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 381850
+message-process 	avg: 556.07us, max: 5.92ms, count: 446
+proposal (since-start)	count: 4250
+request-queue   	avg: 672.18ms, max: 701.55ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  381
+[EPISODE REPORT] episode 381: protocol = sbft , throughput = 737.86req/s , episo
+de time = 13.552644s, overall time = 762.166895866394s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  381
+{3} Update last stable checkpoint to  381
+{3} processCheckpoints, checkpointNum:  381
+14:22:11.728  Sending benchmark results to server.
+14:22:11.728  -- Node 3
+block-execute   	avg: 1.26ms, max: 3.37ms, count: 219
+current-episode 	value: 382
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 382412
+message-process 	avg: 611.11us, max: 2.42ms, count: 438
+proposal (since-start)	count: 4250
+request-queue   	avg: 680.42ms, max: 708.19ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 382, reportSequence=382500
+notify learning agent for episode 382, exchangeSequence=382600
+epoch: 382, received next protocol: prime
+[EPISODE REPORT] episode 382: protocol = prime , throughput = 4590.87req/s , epi
+sode time = 2.1782365s, overall time = 764.3451323509216s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  382
+{3} processCheckpoints, checkpointNum:  382
+{3} Update last stable checkpoint to  382
+{3} processCheckpoints, checkpointNum:  382
+sending report for episode 383, reportSequence=383500
+notify learning agent for episode 383, exchangeSequence=383600
+epoch: 383, received next protocol: prime
+14:22:14.738  Sending benchmark results to server.
+14:22:14.738  -- Node 3
+block-execute   	avg: 79.67ms, max: 111.43ms, count: 1306
+current-episode 	value: 383
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 383799
+message-process 	avg: 329.96us, max: 4.43ms, count: 8328
+proposal (since-start)	count: 4250
+request-queue   	avg: 24.58ms, max: 689.65ms
+slow-path       	ratio: 0.00
+
+
+{3} processCheckpoints, checkpointNum:  383
+[EPISODE REPORT] episode 383: protocol = prime , throughput = 4648.50req/s , epi
+sode time = 2.1512308s, overall time = 766.4963631629944s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  383
+{3} Update last stable checkpoint to  383
+{3} processCheckpoints, checkpointNum:  383
+sending report for episode 384, reportSequence=384500
+notify learning agent for episode 384, exchangeSequence=384600
+epoch: 384, received next protocol: prime
+[EPISODE REPORT] episode 384: protocol = prime , throughput = 4659.49req/s , epi
+sode time = 2.1461577s, overall time = 768.642520904541s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  384
+{3} processCheckpoints, checkpointNum:  384
+{3} Update last stable checkpoint to  384
+{3} processCheckpoints, checkpointNum:  384
+14:22:17.748  Sending benchmark results to server.
+14:22:17.749  -- Node 3
+block-execute   	avg: 79.89ms, max: 108.32ms, count: 1400
+current-episode 	value: 385
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 385199
+message-process 	avg: 314.57us, max: 3.65ms, count: 8624
+proposal (since-start)	count: 4250
+request-queue   	avg: 19.64ms, max: 50.41ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 385, reportSequence=385500
+notify learning agent for episode 385, exchangeSequence=385600
+epoch: 385, received next protocol: prime
+[EPISODE REPORT] episode 385: protocol = prime , throughput = 4617.64req/s , epi
+sode time = 2.165607s, overall time = 770.8081278800964s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  385
+{3} processCheckpoints, checkpointNum:  385
+{3} Update last stable checkpoint to  385
+{3} processCheckpoints, checkpointNum:  385
+sending report for episode 386, reportSequence=386500
+14:22:20.759  Sending benchmark results to server.
+14:22:20.759  -- Node 3
+block-execute   	avg: 81.52ms, max: 108.50ms, count: 1400
+current-episode 	value: 386
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 386599
+message-process 	avg: 317.58us, max: 3.76ms, count: 8624
+proposal (since-start)	count: 4250
+request-queue   	avg: 19.45ms, max: 43.65ms
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 386, exchangeSequence=386600
+epoch: 386, received next protocol: prime
+[EPISODE REPORT] episode 386: protocol = prime , throughput = 4632.08req/s , epi
+sode time = 2.1588564s, overall time = 772.9669842720032s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  386
+{3} processCheckpoints, checkpointNum:  386
+{3} Update last stable checkpoint to  386
+{3} processCheckpoints, checkpointNum:  386
+sending report for episode 387, reportSequence=387500
+notify learning agent for episode 387, exchangeSequence=387600
+epoch: 387, received next protocol: prime
+{3} processCheckpoints, checkpointNum:  387
+[EPISODE REPORT] episode 387: protocol = prime , throughput = 4717.55req/s , epi
+sode time = 2.1197426s, overall time = 775.0867269039154s
+{3} nextProtocol = prime
+{3} processCheckpoints, checkpointNum:  387
+{3} Update last stable checkpoint to  387
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  387
+14:22:23.765  Sending benchmark results to server.
+14:22:23.766  -- Node 3
+block-execute   	avg: 80.41ms, max: 108.27ms, count: 1400
+current-episode 	value: 388
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 387999
+message-process 	avg: 312.12us, max: 3.84ms, count: 8624
+proposal (since-start)	count: 4250
+request-queue   	avg: 19.28ms, max: 42.41ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 388, reportSequence=388500
+notify learning agent for episode 388, exchangeSequence=388600
+epoch: 388, received next protocol: prime
+[EPISODE REPORT] episode 388: protocol = prime , throughput = 4646.31req/s , epi
+sode time = 2.1522448s, overall time = 777.2389717102051s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  388
+{3} processCheckpoints, checkpointNum:  388
+{3} Update last stable checkpoint to  388
+{3} processCheckpoints, checkpointNum:  388
+14:22:26.775  Sending benchmark results to server.
+14:22:26.775  -- Node 3
+block-execute   	avg: 80.22ms, max: 108.36ms, count: 1400
+current-episode 	value: 389
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 389399
+message-process 	avg: 310.96us, max: 3.85ms, count: 8624
+proposal (since-start)	count: 4250
+request-queue   	avg: 19.55ms, max: 43.98ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 389, reportSequence=389500
+notify learning agent for episode 389, exchangeSequence=389600
+epoch: 389, received next protocol: prime
+[EPISODE REPORT] episode 389: protocol = prime , throughput = 4606.30req/s , epi
+sode time = 2.1709409s, overall time = 779.4099125862122s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  389
+{3} processCheckpoints, checkpointNum:  389
+{3} Update last stable checkpoint to  389
+{3} processCheckpoints, checkpointNum:  389
+sending report for episode 390, reportSequence=390500
+notify learning agent for episode 390, exchangeSequence=390600
+epoch: 390, received next protocol: prime
+14:22:29.785  Sending benchmark results to server.
+14:22:29.786  -- Node 3
+block-execute   	avg: 81.41ms, max: 108.30ms, count: 1400
+current-episode 	value: 390
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 390799
+message-process 	avg: 310.31us, max: 3.47ms, count: 8464
+proposal (since-start)	count: 4250
+request-queue   	avg: 19.59ms, max: 41.99ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 390: protocol = prime , throughput = 4636.83req/s , epi
+sode time = 2.1566458s, overall time = 781.5665583610535s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  390
+{3} processCheckpoints, checkpointNum:  390
+{3} Update last stable checkpoint to  390
+{3} processCheckpoints, checkpointNum:  390
+sending report for episode 391, reportSequence=391500
+notify learning agent for episode 391, exchangeSequence=391600
+epoch: 391, received next protocol: prime
+[EPISODE REPORT] episode 391: protocol = prime , throughput = 4609.45req/s , epi
+sode time = 2.1694548s, overall time = 783.736013174057s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  391
+{3} processCheckpoints, checkpointNum:  391
+{3} Update last stable checkpoint to  391
+{3} processCheckpoints, checkpointNum:  391
+14:22:32.791  Sending benchmark results to server.
+14:22:32.792  -- Node 3
+block-execute   	avg: 81.10ms, max: 108.43ms, count: 1350
+current-episode 	value: 392
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 392199
+message-process 	avg: 308.22us, max: 3.39ms, count: 8476
+proposal (since-start)	count: 4250
+request-queue   	avg: 19.63ms, max: 44.40ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 392, reportSequence=392500
+notify learning agent for episode 392, exchangeSequence=392600
+epoch: 392, received next protocol: prime
+[EPISODE REPORT] episode 392: protocol = prime , throughput = 4627.04req/s , epi
+sode time = 2.1612093s, overall time = 785.8972225189209s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  392
+{3} processCheckpoints, checkpointNum:  392
+{3} Update last stable checkpoint to  392
+{3} processCheckpoints, checkpointNum:  392
+sending report for episode 393, reportSequence=393500
+14:22:35.799  Sending benchmark results to server.
+14:22:35.800  -- Node 3
+block-execute   	avg: 81.13ms, max: 108.41ms, count: 1400
+current-episode 	value: 393
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 393599
+message-process 	avg: 311.09us, max: 4.10ms, count: 8624
+proposal (since-start)	count: 4250
+request-queue   	avg: 19.84ms, max: 47.70ms
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 393, exchangeSequence=393600
+epoch: 393, received next protocol: prime
+[EPISODE REPORT] episode 393: protocol = prime , throughput = 4658.14req/s , epi
+sode time = 2.1467779s, overall time = 788.0440003871918s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  393
+{3} processCheckpoints, checkpointNum:  393
+{3} Update last stable checkpoint to  393
+{3} processCheckpoints, checkpointNum:  393
+sending report for episode 394, reportSequence=394500
+notify learning agent for episode 394, exchangeSequence=394600
+epoch: 394, received next protocol: prime
+[EPISODE REPORT] episode 394: protocol = prime , throughput = 4684.60req/s , epi
+sode time = 2.1346533s, overall time = 790.178653717041s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  394
+{3} processCheckpoints, checkpointNum:  394
+{3} Update last stable checkpoint to  394
+{3} processCheckpoints, checkpointNum:  394
+14:22:38.799  Sending benchmark results to server.
+14:22:38.800  -- Node 3
+block-execute   	avg: 80.14ms, max: 108.42ms, count: 1400
+current-episode 	value: 395
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 394999
+message-process 	avg: 315.32us, max: 3.95ms, count: 8624
+proposal (since-start)	count: 4250
+request-queue   	avg: 19.76ms, max: 43.52ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 395, reportSequence=395500
+notify learning agent for episode 395, exchangeSequence=395600
+epoch: 395, received next protocol: prime
+[EPISODE REPORT] episode 395: protocol = prime , throughput = 4629.40req/s , epi
+sode time = 2.1601074s, overall time = 792.3387610912323s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  395
+{3} processCheckpoints, checkpointNum:  395
+{3} Update last stable checkpoint to  395
+{3} processCheckpoints, checkpointNum:  395
+14:22:41.802  Sending benchmark results to server.
+14:22:41.802  -- Node 3
+block-execute   	avg: 80.15ms, max: 108.48ms, count: 1400
+current-episode 	value: 396
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 396349
+message-process 	avg: 318.58us, max: 6.19ms, count: 8624
+proposal (since-start)	count: 4250
+request-queue   	avg: 19.92ms, max: 66.89ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 396, reportSequence=396500
+notify learning agent for episode 396, exchangeSequence=396600
+epoch: 396, received next protocol: prime
+[EPISODE REPORT] episode 396: protocol = prime , throughput = 4641.85req/s , epi
+sode time = 2.1543155s, overall time = 794.4930765628815s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  396
+{3} processCheckpoints, checkpointNum:  396
+{3} Update last stable checkpoint to  396
+{3} processCheckpoints, checkpointNum:  396
+sending report for episode 397, reportSequence=397500
+notify learning agent for episode 397, exchangeSequence=397600
+epoch: 397, received next protocol: prime
+14:22:44.809  Sending benchmark results to server.
+14:22:44.809  -- Node 3
+block-execute   	avg: 80.73ms, max: 108.43ms, count: 1400
+current-episode 	value: 397
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 397749
+message-process 	avg: 301.29us, max: 3.19ms, count: 8598
+proposal (since-start)	count: 4250
+request-queue   	avg: 19.73ms, max: 52.32ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 397: protocol = prime , throughput = 4650.00req/s , epi
+sode time = 2.150539s, overall time = 796.6436154842377s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+{3} processCheckpoints, checkpointNum:  397
+{3} processCheckpoints, checkpointNum:  397
+{3} Update last stable checkpoint to  397
+{3} processCheckpoints, checkpointNum:  397
+sending report for episode 398, reportSequence=398500
+notify learning agent for episode 398, exchangeSequence=398600
+epoch: 398, received next protocol: prime
+{3} processCheckpoints, checkpointNum:  398
+{3} processCheckpoints, checkpointNum:  398
+{3} Update last stable checkpoint to  398
+{3} processCheckpoints, checkpointNum:  398
+[EPISODE REPORT] episode 398: protocol = prime , throughput = 4587.29req/s , epi
+sode time = 2.179937s, overall time = 798.8235523700714s
+{3} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:47.815  Sending benchmark results to server.
+14:22:47.815  -- Node 3
+block-execute   	avg: 81.70ms, max: 108.62ms, count: 1400
+current-episode 	value: 399
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 399149
+message-process 	avg: 319.25us, max: 4.10ms, count: 8393
+proposal (since-start)	count: 4250
+request-queue   	avg: 19.67ms, max: 43.14ms
+slow-path       	ratio: 0.00
+
+
+^C*** shutting down gRPC server since JVM is shutting down
+*** server shut down
+jaywang@Jays-MacBook-Pro code %

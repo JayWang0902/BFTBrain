@@ -1,0 +1,31 @@
+
+jaywang@Jays-MacBook-Pro scripts % cd ~/BFTBrain/code/learning/ && { [ -f ../../
+scripts/local_env.sh ] && source ../../scripts/local_env.sh; } ; python3 learnin
+g_agent.py -u 0 -p 9021 -n quadratic
+2026-11-04 13:21:59,117 - INFO - <module>:577 - grpc server running at [::]:9041
+.
+2026-11-04 13:21:59,121 - INFO - run_agent:520 - learning agent has been initial
+ized.
+2026-11-04 13:22:06,807 - INFO - run_agent:529 - episode 0: received learning re
+quest from bedrock entity, state=[0.00000000e+00 2.16140079e+00 4.00000000e+03 9
+.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=pbft
+^CTraceback (most recent call last):
+  File "/Users/jaywang/BFTBrain/code/learning/learning_agent.py", line 582, in <
+module>
+    run_agent(agent_stub)
+    ~~~~~~~~~^^^^^^^^^^^^
+  File "/Users/jaywang/BFTBrain/code/learning/learning_agent.py", line 524, in r
+un_agent
+    request = request_queue.get()
+  File "/opt/homebrew/Cellar/python@3.13/3.13.3_1/Frameworks/Python.framework/Ve
+rsions/3.13/lib/python3.13/queue.py", line 202, in get
+    self.not_empty.wait()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.3_1/Frameworks/Python.framework/Ve
+rsions/3.13/lib/python3.13/threading.py", line 359, in wait
+    waiter.acquire()
+    ~~~~~~~~~~~~~~^^
+KeyboardInterrupt
+
+jaywang@Jays-MacBook-Pro learning %

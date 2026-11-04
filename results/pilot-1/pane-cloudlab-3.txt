@@ -1,0 +1,1980 @@
+
+
+{2} processCheckpoints, checkpointNum:  657
+[EPISODE REPORT] episode 657: protocol = zyzzyva , throughput = 19203.29req/s ,
+episode time = 0.520744s, overall time = 357.6674114763737s
+{2} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  657
+{2} Update last stable checkpoint to  657
+{2} processCheckpoints, checkpointNum:  657
+sending report for episode 658, reportSequence=658500
+notify learning agent for episode 658, exchangeSequence=658600
+epoch: 658, received next protocol: zyzzyva
+{2} processCheckpoints, checkpointNum:  658
+[EPISODE REPORT] episode 658: protocol = zyzzyva , throughput = 16369.54req/s ,
+episode time = 0.61089075s, overall time = 358.2783022224903s
+{2} nextProtocol = zyzzyva
+{2} processCheckpoints, checkpointNum:  658
+{2} Update last stable checkpoint to  658
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  658
+sending report for episode 659, reportSequence=659500
+notify learning agent for episode 659, exchangeSequence=659600
+epoch: 659, received next protocol: zyzzyva
+{2} processCheckpoints, checkpointNum:  659
+[EPISODE REPORT] episode 659: protocol = zyzzyva , throughput = 16747.54req/s ,
+episode time = 0.5971027s, overall time = 358.8754049241543s
+{2} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  659
+{2} Update last stable checkpoint to  659
+{2} processCheckpoints, checkpointNum:  659
+sending report for episode 660, reportSequence=660500
+notify learning agent for episode 660, exchangeSequence=660600
+epoch: 660, received next protocol: zyzzyva
+{2} processCheckpoints, checkpointNum:  660
+[EPISODE REPORT] episode 660: protocol = zyzzyva , throughput = 17234.04req/s ,
+episode time = 0.58024687s, overall time = 359.45565178990364s
+{2} processCheckpoints, checkpointNum:  660
+{2} nextProtocol = zyzzyva
+{2} Update last stable checkpoint to  660
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  660
+13:42:00.855  Sending benchmark results to server.
+13:42:00.855  -- Node 2
+block-execute   	avg: 22.32us, max: 2.87ms, count: 4566
+current-episode 	value: 661
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 661452
+message-process 	avg: 277.11us, max: 6.27ms, count: 4679
+proposal (since-start)	count: 1250
+request-queue   	avg: 28.37ms, max: 350.61ms
+slow-path       	ratio: 0.00
+
+
+sending report for episode 661, reportSequence=661500
+13:42:03.861  Sending benchmark results to server.
+13:42:03.862  -- Node 2
+block-execute   	avg: 156.45us, max: 561.58us, count: 55
+current-episode 	value: 661
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 661508
+message-process 	avg: 1.48ms, max: 11.42ms, count: 55
+proposal (since-start)	count: 1250
+request-queue   	avg: 1.77s, max: 2.70s
+slow-path       	ratio: 0.00
+
+
+13:42:06.868  Sending benchmark results to server.
+13:42:06.870  -- Node 2
+block-execute   	avg: 154.43us, max: 577.66us, count: 57
+current-episode 	value: 661
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 661564
+message-process 	avg: 1.54ms, max: 4.81ms, count: 57
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.70s
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 661, exchangeSequence=661600
+epoch: 661, received next protocol: zyzzyva
+13:42:09.870  Sending benchmark results to server.
+13:42:09.872  -- Node 2
+block-execute   	avg: 164.15us, max: 704.95us, count: 56
+current-episode 	value: 661
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 661621
+message-process 	avg: 1.40ms, max: 3.14ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:42:12.871  Sending benchmark results to server.
+13:42:12.874  -- Node 2
+block-execute   	avg: 135.42us, max: 552.87us, count: 57
+current-episode 	value: 661
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 661677
+message-process 	avg: 1.28ms, max: 2.67ms, count: 57
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.65s, max: 2.65s
+slow-path       	ratio: 0.00
+
+
+13:42:15.878  Sending benchmark results to server.
+13:42:15.880  -- Node 2
+block-execute   	avg: 131.67us, max: 311.83us, count: 56
+current-episode 	value: 661
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 661733
+message-process 	avg: 1.34ms, max: 2.89ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:42:18.881  Sending benchmark results to server.
+13:42:18.882  -- Node 2
+block-execute   	avg: 187.65us, max: 1.50ms, count: 56
+current-episode 	value: 661
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 661789
+message-process 	avg: 1.34ms, max: 2.74ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:42:21.882  Sending benchmark results to server.
+13:42:21.884  -- Node 2
+block-execute   	avg: 174.40us, max: 684.45us, count: 56
+current-episode 	value: 661
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 661845
+message-process 	avg: 1.40ms, max: 2.81ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.68s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:42:24.887  Sending benchmark results to server.
+13:42:24.890  -- Node 2
+block-execute   	avg: 144.69us, max: 510.16us, count: 56
+current-episode 	value: 661
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 661902
+message-process 	avg: 1.44ms, max: 4.53ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:42:27.887  Sending benchmark results to server.
+13:42:27.890  -- Node 2
+block-execute   	avg: 141.35us, max: 457.12us, count: 56
+current-episode 	value: 661
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 661958
+message-process 	avg: 1.42ms, max: 3.58ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+{2} processCheckpoints, checkpointNum:  661
+[EPISODE REPORT] episode 661: protocol = zyzzyva , throughput = 330.28req/s , ep
+isode time = 30.27724s, overall time = 389.73289254307747s
+{2} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  661
+{2} Update last stable checkpoint to  661
+{2} processCheckpoints, checkpointNum:  661
+13:42:30.894  Sending benchmark results to server.
+13:42:30.895  -- Node 2
+block-execute   	avg: 175.43us, max: 781.45us, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662014
+message-process 	avg: 1.44ms, max: 3.02ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.47s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:42:33.899  Sending benchmark results to server.
+13:42:33.900  -- Node 2
+block-execute   	avg: 171.41us, max: 1.03ms, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662070
+message-process 	avg: 1.37ms, max: 2.56ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 1.81s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:42:36.902  Sending benchmark results to server.
+13:42:36.903  -- Node 2
+block-execute   	avg: 139.76us, max: 505.00us, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662126
+message-process 	avg: 1.40ms, max: 2.87ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:42:39.901  Sending benchmark results to server.
+13:42:39.903  -- Node 2
+block-execute   	avg: 140.79us, max: 341.95us, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662182
+message-process 	avg: 1.43ms, max: 3.35ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.68s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:42:42.903  Sending benchmark results to server.
+13:42:42.905  -- Node 2
+block-execute   	avg: 167.35us, max: 1.06ms, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662238
+message-process 	avg: 1.53ms, max: 9.64ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:42:45.906  Sending benchmark results to server.
+13:42:45.907  -- Node 2
+block-execute   	avg: 167.66us, max: 1.23ms, count: 57
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662295
+message-process 	avg: 1.39ms, max: 2.43ms, count: 57
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:42:48.908  Sending benchmark results to server.
+13:42:48.909  -- Node 2
+block-execute   	avg: 216.71us, max: 3.45ms, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662351
+message-process 	avg: 1.65ms, max: 4.71ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:42:51.908  Sending benchmark results to server.
+13:42:51.909  -- Node 2
+block-execute   	avg: 180.75us, max: 1.17ms, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662407
+message-process 	avg: 1.47ms, max: 2.74ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:42:54.914  Sending benchmark results to server.
+13:42:54.916  -- Node 2
+block-execute   	avg: 142.06us, max: 488.79us, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662463
+message-process 	avg: 1.36ms, max: 4.11ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+sending report for episode 662, reportSequence=662500
+13:42:57.916  Sending benchmark results to server.
+13:42:57.917  -- Node 2
+block-execute   	avg: 177.64us, max: 469.08us, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662519
+message-process 	avg: 1.51ms, max: 3.74ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.68s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:43:00.920  Sending benchmark results to server.
+13:43:00.921  -- Node 2
+block-execute   	avg: 137.33us, max: 612.12us, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662575
+message-process 	avg: 1.26ms, max: 5.12ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 662, exchangeSequence=662600
+epoch: 662, received next protocol: sbft
+13:43:03.923  Sending benchmark results to server.
+13:43:03.926  -- Node 2
+block-execute   	avg: 207.41us, max: 2.61ms, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662631
+message-process 	avg: 1.35ms, max: 3.89ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.68s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:43:06.929  Sending benchmark results to server.
+13:43:06.930  -- Node 2
+block-execute   	avg: 140.56us, max: 417.25us, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662687
+message-process 	avg: 1.31ms, max: 2.49ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:43:09.928  Sending benchmark results to server.
+13:43:09.930  -- Node 2
+block-execute   	avg: 157.99us, max: 583.95us, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662744
+message-process 	avg: 1.47ms, max: 3.57ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:43:12.933  Sending benchmark results to server.
+13:43:12.935  -- Node 2
+block-execute   	avg: 147.64us, max: 526.33us, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662800
+message-process 	avg: 1.47ms, max: 4.10ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:43:15.942  Sending benchmark results to server.
+13:43:15.944  -- Node 2
+block-execute   	avg: 162.71us, max: 640.04us, count: 57
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662856
+message-process 	avg: 1.35ms, max: 2.95ms, count: 57
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:43:18.943  Sending benchmark results to server.
+13:43:18.945  -- Node 2
+block-execute   	avg: 129.52us, max: 564.75us, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662912
+message-process 	avg: 1.30ms, max: 3.94ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:43:21.944  Sending benchmark results to server.
+13:43:21.946  -- Node 2
+block-execute   	avg: 152.22us, max: 874.12us, count: 56
+current-episode 	value: 662
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 662969
+message-process 	avg: 1.39ms, max: 3.72ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+{2} processCheckpoints, checkpointNum:  662
+[EPISODE REPORT] episode 662: protocol = zyzzyva , throughput = 187.05req/s , ep
+isode time = 53.462635s, overall time = 443.1955275833607s
+{2} nextProtocol = sbft
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  662
+{2} Update last stable checkpoint to  662
+{2} processCheckpoints, checkpointNum:  662
+13:43:24.950  Sending benchmark results to server.
+Config value not found: demo.enabled
+13:43:24.955  -- Node 2
+block-execute   	avg: 571.70us, max: 9.45ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663025
+message-process 	avg: 1.06ms, max: 2.41ms, count: 71
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.12s, max: 2.72s
+slow-path       	ratio: 0.00
+
+
+13:43:27.955  Sending benchmark results to server.
+13:43:27.957  -- Node 2
+block-execute   	avg: 1.73ms, max: 3.15ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663081
+message-process 	avg: 991.05us, max: 3.51ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.14s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:43:30.958  Sending benchmark results to server.
+13:43:30.960  -- Node 2
+block-execute   	avg: 1.93ms, max: 9.06ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663137
+message-process 	avg: 1.03ms, max: 5.28ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:43:33.964  Sending benchmark results to server.
+13:43:33.966  -- Node 2
+block-execute   	avg: 1.75ms, max: 3.50ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663193
+message-process 	avg: 1.01ms, max: 2.84ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.69s, max: 2.70s
+slow-path       	ratio: 0.00
+
+
+13:43:36.968  Sending benchmark results to server.
+13:43:36.971  -- Node 2
+block-execute   	avg: 1.70ms, max: 2.49ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663249
+message-process 	avg: 1.01ms, max: 2.83ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:43:39.974  Sending benchmark results to server.
+13:43:39.976  -- Node 2
+block-execute   	avg: 1.85ms, max: 10.88ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663305
+message-process 	avg: 941.12us, max: 2.15ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:43:42.978  Sending benchmark results to server.
+13:43:42.981  -- Node 2
+block-execute   	avg: 1.98ms, max: 5.50ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663361
+message-process 	avg: 1.04ms, max: 2.98ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:43:45.983  Sending benchmark results to server.
+13:43:45.984  -- Node 2
+block-execute   	avg: 2.00ms, max: 15.00ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663418
+message-process 	avg: 987.55us, max: 2.68ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:43:48.987  Sending benchmark results to server.
+13:43:48.989  -- Node 2
+block-execute   	avg: 1.68ms, max: 3.03ms, count: 57
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663474
+message-process 	avg: 1.04ms, max: 11.77ms, count: 114
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.65s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+sending report for episode 663, reportSequence=663500
+13:43:51.989  Sending benchmark results to server.
+13:43:51.990  -- Node 2
+block-execute   	avg: 1.69ms, max: 3.04ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663531
+message-process 	avg: 1.07ms, max: 11.21ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:43:54.995  Sending benchmark results to server.
+13:43:54.997  -- Node 2
+block-execute   	avg: 1.87ms, max: 6.85ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663587
+message-process 	avg: 1.02ms, max: 5.14ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.65s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 663, exchangeSequence=663600
+epoch: 663, received next protocol: zyzzyva
+13:43:57.998  Sending benchmark results to server.
+13:43:58.0  -- Node 2
+block-execute   	avg: 1.54ms, max: 2.30ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663643
+message-process 	avg: 1.01ms, max: 12.68ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:44:01.3  Sending benchmark results to server.
+13:44:01.4  -- Node 2
+block-execute   	avg: 2.10ms, max: 17.90ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663699
+message-process 	avg: 988.59us, max: 6.07ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.68s, max: 2.70s
+slow-path       	ratio: 0.00
+
+
+13:44:04.7  Sending benchmark results to server.
+13:44:04.9  -- Node 2
+block-execute   	avg: 1.69ms, max: 3.53ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663755
+message-process 	avg: 969.03us, max: 3.56ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:44:07.12  Sending benchmark results to server.
+13:44:07.14  -- Node 2
+block-execute   	avg: 1.80ms, max: 4.45ms, count: 56
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663811
+message-process 	avg: 959.39us, max: 3.12ms, count: 112
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:44:10.18  Sending benchmark results to server.
+13:44:10.21  -- Node 2
+block-execute   	avg: 1.85ms, max: 18.89ms, count: 57
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663867
+message-process 	avg: 927.71us, max: 4.15ms, count: 114
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:44:13.22  Sending benchmark results to server.
+13:44:13.24  -- Node 2
+block-execute   	avg: 1.86ms, max: 4.67ms, count: 55
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663924
+message-process 	avg: 1.00ms, max: 2.25ms, count: 110
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:44:16.26  Sending benchmark results to server.
+13:44:16.28  -- Node 2
+block-execute   	avg: 1.77ms, max: 3.12ms, count: 57
+current-episode 	value: 663
+current-protocol	value: sbft
+in-dark			value: false
+last-executed-sequence	num: 663980
+message-process 	avg: 1.01ms, max: 2.50ms, count: 114
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+{2} processCheckpoints, checkpointNum:  663
+[EPISODE REPORT] episode 663: protocol = sbft , throughput = 186.96req/s , episo
+de time = 53.48768s, overall time = 496.6832061111927s
+{2} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  663
+{2} Update last stable checkpoint to  663
+{2} processCheckpoints, checkpointNum:  663
+13:44:19.38  Sending benchmark results to server.
+13:44:19.39  -- Node 2
+block-execute   	avg: 1.09ms, max: 3.31ms, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664036
+message-process 	avg: 1.14ms, max: 2.70ms, count: 87
+proposal (since-start)	count: 1250
+request-queue   	avg: 1.87s, max: 2.72s
+slow-path       	ratio: 0.00
+
+
+13:44:22.34  Sending benchmark results to server.
+13:44:22.36  -- Node 2
+block-execute   	avg: 124.45us, max: 360.41us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664093
+message-process 	avg: 1.37ms, max: 3.09ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.39s, max: 2.66s
+slow-path       	ratio: 0.00
+
+
+13:44:25.37  Sending benchmark results to server.
+13:44:25.38  -- Node 2
+block-execute   	avg: 167.85us, max: 601.91us, count: 57
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664149
+message-process 	avg: 1.61ms, max: 4.22ms, count: 57
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.65s, max: 2.66s
+slow-path       	ratio: 0.00
+
+
+13:44:28.42  Sending benchmark results to server.
+13:44:28.44  -- Node 2
+block-execute   	avg: 145.09us, max: 472.75us, count: 55
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664205
+message-process 	avg: 1.51ms, max: 4.37ms, count: 55
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:44:31.45  Sending benchmark results to server.
+13:44:31.46  -- Node 2
+block-execute   	avg: 181.11us, max: 813.66us, count: 57
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664261
+message-process 	avg: 1.37ms, max: 4.23ms, count: 57
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:44:34.47  Sending benchmark results to server.
+13:44:34.48  -- Node 2
+block-execute   	avg: 146.20us, max: 706.95us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664317
+message-process 	avg: 1.41ms, max: 2.73ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:44:37.49  Sending benchmark results to server.
+13:44:37.50  -- Node 2
+block-execute   	avg: 172.17us, max: 796.95us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664373
+message-process 	avg: 1.47ms, max: 3.46ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:44:40.52  Sending benchmark results to server.
+13:44:40.53  -- Node 2
+block-execute   	avg: 173.77us, max: 404.70us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664430
+message-process 	avg: 1.49ms, max: 3.89ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.68s, max: 2.70s
+slow-path       	ratio: 0.00
+
+
+13:44:43.56  Sending benchmark results to server.
+13:44:43.57  -- Node 2
+block-execute   	avg: 170.67us, max: 478.54us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664486
+message-process 	avg: 1.55ms, max: 11.88ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+sending report for episode 664, reportSequence=664500
+13:44:46.63  Sending benchmark results to server.
+13:44:46.67  -- Node 2
+block-execute   	avg: 155.01us, max: 374.12us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664542
+message-process 	avg: 1.35ms, max: 2.84ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:44:49.67  Sending benchmark results to server.
+13:44:49.69  -- Node 2
+block-execute   	avg: 148.15us, max: 445.66us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664598
+message-process 	avg: 1.44ms, max: 4.33ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 664, exchangeSequence=664600
+epoch: 664, received next protocol: hotstuff
+13:44:52.71  Sending benchmark results to server.
+13:44:52.73  -- Node 2
+block-execute   	avg: 151.87us, max: 347.87us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664655
+message-process 	avg: 1.30ms, max: 2.41ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:44:55.75  Sending benchmark results to server.
+13:44:55.77  -- Node 2
+block-execute   	avg: 150.60us, max: 448.33us, count: 57
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664711
+message-process 	avg: 1.42ms, max: 4.02ms, count: 57
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.65s, max: 2.66s
+slow-path       	ratio: 0.00
+
+
+13:44:58.86  Sending benchmark results to server.
+13:44:58.86  -- Node 2
+block-execute   	avg: 158.27us, max: 490.79us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664767
+message-process 	avg: 1.37ms, max: 2.39ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:45:01.79  Sending benchmark results to server.
+13:45:01.80  -- Node 2
+block-execute   	avg: 139.81us, max: 528.75us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664823
+message-process 	avg: 1.25ms, max: 2.74ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.68s, max: 2.70s
+slow-path       	ratio: 0.00
+
+
+13:45:04.82  Sending benchmark results to server.
+13:45:04.83  -- Node 2
+block-execute   	avg: 157.01us, max: 565.54us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664879
+message-process 	avg: 1.45ms, max: 8.98ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:45:07.87  Sending benchmark results to server.
+13:45:07.87  -- Node 2
+block-execute   	avg: 92.22us, max: 857.62us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664935
+message-process 	avg: 971.82us, max: 2.29ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:45:10.88  Sending benchmark results to server.
+13:45:10.89  -- Node 2
+block-execute   	avg: 123.09us, max: 423.33us, count: 56
+current-episode 	value: 664
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 664992
+message-process 	avg: 1.28ms, max: 3.39ms, count: 56
+proposal (since-start)	count: 1250
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+{2} processCheckpoints, checkpointNum:  664
+[EPISODE REPORT] episode 664: protocol = zyzzyva , throughput = 187.14req/s , ep
+isode time = 53.434574s, overall time = 550.11778023839s
+{2} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+{2} processCheckpoints, checkpointNum:  664
+{2} Update last stable checkpoint to  664
+{2} processCheckpoints, checkpointNum:  664
+13:45:13.94  Sending benchmark results to server.
+13:45:13.95  -- Node 2
+block-execute   	avg: 821.38us, max: 3.03ms, count: 56
+current-episode 	value: 665
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 665047
+message-process 	avg: 491.31us, max: 1.78ms, count: 126
+proposal (since-start)	count: 1250
+request-queue   	avg: 1.71s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:45:16.94  Sending benchmark results to server.
+13:45:16.95  -- Node 2
+block-execute   	avg: 15.05ms, max: 35.12ms, count: 204
+current-episode 	value: 665
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 665401
+message-process 	avg: 13.76ms, max: 55.70ms, count: 1262
+proposal (since-start)	count: 1350
+request-queue   	avg: 706.83ms, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+sending report for episode 665, reportSequence=665500
+notify learning agent for episode 665, exchangeSequence=665600
+epoch: 665, received next protocol: prime
+13:45:19.101  Sending benchmark results to server.
+13:45:19.102  -- Node 2
+block-execute   	avg: 9.66ms, max: 22.83ms, count: 206
+current-episode 	value: 665
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 665606
+message-process 	avg: 9.49ms, max: 39.23ms, count: 1268
+proposal (since-start)	count: 1400
+request-queue   	avg: 711.08ms, max: 2.62s
+slow-path       	ratio: 0.00
+
+
+13:45:22.103  Sending benchmark results to server.
+13:45:22.104  -- Node 2
+block-execute   	avg: 13.34ms, max: 31.11ms, count: 204
+current-episode 	value: 665
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 665811
+message-process 	avg: 13.49ms, max: 53.43ms, count: 1268
+proposal (since-start)	count: 1450
+request-queue   	avg: 752.44ms, max: 2.61s
+slow-path       	ratio: 0.00
+
+
+{2} processCheckpoints, checkpointNum:  665
+[EPISODE REPORT] episode 665: protocol = hotstuff , throughput = 727.75req/s , e
+pisode time = 13.741044s, overall time = 563.8588242828846s
+{2} nextProtocol = prime
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  665
+{2} Update last stable checkpoint to  665
+{2} processCheckpoints, checkpointNum:  665
+13:45:25.106  Sending benchmark results to server.
+13:45:25.107  -- Node 2
+block-execute   	avg: 20.98ms, max: 98.34ms, count: 401
+current-episode 	value: 666
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 666399
+message-process 	avg: 9.89ms, max: 47.65ms, count: 2956
+proposal (since-start)	count: 1500
+request-queue   	avg: 434.25ms, max: 2.59s
+slow-path       	ratio: 0.00
+
+
+sending report for episode 666, reportSequence=666500
+notify learning agent for episode 666, exchangeSequence=666600
+epoch: 666, received next protocol: hotstuff
+[EPISODE REPORT] episode 666: protocol = prime , throughput = 4806.06req/s , epi
+sode time = 2.0807052s, overall time = 565.9395294487476s
+{2} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+{2} processCheckpoints, checkpointNum:  666
+{2} processCheckpoints, checkpointNum:  666
+{2} Update last stable checkpoint to  666
+{2} processCheckpoints, checkpointNum:  666
+13:45:28.113  Sending benchmark results to server.
+13:45:28.114  -- Node 2
+block-execute   	avg: 72.43ms, max: 103.91ms, count: 971
+current-episode 	value: 667
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 667034
+message-process 	avg: 350.79us, max: 6.62ms, count: 5615
+proposal (since-start)	count: 1500
+request-queue   	avg: 34.12ms, max: 1.07s
+slow-path       	ratio: 0.00
+
+
+13:45:31.114  Sending benchmark results to server.
+13:45:31.115  -- Node 2
+block-execute   	avg: 13.85ms, max: 29.36ms, count: 205
+current-episode 	value: 667
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 667239
+message-process 	avg: 10.22ms, max: 42.90ms, count: 1266
+proposal (since-start)	count: 1550
+request-queue   	avg: 680.24ms, max: 2.61s
+slow-path       	ratio: 0.00
+
+
+13:45:34.117  Sending benchmark results to server.
+13:45:34.118  -- Node 2
+block-execute   	avg: 14.85ms, max: 34.46ms, count: 205
+current-episode 	value: 667
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 667444
+message-process 	avg: 13.82ms, max: 52.49ms, count: 1265
+proposal (since-start)	count: 1600
+request-queue   	avg: 689.75ms, max: 2.60s
+slow-path       	ratio: 0.00
+
+
+sending report for episode 667, reportSequence=667500
+notify learning agent for episode 667, exchangeSequence=667600
+epoch: 667, received next protocol: zyzzyva
+13:45:37.124  Sending benchmark results to server.
+13:45:37.125  -- Node 2
+block-execute   	avg: 10.78ms, max: 26.41ms, count: 205
+current-episode 	value: 667
+current-protocol	value: hotstuff
+in-dark			value: false
+last-executed-sequence	num: 667719
+message-process 	avg: 10.05ms, max: 38.71ms, count: 1265
+proposal (since-start)	count: 1671
+request-queue   	avg: 688.51ms, max: 2.57s
+slow-path       	ratio: 0.00
+
+
+{2} processCheckpoints, checkpointNum:  667
+[EPISODE REPORT] episode 667: protocol = hotstuff , throughput = 733.50req/s , e
+pisode time = 13.633295s, overall time = 579.5728245079517s
+{2} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  667
+{2} Update last stable checkpoint to  667
+{2} processCheckpoints, checkpointNum:  667
+13:45:40.123  Sending benchmark results to server.
+13:45:40.123  -- Node 2
+block-execute   	avg: 9.79ms, max: 24.99ms, count: 206
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668003
+message-process 	avg: 10.79ms, max: 42.87ms, count: 1268
+proposal (since-start)	count: 1750
+request-queue   	avg: 704.45ms, max: 2.59s
+slow-path       	ratio: 0.00
+
+
+13:45:43.126  Sending benchmark results to server.
+13:45:43.128  -- Node 2
+block-execute   	avg: 11.54ms, max: 26.63ms, count: 204
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668059
+message-process 	avg: 12.77ms, max: 45.06ms, count: 1170
+proposal (since-start)	count: 1750
+request-queue   	avg: 706.32ms, max: 2.60s
+slow-path       	ratio: 0.00
+
+
+13:45:46.126  Sending benchmark results to server.
+13:45:46.127  -- Node 2
+block-execute   	avg: 113.78us, max: 731.29us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668115
+message-process 	avg: 1.06ms, max: 1.66ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.65s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:45:49.129  Sending benchmark results to server.
+13:45:49.130  -- Node 2
+block-execute   	avg: 133.17us, max: 1.14ms, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668171
+message-process 	avg: 1.24ms, max: 2.73ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:45:52.133  Sending benchmark results to server.
+13:45:52.134  -- Node 2
+block-execute   	avg: 62.40us, max: 257.95us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668227
+message-process 	avg: 921.09us, max: 2.42ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.70s, max: 2.71s
+slow-path       	ratio: 0.00
+
+
+13:45:55.134  Sending benchmark results to server.
+13:45:55.135  -- Node 2
+block-execute   	avg: 72.17us, max: 723.91us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668283
+message-process 	avg: 886.96us, max: 1.98ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:45:58.138  Sending benchmark results to server.
+13:45:58.140  -- Node 2
+block-execute   	avg: 144.04us, max: 507.20us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668339
+message-process 	avg: 1.32ms, max: 2.49ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:46:01.142  Sending benchmark results to server.
+13:46:01.143  -- Node 2
+block-execute   	avg: 150.38us, max: 776.75us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668396
+message-process 	avg: 1.38ms, max: 3.14ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:46:04.145  Sending benchmark results to server.
+13:46:04.147  -- Node 2
+block-execute   	avg: 181.99us, max: 904.08us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668452
+message-process 	avg: 1.63ms, max: 3.96ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+sending report for episode 668, reportSequence=668500
+13:46:07.143  Sending benchmark results to server.
+13:46:07.143  -- Node 2
+block-execute   	avg: 160.20us, max: 1.64ms, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668508
+message-process 	avg: 1.30ms, max: 4.96ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:46:10.151  Sending benchmark results to server.
+13:46:10.152  -- Node 2
+block-execute   	avg: 62.33us, max: 241.33us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668564
+message-process 	avg: 816.33us, max: 1.42ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 668, exchangeSequence=668600
+epoch: 668, received next protocol: cheapbft
+13:46:13.152  Sending benchmark results to server.
+13:46:13.154  -- Node 2
+block-execute   	avg: 150.20us, max: 787.62us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668620
+message-process 	avg: 1.38ms, max: 3.10ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:46:16.155  Sending benchmark results to server.
+13:46:16.157  -- Node 2
+block-execute   	avg: 195.24us, max: 1.39ms, count: 57
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668677
+message-process 	avg: 1.73ms, max: 4.32ms, count: 57
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:46:19.160  Sending benchmark results to server.
+13:46:19.162  -- Node 2
+block-execute   	avg: 163.90us, max: 403.83us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668733
+message-process 	avg: 1.53ms, max: 3.66ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.65s, max: 2.66s
+slow-path       	ratio: 0.00
+
+
+13:46:22.163  Sending benchmark results to server.
+13:46:22.165  -- Node 2
+block-execute   	avg: 137.43us, max: 423.04us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668789
+message-process 	avg: 1.39ms, max: 4.47ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:46:25.166  Sending benchmark results to server.
+13:46:25.168  -- Node 2
+block-execute   	avg: 142.63us, max: 519.12us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668845
+message-process 	avg: 1.33ms, max: 2.54ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.68s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:46:28.172  Sending benchmark results to server.
+13:46:28.173  -- Node 2
+block-execute   	avg: 130.71us, max: 371.95us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668901
+message-process 	avg: 1.29ms, max: 2.20ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:46:31.176  Sending benchmark results to server.
+13:46:31.178  -- Node 2
+block-execute   	avg: 162.30us, max: 634.20us, count: 56
+current-episode 	value: 668
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 668957
+message-process 	avg: 1.50ms, max: 5.39ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+{2} processCheckpoints, checkpointNum:  668
+[EPISODE REPORT] episode 668: protocol = zyzzyva , throughput = 187.06req/s , ep
+isode time = 53.459843s, overall time = 633.0326671898365s
+{2} nextProtocol = cheapbft
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  668
+{2} Update last stable checkpoint to  668
+{2} processCheckpoints, checkpointNum:  668
+13:46:34.175  Sending benchmark results to server.
+13:46:34.176  -- Node 2
+block-execute   	avg: 158.97us, max: 390.04us, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669014
+message-process 	avg: 1.50ms, max: 3.04ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:46:37.184  Sending benchmark results to server.
+13:46:37.186  -- Node 2
+block-execute   	avg: 339.94us, max: 677.41us, count: 57
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669070
+message-process 	avg: 1.06ms, max: 2.30ms, count: 113
+proposal (since-start)	count: 1750
+request-queue   	avg: 1.63s, max: 2.73s
+slow-path       	ratio: 0.00
+
+
+13:46:40.190  Sending benchmark results to server.
+13:46:40.191  -- Node 2
+block-execute   	avg: 380.39us, max: 836.20us, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669126
+message-process 	avg: 1.13ms, max: 2.45ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.65s, max: 2.66s
+slow-path       	ratio: 0.00
+
+
+13:46:43.194  Sending benchmark results to server.
+13:46:43.195  -- Node 2
+block-execute   	avg: 464.13us, max: 2.38ms, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669182
+message-process 	avg: 1.25ms, max: 3.39ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:46:46.196  Sending benchmark results to server.
+13:46:46.198  -- Node 2
+block-execute   	avg: 364.68us, max: 1.08ms, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669238
+message-process 	avg: 1.08ms, max: 3.58ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.68s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:46:49.196  Sending benchmark results to server.
+13:46:49.199  -- Node 2
+block-execute   	avg: 440.09us, max: 4.14ms, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669295
+message-process 	avg: 1.19ms, max: 8.48ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:46:52.197  Sending benchmark results to server.
+13:46:52.199  -- Node 2
+block-execute   	avg: 511.36us, max: 2.08ms, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669351
+message-process 	avg: 1.52ms, max: 9.45ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:46:55.200  Sending benchmark results to server.
+13:46:55.202  -- Node 2
+block-execute   	avg: 395.43us, max: 1.04ms, count: 57
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669408
+message-process 	avg: 1.05ms, max: 2.72ms, count: 114
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.65s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:46:58.205  Sending benchmark results to server.
+13:46:58.206  -- Node 2
+block-execute   	avg: 452.62us, max: 1.62ms, count: 57
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669464
+message-process 	avg: 1.36ms, max: 11.93ms, count: 114
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.64s, max: 2.65s
+slow-path       	ratio: 0.00
+
+
+sending report for episode 669, reportSequence=669500
+13:47:01.207  Sending benchmark results to server.
+13:47:01.210  -- Node 2
+block-execute   	avg: 390.17us, max: 802.79us, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669521
+message-process 	avg: 1.13ms, max: 2.67ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:47:04.213  Sending benchmark results to server.
+13:47:04.215  -- Node 2
+block-execute   	avg: 357.96us, max: 948.58us, count: 57
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669577
+message-process 	avg: 1.10ms, max: 2.08ms, count: 114
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.64s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 669, exchangeSequence=669600
+epoch: 669, received next protocol: zyzzyva
+13:47:07.221  Sending benchmark results to server.
+13:47:07.223  -- Node 2
+block-execute   	avg: 405.73us, max: 848.58us, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669634
+message-process 	avg: 1.24ms, max: 14.29ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.65s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:47:10.221  Sending benchmark results to server.
+13:47:10.222  -- Node 2
+block-execute   	avg: 399.47us, max: 986.00us, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669690
+message-process 	avg: 1.19ms, max: 2.85ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:47:13.221  Sending benchmark results to server.
+13:47:13.223  -- Node 2
+block-execute   	avg: 396.58us, max: 772.20us, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669746
+message-process 	avg: 1.15ms, max: 3.16ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:47:16.225  Sending benchmark results to server.
+13:47:16.226  -- Node 2
+block-execute   	avg: 413.28us, max: 1.09ms, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669802
+message-process 	avg: 1.17ms, max: 4.09ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:47:19.230  Sending benchmark results to server.
+13:47:19.232  -- Node 2
+block-execute   	avg: 338.62us, max: 778.00us, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669858
+message-process 	avg: 1.03ms, max: 2.31ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:47:22.229  Sending benchmark results to server.
+13:47:22.231  -- Node 2
+block-execute   	avg: 382.46us, max: 1.10ms, count: 57
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669915
+message-process 	avg: 1.50ms, max: 15.84ms, count: 114
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:47:25.236  Sending benchmark results to server.
+13:47:25.237  -- Node 2
+block-execute   	avg: 419.44us, max: 887.04us, count: 56
+current-episode 	value: 669
+current-protocol	value: cheapbft
+in-dark			value: false
+last-executed-sequence	num: 669971
+message-process 	avg: 1.19ms, max: 2.05ms, count: 112
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.65s, max: 2.66s
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 669: protocol = cheapbft , throughput = 187.50req/s , e
+pisode time = 53.333126s, overall time = 686.3657932579517s
+{2} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  669
+{2} processCheckpoints, checkpointNum:  669
+{2} Update last stable checkpoint to  669
+{2} processCheckpoints, checkpointNum:  669
+13:47:28.239  Sending benchmark results to server.
+13:47:28.241  -- Node 2
+block-execute   	avg: 356.13us, max: 1.54ms, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670027
+message-process 	avg: 1.17ms, max: 3.00ms, count: 100
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.22s, max: 2.74s
+slow-path       	ratio: 0.00
+
+
+13:47:31.244  Sending benchmark results to server.
+13:47:31.245  -- Node 2
+block-execute   	avg: 157.25us, max: 531.50us, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670083
+message-process 	avg: 1.54ms, max: 3.40ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.07s, max: 2.75s
+slow-path       	ratio: 0.00
+
+
+13:47:34.248  Sending benchmark results to server.
+13:47:34.249  -- Node 2
+block-execute   	avg: 165.37us, max: 872.33us, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670140
+message-process 	avg: 1.31ms, max: 2.21ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:47:37.252  Sending benchmark results to server.
+13:47:37.253  -- Node 2
+block-execute   	avg: 180.21us, max: 987.04us, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670196
+message-process 	avg: 1.44ms, max: 2.78ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:47:40.254  Sending benchmark results to server.
+13:47:40.256  -- Node 2
+block-execute   	avg: 175.23us, max: 824.79us, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670252
+message-process 	avg: 1.45ms, max: 3.62ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:47:43.259  Sending benchmark results to server.
+13:47:43.261  -- Node 2
+block-execute   	avg: 185.62us, max: 620.75us, count: 57
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670308
+message-process 	avg: 1.49ms, max: 4.18ms, count: 57
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:47:46.259  Sending benchmark results to server.
+13:47:46.260  -- Node 2
+block-execute   	avg: 165.09us, max: 1.69ms, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670365
+message-process 	avg: 1.38ms, max: 2.97ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.65s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:47:49.264  Sending benchmark results to server.
+13:47:49.265  -- Node 2
+block-execute   	avg: 187.99us, max: 1.57ms, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670421
+message-process 	avg: 1.36ms, max: 2.54ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.65s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:47:52.269  Sending benchmark results to server.
+13:47:52.270  -- Node 2
+block-execute   	avg: 161.39us, max: 1.07ms, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670477
+message-process 	avg: 1.31ms, max: 2.44ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+sending report for episode 670, reportSequence=670500
+13:47:55.274  Sending benchmark results to server.
+13:47:55.277  -- Node 2
+block-execute   	avg: 133.76us, max: 317.16us, count: 57
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670533
+message-process 	avg: 1.27ms, max: 2.48ms, count: 57
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:47:58.279  Sending benchmark results to server.
+13:47:58.281  -- Node 2
+block-execute   	avg: 145.94us, max: 368.33us, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670590
+message-process 	avg: 1.50ms, max: 3.10ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 670, exchangeSequence=670600
+epoch: 670, received next protocol: pbft
+13:48:01.280  Sending benchmark results to server.
+13:48:01.283  -- Node 2
+block-execute   	avg: 164.41us, max: 1.16ms, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670646
+message-process 	avg: 1.33ms, max: 2.85ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:48:04.282  Sending benchmark results to server.
+13:48:04.284  -- Node 2
+block-execute   	avg: 149.66us, max: 1.00ms, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670702
+message-process 	avg: 1.44ms, max: 2.98ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:48:07.289  Sending benchmark results to server.
+13:48:07.291  -- Node 2
+block-execute   	avg: 154.42us, max: 786.62us, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670758
+message-process 	avg: 1.26ms, max: 2.38ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:48:10.289  Sending benchmark results to server.
+13:48:10.292  -- Node 2
+block-execute   	avg: 151.63us, max: 520.66us, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670814
+message-process 	avg: 1.30ms, max: 3.87ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:48:13.294  Sending benchmark results to server.
+13:48:13.297  -- Node 2
+block-execute   	avg: 127.30us, max: 597.66us, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670870
+message-process 	avg: 1.48ms, max: 13.29ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.68s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:48:16.294  Sending benchmark results to server.
+13:48:16.299  -- Node 2
+block-execute   	avg: 175.17us, max: 1.41ms, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670926
+message-process 	avg: 1.37ms, max: 2.71ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:48:19.296  Sending benchmark results to server.
+13:48:19.298  -- Node 2
+block-execute   	avg: 166.28us, max: 711.58us, count: 56
+current-episode 	value: 670
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 670983
+message-process 	avg: 1.51ms, max: 3.35ms, count: 56
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+{2} processCheckpoints, checkpointNum:  670
+[EPISODE REPORT] episode 670: protocol = zyzzyva , throughput = 187.13req/s , ep
+isode time = 53.439255s, overall time = 739.8050480186939s
+{2} nextProtocol = pbft
+leader mode set to be stable for the next episode
+{2} processCheckpoints, checkpointNum:  670
+{2} Update last stable checkpoint to  670
+{2} processCheckpoints, checkpointNum:  670
+13:48:22.301  Sending benchmark results to server.
+13:48:22.303  -- Node 2
+block-execute   	avg: 1.08ms, max: 3.74ms, count: 57
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671039
+message-process 	avg: 1.22ms, max: 3.58ms, count: 171
+proposal (since-start)	count: 1750
+request-queue   	avg: 1.93s, max: 2.73s
+slow-path       	ratio: 0.00
+
+
+13:48:25.306  Sending benchmark results to server.
+13:48:25.307  -- Node 2
+block-execute   	avg: 2.39ms, max: 3.75ms, count: 56
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671095
+message-process 	avg: 1.16ms, max: 3.14ms, count: 337
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.35s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:48:28.308  Sending benchmark results to server.
+13:48:28.309  -- Node 2
+block-execute   	avg: 2.50ms, max: 3.87ms, count: 55
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671151
+message-process 	avg: 1.20ms, max: 2.36ms, count: 330
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.69s, max: 2.70s
+slow-path       	ratio: 0.00
+
+
+13:48:31.310  Sending benchmark results to server.
+13:48:31.312  -- Node 2
+block-execute   	avg: 2.72ms, max: 8.65ms, count: 57
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671207
+message-process 	avg: 1.33ms, max: 8.36ms, count: 342
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.65s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:48:34.315  Sending benchmark results to server.
+13:48:34.316  -- Node 2
+block-execute   	avg: 2.51ms, max: 3.98ms, count: 55
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671263
+message-process 	avg: 1.23ms, max: 3.33ms, count: 331
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.71s
+slow-path       	ratio: 0.00
+
+
+13:48:37.314  Sending benchmark results to server.
+13:48:37.316  -- Node 2
+block-execute   	avg: 2.71ms, max: 9.79ms, count: 57
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671319
+message-process 	avg: 1.27ms, max: 5.98ms, count: 341
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:48:40.318  Sending benchmark results to server.
+13:48:40.319  -- Node 2
+block-execute   	avg: 2.71ms, max: 9.91ms, count: 56
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671376
+message-process 	avg: 1.28ms, max: 9.08ms, count: 336
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+13:48:43.323  Sending benchmark results to server.
+13:48:43.325  -- Node 2
+block-execute   	avg: 2.35ms, max: 4.64ms, count: 56
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671432
+message-process 	avg: 1.14ms, max: 3.78ms, count: 336
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.69s
+slow-path       	ratio: 0.00
+
+
+13:48:46.327  Sending benchmark results to server.
+13:48:46.328  -- Node 2
+block-execute   	avg: 2.63ms, max: 5.99ms, count: 56
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671488
+message-process 	avg: 1.26ms, max: 4.81ms, count: 336
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+sending report for episode 671, reportSequence=671500
+13:48:49.329  Sending benchmark results to server.
+13:48:49.334  -- Node 2
+block-execute   	avg: 2.59ms, max: 9.87ms, count: 56
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671544
+message-process 	avg: 1.24ms, max: 9.10ms, count: 336
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.67s
+slow-path       	ratio: 0.00
+
+
+notify learning agent for episode 671, exchangeSequence=671600
+13:48:52.335  Sending benchmark results to server.
+13:48:52.336  -- Node 2
+block-execute   	avg: 2.35ms, max: 4.26ms, count: 56
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671600
+message-process 	avg: 1.14ms, max: 3.05ms, count: 336
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+epoch: 671, received next protocol: zyzzyva
+13:48:55.339  Sending benchmark results to server.
+13:48:55.341  -- Node 2
+block-execute   	avg: 2.29ms, max: 5.13ms, count: 56
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671656
+message-process 	avg: 1.11ms, max: 3.28ms, count: 336
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.66s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+13:48:58.339  Sending benchmark results to server.
+13:48:58.340  -- Node 2
+block-execute   	avg: 2.58ms, max: 7.84ms, count: 56
+current-episode 	value: 671
+current-protocol	value: pbft
+in-dark			value: false
+last-executed-sequence	num: 671712
+message-process 	avg: 1.23ms, max: 5.61ms, count: 336
+proposal (since-start)	count: 1750
+request-queue   	avg: 2.67s, max: 2.68s
+slow-path       	ratio: 0.00
+
+
+^C*** shutting down gRPC server since JVM is shutting down
+*** server shut down
+jaywang@Jays-MacBook-Pro code %

@@ -508,8 +508,8 @@ def run_agent(agent_stub):
 
     # create the csv file for debugging and offline training
     folder_name = "data/"
-    if not os.path.exists(folder_name):
-        os.makedirs(folder_name)
+    # exist_ok: several agents share this folder when run on one machine
+    os.makedirs(folder_name, exist_ok=True)
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     data_store = open(folder_name + timestamp + " u" + str(args.unit) + ".csv", 'w')
     csv_writer = csv.writer(data_store)

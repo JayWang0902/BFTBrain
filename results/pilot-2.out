@@ -1,0 +1,54 @@
+Throughput samples (req/s):
+5163.33req/s 8096.67req/s 11203.33req/s 11946.67req/s 7760.00req/s 15893.33req/s 10270.00req/s 9666.67req/s 11833.33req/s 10166.67req/s 5893.33req/s 7323.33req/s 14783.33req/s 19590.00req/s 20083.33req/s 19716.67req/s 19773.33req/s 20223.33req/s 20163.33req/s 20103.33req/s 19650.00req/s 20300.00req/s 20296.67req/s 19036.67req/s 19363.33req/s 20286.67req/s 20063.33req/s 20136.67req/s 20040.00req/s 20013.33req/s 20103.33req/s 20463.33req/s 19660.00req/s 19776.67req/s 20153.33req/s 20466.67req/s 20196.67req/s 20030.00req/s 20106.67req/s 20336.67req/s 20290.00req/s 20010.00req/s 20340.00req/s 20476.67req/s 20156.67req/s 20460.00req/s 20386.67req/s 20413.33req/s 20070.00req/s 20356.67req/s 20186.67req/s 20176.67req/s 20320.00req/s 20400.00req/s 20430.00req/s 20330.00req/s 20410.00req/s 20293.33req/s 18900.00req/s 17400.00req/s 836.67req/s 840.00req/s 836.67req/s 836.67req/s 836.67req/s 836.67req/s 843.33req/s 833.33req/s 836.67req/s 833.33req/s 830.00req/s 820.00req/s 830.00req/s 830.00req/s 833.33req/s 830.00req/s 836.67req/s 836.67req/s 840.00req/s 836.67req/s 830.00req/s 840.00req/s 840.00req/s 836.67req/s 836.67req/s 843.33req/s 830.00req/s 826.67req/s 840.00req/s 836.67req/s 830.00req/s 826.67req/s 826.67req/s 830.00req/s 833.33req/s 826.67req/s 836.67req/s 843.33req/s 826.67req/s 823.33req/s 826.67req/s 830.00req/s 833.33req/s 830.00req/s 840.00req/s 836.67req/s 830.00req/s 823.33req/s 833.33req/s 836.67req/s 833.33req/s 836.67req/s 823.33req/s 840.00req/s 826.67req/s 826.67req/s 830.00req/s 1303.33req/s 3263.33req/s 3676.67req/s 2560.00req/s 840.00req/s 836.67req/s 840.00req/s 1310.00req/s 2716.67req/s 843.33req/s 836.67req/s 836.67req/s 836.67req/s 3210.00req/s 823.33req/s 830.00req/s 826.67req/s 833.33req/s 826.67req/s 830.00req/s 823.33req/s 826.67req/s 836.67req/s 833.33req/s 840.00req/s 843.33req/s 2733.33req/s 1290.00req/s 830.00req/s 833.33req/s 823.33req/s 840.00req/s 836.67req/s 840.00req/s 840.00req/s 823.33req/s 830.00req/s 826.67req/s 826.67req/s 833.33req/s 840.00req/s 830.00req/s 833.33req/s 826.67req/s 833.33req/s 826.67req/s 826.67req/s 2253.33req/s 1786.67req/s 826.67req/s 836.67req/s 830.00req/s 1770.00req/s 2710.00req/s 3200.00req/s 2733.33req/s 2666.67req/s 1220.00req/s 730.00req/s 726.67req/s 723.33req/s 726.67req/s 730.00req/s 736.67req/s 733.33req/s 746.67req/s 1673.33req/s 2163.33req/s 730.00req/s 730.00req/s 733.33req/s 736.67req/s 746.67req/s 740.00req/s 740.00req/s 733.33req/s 726.67req/s 733.33req/s 720.00req/s 756.67req/s 733.33req/s 733.33req/s 740.00req/s 716.67req/s 723.33req/s 733.33req/s 716.67req/s 726.67req/s 730.00req/s 720.00req/s 720.00req/s 733.33req/s 726.67req/s 716.67req/s 720.00req/s 723.33req/s 733.33req/s 730.00req/s 723.33req/s 733.33req/s 730.00req/s 730.00req/s 733.33req/s 733.33req/s 3530.00req/s 743.33req/s 743.33req/s 740.00req/s 730.00req/s 3386.67req/s 853.33req/s 740.00req/s 743.33req/s 736.67req/s 2270.00req/s 2003.33req/s 723.33req/s 720.00req/s 733.33req/s 1283.33req/s 2986.67req/s 720.00req/s 733.33req/s 716.67req/s 720.00req/s 1983.33req/s 3676.67req/s 1716.67req/s 740.00req/s 736.67req/s 723.33req/s 1416.67req/s 2866.67req/s 746.67req/s 726.67req/s 743.33req/s 730.00req/s 4353.33req/s 4666.67req/s 4666.67req/s 4666.67req/s 4666.67req/s 4666.67req/s 4500.00req/s 4666.67req/s 4666.67req/s 4666.67req/s 4666.67req/s 4643.33req/s 
+Episode reports:
+[EPISODE REPORT] episode 334: protocol = sbft , throughput = 833.58req/s , episo
+[EPISODE REPORT] episode 335: protocol = sbft , throughput = 829.23req/s , episo
+[EPISODE REPORT] episode 336: protocol = hotstuff , throughput = 2833.24req/s ,
+[EPISODE REPORT] episode 337: protocol = prime , throughput = 4791.13req/s , epi
+[EPISODE REPORT] episode 338: protocol = hotstuff , throughput = 2851.82req/s ,
+[EPISODE REPORT] episode 339: protocol = zyzzyva , throughput = 838.68req/s , ep
+[EPISODE REPORT] episode 340: protocol = hotstuff , throughput = 2851.65req/s ,
+[EPISODE REPORT] episode 341: protocol = cheapbft , throughput = 838.83req/s , e
+[EPISODE REPORT] episode 342: protocol = hotstuff , throughput = 2886.59req/s ,
+[EPISODE REPORT] episode 343: protocol = sbft , throughput = 828.96req/s , episo
+[EPISODE REPORT] episode 344: protocol = pbft , throughput = 827.19req/s , episo
+[EPISODE REPORT] episode 345: protocol = zyzzyva , throughput = 838.26req/s , ep
+[EPISODE REPORT] episode 346: protocol = hotstuff , throughput = 2859.81req/s ,
+[EPISODE REPORT] episode 347: protocol = sbft , throughput = 828.86req/s , episo
+[EPISODE REPORT] episode 348: protocol = zyzzyva , throughput = 838.30req/s , ep
+[EPISODE REPORT] episode 349: protocol = pbft , throughput = 827.27req/s , episo
+[EPISODE REPORT] episode 350: protocol = cheapbft , throughput = 834.63req/s , e
+[EPISODE REPORT] episode 351: protocol = pbft , throughput = 827.18req/s , episo
+[EPISODE REPORT] episode 351: protocol = pbft , throughput = 827.21req/s , episo
+[EPISODE REPORT] episode 351: protocol = pbft , throughput = 827.26req/s , episo
+[EPISODE REPORT] episode 351: protocol = pbft , throughput = 827.37req/s , episo
+[EPISODE REPORT] episode 352: protocol = hotstuff , throughput = 2894.99req/s ,
+[EPISODE REPORT] episode 352: protocol = hotstuff , throughput = 2895.00req/s ,
+[EPISODE REPORT] episode 352: protocol = hotstuff , throughput = 2895.39req/s ,
+[EPISODE REPORT] episode 352: protocol = hotstuff , throughput = 2895.70req/s ,
+[EPISODE REPORT] episode 352: protocol = hotstuff , throughput = 2895.73req/s ,
+[EPISODE REPORT] episode 353: protocol = sbft , throughput = 831.32req/s , episo
+[EPISODE REPORT] episode 353: protocol = sbft , throughput = 831.36req/s , episo
+[EPISODE REPORT] episode 353: protocol = sbft , throughput = 831.37req/s , episo
+[EPISODE REPORT] episode 353: protocol = sbft , throughput = 831.39req/s , episo
+[EPISODE REPORT] episode 353: protocol = sbft , throughput = 831.44req/s , episo
+[EPISODE REPORT] episode 354: protocol = hotstuff , throughput = 2841.09req/s ,
+[EPISODE REPORT] episode 354: protocol = hotstuff , throughput = 2841.38req/s ,
+[EPISODE REPORT] episode 354: protocol = hotstuff , throughput = 2842.14req/s ,
+[EPISODE REPORT] episode 354: protocol = hotstuff , throughput = 2842.16req/s ,
+[EPISODE REPORT] episode 354: protocol = hotstuff , throughput = 2842.57req/s ,
+[EPISODE REPORT] episode 355: protocol = hotstuff , throughput = 2835.53req/s ,
+[EPISODE REPORT] episode 355: protocol = hotstuff , throughput = 2836.89req/s ,
+[EPISODE REPORT] episode 355: protocol = hotstuff , throughput = 2838.15req/s ,
+[EPISODE REPORT] episode 355: protocol = hotstuff , throughput = 2838.21req/s ,
+[EPISODE REPORT] episode 355: protocol = hotstuff , throughput = 2838.29req/s ,
+[EPISODE REPORT] episode 356: protocol = hotstuff , throughput = 2891.26req/s ,
+[EPISODE REPORT] episode 356: protocol = hotstuff , throughput = 2891.27req/s ,
+[EPISODE REPORT] episode 356: protocol = hotstuff , throughput = 2891.30req/s ,
+[EPISODE REPORT] episode 356: protocol = hotstuff , throughput = 2892.83req/s ,
+[EPISODE REPORT] episode 356: protocol = hotstuff , throughput = 2894.03req/s ,
+[EPISODE REPORT] episode 357: protocol = hotstuff , throughput = 2673.93req/s ,
+[EPISODE REPORT] episode 357: protocol = hotstuff , throughput = 2673.96req/s ,
+[EPISODE REPORT] episode 357: protocol = hotstuff , throughput = 2673.97req/s ,
+[EPISODE REPORT] episode 357: protocol = hotstuff , throughput = 2674.48req/s ,
+Saved to /Users/jaywang/BFTBrain/results/pilot-2

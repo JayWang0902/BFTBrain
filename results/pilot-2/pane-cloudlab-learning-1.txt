@@ -1,0 +1,1594 @@
+
+jaywang@Jays-MacBook-Pro scripts % cd ~/BFTBrain/code/learning/ && { [ -f ../../
+scripts/local_env.sh ] && source ../../scripts/local_env.sh; } ; python3 learnin
+g_agent.py -u 1 -p 9022 -n quadratic
+2026-11-04 14:09:19,285 - INFO - <module>:577 - grpc server running at [::]:9042
+.
+2026-11-04 14:09:19,288 - INFO - run_agent:520 - learning agent has been initial
+ized.
+2026-11-04 14:09:30,165 - INFO - run_agent:529 - episode 0: received learning re
+quest from bedrock entity, state=[0.00000000e+00 2.14859605e+00 4.00000000e+03 9
+.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=pbft
+2026-11-04 14:09:31,784 - INFO - run_agent:529 - episode 1: received learning re
+quest from bedrock entity, state=[0.0000000e+00 1.6098206e+00 4.0000000e+03 9.00
+00000e+00 0.0000000e+00
+ 0.0000000e+00], current_protocol=pbft
+2026-11-04 14:09:33,043 - INFO - run_agent:529 - episode 2: received learning re
+quest from bedrock entity, state=[0.00000000e+00 1.23217511e+00 4.00000000e+03 9
+.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=pbft
+2026-11-04 14:09:34,221 - INFO - run_agent:529 - episode 3: received learning re
+quest from bedrock entity, state=[0.00000000e+00 1.17655158e+00 4.00000000e+03 9
+.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=pbft
+2026-11-04 14:09:35,396 - INFO - run_agent:529 - episode 4: received learning re
+quest from bedrock entity, state=[0.00000000e+00 1.10690498e+00 4.00000000e+03 9
+.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=pbft
+2026-11-04 14:09:36,304 - INFO - run_agent:529 - episode 5: received learning re
+quest from bedrock entity, state=[1.0000000e+00 7.9142791e-01 4.0000000e+03 2.00
+00000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=sbft
+2026-11-04 14:09:37,048 - INFO - run_agent:529 - episode 6: received learning re
+quest from bedrock entity, state=[1.00000000e+00 7.48936594e-01 4.00000000e+03 2
+.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:09:37,961 - INFO - run_agent:529 - episode 7: received learning re
+quest from bedrock entity, state=[0.00000000e+00 1.05024076e+00 4.00000000e+03 9
+.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=pbft
+2026-11-04 14:09:38,772 - INFO - run_agent:529 - episode 8: received learning re
+quest from bedrock entity, state=[0.00000000e+00 6.42345607e-01 4.00000000e+03 4
+.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=cheapbft
+2026-11-04 14:09:39,671 - INFO - run_agent:529 - episode 9: received learning re
+quest from bedrock entity, state=[0.00000000e+00 9.67204213e-01 4.00000000e+03 3
+.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:09:40,460 - INFO - run_agent:529 - episode 10: received learning r
+equest from bedrock entity, state=[1.00000000e+00 7.10678101e-01 4.00000000e+03
+2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:09:42,032 - INFO - run_agent:529 - episode 11: received learning r
+equest from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e+
+00], current_protocol=prime
+2026-11-04 14:09:43,255 - INFO - run_agent:529 - episode 12: received learning r
+equest from bedrock entity, state=[0.00000000e+00 6.45986259e-01 4.00000000e+03
+4.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=cheapbft
+2026-11-04 14:09:43,924 - INFO - run_agent:529 - episode 13: received learning r
+equest from bedrock entity, state=[1.00000000e+00 6.72272742e-01 4.00000000e+03
+2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:09:44,572 - INFO - run_agent:529 - episode 14: received learning r
+equest from bedrock entity, state=[0.0000000e+00 6.1718744e-01 4.0000000e+03 4.0
+000000e+00 0.0000000e+00
+ 0.0000000e+00], current_protocol=cheapbft
+2026-11-04 14:09:45,154 - INFO - run_agent:529 - episode 15: received learning r
+equest from bedrock entity, state=[1.00000000e+00 5.23304343e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:09:45,858 - INFO - run_agent:529 - episode 16: received learning r
+equest from bedrock entity, state=[0.00000000e+00 7.96268046e-01 4.00000000e+03
+3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:09:46,471 - INFO - run_agent:529 - episode 17: received learning r
+equest from bedrock entity, state=[1.00000000e+00 5.03752828e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:09:47,068 - INFO - run_agent:529 - episode 18: received learning r
+equest from bedrock entity, state=[0.00000000e+00 6.42061651e-01 4.00000000e+03
+4.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=cheapbft
+2026-11-04 14:09:47,939 - INFO - run_agent:529 - episode 19: received learning r
+equest from bedrock entity, state=[0.00000000e+00 1.00932324e+00 4.00000000e+03
+9.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=pbft
+2026-11-04 14:09:48,984 - INFO - run_agent:529 - episode 20: received learning r
+equest from bedrock entity, state=[0.00000000e+00 1.03694892e+00 4.00000000e+03
+9.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=pbft
+2026-11-04 14:09:50,753 - INFO - run_agent:529 - episode 21: received learning r
+equest from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e+
+00], current_protocol=prime
+2026-11-04 14:09:51,904 - INFO - run_agent:529 - episode 22: received learning r
+equest from bedrock entity, state=[1.00000000e+00 6.73695207e-01 4.00000000e+03
+2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:09:52,481 - INFO - run_agent:529 - episode 23: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.96152163e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:09:53,092 - INFO - run_agent:529 - episode 24: received learning r
+equest from bedrock entity, state=[1.00000000e+00 6.61803365e-01 4.00000000e+03
+2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:09:53,882 - INFO - run_agent:529 - episode 25: received learning r
+equest from bedrock entity, state=[0.00000000e+00 7.76557326e-01 4.00000000e+03
+3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:09:54,842 - INFO - run_agent:529 - episode 26: received learning r
+equest from bedrock entity, state=[0.00000000e+00 1.05903959e+00 4.00000000e+03
+9.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=pbft
+2026-11-04 14:09:55,716 - INFO - run_agent:529 - episode 27: received learning r
+equest from bedrock entity, state=[0.00000000e+00 7.25747526e-01 4.00000000e+03
+3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:09:56,446 - INFO - run_agent:529 - episode 28: received learning r
+equest from bedrock entity, state=[0.00000000e+00 6.93689346e-01 4.00000000e+03
+3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:09:57,119 - INFO - run_agent:529 - episode 29: received learning r
+equest from bedrock entity, state=[0.00000000e+00 6.36733115e-01 4.00000000e+03
+4.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=cheapbft
+2026-11-04 14:09:58,710 - INFO - run_agent:529 - episode 30: received learning r
+equest from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e+
+00], current_protocol=prime
+2026-11-04 14:10:00,771 - INFO - run_agent:529 - episode 31: received learning r
+equest from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e+
+00], current_protocol=prime
+2026-11-04 14:10:01,809 - INFO - run_agent:529 - episode 32: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.97574836e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:03,268 - INFO - run_agent:529 - episode 33: received learning r
+equest from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e+
+00], current_protocol=prime
+2026-11-04 14:10:04,731 - INFO - run_agent:529 - episode 34: received learning r
+equest from bedrock entity, state=[0.00000000e+00 1.02078712e+00 4.00000000e+03
+9.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=pbft
+2026-11-04 14:10:05,431 - INFO - run_agent:529 - episode 35: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.77809429e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:05,937 - INFO - run_agent:529 - episode 36: received learning r
+equest from bedrock entity, state=[1.00000000e+00 5.05485177e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:06,764 - INFO - run_agent:529 - episode 37: received learning r
+equest from bedrock entity, state=[0.00000000e+00 1.00907457e+00 4.00000000e+03
+9.00000000e+00
+ 0.00000000e+00 0.00000000e+00], current_protocol=pbft
+2026-11-04 14:10:07,484 - INFO - run_agent:529 - episode 38: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.98587102e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:08,003 - INFO - run_agent:529 - episode 39: received learning r
+equest from bedrock entity, state=[1.00000000e+00 5.18111765e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:08,502 - INFO - run_agent:529 - episode 40: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.92364585e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:09,013 - INFO - run_agent:529 - episode 41: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.96426582e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:09,521 - INFO - run_agent:529 - episode 42: received learning r
+equest from bedrock entity, state=[1.0000000e+00 5.0496304e-01 4.0000000e+03 1.0
+000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:10,040 - INFO - run_agent:529 - episode 43: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.88743752e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:10,543 - INFO - run_agent:529 - episode 44: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.88990575e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:11,042 - INFO - run_agent:529 - episode 45: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.81197417e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:11,533 - INFO - run_agent:529 - episode 46: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.78484601e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:12,034 - INFO - run_agent:529 - episode 47: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.90722507e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:12,533 - INFO - run_agent:529 - episode 48: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.82952237e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:13,031 - INFO - run_agent:529 - episode 49: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.89007562e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:13,528 - INFO - run_agent:529 - episode 50: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.83241677e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:14,032 - INFO - run_agent:529 - episode 51: received learning r
+equest from bedrock entity, state=[1.0000000e+00 4.7495085e-01 4.0000000e+03 1.0
+000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:14,527 - INFO - run_agent:529 - episode 52: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.78678077e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:15,028 - INFO - run_agent:529 - episode 53: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.88531351e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:15,530 - INFO - run_agent:529 - episode 54: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.86667663e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:16,046 - INFO - run_agent:529 - episode 55: received learning r
+equest from bedrock entity, state=[1.00000000e+00 5.02161503e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:16,563 - INFO - run_agent:529 - episode 56: received learning r
+equest from bedrock entity, state=[1.00000000e+00 5.05684435e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:17,073 - INFO - run_agent:529 - episode 57: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.73675519e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:17,570 - INFO - run_agent:529 - episode 58: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.86380935e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:18,079 - INFO - run_agent:529 - episode 59: received learning r
+equest from bedrock entity, state=[1.0000000e+00 4.9494192e-01 4.0000000e+03 1.0
+000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:18,592 - INFO - run_agent:529 - episode 60: received learning r
+equest from bedrock entity, state=[1.0000000e+00 5.0301224e-01 4.0000000e+03 1.0
+000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:19,102 - INFO - run_agent:529 - episode 61: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.94493604e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:19,605 - INFO - run_agent:529 - episode 62: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.82149422e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:20,104 - INFO - run_agent:529 - episode 63: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.73599344e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:20,592 - INFO - run_agent:529 - episode 64: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.71276104e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:21,091 - INFO - run_agent:529 - episode 65: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.89518404e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:21,586 - INFO - run_agent:529 - episode 66: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.85371441e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:22,083 - INFO - run_agent:529 - episode 67: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.83408839e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:22,579 - INFO - run_agent:529 - episode 68: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.78262246e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:23,066 - INFO - run_agent:529 - episode 69: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.73815739e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:23,564 - INFO - run_agent:529 - episode 70: received learning r
+equest from bedrock entity, state=[1.00000000e+00 5.02819836e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:24,069 - INFO - run_agent:529 - episode 71: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.89730507e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:24,567 - INFO - run_agent:529 - episode 72: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.81127411e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:25,060 - INFO - run_agent:529 - episode 73: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.80925649e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:25,550 - INFO - run_agent:529 - episode 74: received learning r
+equest from bedrock entity, state=[1.000000e+00 4.866184e-01 4.000000e+03 1.0000
+00e+00 1.000000e+00
+ 0.000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:26,043 - INFO - run_agent:529 - episode 75: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.66653496e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:26,526 - INFO - run_agent:529 - episode 76: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.72280771e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:27,016 - INFO - run_agent:529 - episode 77: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.78316247e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:27,508 - INFO - run_agent:529 - episode 78: received learning r
+equest from bedrock entity, state=[1.0000000e+00 4.8085469e-01 4.0000000e+03 1.0
+000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:28,030 - INFO - run_agent:529 - episode 79: received learning r
+equest from bedrock entity, state=[1.00000000e+00 5.00362813e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:28,543 - INFO - run_agent:529 - episode 80: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.84065831e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:29,029 - INFO - run_agent:529 - episode 81: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.77658987e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:29,515 - INFO - run_agent:529 - episode 82: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.67409253e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:30,022 - INFO - run_agent:529 - episode 83: received learning r
+equest from bedrock entity, state=[1.00000000e+00 5.01178265e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:30,527 - INFO - run_agent:529 - episode 84: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.80578244e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:31,072 - INFO - run_agent:529 - episode 85: received learning r
+equest from bedrock entity, state=[1.0000000e+00 4.9462077e-01 4.0000000e+03 1.0
+000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:31,587 - INFO - run_agent:529 - episode 86: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.88735408e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:32,080 - INFO - run_agent:529 - episode 87: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.74765003e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:32,561 - INFO - run_agent:529 - episode 88: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.73744899e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:33,059 - INFO - run_agent:529 - episode 89: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.96782601e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:33,554 - INFO - run_agent:529 - episode 90: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.86805677e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:34,053 - INFO - run_agent:529 - episode 91: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.82130915e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:34,548 - INFO - run_agent:529 - episode 92: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.87588018e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:35,037 - INFO - run_agent:529 - episode 93: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.72001731e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:35,519 - INFO - run_agent:529 - episode 94: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.76056427e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:36,018 - INFO - run_agent:529 - episode 95: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.76993024e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:36,516 - INFO - run_agent:529 - episode 96: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.79199111e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:37,006 - INFO - run_agent:529 - episode 97: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.78207141e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:37,502 - INFO - run_agent:529 - episode 98: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.80003655e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:37,997 - INFO - run_agent:529 - episode 99: received learning r
+equest from bedrock entity, state=[1.00000000e+00 4.82376933e-01 4.00000000e+03
+1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:38,501 - INFO - run_agent:529 - episode 100: received learning
+request from bedrock entity, state=[1.00000000e+00 4.93279576e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:39,096 - INFO - run_agent:529 - episode 101: received learning
+request from bedrock entity, state=[1.0000000e+00 5.8124125e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:39,609 - INFO - run_agent:529 - episode 102: received learning
+request from bedrock entity, state=[1.00000000e+00 4.85500813e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:40,113 - INFO - run_agent:529 - episode 103: received learning
+request from bedrock entity, state=[1.0000000e+00 4.8536393e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:40,640 - INFO - run_agent:529 - episode 104: received learning
+request from bedrock entity, state=[1.00000000e+00 5.39841592e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:41,179 - INFO - run_agent:529 - episode 105: received learning
+request from bedrock entity, state=[1.00000000e+00 5.25664091e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:41,725 - INFO - run_agent:529 - episode 106: received learning
+request from bedrock entity, state=[1.0000000e+00 5.3891325e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:42,241 - INFO - run_agent:529 - episode 107: received learning
+request from bedrock entity, state=[1.00000000e+00 4.93478924e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:42,744 - INFO - run_agent:529 - episode 108: received learning
+request from bedrock entity, state=[1.00000000e+00 4.94552433e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:43,246 - INFO - run_agent:529 - episode 109: received learning
+request from bedrock entity, state=[1.00000000e+00 4.91419911e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:43,748 - INFO - run_agent:529 - episode 110: received learning
+request from bedrock entity, state=[1.00000000e+00 5.03507257e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:44,234 - INFO - run_agent:529 - episode 111: received learning
+request from bedrock entity, state=[1.00000000e+00 4.74218309e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:44,718 - INFO - run_agent:529 - episode 112: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78685588e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:45,209 - INFO - run_agent:529 - episode 113: received learning
+request from bedrock entity, state=[1.00000000e+00 4.86308843e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:45,715 - INFO - run_agent:529 - episode 114: received learning
+request from bedrock entity, state=[1.00000000e+00 4.96194154e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:46,210 - INFO - run_agent:529 - episode 115: received learning
+request from bedrock entity, state=[1.0000000e+00 4.8969242e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:46,706 - INFO - run_agent:529 - episode 116: received learning
+request from bedrock entity, state=[1.00000000e+00 4.83674675e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:47,192 - INFO - run_agent:529 - episode 117: received learning
+request from bedrock entity, state=[1.00000000e+00 4.72573757e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:47,686 - INFO - run_agent:529 - episode 118: received learning
+request from bedrock entity, state=[1.00000000e+00 4.80195731e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:48,186 - INFO - run_agent:529 - episode 119: received learning
+request from bedrock entity, state=[1.00000000e+00 4.91973162e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:48,685 - INFO - run_agent:529 - episode 120: received learning
+request from bedrock entity, state=[1.0000000e+00 4.7901383e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:49,178 - INFO - run_agent:529 - episode 121: received learning
+request from bedrock entity, state=[1.0000000e+00 4.8355642e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:49,697 - INFO - run_agent:529 - episode 122: received learning
+request from bedrock entity, state=[1.00000000e+00 4.97232854e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:50,177 - INFO - run_agent:529 - episode 123: received learning
+request from bedrock entity, state=[1.00000000e+00 4.70614642e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:50,670 - INFO - run_agent:529 - episode 124: received learning
+request from bedrock entity, state=[1.00000000e+00 4.84284431e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:51,166 - INFO - run_agent:529 - episode 125: received learning
+request from bedrock entity, state=[1.00000000e+00 4.86368984e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:51,675 - INFO - run_agent:529 - episode 126: received learning
+request from bedrock entity, state=[1.00000000e+00 4.91755337e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:52,179 - INFO - run_agent:529 - episode 127: received learning
+request from bedrock entity, state=[1.00000000e+00 4.80667323e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:52,674 - INFO - run_agent:529 - episode 128: received learning
+request from bedrock entity, state=[1.00000000e+00 4.84699816e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:53,163 - INFO - run_agent:529 - episode 129: received learning
+request from bedrock entity, state=[1.00000000e+00 4.84007984e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:53,679 - INFO - run_agent:529 - episode 130: received learning
+request from bedrock entity, state=[1.00000000e+00 4.83069927e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:54,174 - INFO - run_agent:529 - episode 131: received learning
+request from bedrock entity, state=[1.00000000e+00 4.86775428e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:54,667 - INFO - run_agent:529 - episode 132: received learning
+request from bedrock entity, state=[1.00000000e+00 4.80243683e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:55,163 - INFO - run_agent:529 - episode 133: received learning
+request from bedrock entity, state=[1.0000000e+00 4.9272275e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:55,667 - INFO - run_agent:529 - episode 134: received learning
+request from bedrock entity, state=[1.00000000e+00 4.85761672e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:56,150 - INFO - run_agent:529 - episode 135: received learning
+request from bedrock entity, state=[1.00000000e+00 4.73142415e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:56,642 - INFO - run_agent:529 - episode 136: received learning
+request from bedrock entity, state=[1.00000000e+00 4.70458835e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:57,129 - INFO - run_agent:529 - episode 137: received learning
+request from bedrock entity, state=[1.00000000e+00 4.77521747e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:57,618 - INFO - run_agent:529 - episode 138: received learning
+request from bedrock entity, state=[1.00000000e+00 4.76221412e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:58,120 - INFO - run_agent:529 - episode 139: received learning
+request from bedrock entity, state=[1.00000000e+00 4.85885352e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:58,650 - INFO - run_agent:529 - episode 140: received learning
+request from bedrock entity, state=[1.00000000e+00 5.37630856e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:59,184 - INFO - run_agent:529 - episode 141: received learning
+request from bedrock entity, state=[1.00000000e+00 4.93753999e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:10:59,670 - INFO - run_agent:529 - episode 142: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78754997e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:00,171 - INFO - run_agent:529 - episode 143: received learning
+request from bedrock entity, state=[1.00000000e+00 4.88974005e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:00,661 - INFO - run_agent:529 - episode 144: received learning
+request from bedrock entity, state=[1.00000000e+00 4.75570172e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:01,149 - INFO - run_agent:529 - episode 145: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79623914e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:01,648 - INFO - run_agent:529 - episode 146: received learning
+request from bedrock entity, state=[1.00000000e+00 4.92670834e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:02,128 - INFO - run_agent:529 - episode 147: received learning
+request from bedrock entity, state=[1.000000e+00 4.733845e-01 4.000000e+03 1.000
+000e+00 1.000000e+00
+ 0.000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:02,613 - INFO - run_agent:529 - episode 148: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78319257e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:03,101 - INFO - run_agent:529 - episode 149: received learning
+request from bedrock entity, state=[1.00000000e+00 4.75528836e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:03,595 - INFO - run_agent:529 - episode 150: received learning
+request from bedrock entity, state=[1.00000000e+00 4.80131924e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:04,088 - INFO - run_agent:529 - episode 151: received learning
+request from bedrock entity, state=[1.00000000e+00 4.84380007e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:04,584 - INFO - run_agent:529 - episode 152: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79601026e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:05,065 - INFO - run_agent:529 - episode 153: received learning
+request from bedrock entity, state=[1.00000000e+00 4.73346919e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:05,547 - INFO - run_agent:529 - episode 154: received learning
+request from bedrock entity, state=[1.00000000e+00 4.69006598e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:06,049 - INFO - run_agent:529 - episode 155: received learning
+request from bedrock entity, state=[1.00000000e+00 4.81667668e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:06,542 - INFO - run_agent:529 - episode 156: received learning
+request from bedrock entity, state=[1.00000000e+00 4.80295658e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:07,089 - INFO - run_agent:529 - episode 157: received learning
+request from bedrock entity, state=[1.00000000e+00 5.91641903e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:07,621 - INFO - run_agent:529 - episode 158: received learning
+request from bedrock entity, state=[1.00000000e+00 5.30333996e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:08,132 - INFO - run_agent:529 - episode 159: received learning
+request from bedrock entity, state=[1.00000000e+00 4.75518733e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:08,620 - INFO - run_agent:529 - episode 160: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78045851e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:09,123 - INFO - run_agent:529 - episode 161: received learning
+request from bedrock entity, state=[1.00000000e+00 4.85508502e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:09,639 - INFO - run_agent:529 - episode 162: received learning
+request from bedrock entity, state=[1.00000000e+00 5.02579808e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:10,148 - INFO - run_agent:529 - episode 163: received learning
+request from bedrock entity, state=[1.00000000e+00 4.99351978e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:10,656 - INFO - run_agent:529 - episode 164: received learning
+request from bedrock entity, state=[1.00000000e+00 4.96244997e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:11,148 - INFO - run_agent:529 - episode 165: received learning
+request from bedrock entity, state=[1.0000000e+00 4.8666659e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:11,645 - INFO - run_agent:529 - episode 166: received learning
+request from bedrock entity, state=[1.00000000e+00 4.91314501e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:12,149 - INFO - run_agent:529 - episode 167: received learning
+request from bedrock entity, state=[1.00000000e+00 4.85591829e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:12,647 - INFO - run_agent:529 - episode 168: received learning
+request from bedrock entity, state=[1.00000000e+00 4.74268824e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:13,133 - INFO - run_agent:529 - episode 169: received learning
+request from bedrock entity, state=[1.00000000e+00 4.76023495e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:13,634 - INFO - run_agent:529 - episode 170: received learning
+request from bedrock entity, state=[1.00000000e+00 4.87019002e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:14,118 - INFO - run_agent:529 - episode 171: received learning
+request from bedrock entity, state=[1.0000000e+00 4.6966067e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:14,599 - INFO - run_agent:529 - episode 172: received learning
+request from bedrock entity, state=[1.00000000e+00 4.73338842e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:15,092 - INFO - run_agent:529 - episode 173: received learning
+request from bedrock entity, state=[1.00000000e+00 4.82543498e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:15,585 - INFO - run_agent:529 - episode 174: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79478806e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:16,077 - INFO - run_agent:529 - episode 175: received learning
+request from bedrock entity, state=[1.0000000e+00 4.7110334e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:16,571 - INFO - run_agent:529 - episode 176: received learning
+request from bedrock entity, state=[1.00000000e+00 4.81176525e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:17,056 - INFO - run_agent:529 - episode 177: received learning
+request from bedrock entity, state=[1.00000000e+00 4.72591341e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:17,537 - INFO - run_agent:529 - episode 178: received learning
+request from bedrock entity, state=[1.00000000e+00 4.67058003e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:18,044 - INFO - run_agent:529 - episode 179: received learning
+request from bedrock entity, state=[1.00000000e+00 5.01491427e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:18,554 - INFO - run_agent:529 - episode 180: received learning
+request from bedrock entity, state=[1.00000000e+00 4.89234358e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:19,045 - INFO - run_agent:529 - episode 181: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79924738e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:19,537 - INFO - run_agent:529 - episode 182: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78671253e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:20,028 - INFO - run_agent:529 - episode 183: received learning
+request from bedrock entity, state=[1.0000000e+00 4.7582683e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:20,536 - INFO - run_agent:529 - episode 184: received learning
+request from bedrock entity, state=[1.00000000e+00 4.67477649e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:21,038 - INFO - run_agent:529 - episode 185: received learning
+request from bedrock entity, state=[1.00000000e+00 4.88176435e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:21,545 - INFO - run_agent:529 - episode 186: received learning
+request from bedrock entity, state=[1.00000000e+00 4.82806146e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:22,045 - INFO - run_agent:529 - episode 187: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79618341e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:22,538 - INFO - run_agent:529 - episode 188: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78902578e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:23,026 - INFO - run_agent:529 - episode 189: received learning
+request from bedrock entity, state=[1.00000000e+00 4.77135152e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:23,504 - INFO - run_agent:529 - episode 190: received learning
+request from bedrock entity, state=[1.00000000e+00 4.69507068e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:24,000 - INFO - run_agent:529 - episode 191: received learning
+request from bedrock entity, state=[1.00000000e+00 4.85514671e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:24,496 - INFO - run_agent:529 - episode 192: received learning
+request from bedrock entity, state=[1.00000000e+00 4.77609843e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:24,994 - INFO - run_agent:529 - episode 193: received learning
+request from bedrock entity, state=[1.00000000e+00 4.88147497e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:25,517 - INFO - run_agent:529 - episode 194: received learning
+request from bedrock entity, state=[1.00000000e+00 5.14653802e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:26,010 - INFO - run_agent:529 - episode 195: received learning
+request from bedrock entity, state=[1.00000000e+00 4.84549016e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:26,496 - INFO - run_agent:529 - episode 196: received learning
+request from bedrock entity, state=[1.00000000e+00 4.76934254e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:26,986 - INFO - run_agent:529 - episode 197: received learning
+request from bedrock entity, state=[1.00000000e+00 4.90430415e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:27,475 - INFO - run_agent:529 - episode 198: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78040487e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:27,976 - INFO - run_agent:529 - episode 199: received learning
+request from bedrock entity, state=[1.00000000e+00 4.92106646e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:28,472 - INFO - run_agent:529 - episode 200: received learning
+request from bedrock entity, state=[1.00000000e+00 4.80122149e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:28,966 - INFO - run_agent:529 - episode 201: received learning
+request from bedrock entity, state=[1.00000000e+00 4.86825347e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:29,447 - INFO - run_agent:529 - episode 202: received learning
+request from bedrock entity, state=[1.00000000e+00 4.73215252e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:29,951 - INFO - run_agent:529 - episode 203: received learning
+request from bedrock entity, state=[1.0000000e+00 4.9060598e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:30,444 - INFO - run_agent:529 - episode 204: received learning
+request from bedrock entity, state=[1.00000000e+00 4.85344917e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:30,934 - INFO - run_agent:529 - episode 205: received learning
+request from bedrock entity, state=[1.00000000e+00 4.81236994e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:31,425 - INFO - run_agent:529 - episode 206: received learning
+request from bedrock entity, state=[1.00000000e+00 4.85559165e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:31,915 - INFO - run_agent:529 - episode 207: received learning
+request from bedrock entity, state=[1.00000000e+00 4.71139729e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:32,400 - INFO - run_agent:529 - episode 208: received learning
+request from bedrock entity, state=[1.00000000e+00 4.76023167e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:32,880 - INFO - run_agent:529 - episode 209: received learning
+request from bedrock entity, state=[1.00000000e+00 4.72636908e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:33,416 - INFO - run_agent:529 - episode 210: received learning
+request from bedrock entity, state=[1.00000000e+00 5.35348952e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:33,924 - INFO - run_agent:529 - episode 211: received learning
+request from bedrock entity, state=[1.00000000e+00 5.13954997e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:34,424 - INFO - run_agent:529 - episode 212: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78790581e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:34,916 - INFO - run_agent:529 - episode 213: received learning
+request from bedrock entity, state=[1.00000000e+00 4.72180188e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:35,402 - INFO - run_agent:529 - episode 214: received learning
+request from bedrock entity, state=[1.00000000e+00 4.69154239e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:35,891 - INFO - run_agent:529 - episode 215: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79840666e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:36,386 - INFO - run_agent:529 - episode 216: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78348434e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:36,879 - INFO - run_agent:529 - episode 217: received learning
+request from bedrock entity, state=[1.00000000e+00 4.76058662e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:37,369 - INFO - run_agent:529 - episode 218: received learning
+request from bedrock entity, state=[1.00000000e+00 4.71772581e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:37,868 - INFO - run_agent:529 - episode 219: received learning
+request from bedrock entity, state=[1.00000000e+00 4.76881504e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:38,348 - INFO - run_agent:529 - episode 220: received learning
+request from bedrock entity, state=[1.00000000e+00 4.70067412e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:38,837 - INFO - run_agent:529 - episode 221: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79523927e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:39,322 - INFO - run_agent:529 - episode 222: received learning
+request from bedrock entity, state=[1.00000000e+00 4.71375257e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:39,821 - INFO - run_agent:529 - episode 223: received learning
+request from bedrock entity, state=[1.00000000e+00 4.90012914e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:40,315 - INFO - run_agent:529 - episode 224: received learning
+request from bedrock entity, state=[1.00000000e+00 4.91257995e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:40,803 - INFO - run_agent:529 - episode 225: received learning
+request from bedrock entity, state=[1.00000000e+00 4.70597923e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:41,284 - INFO - run_agent:529 - episode 226: received learning
+request from bedrock entity, state=[1.00000000e+00 4.71992731e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:41,770 - INFO - run_agent:529 - episode 227: received learning
+request from bedrock entity, state=[1.00000000e+00 4.82004672e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:42,267 - INFO - run_agent:529 - episode 228: received learning
+request from bedrock entity, state=[1.00000000e+00 4.89821076e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:42,760 - INFO - run_agent:529 - episode 229: received learning
+request from bedrock entity, state=[1.00000000e+00 4.75479096e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:43,272 - INFO - run_agent:529 - episode 230: received learning
+request from bedrock entity, state=[1.00000000e+00 5.00529349e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:43,777 - INFO - run_agent:529 - episode 231: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78648752e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:44,261 - INFO - run_agent:529 - episode 232: received learning
+request from bedrock entity, state=[1.00000000e+00 4.71558422e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:44,742 - INFO - run_agent:529 - episode 233: received learning
+request from bedrock entity, state=[1.00000000e+00 4.71263915e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:45,231 - INFO - run_agent:529 - episode 234: received learning
+request from bedrock entity, state=[1.00000000e+00 4.70006585e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:45,730 - INFO - run_agent:529 - episode 235: received learning
+request from bedrock entity, state=[1.00000000e+00 4.94174421e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:46,221 - INFO - run_agent:529 - episode 236: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79351401e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:46,713 - INFO - run_agent:529 - episode 237: received learning
+request from bedrock entity, state=[1.00000000e+00 4.80590522e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:47,193 - INFO - run_agent:529 - episode 238: received learning
+request from bedrock entity, state=[1.00000000e+00 4.74204004e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:47,680 - INFO - run_agent:529 - episode 239: received learning
+request from bedrock entity, state=[1.00000000e+00 4.80580747e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:48,176 - INFO - run_agent:529 - episode 240: received learning
+request from bedrock entity, state=[1.00000000e+00 4.92934853e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:48,665 - INFO - run_agent:529 - episode 241: received learning
+request from bedrock entity, state=[1.00000000e+00 4.72471982e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:49,155 - INFO - run_agent:529 - episode 242: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79701251e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:49,649 - INFO - run_agent:529 - episode 243: received learning
+request from bedrock entity, state=[1.00000000e+00 4.82124567e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:50,131 - INFO - run_agent:529 - episode 244: received learning
+request from bedrock entity, state=[1.00000000e+00 4.68577087e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:50,612 - INFO - run_agent:529 - episode 245: received learning
+request from bedrock entity, state=[1.00000000e+00 4.71269846e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:51,099 - INFO - run_agent:529 - episode 246: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79058832e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:51,595 - INFO - run_agent:529 - episode 247: received learning
+request from bedrock entity, state=[1.00000000e+00 4.87360984e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:52,095 - INFO - run_agent:529 - episode 248: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78433937e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:52,589 - INFO - run_agent:529 - episode 249: received learning
+request from bedrock entity, state=[1.00000000e+00 4.73968744e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:53,077 - INFO - run_agent:529 - episode 250: received learning
+request from bedrock entity, state=[1.00000000e+00 4.75177497e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:53,601 - INFO - run_agent:529 - episode 251: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79829073e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:54,091 - INFO - run_agent:529 - episode 252: received learning
+request from bedrock entity, state=[1.00000000e+00 4.73689586e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:54,586 - INFO - run_agent:529 - episode 253: received learning
+request from bedrock entity, state=[1.00000000e+00 4.73956168e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:55,077 - INFO - run_agent:529 - episode 254: received learning
+request from bedrock entity, state=[1.00000000e+00 4.80714172e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:55,571 - INFO - run_agent:529 - episode 255: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78804588e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:56,070 - INFO - run_agent:529 - episode 256: received learning
+request from bedrock entity, state=[1.00000000e+00 4.87014413e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:56,560 - INFO - run_agent:529 - episode 257: received learning
+request from bedrock entity, state=[1.00000000e+00 4.83098179e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:57,046 - INFO - run_agent:529 - episode 258: received learning
+request from bedrock entity, state=[1.00000000e+00 4.74005997e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:57,534 - INFO - run_agent:529 - episode 259: received learning
+request from bedrock entity, state=[1.00000000e+00 4.77968752e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:58,033 - INFO - run_agent:529 - episode 260: received learning
+request from bedrock entity, state=[1.00000000e+00 4.81585741e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:58,530 - INFO - run_agent:529 - episode 261: received learning
+request from bedrock entity, state=[1.0000000e+00 4.8193109e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:59,013 - INFO - run_agent:529 - episode 262: received learning
+request from bedrock entity, state=[1.000000e+00 4.761329e-01 4.000000e+03 1.000
+000e+00 1.000000e+00
+ 0.000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:59,506 - INFO - run_agent:529 - episode 263: received learning
+request from bedrock entity, state=[1.00000000e+00 4.69563752e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:11:59,998 - INFO - run_agent:529 - episode 264: received learning
+request from bedrock entity, state=[1.00000000e+00 4.76818502e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:00,500 - INFO - run_agent:529 - episode 265: received learning
+request from bedrock entity, state=[1.00000000e+00 4.80597943e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:01,000 - INFO - run_agent:529 - episode 266: received learning
+request from bedrock entity, state=[1.0000000e+00 4.8947534e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:01,495 - INFO - run_agent:529 - episode 267: received learning
+request from bedrock entity, state=[1.0000000e+00 4.8531726e-01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:01,995 - INFO - run_agent:529 - episode 268: received learning
+request from bedrock entity, state=[1.00000000e+00 4.82328236e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:02,479 - INFO - run_agent:529 - episode 269: received learning
+request from bedrock entity, state=[1.00000000e+00 4.71779525e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:02,976 - INFO - run_agent:529 - episode 270: received learning
+request from bedrock entity, state=[1.00000000e+00 4.83325511e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:03,474 - INFO - run_agent:529 - episode 271: received learning
+request from bedrock entity, state=[1.00000000e+00 4.91303742e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:03,974 - INFO - run_agent:529 - episode 272: received learning
+request from bedrock entity, state=[1.00000000e+00 4.86503094e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:04,474 - INFO - run_agent:529 - episode 273: received learning
+request from bedrock entity, state=[1.00000000e+00 4.84059989e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:04,963 - INFO - run_agent:529 - episode 274: received learning
+request from bedrock entity, state=[1.00000000e+00 4.72625822e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:05,445 - INFO - run_agent:529 - episode 275: received learning
+request from bedrock entity, state=[1.00000000e+00 4.76680249e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:05,932 - INFO - run_agent:529 - episode 276: received learning
+request from bedrock entity, state=[1.00000000e+00 4.77464318e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:06,438 - INFO - run_agent:529 - episode 277: received learning
+request from bedrock entity, state=[1.00000000e+00 4.82964516e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:06,923 - INFO - run_agent:529 - episode 278: received learning
+request from bedrock entity, state=[1.00000000e+00 4.77686733e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:07,422 - INFO - run_agent:529 - episode 279: received learning
+request from bedrock entity, state=[1.00000000e+00 4.82658565e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:07,915 - INFO - run_agent:529 - episode 280: received learning
+request from bedrock entity, state=[1.00000000e+00 4.75801408e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:08,401 - INFO - run_agent:529 - episode 281: received learning
+request from bedrock entity, state=[1.00000000e+00 4.77129996e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:08,883 - INFO - run_agent:529 - episode 282: received learning
+request from bedrock entity, state=[1.00000000e+00 4.74852413e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:09,377 - INFO - run_agent:529 - episode 283: received learning
+request from bedrock entity, state=[1.00000000e+00 4.84463602e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:09,875 - INFO - run_agent:529 - episode 284: received learning
+request from bedrock entity, state=[1.00000000e+00 4.86168236e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:10,373 - INFO - run_agent:529 - episode 285: received learning
+request from bedrock entity, state=[1.00000000e+00 4.83434647e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:10,859 - INFO - run_agent:529 - episode 286: received learning
+request from bedrock entity, state=[1.00000000e+00 4.74999338e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:11,340 - INFO - run_agent:529 - episode 287: received learning
+request from bedrock entity, state=[1.00000000e+00 4.73474413e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:11,826 - INFO - run_agent:529 - episode 288: received learning
+request from bedrock entity, state=[1.00000000e+00 4.89613086e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:12,324 - INFO - run_agent:529 - episode 289: received learning
+request from bedrock entity, state=[1.00000000e+00 4.94728237e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:12,813 - INFO - run_agent:529 - episode 290: received learning
+request from bedrock entity, state=[1.00000000e+00 4.82556432e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:13,303 - INFO - run_agent:529 - episode 291: received learning
+request from bedrock entity, state=[1.00000000e+00 4.82237756e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:13,796 - INFO - run_agent:529 - episode 292: received learning
+request from bedrock entity, state=[1.00000000e+00 4.91297334e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:14,276 - INFO - run_agent:529 - episode 293: received learning
+request from bedrock entity, state=[1.00000000e+00 4.71361518e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:14,761 - INFO - run_agent:529 - episode 294: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78559166e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:15,249 - INFO - run_agent:529 - episode 295: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79701251e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:15,750 - INFO - run_agent:529 - episode 296: received learning
+request from bedrock entity, state=[1.00000000e+00 4.96049494e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:16,250 - INFO - run_agent:529 - episode 297: received learning
+request from bedrock entity, state=[1.00000000e+00 4.90719676e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:16,750 - INFO - run_agent:529 - episode 298: received learning
+request from bedrock entity, state=[1.00000000e+00 4.93732244e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:17,234 - INFO - run_agent:529 - episode 299: received learning
+request from bedrock entity, state=[1.00000000e+00 4.78017002e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:17,724 - INFO - run_agent:529 - episode 300: received learning
+request from bedrock entity, state=[1.00000000e+00 4.82059091e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:18,219 - INFO - run_agent:529 - episode 301: received learning
+request from bedrock entity, state=[1.00000000e+00 4.97523665e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:18,709 - INFO - run_agent:529 - episode 302: received learning
+request from bedrock entity, state=[1.00000000e+00 4.79077518e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:19,198 - INFO - run_agent:529 - episode 303: received learning
+request from bedrock entity, state=[1.00000000e+00 4.81182843e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:19,692 - INFO - run_agent:529 - episode 304: received learning
+request from bedrock entity, state=[1.00000000e+00 4.95788991e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:20,173 - INFO - run_agent:529 - episode 305: received learning
+request from bedrock entity, state=[1.00000000e+00 4.72346246e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:20,662 - INFO - run_agent:529 - episode 306: received learning
+request from bedrock entity, state=[1.00000000e+00 4.91493732e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:21,151 - INFO - run_agent:529 - episode 307: received learning
+request from bedrock entity, state=[1.00000000e+00 4.84062642e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:21,647 - INFO - run_agent:529 - episode 308: received learning
+request from bedrock entity, state=[1.00000000e+00 4.90674078e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:22,152 - INFO - run_agent:529 - episode 309: received learning
+request from bedrock entity, state=[1.00000000e+00 4.86560911e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:22,640 - INFO - run_agent:529 - episode 310: received learning
+request from bedrock entity, state=[1.00000000e+00 4.80303407e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:23,132 - INFO - run_agent:529 - episode 311: received learning
+request from bedrock entity, state=[1.00000000e+00 4.74040926e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:23,615 - INFO - run_agent:529 - episode 312: received learning
+request from bedrock entity, state=[1.00000000e+00 4.74693179e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:24,124 - INFO - run_agent:529 - episode 313: received learning
+request from bedrock entity, state=[1.00000000e+00 4.96401578e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:24,696 - INFO - run_agent:529 - episode 314: received learning
+request from bedrock entity, state=[1.00000000e+00 5.09581149e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:25,283 - INFO - run_agent:529 - episode 315: received learning
+request from bedrock entity, state=[1.00000000e+00 5.25733531e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:25,818 - INFO - run_agent:529 - episode 316: received learning
+request from bedrock entity, state=[1.00000000e+00 5.29868543e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:26,314 - INFO - run_agent:529 - episode 317: received learning
+request from bedrock entity, state=[1.00000000e+00 4.84078735e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:26,818 - INFO - run_agent:529 - episode 318: received learning
+request from bedrock entity, state=[1.00000000e+00 4.94226158e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:27,338 - INFO - run_agent:529 - episode 319: received learning
+request from bedrock entity, state=[1.00000000e+00 5.11026323e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:27,844 - INFO - run_agent:529 - episode 320: received learning
+request from bedrock entity, state=[1.00000000e+00 5.09592056e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:28,914 - INFO - run_agent:529 - episode 321: received learning
+request from bedrock entity, state=[1.00000000e+00 4.89289105e-01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:40,849 - INFO - run_agent:529 - episode 322: received learning
+request from bedrock entity, state=[1.00000000e+00 1.19434223e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:12:52,804 - INFO - run_agent:529 - episode 323: received learning
+request from bedrock entity, state=[1.00000000e+00 1.19201155e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:13:04,852 - INFO - run_agent:529 - episode 324: received learning
+request from bedrock entity, state=[   0.          12.1109314 4000.           4.
+           0.
+    0.       ], current_protocol=cheapbft
+2026-11-04 14:13:16,877 - INFO - run_agent:529 - episode 325: received learning
+request from bedrock entity, state=[   0.           12.04200172 4000.
+ 4.            0.
+    0.        ], current_protocol=cheapbft
+2026-11-04 14:13:28,829 - INFO - run_agent:529 - episode 326: received learning
+request from bedrock entity, state=[1.00000000e+00 1.19686203e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:13:40,780 - INFO - run_agent:529 - episode 327: received learning
+request from bedrock entity, state=[1.00000000e+00 1.19196281e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:13:52,764 - INFO - run_agent:529 - episode 328: received learning
+request from bedrock entity, state=[1.00000000e+00 1.20495319e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:14:04,765 - INFO - run_agent:529 - episode 329: received learning
+request from bedrock entity, state=[1.00000000e+00 1.20603704e+01 4.00000000e+03
+ 2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:14:16,816 - INFO - run_agent:529 - episode 330: received learning
+request from bedrock entity, state=[1.00000000e+00 1.20346937e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:14:28,837 - INFO - run_agent:529 - episode 331: received learning
+request from bedrock entity, state=[1.00000000e+00 1.20410929e+01 4.00000000e+03
+ 2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:14:40,887 - INFO - run_agent:529 - episode 332: received learning
+request from bedrock entity, state=[   0.           12.02031803 4000.
+ 4.            0.
+    0.        ], current_protocol=cheapbft
+2026-11-04 14:14:52,896 - INFO - run_agent:529 - episode 333: received learning
+request from bedrock entity, state=[1.00000000e+00 1.20370321e+01 4.00000000e+03
+ 2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:15:04,876 - INFO - run_agent:529 - episode 334: received learning
+request from bedrock entity, state=[1.00000000e+00 1.19943533e+01 4.00000000e+03
+ 2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:15:16,923 - INFO - run_agent:529 - episode 335: received learning
+request from bedrock entity, state=[1.00000000e+00 1.20806227e+01 4.00000000e+03
+ 2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:15:23,880 - INFO - run_agent:529 - episode 336: received learning
+request from bedrock entity, state=[0.0000000e+00 4.0614028e+00 4.0000000e+03 3.
+0000000e+00 0.0000000e+00
+ 1.0000000e+00], current_protocol=hotstuff
+2026-11-04 14:15:26,603 - INFO - run_agent:529 - episode 337: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:15:29,453 - INFO - run_agent:529 - episode 338: received learning
+request from bedrock entity, state=[0.00000000e+00 4.04719305e+00 4.00000000e+03
+ 3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:15:38,011 - INFO - run_agent:529 - episode 339: received learning
+request from bedrock entity, state=[1.00000000e+00 1.19500389e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:15:44,877 - INFO - run_agent:529 - episode 340: received learning
+request from bedrock entity, state=[0.00000000e+00 3.98905802e+00 4.00000000e+03
+ 3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:15:53,453 - INFO - run_agent:529 - episode 341: received learning
+request from bedrock entity, state=[   0.           11.91481876 4000.
+ 4.            0.
+    0.        ], current_protocol=cheapbft
+2026-11-04 14:16:00,295 - INFO - run_agent:529 - episode 342: received learning
+request from bedrock entity, state=[0.00000000e+00 3.98664951e+00 4.00000000e+03
+ 3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:16:08,925 - INFO - run_agent:529 - episode 343: received learning
+request from bedrock entity, state=[1.00000000e+00 1.20777483e+01 4.00000000e+03
+ 2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:16:20,983 - INFO - run_agent:529 - episode 344: received learning
+request from bedrock entity, state=[   0.           12.06076908 4000.
+ 9.            0.
+    0.        ], current_protocol=pbft
+2026-11-04 14:16:33,013 - INFO - run_agent:529 - episode 345: received learning
+request from bedrock entity, state=[1.00000000e+00 1.19792156e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:16:39,851 - INFO - run_agent:529 - episode 346: received learning
+request from bedrock entity, state=[0.00000000e+00 3.98902273e+00 4.00000000e+03
+ 3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:16:48,492 - INFO - run_agent:529 - episode 347: received learning
+request from bedrock entity, state=[1.00000000e+00 1.20617886e+01 4.00000000e+03
+ 2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:17:00,473 - INFO - run_agent:529 - episode 348: received learning
+request from bedrock entity, state=[1.00000000e+00 1.19270382e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:17:12,510 - INFO - run_agent:529 - episode 349: received learning
+request from bedrock entity, state=[   0.           12.10812473 4000.
+ 9.            0.
+    0.        ], current_protocol=pbft
+2026-11-04 14:17:24,519 - INFO - run_agent:529 - episode 350: received learning
+request from bedrock entity, state=[   0.           11.96154213 4000.
+ 4.            0.
+    0.        ], current_protocol=cheapbft
+2026-11-04 14:17:36,557 - INFO - run_agent:529 - episode 351: received learning
+request from bedrock entity, state=[   0.           12.05861187 4000.
+ 9.            0.
+    0.        ], current_protocol=pbft
+2026-11-04 14:17:43,502 - INFO - run_agent:529 - episode 352: received learning
+request from bedrock entity, state=[0.00000000e+00 3.98480988e+00 4.00000000e+03
+ 3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:17:52,068 - INFO - run_agent:529 - episode 353: received learning
+request from bedrock entity, state=[1.00000000e+00 1.19999781e+01 4.00000000e+03
+ 2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:17:59,020 - INFO - run_agent:529 - episode 354: received learning
+request from bedrock entity, state=[0.00000000e+00 4.05848694e+00 4.00000000e+03
+ 3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:18:02,537 - INFO - run_agent:529 - episode 355: received learning
+request from bedrock entity, state=[0.00000000e+00 4.06308365e+00 4.00000000e+03
+ 3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:18:06,019 - INFO - run_agent:529 - episode 356: received learning
+request from bedrock entity, state=[0.00000000e+00 3.99223351e+00 4.00000000e+03
+ 3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:18:09,578 - INFO - run_agent:529 - episode 357: received learning
+request from bedrock entity, state=[0.00000000e+00 4.18803263e+00 4.00000000e+03
+ 3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:18:19,312 - INFO - run_agent:529 - episode 358: received learning
+request from bedrock entity, state=[   0.           13.61840057 4000.
+ 9.            0.
+    0.        ], current_protocol=pbft
+2026-11-04 14:18:33,001 - INFO - run_agent:529 - episode 359: received learning
+request from bedrock entity, state=[1.00000000e+00 1.36779337e+01 4.00000000e+03
+ 2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:18:40,784 - INFO - run_agent:529 - episode 360: received learning
+request from bedrock entity, state=[0.00000000e+00 4.61139345e+00 4.00000000e+03
+ 3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:18:50,565 - INFO - run_agent:529 - episode 361: received learning
+request from bedrock entity, state=[1.0000000e+00 1.3605979e+01 4.0000000e+03 1.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=zyzzyva
+2026-11-04 14:19:04,094 - INFO - run_agent:529 - episode 362: received learning
+request from bedrock entity, state=[1.00000000e+00 1.34629908e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:19:17,754 - INFO - run_agent:529 - episode 363: received learning
+request from bedrock entity, state=[1.00000000e+00 1.38175163e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:19:31,366 - INFO - run_agent:529 - episode 364: received learning
+request from bedrock entity, state=[   0.           13.64378262 4000.
+ 4.            0.
+    0.        ], current_protocol=cheapbft
+2026-11-04 14:19:45,158 - INFO - run_agent:529 - episode 365: received learning
+request from bedrock entity, state=[   0.           13.84100246 4000.
+ 9.            0.
+    0.        ], current_protocol=pbft
+2026-11-04 14:19:58,942 - INFO - run_agent:529 - episode 366: received learning
+request from bedrock entity, state=[   0.           13.76287365 4000.
+ 9.            0.
+    0.        ], current_protocol=pbft
+2026-11-04 14:20:12,748 - INFO - run_agent:529 - episode 367: received learning
+request from bedrock entity, state=[   0.           13.71933842 4000.
+ 9.            0.
+    0.        ], current_protocol=pbft
+2026-11-04 14:20:26,467 - INFO - run_agent:529 - episode 368: received learning
+request from bedrock entity, state=[1.00000000e+00 1.36748381e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:20:33,222 - INFO - run_agent:529 - episode 369: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:20:42,203 - INFO - run_agent:529 - episode 370: received learning
+request from bedrock entity, state=[1.00000000e+00 1.34733925e+01 4.00000000e+03
+ 1.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=zyzzyva
+2026-11-04 14:20:49,028 - INFO - run_agent:529 - episode 371: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:20:58,063 - INFO - run_agent:529 - episode 372: received learning
+request from bedrock entity, state=[   0.           13.62567997 4000.
+ 4.            0.
+    0.        ], current_protocol=cheapbft
+2026-11-04 14:21:04,881 - INFO - run_agent:529 - episode 373: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:21:13,928 - INFO - run_agent:529 - episode 374: received learning
+request from bedrock entity, state=[1.00000000e+00 1.37796335e+01 4.00000000e+03
+ 2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:21:20,644 - INFO - run_agent:529 - episode 375: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:21:29,797 - INFO - run_agent:529 - episode 376: received learning
+request from bedrock entity, state=[   0.           13.81347275 4000.
+ 9.            0.
+    0.        ], current_protocol=pbft
+2026-11-04 14:21:37,725 - INFO - run_agent:529 - episode 377: received learning
+request from bedrock entity, state=[0.00000000e+00 4.54905128e+00 4.00000000e+03
+ 3.00000000e+00
+ 0.00000000e+00 1.00000000e+00], current_protocol=hotstuff
+2026-11-04 14:21:40,666 - INFO - run_agent:529 - episode 378: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:21:49,597 - INFO - run_agent:529 - episode 379: received learning
+request from bedrock entity, state=[1.0000000e+00 1.3655221e+01 4.0000000e+03 2.
+0000000e+00 1.0000000e+00
+ 0.0000000e+00], current_protocol=sbft
+2026-11-04 14:21:56,469 - INFO - run_agent:529 - episode 380: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:05,370 - INFO - run_agent:529 - episode 381: received learning
+request from bedrock entity, state=[1.00000000e+00 1.35508242e+01 4.00000000e+03
+ 2.00000000e+00
+ 1.00000000e+00 0.00000000e+00], current_protocol=sbft
+2026-11-04 14:22:12,099 - INFO - run_agent:529 - episode 382: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:14,354 - INFO - run_agent:529 - episode 383: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:16,493 - INFO - run_agent:529 - episode 384: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:18,650 - INFO - run_agent:529 - episode 385: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:20,826 - INFO - run_agent:529 - episode 386: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:22,954 - INFO - run_agent:529 - episode 387: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:25,103 - INFO - run_agent:529 - episode 388: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:27,262 - INFO - run_agent:529 - episode 389: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:29,426 - INFO - run_agent:529 - episode 390: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:31,585 - INFO - run_agent:529 - episode 391: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:33,751 - INFO - run_agent:529 - episode 392: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:35,908 - INFO - run_agent:529 - episode 393: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:38,049 - INFO - run_agent:529 - episode 394: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:40,203 - INFO - run_agent:529 - episode 395: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:42,342 - INFO - run_agent:529 - episode 396: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:44,510 - INFO - run_agent:529 - episode 397: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+2026-11-04 14:22:46,680 - INFO - run_agent:529 - episode 398: received learning
+request from bedrock entity, state=[0.0e+00 0.0e+00 4.0e+03 2.1e+01 0.0e+00 1.0e
++00], current_protocol=prime
+^CTraceback (most recent call last):
+  File "/Users/jaywang/BFTBrain/code/learning/learning_agent.py", line 582, in <
+module>
+    run_agent(agent_stub)
+    ~~~~~~~~~^^^^^^^^^^^^
+  File "/Users/jaywang/BFTBrain/code/learning/learning_agent.py", line 524, in r
+un_agent
+    request = request_queue.get()
+  File "/opt/homebrew/Cellar/python@3.13/3.13.3_1/Frameworks/Python.framework/Ve
+rsions/3.13/lib/python3.13/queue.py", line 202, in get
+    self.not_empty.wait()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.3_1/Frameworks/Python.framework/Ve
+rsions/3.13/lib/python3.13/threading.py", line 359, in wait
+    waiter.acquire()
+    ~~~~~~~~~~~~~~^^
+KeyboardInterrupt
+
+jaywang@Jays-MacBook-Pro learning %

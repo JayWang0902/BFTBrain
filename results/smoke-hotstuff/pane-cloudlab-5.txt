@@ -1,0 +1,178 @@
+
+jaywang@Jays-MacBook-Pro scripts % cd ~/BFTBrain/code && ../scripts/kill_process
+_port.sh 9026 && ../scripts/kill_process_port.sh 9046
+Process killed
+Process killed
+jaywang@Jays-MacBook-Pro code % ./run.sh CoordinatorUnit -u 4 -p 9025 -c 1 -s 12
+7.0.0.1:9020
+Config value not found: demo.enabled
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+12:34:47.182  Unit configured.
+12:34:47.323  Received connection event from server.
+12:34:47.324  Received connection event from unit 3.
+12:34:47.324  Received connection event from unit 1.
+12:34:47.324  Received connection event from unit 2.
+12:34:47.324  Received connection event from unit 0.
+12:34:47.325  Connection initialized.
+12:34:47.338  Benchmark started.
+12:34:50.345  Sending benchmark results to server.
+12:34:50.377  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 1812
+request-execute 	avg: 72.81ms, max: 416.99ms, count: 18130
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6043.33req/s
+
+
+12:34:53.338  Sending benchmark results to server.
+12:34:53.339  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 5054
+request-execute 	avg: 46.16ms, max: 186.99ms, count: 32260
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	10753.33req/s
+
+
+12:34:56.340  Sending benchmark results to server.
+12:34:56.342  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 8618
+request-execute 	avg: 41.45ms, max: 85.17ms, count: 35610
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	11870.00req/s
+
+
+12:34:59.348  Sending benchmark results to server.
+12:34:59.349  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 12633
+request-execute 	avg: 37.41ms, max: 73.69ms, count: 40000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	13333.33req/s
+
+
+12:35:02.349  Sending benchmark results to server.
+12:35:02.350  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 16432
+request-execute 	avg: 39.40ms, max: 69.42ms, count: 38080
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	12693.33req/s
+
+
+12:35:05.351  Sending benchmark results to server.
+12:35:05.351  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 20436
+request-execute 	avg: 37.21ms, max: 64.61ms, count: 40070
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	13356.67req/s
+
+
+12:35:08.352  Sending benchmark results to server.
+12:35:08.353  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 24449
+request-execute 	avg: 37.27ms, max: 65.31ms, count: 39850
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	13283.33req/s
+
+
+12:35:11.358  Sending benchmark results to server.
+12:35:11.358  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 28349
+request-execute 	avg: 38.09ms, max: 73.31ms, count: 39270
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	13090.00req/s
+
+
+12:35:14.363  Sending benchmark results to server.
+12:35:14.364  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 32280
+request-execute 	avg: 38.10ms, max: 70.77ms, count: 39110
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	13036.67req/s
+
+
+12:35:17.367  Sending benchmark results to server.
+12:35:17.368  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 36349
+request-execute 	avg: 36.68ms, max: 60.55ms, count: 40760
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	13586.67req/s
+
+
+12:35:20.373  Sending benchmark results to server.
+12:35:20.374  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 40115
+request-execute 	avg: 39.64ms, max: 87.45ms, count: 37520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	12506.67req/s
+
+
+12:35:23.375  Sending benchmark results to server.
+12:35:23.376  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 44114
+request-execute 	avg: 37.55ms, max: 87.01ms, count: 39720
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	13240.00req/s
+
+
+12:35:26.378  Sending benchmark results to server.
+12:35:26.379  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 48221
+request-execute 	avg: 36.34ms, max: 65.94ms, count: 41090
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	13696.67req/s
+
+
+12:35:29.382  Sending benchmark results to server.
+12:35:29.392  -- Client 4
+current-episode 	value: 0
+current-protocol	value: hotstuff
+last-executed-sequence	num: 52066
+request-execute 	avg: 38.48ms, max: 91.92ms, count: 38740
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	12913.33req/s
+
+
+^C%
+jaywang@Jays-MacBook-Pro code %

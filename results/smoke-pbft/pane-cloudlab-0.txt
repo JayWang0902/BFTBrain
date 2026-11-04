@@ -1,0 +1,28 @@
+
+jaywang@Jays-MacBook-Pro scripts % cd ~/BFTBrain/code && ../scripts/kill_process
+_port.sh 9026 && ../scripts/kill_process_port.sh 9046
+./run.sh CoordinatorServer -p 9020 -r pbft
+Process killed
+Process killed
+jaywang@Jays-MacBook-Pro code % ./run.sh CoordinatorServer -p 9020 -r pbft
+Config value not found: demo.enabled
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Press Enter after all units are connected, to start the benchmark.
+12:32:06.110  Unit 0 is connected.
+12:32:07.125  Unit 1 is connected.
+12:32:08.148  Unit 2 is connected.
+12:32:09.169  Unit 3 is connected.
+12:32:15.199  Unit 4 is connected.
+
+Clients: [4]
+Nodes: [0, 1, 2, 3]
+Units initialized.
+Benchmark started.
+Available commands: "stop"
+$ ^C%
+jaywang@Jays-MacBook-Pro code %

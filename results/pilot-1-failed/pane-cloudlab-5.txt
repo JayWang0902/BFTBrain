@@ -1,0 +1,1873 @@
+
+13:26:35.633  Sending benchmark results to server.
+13:26:35.634  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:26:38.634  Sending benchmark results to server.
+13:26:38.634  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:26:41.639  Sending benchmark results to server.
+13:26:41.640  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:26:44.644  Sending benchmark results to server.
+13:26:44.645  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:26:47.649  Sending benchmark results to server.
+13:26:47.650  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:26:50.655  Sending benchmark results to server.
+13:26:50.655  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:26:53.656  Sending benchmark results to server.
+13:26:53.657  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:26:56.658  Sending benchmark results to server.
+13:26:56.659  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:26:59.662  Sending benchmark results to server.
+13:26:59.663  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:02.663  Sending benchmark results to server.
+13:27:02.664  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:05.669  Sending benchmark results to server.
+13:27:05.669  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:08.671  Sending benchmark results to server.
+13:27:08.671  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:11.676  Sending benchmark results to server.
+13:27:11.676  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:14.676  Sending benchmark results to server.
+13:27:14.676  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:17.681  Sending benchmark results to server.
+13:27:17.681  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:20.683  Sending benchmark results to server.
+13:27:20.684  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:23.688  Sending benchmark results to server.
+13:27:23.689  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:26.694  Sending benchmark results to server.
+13:27:26.694  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:29.698  Sending benchmark results to server.
+13:27:29.699  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:32.701  Sending benchmark results to server.
+13:27:32.701  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:35.705  Sending benchmark results to server.
+13:27:35.706  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:38.710  Sending benchmark results to server.
+13:27:38.711  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:41.715  Sending benchmark results to server.
+13:27:41.716  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:44.719  Sending benchmark results to server.
+13:27:44.720  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:47.722  Sending benchmark results to server.
+13:27:47.723  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:50.727  Sending benchmark results to server.
+13:27:50.728  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:53.733  Sending benchmark results to server.
+13:27:53.734  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:56.735  Sending benchmark results to server.
+13:27:56.736  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:27:59.740  Sending benchmark results to server.
+13:27:59.741  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:02.745  Sending benchmark results to server.
+13:28:02.746  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:05.750  Sending benchmark results to server.
+13:28:05.751  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:08.755  Sending benchmark results to server.
+13:28:08.755  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:11.761  Sending benchmark results to server.
+13:28:11.761  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:14.766  Sending benchmark results to server.
+13:28:14.766  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:17.771  Sending benchmark results to server.
+13:28:17.772  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:20.776  Sending benchmark results to server.
+13:28:20.777  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:23.780  Sending benchmark results to server.
+13:28:23.781  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:26.785  Sending benchmark results to server.
+13:28:26.785  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:29.790  Sending benchmark results to server.
+13:28:29.790  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:32.795  Sending benchmark results to server.
+13:28:32.795  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:35.801  Sending benchmark results to server.
+13:28:35.801  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:38.802  Sending benchmark results to server.
+13:28:38.803  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:41.807  Sending benchmark results to server.
+13:28:41.808  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:44.813  Sending benchmark results to server.
+13:28:44.813  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:47.816  Sending benchmark results to server.
+13:28:47.816  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:50.820  Sending benchmark results to server.
+13:28:50.820  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:53.824  Sending benchmark results to server.
+13:28:53.825  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:56.830  Sending benchmark results to server.
+13:28:56.830  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:28:59.831  Sending benchmark results to server.
+13:28:59.832  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:02.837  Sending benchmark results to server.
+13:29:02.838  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:05.842  Sending benchmark results to server.
+13:29:05.843  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:08.847  Sending benchmark results to server.
+13:29:08.848  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:11.852  Sending benchmark results to server.
+13:29:11.852  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:14.857  Sending benchmark results to server.
+13:29:14.857  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:17.862  Sending benchmark results to server.
+13:29:17.862  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:20.867  Sending benchmark results to server.
+13:29:20.868  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:23.872  Sending benchmark results to server.
+13:29:23.872  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:26.877  Sending benchmark results to server.
+13:29:26.877  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:29.881  Sending benchmark results to server.
+13:29:29.882  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:32.886  Sending benchmark results to server.
+13:29:32.887  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:35.891  Sending benchmark results to server.
+13:29:35.892  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:38.892  Sending benchmark results to server.
+13:29:38.893  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:41.897  Sending benchmark results to server.
+13:29:41.898  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:44.902  Sending benchmark results to server.
+13:29:44.903  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:47.907  Sending benchmark results to server.
+13:29:47.908  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:50.908  Sending benchmark results to server.
+13:29:50.909  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:53.913  Sending benchmark results to server.
+13:29:53.914  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:56.918  Sending benchmark results to server.
+13:29:56.919  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:29:59.918  Sending benchmark results to server.
+13:29:59.918  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:02.919  Sending benchmark results to server.
+13:30:02.920  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:05.924  Sending benchmark results to server.
+13:30:05.924  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:08.929  Sending benchmark results to server.
+13:30:08.930  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:11.930  Sending benchmark results to server.
+13:30:11.930  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:14.935  Sending benchmark results to server.
+13:30:14.936  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:17.938  Sending benchmark results to server.
+13:30:17.939  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:20.944  Sending benchmark results to server.
+13:30:20.944  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:23.948  Sending benchmark results to server.
+13:30:23.949  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:26.949  Sending benchmark results to server.
+13:30:26.949  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:29.950  Sending benchmark results to server.
+13:30:29.951  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:32.955  Sending benchmark results to server.
+13:30:32.956  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:35.960  Sending benchmark results to server.
+13:30:35.961  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:38.962  Sending benchmark results to server.
+13:30:38.962  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:41.963  Sending benchmark results to server.
+13:30:41.963  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:44.969  Sending benchmark results to server.
+13:30:44.969  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:47.971  Sending benchmark results to server.
+13:30:47.971  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:50.975  Sending benchmark results to server.
+13:30:50.975  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:53.980  Sending benchmark results to server.
+13:30:53.980  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:56.980  Sending benchmark results to server.
+13:30:56.980  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:30:59.985  Sending benchmark results to server.
+13:30:59.985  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:02.990  Sending benchmark results to server.
+13:31:02.990  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:05.992  Sending benchmark results to server.
+13:31:05.992  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:08.998  Sending benchmark results to server.
+13:31:08.998  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:12.2  Sending benchmark results to server.
+13:31:12.3  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:15.8  Sending benchmark results to server.
+13:31:15.8  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:18.12  Sending benchmark results to server.
+13:31:18.13  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:21.17  Sending benchmark results to server.
+13:31:21.18  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:24.23  Sending benchmark results to server.
+13:31:24.23  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:27.27  Sending benchmark results to server.
+13:31:27.28  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:30.32  Sending benchmark results to server.
+13:31:30.33  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:33.37  Sending benchmark results to server.
+13:31:33.38  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:36.42  Sending benchmark results to server.
+13:31:36.43  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:39.52  Sending benchmark results to server.
+13:31:39.53  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:42.61  Sending benchmark results to server.
+13:31:42.62  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:45.71  Sending benchmark results to server.
+13:31:45.72  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:48.81  Sending benchmark results to server.
+13:31:48.81  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:51.91  Sending benchmark results to server.
+13:31:51.91  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:54.101  Sending benchmark results to server.
+13:31:54.101  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:31:57.110  Sending benchmark results to server.
+13:31:57.111  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:00.112  Sending benchmark results to server.
+13:32:00.112  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:03.122  Sending benchmark results to server.
+13:32:03.122  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:06.131  Sending benchmark results to server.
+13:32:06.132  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:09.132  Sending benchmark results to server.
+13:32:09.132  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:12.141  Sending benchmark results to server.
+13:32:12.141  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:15.152  Sending benchmark results to server.
+13:32:15.152  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:18.154  Sending benchmark results to server.
+13:32:18.154  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:21.164  Sending benchmark results to server.
+13:32:21.164  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:24.174  Sending benchmark results to server.
+13:32:24.174  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:27.184  Sending benchmark results to server.
+13:32:27.184  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:30.187  Sending benchmark results to server.
+13:32:30.187  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:33.196  Sending benchmark results to server.
+13:32:33.197  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:36.206  Sending benchmark results to server.
+13:32:36.207  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:39.210  Sending benchmark results to server.
+13:32:39.211  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:42.219  Sending benchmark results to server.
+13:32:42.220  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:45.219  Sending benchmark results to server.
+13:32:45.220  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:48.229  Sending benchmark results to server.
+13:32:48.229  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:51.236  Sending benchmark results to server.
+13:32:51.237  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:54.246  Sending benchmark results to server.
+13:32:54.247  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:32:57.256  Sending benchmark results to server.
+13:32:57.256  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:00.266  Sending benchmark results to server.
+13:33:00.266  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:03.276  Sending benchmark results to server.
+13:33:03.276  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:06.280  Sending benchmark results to server.
+13:33:06.280  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:09.288  Sending benchmark results to server.
+13:33:09.289  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:12.289  Sending benchmark results to server.
+13:33:12.290  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:15.299  Sending benchmark results to server.
+13:33:15.300  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:18.303  Sending benchmark results to server.
+13:33:18.304  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:21.313  Sending benchmark results to server.
+13:33:21.314  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:24.323  Sending benchmark results to server.
+13:33:24.324  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:27.326  Sending benchmark results to server.
+13:33:27.326  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:30.335  Sending benchmark results to server.
+13:33:30.336  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:33.345  Sending benchmark results to server.
+13:33:33.346  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:36.355  Sending benchmark results to server.
+13:33:36.355  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:39.364  Sending benchmark results to server.
+13:33:39.364  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:42.374  Sending benchmark results to server.
+13:33:42.375  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:45.384  Sending benchmark results to server.
+13:33:45.385  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:48.386  Sending benchmark results to server.
+13:33:48.387  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:51.396  Sending benchmark results to server.
+13:33:51.397  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:54.403  Sending benchmark results to server.
+13:33:54.403  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:33:57.412  Sending benchmark results to server.
+13:33:57.412  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:00.422  Sending benchmark results to server.
+13:34:00.422  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:03.430  Sending benchmark results to server.
+13:34:03.430  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:06.440  Sending benchmark results to server.
+13:34:06.441  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:09.440  Sending benchmark results to server.
+13:34:09.441  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:12.446  Sending benchmark results to server.
+13:34:12.446  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:15.453  Sending benchmark results to server.
+13:34:15.453  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:18.462  Sending benchmark results to server.
+13:34:18.463  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:21.469  Sending benchmark results to server.
+13:34:21.470  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:24.479  Sending benchmark results to server.
+13:34:24.479  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:27.481  Sending benchmark results to server.
+13:34:27.481  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:30.484  Sending benchmark results to server.
+13:34:30.485  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:33.494  Sending benchmark results to server.
+13:34:33.495  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:36.504  Sending benchmark results to server.
+13:34:36.505  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:39.504  Sending benchmark results to server.
+13:34:39.505  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:42.515  Sending benchmark results to server.
+13:34:42.521  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:45.515  Sending benchmark results to server.
+13:34:45.515  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:48.522  Sending benchmark results to server.
+13:34:48.522  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:51.526  Sending benchmark results to server.
+13:34:51.527  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:54.527  Sending benchmark results to server.
+13:34:54.528  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:34:57.539  Sending benchmark results to server.
+13:34:57.540  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:35:00.545  Sending benchmark results to server.
+13:35:00.545  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+13:35:03.555  Sending benchmark results to server.
+13:35:03.556  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 998
+request-execute 	avg: 0, max: 0, count: 0
+request-interval	100.00us
+slow-path       	ratio: NaN
+throughput      	0.00req/s
+
+
+^C%
+jaywang@Jays-MacBook-Pro code %

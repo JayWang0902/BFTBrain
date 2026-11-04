@@ -1,0 +1,343 @@
+
+jaywang@Jays-MacBook-Pro scripts % cd ~/BFTBrain/code && ../scripts/kill_process
+_port.sh 9026 && ../scripts/kill_process_port.sh 9046
+Process killed
+Process killed
+jaywang@Jays-MacBook-Pro code % ./run.sh CoordinatorUnit -u 4 -p 9025 -c 1 -s 12
+7.0.0.1:9020
+Config value not found: demo.enabled
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+Config value not found: protocol.general.f
+12:32:20.493  Unit configured.
+12:32:20.688  Received connection event from server.
+12:32:20.688  Received connection event from unit 2.
+12:32:20.688  Received connection event from unit 1.
+12:32:20.688  Received connection event from unit 0.
+12:32:20.688  Received connection event from unit 3.
+12:32:20.690  Connection initialized.
+12:32:20.724  Benchmark started.
+12:32:23.698  Sending benchmark results to server.
+12:32:23.707  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 1591
+request-execute 	avg: 90.21ms, max: 221.07ms, count: 15860
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5286.67req/s
+
+
+12:32:26.700  Sending benchmark results to server.
+12:32:26.701  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 4134
+request-execute 	avg: 58.80ms, max: 78.37ms, count: 25420
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8473.33req/s
+
+
+12:32:29.701  Sending benchmark results to server.
+12:32:29.702  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 6975
+request-execute 	avg: 52.60ms, max: 71.47ms, count: 28430
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9476.67req/s
+
+
+12:32:32.704  Sending benchmark results to server.
+12:32:32.705  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 9773
+request-execute 	avg: 53.50ms, max: 89.37ms, count: 27940
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9313.33req/s
+
+
+12:32:35.707  Sending benchmark results to server.
+12:32:35.708  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 12642
+request-execute 	avg: 52.16ms, max: 92.55ms, count: 28690
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9563.33req/s
+
+
+12:32:38.707  Sending benchmark results to server.
+12:32:38.708  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 15445
+request-execute 	avg: 53.42ms, max: 96.57ms, count: 27980
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9326.67req/s
+
+
+12:32:41.709  Sending benchmark results to server.
+12:32:41.711  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 18356
+request-execute 	avg: 51.36ms, max: 61.67ms, count: 29100
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9700.00req/s
+
+
+12:32:44.711  Sending benchmark results to server.
+12:32:44.711  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 21269
+request-execute 	avg: 51.32ms, max: 76.60ms, count: 29140
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9713.33req/s
+
+
+12:32:47.715  Sending benchmark results to server.
+12:32:47.716  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 24207
+request-execute 	avg: 51.01ms, max: 64.53ms, count: 29300
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9766.67req/s
+
+
+12:32:50.722  Sending benchmark results to server.
+12:32:50.722  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 27073
+request-execute 	avg: 52.31ms, max: 94.38ms, count: 28580
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9526.67req/s
+
+
+12:32:53.725  Sending benchmark results to server.
+12:32:53.725  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 30036
+request-execute 	avg: 50.44ms, max: 58.38ms, count: 29640
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9880.00req/s
+
+
+12:32:56.730  Sending benchmark results to server.
+12:32:56.731  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 33003
+request-execute 	avg: 50.52ms, max: 57.37ms, count: 29590
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9863.33req/s
+
+
+12:32:59.736  Sending benchmark results to server.
+12:32:59.736  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 35978
+request-execute 	avg: 50.33ms, max: 58.71ms, count: 29690
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9896.67req/s
+
+
+12:33:02.740  Sending benchmark results to server.
+12:33:02.741  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 38909
+request-execute 	avg: 51.09ms, max: 81.19ms, count: 29250
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9750.00req/s
+
+
+12:33:05.745  Sending benchmark results to server.
+12:33:05.746  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 41787
+request-execute 	avg: 52.04ms, max: 93.38ms, count: 28750
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9583.33req/s
+
+
+12:33:08.751  Sending benchmark results to server.
+12:33:08.751  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 44673
+request-execute 	avg: 51.90ms, max: 68.12ms, count: 28810
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9603.33req/s
+
+
+12:33:11.755  Sending benchmark results to server.
+12:33:11.756  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 47617
+request-execute 	avg: 50.87ms, max: 63.59ms, count: 29380
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9793.33req/s
+
+
+12:33:14.760  Sending benchmark results to server.
+12:33:14.760  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 50416
+request-execute 	avg: 53.47ms, max: 124.48ms, count: 27940
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9313.33req/s
+
+
+12:33:17.762  Sending benchmark results to server.
+12:33:17.763  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 53270
+request-execute 	avg: 52.39ms, max: 71.37ms, count: 28530
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9510.00req/s
+
+
+12:33:20.767  Sending benchmark results to server.
+12:33:20.768  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 56092
+request-execute 	avg: 52.98ms, max: 77.41ms, count: 28200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9400.00req/s
+
+
+12:33:23.769  Sending benchmark results to server.
+12:33:23.769  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 58930
+request-execute 	avg: 52.51ms, max: 79.75ms, count: 28490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9496.67req/s
+
+
+12:33:26.772  Sending benchmark results to server.
+12:33:26.773  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 61766
+request-execute 	avg: 52.99ms, max: 81.31ms, count: 28220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9406.67req/s
+
+
+12:33:29.777  Sending benchmark results to server.
+12:33:29.778  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 64652
+request-execute 	avg: 52.03ms, max: 76.65ms, count: 28760
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9586.67req/s
+
+
+12:33:32.784  Sending benchmark results to server.
+12:33:32.784  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 67579
+request-execute 	avg: 51.16ms, max: 74.43ms, count: 29180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9726.67req/s
+
+
+12:33:35.786  Sending benchmark results to server.
+12:33:35.787  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 70386
+request-execute 	avg: 53.28ms, max: 108.28ms, count: 28060
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9353.33req/s
+
+
+12:33:38.792  Sending benchmark results to server.
+12:33:38.793  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 73219
+request-execute 	avg: 52.92ms, max: 69.02ms, count: 28240
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9413.33req/s
+
+
+12:33:41.795  Sending benchmark results to server.
+12:33:41.796  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 76078
+request-execute 	avg: 52.29ms, max: 76.95ms, count: 28610
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9536.67req/s
+
+
+12:33:44.798  Sending benchmark results to server.
+12:33:44.799  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 78829
+request-execute 	avg: 53.82ms, max: 131.15ms, count: 27740
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9246.67req/s
+
+
+12:33:47.799  Sending benchmark results to server.
+12:33:47.800  -- Client 4
+current-episode 	value: 0
+current-protocol	value: pbft
+last-executed-sequence	num: 81278
+request-execute 	avg: 61.81ms, max: 131.58ms, count: 24200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8066.67req/s
+
+
+^C%
+jaywang@Jays-MacBook-Pro code %

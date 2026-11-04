@@ -1,0 +1,3 @@
+{0} [EPISODE REPORT] episode 0: protocol = pbft , throughput = 4466.75req/s , episode time = 2.2387617s, overall time = 2.2387616634368896s
+{0} nextProtocol = pbft
+{0} leader mode set to be stable for the next episode

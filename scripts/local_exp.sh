@@ -75,7 +75,7 @@ done
 for (( i=0; i<$agent_count; i++ ))
 do
   echo "Protocol $protocol : [3/6] Starting Learning Agent for Coordination Unit $i"
-  tmux send-keys -t cloudlab-learning:"$i" "cd ~/BFTBrain/code/learning/ && python3 learning_agent.py -u $i -p $((9021+$i)) -n single" C-m
+  tmux send-keys -t cloudlab-learning:"$i" "cd ~/BFTBrain/code/learning/ && { [ -f ../../scripts/local_env.sh ] && source ../../scripts/local_env.sh; } ; python3 learning_agent.py -u $i -p $((9021+$i)) -n ${LEARNING_MODEL:-quadratic}" C-m
 done
 sleep 5
 
@@ -91,8 +91,14 @@ tmux send-keys -t cloudlab:0 C-m
 
 echo "Protocol $protocol : [6/6] Executing ..."
 
-echo "WAITING FOR INPUT TO KILL THE INSTANCE"
-cat
+# DURATION (seconds) env var: run unattended for that long; otherwise wait for input as before
+if [ -n "$DURATION" ]; then
+  echo "RUNNING FOR $DURATION SECONDS"
+  sleep "$DURATION"
+else
+  echo "WAITING FOR INPUT TO KILL THE INSTANCE"
+  cat
+fi
 
 for (( i=0; i<$count; i++ ))
 do

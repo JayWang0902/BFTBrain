@@ -1,0 +1,25 @@
+
+jaywang@Jays-MacBook-Pro scripts % cd ~/BFTBrain/code/learning/ && { [ -f ../../
+scripts/local_env.sh ] && source ../../scripts/local_env.sh; } ; python3 learnin
+g_agent.py -u 2 -p 9023 -n quadratic
+2026-11-04 13:21:59,117 - INFO - <module>:577 - grpc server running at [::]:9043
+.
+Traceback (most recent call last):
+  File "/Users/jaywang/BFTBrain/code/learning/learning_agent.py", line 582, in <
+module>
+    run_agent(agent_stub)
+    ~~~~~~~~~^^^^^^^^^^^^
+  File "/Users/jaywang/BFTBrain/code/learning/learning_agent.py", line 512, in r
+un_agent
+    os.makedirs(folder_name)
+    ~~~~~~~~~~~^^^^^^^^^^^^^
+  File "<frozen os>", line 227, in makedirs
+FileExistsError: [Errno 17] File exists: 'data/'
+jaywang@Jays-MacBook-Pro learning %
+jaywang@Jays-MacBook-Pro learning %
+
+
+
+
+
+

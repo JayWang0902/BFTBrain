@@ -1,0 +1,1951 @@
+request-execute 	avg: 605.23ms, max: 617.69ms, count: 2470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	823.33req/s
+
+
+[EPISODE REPORT] episode 334: protocol = sbft , throughput = 833.58req/s , episo
+de time = 11.996444s, overall time = 341.08957758545876s
+{4} nextProtocol = sbft
+leader mode set to be stable for the next episode
+14:15:11.77  Sending benchmark results to server.
+14:15:11.78  -- Client 4
+current-episode 	value: 335
+current-protocol	value: sbft
+last-executed-sequence	num: 335115
+request-execute 	avg: 544.01ms, max: 605.74ms, count: 2520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	840.00req/s
+
+
+14:15:14.84  Sending benchmark results to server.
+14:15:14.85  -- Client 4
+current-episode 	value: 335
+current-protocol	value: sbft
+last-executed-sequence	num: 335364
+request-execute 	avg: 604.41ms, max: 614.00ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+14:15:17.81  Sending benchmark results to server.
+14:15:17.82  -- Client 4
+current-episode 	value: 335
+current-protocol	value: sbft
+last-executed-sequence	num: 335613
+request-execute 	avg: 604.08ms, max: 617.61ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+14:15:20.87  Sending benchmark results to server.
+14:15:20.88  -- Client 4
+current-episode 	value: 335
+current-protocol	value: sbft
+last-executed-sequence	num: 335861
+request-execute 	avg: 602.66ms, max: 617.20ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+[EPISODE REPORT] episode 335: protocol = sbft , throughput = 829.23req/s , episo
+de time = 12.05939s, overall time = 353.14896765351295s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:15:23.90  Sending benchmark results to server.
+14:15:23.91  -- Client 4
+current-episode 	value: 336
+current-protocol	value: hotstuff
+last-executed-sequence	num: 336309
+request-execute 	avg: 364.29ms, max: 614.63ms, count: 3910
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1303.33req/s
+
+
+[EPISODE REPORT] episode 336: protocol = hotstuff , throughput = 2833.24req/s ,
+episode time = 3.5295293s, overall time = 356.6784969866276s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:15:26.96  Sending benchmark results to server.
+14:15:26.97  -- Client 4
+current-episode 	value: 337
+current-protocol	value: prime
+last-executed-sequence	num: 337399
+request-execute 	avg: 160.56ms, max: 603.37ms, count: 9790
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3263.33req/s
+
+
+[EPISODE REPORT] episode 337: protocol = prime , throughput = 4791.13req/s , epi
+sode time = 2.0871894s, overall time = 358.76568642258644s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:15:29.96  Sending benchmark results to server.
+14:15:29.97  -- Client 4
+current-episode 	value: 338
+current-protocol	value: hotstuff
+last-executed-sequence	num: 338427
+request-execute 	avg: 136.18ms, max: 618.00ms, count: 11030
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3676.67req/s
+
+
+[EPISODE REPORT] episode 338: protocol = hotstuff , throughput = 2851.82req/s ,
+episode time = 3.5065274s, overall time = 362.2722138464451s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+14:15:32.105  Sending benchmark results to server.
+14:15:32.106  -- Client 4
+current-episode 	value: 339
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 339104
+request-execute 	avg: 176.29ms, max: 604.53ms, count: 7680
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2560.00req/s
+
+
+14:15:35.105  Sending benchmark results to server.
+14:15:35.106  -- Client 4
+current-episode 	value: 339
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 339357
+request-execute 	avg: 594.57ms, max: 604.84ms, count: 2520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	840.00req/s
+
+
+14:15:38.103  Sending benchmark results to server.
+14:15:38.104  -- Client 4
+current-episode 	value: 339
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 339608
+request-execute 	avg: 599.27ms, max: 615.37ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+14:15:41.109  Sending benchmark results to server.
+14:15:41.110  -- Client 4
+current-episode 	value: 339
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 339860
+request-execute 	avg: 592.98ms, max: 607.26ms, count: 2520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	840.00req/s
+
+
+[EPISODE REPORT] episode 339: protocol = zyzzyva , throughput = 838.68req/s , ep
+isode time = 11.923498s, overall time = 374.1957120001316s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:15:44.112  Sending benchmark results to server.
+14:15:44.112  -- Client 4
+current-episode 	value: 340
+current-protocol	value: hotstuff
+last-executed-sequence	num: 340313
+request-execute 	avg: 363.84ms, max: 609.77ms, count: 3930
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1310.00req/s
+
+
+[EPISODE REPORT] episode 340: protocol = hotstuff , throughput = 2851.65req/s ,
+episode time = 3.5067415s, overall time = 377.7024535238743s
+{4} nextProtocol = cheapbft
+leader mode set to be stable for the next episode
+14:15:47.113  Sending benchmark results to server.
+14:15:47.114  -- Client 4
+current-episode 	value: 341
+current-protocol	value: cheapbft
+last-executed-sequence	num: 341069
+request-execute 	avg: 177.06ms, max: 595.63ms, count: 8150
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2716.67req/s
+
+
+14:15:50.118  Sending benchmark results to server.
+14:15:50.119  -- Client 4
+current-episode 	value: 341
+current-protocol	value: cheapbft
+last-executed-sequence	num: 341322
+request-execute 	avg: 587.30ms, max: 609.59ms, count: 2530
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	843.33req/s
+
+
+14:15:53.119  Sending benchmark results to server.
+14:15:53.120  -- Client 4
+current-episode 	value: 341
+current-protocol	value: cheapbft
+last-executed-sequence	num: 341572
+request-execute 	avg: 597.57ms, max: 613.36ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+14:15:56.122  Sending benchmark results to server.
+14:15:56.123  -- Client 4
+current-episode 	value: 341
+current-protocol	value: cheapbft
+last-executed-sequence	num: 341824
+request-execute 	avg: 598.52ms, max: 610.26ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+[EPISODE REPORT] episode 341: protocol = cheapbft , throughput = 838.83req/s , e
+pisode time = 11.9214s, overall time = 389.6238535940647s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:15:59.118  Sending benchmark results to server.
+14:15:59.119  -- Client 4
+current-episode 	value: 342
+current-protocol	value: hotstuff
+last-executed-sequence	num: 342217
+request-execute 	avg: 544.42ms, max: 611.61ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+[EPISODE REPORT] episode 342: protocol = hotstuff , throughput = 2886.59req/s ,
+episode time = 3.4642951s, overall time = 393.0881487429142s
+{4} nextProtocol = sbft
+leader mode set to be stable for the next episode
+14:16:02.125  Sending benchmark results to server.
+14:16:02.127  -- Client 4
+current-episode 	value: 343
+current-protocol	value: sbft
+last-executed-sequence	num: 343037
+request-execute 	avg: 169.16ms, max: 613.07ms, count: 9630
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3210.00req/s
+
+
+14:16:05.126  Sending benchmark results to server.
+14:16:05.127  -- Client 4
+current-episode 	value: 343
+current-protocol	value: sbft
+last-executed-sequence	num: 343285
+request-execute 	avg: 551.71ms, max: 621.76ms, count: 2470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	823.33req/s
+
+
+14:16:08.129  Sending benchmark results to server.
+14:16:08.130  -- Client 4
+current-episode 	value: 343
+current-protocol	value: sbft
+last-executed-sequence	num: 343534
+request-execute 	avg: 601.49ms, max: 609.80ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+14:16:11.133  Sending benchmark results to server.
+14:16:11.134  -- Client 4
+current-episode 	value: 343
+current-protocol	value: sbft
+last-executed-sequence	num: 343782
+request-execute 	avg: 604.75ms, max: 618.44ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+[EPISODE REPORT] episode 343: protocol = sbft , throughput = 828.96req/s , episo
+de time = 12.063357s, overall time = 405.15150609612465s
+{4} nextProtocol = pbft
+leader mode set to be stable for the next episode
+14:16:14.137  Sending benchmark results to server.
+14:16:14.138  -- Client 4
+current-episode 	value: 344
+current-protocol	value: pbft
+last-executed-sequence	num: 344032
+request-execute 	avg: 602.03ms, max: 615.62ms, count: 2500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	833.33req/s
+
+
+14:16:17.140  Sending benchmark results to server.
+14:16:17.141  -- Client 4
+current-episode 	value: 344
+current-protocol	value: pbft
+last-executed-sequence	num: 344281
+request-execute 	avg: 547.90ms, max: 619.39ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+14:16:20.145  Sending benchmark results to server.
+14:16:20.145  -- Client 4
+current-episode 	value: 344
+current-protocol	value: pbft
+last-executed-sequence	num: 344530
+request-execute 	avg: 603.69ms, max: 614.62ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+14:16:23.151  Sending benchmark results to server.
+14:16:23.152  -- Client 4
+current-episode 	value: 344
+current-protocol	value: pbft
+last-executed-sequence	num: 344778
+request-execute 	avg: 606.31ms, max: 621.19ms, count: 2470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	823.33req/s
+
+
+[EPISODE REPORT] episode 344: protocol = pbft , throughput = 827.19req/s , episo
+de time = 12.089093s, overall time = 417.24059930443764s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+14:16:26.154  Sending benchmark results to server.
+14:16:26.154  -- Client 4
+current-episode 	value: 345
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 345026
+request-execute 	avg: 605.28ms, max: 618.61ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+14:16:29.162  Sending benchmark results to server.
+14:16:29.163  -- Client 4
+current-episode 	value: 345
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 345278
+request-execute 	avg: 544.73ms, max: 625.84ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+14:16:32.165  Sending benchmark results to server.
+14:16:32.166  -- Client 4
+current-episode 	value: 345
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 345529
+request-execute 	avg: 599.25ms, max: 610.14ms, count: 2500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	833.33req/s
+
+
+14:16:35.161  Sending benchmark results to server.
+14:16:35.162  -- Client 4
+current-episode 	value: 345
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 345781
+request-execute 	avg: 595.75ms, max: 607.83ms, count: 2520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	840.00req/s
+
+
+[EPISODE REPORT] episode 345: protocol = zyzzyva , throughput = 838.26req/s , ep
+isode time = 11.929475s, overall time = 429.1700741350651s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:16:38.161  Sending benchmark results to server.
+14:16:38.161  -- Client 4
+current-episode 	value: 346
+current-protocol	value: hotstuff
+last-executed-sequence	num: 346033
+request-execute 	avg: 592.56ms, max: 603.52ms, count: 2530
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	843.33req/s
+
+
+14:16:41.169  Sending benchmark results to server.
+14:16:41.171  -- Client 4
+current-episode 	value: 346
+current-protocol	value: hotstuff
+last-executed-sequence	num: 346896
+request-execute 	avg: 176.19ms, max: 611.77ms, count: 8200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2733.33req/s
+
+
+[EPISODE REPORT] episode 346: protocol = hotstuff , throughput = 2859.81req/s ,
+episode time = 3.4967313s, overall time = 432.6668054163456s
+{4} nextProtocol = sbft
+leader mode set to be stable for the next episode
+14:16:44.170  Sending benchmark results to server.
+14:16:44.171  -- Client 4
+current-episode 	value: 347
+current-protocol	value: sbft
+last-executed-sequence	num: 347241
+request-execute 	avg: 364.88ms, max: 618.28ms, count: 3870
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1290.00req/s
+
+
+14:16:47.171  Sending benchmark results to server.
+14:16:47.172  -- Client 4
+current-episode 	value: 347
+current-protocol	value: sbft
+last-executed-sequence	num: 347490
+request-execute 	avg: 601.40ms, max: 617.97ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+14:16:50.171  Sending benchmark results to server.
+14:16:50.171  -- Client 4
+current-episode 	value: 347
+current-protocol	value: sbft
+last-executed-sequence	num: 347740
+request-execute 	avg: 601.74ms, max: 618.80ms, count: 2500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	833.33req/s
+
+
+14:16:53.178  Sending benchmark results to server.
+14:16:53.178  -- Client 4
+current-episode 	value: 347
+current-protocol	value: sbft
+last-executed-sequence	num: 347987
+request-execute 	avg: 605.41ms, max: 619.44ms, count: 2470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	823.33req/s
+
+
+[EPISODE REPORT] episode 347: protocol = sbft , throughput = 828.86req/s , episo
+de time = 12.064816s, overall time = 444.73162189126015s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+14:16:56.181  Sending benchmark results to server.
+14:16:56.181  -- Client 4
+current-episode 	value: 348
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 348239
+request-execute 	avg: 544.71ms, max: 614.66ms, count: 2520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	840.00req/s
+
+
+14:16:59.189  Sending benchmark results to server.
+14:16:59.190  -- Client 4
+current-episode 	value: 348
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 348492
+request-execute 	avg: 597.06ms, max: 610.61ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+14:17:02.190  Sending benchmark results to server.
+14:17:02.191  -- Client 4
+current-episode 	value: 348
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 348744
+request-execute 	avg: 592.96ms, max: 601.13ms, count: 2520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	840.00req/s
+
+
+14:17:05.198  Sending benchmark results to server.
+14:17:05.199  -- Client 4
+current-episode 	value: 348
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 348995
+request-execute 	avg: 596.03ms, max: 613.54ms, count: 2520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	840.00req/s
+
+
+[EPISODE REPORT] episode 348: protocol = zyzzyva , throughput = 838.30req/s , ep
+isode time = 11.928913s, overall time = 456.6605350077152s
+{4} nextProtocol = pbft
+leader mode set to be stable for the next episode
+14:17:08.196  Sending benchmark results to server.
+14:17:08.197  -- Client 4
+current-episode 	value: 349
+current-protocol	value: pbft
+last-executed-sequence	num: 349243
+request-execute 	avg: 550.04ms, max: 617.27ms, count: 2470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	823.33req/s
+
+
+14:17:11.203  Sending benchmark results to server.
+14:17:11.204  -- Client 4
+current-episode 	value: 349
+current-protocol	value: pbft
+last-executed-sequence	num: 349491
+request-execute 	avg: 603.38ms, max: 613.14ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+14:17:14.207  Sending benchmark results to server.
+14:17:14.209  -- Client 4
+current-episode 	value: 349
+current-protocol	value: pbft
+last-executed-sequence	num: 349740
+request-execute 	avg: 605.83ms, max: 613.50ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+14:17:17.213  Sending benchmark results to server.
+14:17:17.214  -- Client 4
+current-episode 	value: 349
+current-protocol	value: pbft
+last-executed-sequence	num: 349989
+request-execute 	avg: 602.72ms, max: 610.72ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+[EPISODE REPORT] episode 349: protocol = pbft , throughput = 827.27req/s , episo
+de time = 12.08799s, overall time = 468.74852481484413s
+{4} nextProtocol = cheapbft
+leader mode set to be stable for the next episode
+14:17:20.217  Sending benchmark results to server.
+14:17:20.218  -- Client 4
+current-episode 	value: 350
+current-protocol	value: cheapbft
+last-executed-sequence	num: 350240
+request-execute 	avg: 545.52ms, max: 611.12ms, count: 2500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	833.33req/s
+
+
+14:17:23.220  Sending benchmark results to server.
+14:17:23.221  -- Client 4
+current-episode 	value: 350
+current-protocol	value: cheapbft
+last-executed-sequence	num: 350491
+request-execute 	avg: 596.34ms, max: 611.86ms, count: 2520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	840.00req/s
+
+
+14:17:26.223  Sending benchmark results to server.
+14:17:26.225  -- Client 4
+current-episode 	value: 350
+current-protocol	value: cheapbft
+last-executed-sequence	num: 350742
+request-execute 	avg: 601.63ms, max: 608.93ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+14:17:29.225  Sending benchmark results to server.
+14:17:29.226  -- Client 4
+current-episode 	value: 350
+current-protocol	value: cheapbft
+last-executed-sequence	num: 350991
+request-execute 	avg: 598.03ms, max: 608.67ms, count: 2500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	833.33req/s
+
+
+[EPISODE REPORT] episode 350: protocol = cheapbft , throughput = 834.63req/s , e
+pisode time = 11.981373s, overall time = 480.7298976480961s
+{4} nextProtocol = pbft
+leader mode set to be stable for the next episode
+14:17:32.227  Sending benchmark results to server.
+14:17:32.228  -- Client 4
+current-episode 	value: 351
+current-protocol	value: pbft
+last-executed-sequence	num: 351240
+request-execute 	avg: 551.02ms, max: 620.98ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+14:17:35.231  Sending benchmark results to server.
+14:17:35.232  -- Client 4
+current-episode 	value: 351
+current-protocol	value: pbft
+last-executed-sequence	num: 351490
+request-execute 	avg: 600.57ms, max: 615.45ms, count: 2500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	833.33req/s
+
+
+14:17:38.236  Sending benchmark results to server.
+14:17:38.237  -- Client 4
+current-episode 	value: 351
+current-protocol	value: pbft
+last-executed-sequence	num: 351738
+request-execute 	avg: 603.29ms, max: 614.82ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+14:17:41.240  Sending benchmark results to server.
+14:17:41.241  -- Client 4
+current-episode 	value: 351
+current-protocol	value: pbft
+last-executed-sequence	num: 351986
+request-execute 	avg: 606.78ms, max: 616.52ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+[EPISODE REPORT] episode 351: protocol = pbft , throughput = 827.18req/s , episo
+de time = 12.089334s, overall time = 492.8192311823368s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:17:44.241  Sending benchmark results to server.
+14:17:44.242  -- Client 4
+current-episode 	value: 352
+current-protocol	value: hotstuff
+last-executed-sequence	num: 352806
+request-execute 	avg: 211.23ms, max: 619.85ms, count: 6760
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2253.33req/s
+
+
+[EPISODE REPORT] episode 352: protocol = hotstuff , throughput = 2895.73req/s ,
+episode time = 3.4533565s, overall time = 496.2725876867771s
+{4} nextProtocol = sbft
+leader mode set to be stable for the next episode
+14:17:47.250  Sending benchmark results to server.
+14:17:47.250  -- Client 4
+current-episode 	value: 353
+current-protocol	value: sbft
+last-executed-sequence	num: 353198
+request-execute 	avg: 267.44ms, max: 610.58ms, count: 5360
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1786.67req/s
+
+
+14:17:50.251  Sending benchmark results to server.
+14:17:50.253  -- Client 4
+current-episode 	value: 353
+current-protocol	value: sbft
+last-executed-sequence	num: 353449
+request-execute 	avg: 600.80ms, max: 612.91ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+14:17:53.254  Sending benchmark results to server.
+14:17:53.255  -- Client 4
+current-episode 	value: 353
+current-protocol	value: sbft
+last-executed-sequence	num: 353697
+request-execute 	avg: 599.62ms, max: 612.44ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+14:17:56.260  Sending benchmark results to server.
+14:17:56.261  -- Client 4
+current-episode 	value: 353
+current-protocol	value: sbft
+last-executed-sequence	num: 353947
+request-execute 	avg: 602.38ms, max: 621.39ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+[EPISODE REPORT] episode 353: protocol = sbft , throughput = 831.39req/s , episo
+de time = 12.02804s, overall time = 508.3006276190281s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:17:59.259  Sending benchmark results to server.
+14:17:59.259  -- Client 4
+current-episode 	value: 354
+current-protocol	value: hotstuff
+last-executed-sequence	num: 354620
+request-execute 	avg: 260.39ms, max: 615.12ms, count: 5310
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1770.00req/s
+
+
+[EPISODE REPORT] episode 354: protocol = hotstuff , throughput = 2841.38req/s ,
+episode time = 3.5194206s, overall time = 511.8200482428074s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:18:02.264  Sending benchmark results to server.
+14:18:02.265  -- Client 4
+current-episode 	value: 355
+current-protocol	value: hotstuff
+last-executed-sequence	num: 355436
+request-execute 	avg: 181.15ms, max: 625.93ms, count: 8130
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2710.00req/s
+
+
+[EPISODE REPORT] episode 355: protocol = hotstuff , throughput = 2836.89req/s ,
+episode time = 3.5249836s, overall time = 515.3450318872929s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:18:05.269  Sending benchmark results to server.
+14:18:05.269  -- Client 4
+current-episode 	value: 356
+current-protocol	value: hotstuff
+last-executed-sequence	num: 356311
+request-execute 	avg: 168.31ms, max: 606.81ms, count: 9600
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3200.00req/s
+
+
+[EPISODE REPORT] episode 356: protocol = hotstuff , throughput = 2892.83req/s ,
+episode time = 3.4568233s, overall time = 518.8018552362919s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:18:08.274  Sending benchmark results to server.
+14:18:08.274  -- Client 4
+current-episode 	value: 357
+current-protocol	value: hotstuff
+last-executed-sequence	num: 357216
+request-execute 	avg: 172.04ms, max: 601.81ms, count: 8200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2733.33req/s
+
+
+[EPISODE REPORT] episode 357: protocol = hotstuff , throughput = 2674.48req/s ,
+episode time = 3.7390459s, overall time = 522.5409010946751s
+{4} nextProtocol = pbft
+leader mode set to be stable for the next episode
+14:18:11.278  Sending benchmark results to server.
+14:18:11.278  -- Client 4
+current-episode 	value: 358
+current-protocol	value: pbft
+last-executed-sequence	num: 358011
+request-execute 	avg: 185.70ms, max: 681.32ms, count: 8000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2666.67req/s
+
+
+14:18:14.286  Sending benchmark results to server.
+14:18:14.287  -- Client 4
+current-episode 	value: 358
+current-protocol	value: pbft
+last-executed-sequence	num: 358236
+request-execute 	avg: 398.43ms, max: 695.24ms, count: 3660
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1220.00req/s
+
+
+14:18:17.296  Sending benchmark results to server.
+14:18:17.297  -- Client 4
+current-episode 	value: 358
+current-protocol	value: pbft
+last-executed-sequence	num: 358453
+request-execute 	avg: 682.06ms, max: 721.92ms, count: 2190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	730.00req/s
+
+
+14:18:20.301  Sending benchmark results to server.
+14:18:20.302  -- Client 4
+current-episode 	value: 358
+current-protocol	value: pbft
+last-executed-sequence	num: 358672
+request-execute 	avg: 687.24ms, max: 717.04ms, count: 2180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	726.67req/s
+
+
+14:18:23.310  Sending benchmark results to server.
+14:18:23.311  -- Client 4
+current-episode 	value: 358
+current-protocol	value: pbft
+last-executed-sequence	num: 358889
+request-execute 	avg: 691.40ms, max: 714.19ms, count: 2170
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	723.33req/s
+
+
+[EPISODE REPORT] episode 358: protocol = pbft , throughput = 730.93req/s , episo
+de time = 13.681265s, overall time = 536.2221659719944s
+{4} nextProtocol = sbft
+leader mode set to be stable for the next episode
+14:18:26.318  Sending benchmark results to server.
+14:18:26.319  -- Client 4
+current-episode 	value: 359
+current-protocol	value: sbft
+last-executed-sequence	num: 359108
+request-execute 	avg: 617.46ms, max: 715.88ms, count: 2180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	726.67req/s
+
+
+14:18:29.321  Sending benchmark results to server.
+14:18:29.321  -- Client 4
+current-episode 	value: 359
+current-protocol	value: sbft
+last-executed-sequence	num: 359328
+request-execute 	avg: 683.36ms, max: 716.77ms, count: 2190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	730.00req/s
+
+
+14:18:32.327  Sending benchmark results to server.
+14:18:32.329  -- Client 4
+current-episode 	value: 359
+current-protocol	value: sbft
+last-executed-sequence	num: 359550
+request-execute 	avg: 683.36ms, max: 701.74ms, count: 2210
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	736.67req/s
+
+
+14:18:35.336  Sending benchmark results to server.
+14:18:35.337  -- Client 4
+current-episode 	value: 359
+current-protocol	value: sbft
+last-executed-sequence	num: 359772
+request-execute 	avg: 678.13ms, max: 705.75ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+14:18:38.335  Sending benchmark results to server.
+14:18:38.336  -- Client 4
+current-episode 	value: 359
+current-protocol	value: sbft
+last-executed-sequence	num: 359994
+request-execute 	avg: 668.70ms, max: 694.69ms, count: 2240
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	746.67req/s
+
+
+[EPISODE REPORT] episode 359: protocol = sbft , throughput = 736.23req/s , episo
+de time = 13.582675s, overall time = 549.804840952158s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:18:41.338  Sending benchmark results to server.
+14:18:41.339  -- Client 4
+current-episode 	value: 360
+current-protocol	value: hotstuff
+last-executed-sequence	num: 360641
+request-execute 	avg: 267.05ms, max: 705.45ms, count: 5020
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1673.33req/s
+
+
+[EPISODE REPORT] episode 360: protocol = hotstuff , throughput = 2512.54req/s ,
+episode time = 3.980029s, overall time = 553.7848700582981s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+14:18:44.349  Sending benchmark results to server.
+14:18:44.351  -- Client 4
+current-episode 	value: 361
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 361146
+request-execute 	avg: 232.12ms, max: 704.16ms, count: 6490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2163.33req/s
+
+
+14:18:47.347  Sending benchmark results to server.
+14:18:47.349  -- Client 4
+current-episode 	value: 361
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 361365
+request-execute 	avg: 683.80ms, max: 709.46ms, count: 2190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	730.00req/s
+
+
+14:18:50.348  Sending benchmark results to server.
+14:18:50.350  -- Client 4
+current-episode 	value: 361
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 361583
+request-execute 	avg: 683.55ms, max: 725.55ms, count: 2190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	730.00req/s
+
+
+14:18:53.348  Sending benchmark results to server.
+14:18:53.349  -- Client 4
+current-episode 	value: 361
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 361805
+request-execute 	avg: 684.34ms, max: 713.27ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+[EPISODE REPORT] episode 361: protocol = zyzzyva , throughput = 734.03req/s , ep
+isode time = 13.623435s, overall time = 567.4083050787449s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+14:18:56.352  Sending benchmark results to server.
+14:18:56.353  -- Client 4
+current-episode 	value: 362
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 362026
+request-execute 	avg: 677.81ms, max: 694.52ms, count: 2210
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	736.67req/s
+
+
+14:18:59.359  Sending benchmark results to server.
+14:18:59.360  -- Client 4
+current-episode 	value: 362
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 362250
+request-execute 	avg: 603.16ms, max: 699.80ms, count: 2240
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	746.67req/s
+
+
+14:19:02.371  Sending benchmark results to server.
+14:19:02.373  -- Client 4
+current-episode 	value: 362
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 362473
+request-execute 	avg: 675.21ms, max: 693.03ms, count: 2220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	740.00req/s
+
+
+14:19:05.369  Sending benchmark results to server.
+14:19:05.370  -- Client 4
+current-episode 	value: 362
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 362694
+request-execute 	avg: 675.16ms, max: 697.28ms, count: 2220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	740.00req/s
+
+
+14:19:08.380  Sending benchmark results to server.
+14:19:08.381  -- Client 4
+current-episode 	value: 362
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 362917
+request-execute 	avg: 679.93ms, max: 699.89ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+[EPISODE REPORT] episode 362: protocol = zyzzyva , throughput = 739.85req/s , ep
+isode time = 13.516194s, overall time = 580.9244994223118s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+14:19:11.378  Sending benchmark results to server.
+14:19:11.379  -- Client 4
+current-episode 	value: 363
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 363134
+request-execute 	avg: 612.69ms, max: 712.94ms, count: 2180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	726.67req/s
+
+
+14:19:14.383  Sending benchmark results to server.
+14:19:14.384  -- Client 4
+current-episode 	value: 363
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 363353
+request-execute 	avg: 683.71ms, max: 706.50ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+14:19:17.393  Sending benchmark results to server.
+14:19:17.393  -- Client 4
+current-episode 	value: 363
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 363571
+request-execute 	avg: 693.85ms, max: 716.50ms, count: 2160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	720.00req/s
+
+
+14:19:20.403  Sending benchmark results to server.
+14:19:20.405  -- Client 4
+current-episode 	value: 363
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 363798
+request-execute 	avg: 660.25ms, max: 697.58ms, count: 2270
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	756.67req/s
+
+
+[EPISODE REPORT] episode 363: protocol = zyzzyva , throughput = 733.76req/s , ep
+isode time = 13.628453s, overall time = 594.5529526770115s
+{4} nextProtocol = cheapbft
+leader mode set to be stable for the next episode
+14:19:23.409  Sending benchmark results to server.
+14:19:23.410  -- Client 4
+current-episode 	value: 364
+current-protocol	value: cheapbft
+last-executed-sequence	num: 364019
+request-execute 	avg: 682.72ms, max: 700.27ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+14:19:26.417  Sending benchmark results to server.
+14:19:26.418  -- Client 4
+current-episode 	value: 364
+current-protocol	value: cheapbft
+last-executed-sequence	num: 364239
+request-execute 	avg: 614.11ms, max: 705.00ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+14:19:29.418  Sending benchmark results to server.
+14:19:29.420  -- Client 4
+current-episode 	value: 364
+current-protocol	value: cheapbft
+last-executed-sequence	num: 364459
+request-execute 	avg: 676.60ms, max: 699.83ms, count: 2220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	740.00req/s
+
+
+14:19:32.424  Sending benchmark results to server.
+14:19:32.425  -- Client 4
+current-episode 	value: 364
+current-protocol	value: cheapbft
+last-executed-sequence	num: 364676
+request-execute 	avg: 690.18ms, max: 712.38ms, count: 2150
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	716.67req/s
+
+
+14:19:35.423  Sending benchmark results to server.
+14:19:35.425  -- Client 4
+current-episode 	value: 364
+current-protocol	value: cheapbft
+last-executed-sequence	num: 364893
+request-execute 	avg: 688.92ms, max: 717.37ms, count: 2170
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	723.33req/s
+
+
+[EPISODE REPORT] episode 364: protocol = cheapbft , throughput = 729.57req/s , e
+pisode time = 13.706656s, overall time = 608.2596091330051s
+{4} nextProtocol = pbft
+leader mode set to be stable for the next episode
+14:19:38.433  Sending benchmark results to server.
+14:19:38.434  -- Client 4
+current-episode 	value: 365
+current-protocol	value: pbft
+last-executed-sequence	num: 365113
+request-execute 	avg: 618.50ms, max: 718.42ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+14:19:41.435  Sending benchmark results to server.
+14:19:41.436  -- Client 4
+current-episode 	value: 365
+current-protocol	value: pbft
+last-executed-sequence	num: 365329
+request-execute 	avg: 696.32ms, max: 713.23ms, count: 2150
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	716.67req/s
+
+
+14:19:44.448  Sending benchmark results to server.
+14:19:44.449  -- Client 4
+current-episode 	value: 365
+current-protocol	value: pbft
+last-executed-sequence	num: 365548
+request-execute 	avg: 688.31ms, max: 714.20ms, count: 2180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	726.67req/s
+
+
+14:19:47.455  Sending benchmark results to server.
+14:19:47.456  -- Client 4
+current-episode 	value: 365
+current-protocol	value: pbft
+last-executed-sequence	num: 365766
+request-execute 	avg: 683.50ms, max: 702.57ms, count: 2190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	730.00req/s
+
+
+14:19:50.466  Sending benchmark results to server.
+14:19:50.467  -- Client 4
+current-episode 	value: 365
+current-protocol	value: pbft
+last-executed-sequence	num: 365983
+request-execute 	avg: 697.64ms, max: 713.99ms, count: 2160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	720.00req/s
+
+
+[EPISODE REPORT] episode 365: protocol = pbft , throughput = 722.74req/s , episo
+de time = 13.836323s, overall time = 622.095931917429s
+{4} nextProtocol = pbft
+leader mode set to be stable for the next episode
+14:19:53.470  Sending benchmark results to server.
+14:19:53.471  -- Client 4
+current-episode 	value: 366
+current-protocol	value: pbft
+last-executed-sequence	num: 366199
+request-execute 	avg: 621.15ms, max: 710.81ms, count: 2160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	720.00req/s
+
+
+14:19:56.484  Sending benchmark results to server.
+14:19:56.487  -- Client 4
+current-episode 	value: 366
+current-protocol	value: pbft
+last-executed-sequence	num: 366421
+request-execute 	avg: 677.97ms, max: 713.61ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+14:19:59.492  Sending benchmark results to server.
+14:19:59.492  -- Client 4
+current-episode 	value: 366
+current-protocol	value: pbft
+last-executed-sequence	num: 366641
+request-execute 	avg: 694.18ms, max: 711.85ms, count: 2180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	726.67req/s
+
+
+14:20:02.507  Sending benchmark results to server.
+14:20:02.508  -- Client 4
+current-episode 	value: 366
+current-protocol	value: pbft
+last-executed-sequence	num: 366855
+request-execute 	avg: 690.52ms, max: 716.15ms, count: 2150
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	716.67req/s
+
+
+[EPISODE REPORT] episode 366: protocol = pbft , throughput = 724.29req/s , episo
+de time = 13.806537s, overall time = 635.9024685919285s
+{4} nextProtocol = pbft
+leader mode set to be stable for the next episode
+14:20:05.511  Sending benchmark results to server.
+14:20:05.511  -- Client 4
+current-episode 	value: 367
+current-protocol	value: pbft
+last-executed-sequence	num: 367072
+request-execute 	avg: 663.25ms, max: 719.30ms, count: 2160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	720.00req/s
+
+
+14:20:08.508  Sending benchmark results to server.
+14:20:08.509  -- Client 4
+current-episode 	value: 367
+current-protocol	value: pbft
+last-executed-sequence	num: 367289
+request-execute 	avg: 651.89ms, max: 727.57ms, count: 2170
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	723.33req/s
+
+
+14:20:11.517  Sending benchmark results to server.
+14:20:11.517  -- Client 4
+current-episode 	value: 367
+current-protocol	value: pbft
+last-executed-sequence	num: 367510
+request-execute 	avg: 684.35ms, max: 719.97ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+14:20:14.527  Sending benchmark results to server.
+14:20:14.528  -- Client 4
+current-episode 	value: 367
+current-protocol	value: pbft
+last-executed-sequence	num: 367729
+request-execute 	avg: 687.59ms, max: 710.66ms, count: 2190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	730.00req/s
+
+
+14:20:17.532  Sending benchmark results to server.
+14:20:17.534  -- Client 4
+current-episode 	value: 367
+current-protocol	value: pbft
+last-executed-sequence	num: 367945
+request-execute 	avg: 690.50ms, max: 709.40ms, count: 2170
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	723.33req/s
+
+
+[EPISODE REPORT] episode 367: protocol = pbft , throughput = 726.98req/s , episo
+de time = 13.755602s, overall time = 649.658070474863s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+14:20:20.533  Sending benchmark results to server.
+14:20:20.534  -- Client 4
+current-episode 	value: 368
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 368166
+request-execute 	avg: 611.73ms, max: 706.66ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+14:20:23.537  Sending benchmark results to server.
+14:20:23.537  -- Client 4
+current-episode 	value: 368
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 368387
+request-execute 	avg: 682.20ms, max: 705.80ms, count: 2190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	730.00req/s
+
+
+14:20:26.537  Sending benchmark results to server.
+14:20:26.537  -- Client 4
+current-episode 	value: 368
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 368605
+request-execute 	avg: 686.04ms, max: 700.26ms, count: 2190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	730.00req/s
+
+
+14:20:29.543  Sending benchmark results to server.
+14:20:29.544  -- Client 4
+current-episode 	value: 368
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 368826
+request-execute 	avg: 682.28ms, max: 707.47ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+[EPISODE REPORT] episode 368: protocol = zyzzyva , throughput = 733.23req/s , ep
+isode time = 13.638292s, overall time = 663.2963627874851s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:20:32.543  Sending benchmark results to server.
+14:20:32.544  -- Client 4
+current-episode 	value: 369
+current-protocol	value: prime
+last-executed-sequence	num: 369282
+request-execute 	avg: 677.82ms, max: 699.30ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+[EPISODE REPORT] episode 369: protocol = prime , throughput = 4521.84req/s , epi
+sode time = 2.2114909s, overall time = 665.5078536570072s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+14:20:35.553  Sending benchmark results to server.
+14:20:35.555  -- Client 4
+current-episode 	value: 370
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 370107
+request-execute 	avg: 124.58ms, max: 717.44ms, count: 10590
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3530.00req/s
+
+
+14:20:38.560  Sending benchmark results to server.
+14:20:38.562  -- Client 4
+current-episode 	value: 370
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 370331
+request-execute 	avg: 672.40ms, max: 694.64ms, count: 2230
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	743.33req/s
+
+
+14:20:41.569  Sending benchmark results to server.
+14:20:41.571  -- Client 4
+current-episode 	value: 370
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 370553
+request-execute 	avg: 672.19ms, max: 686.36ms, count: 2230
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	743.33req/s
+
+
+14:20:44.576  Sending benchmark results to server.
+14:20:44.577  -- Client 4
+current-episode 	value: 370
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 370775
+request-execute 	avg: 676.48ms, max: 697.86ms, count: 2220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	740.00req/s
+
+
+14:20:47.587  Sending benchmark results to server.
+14:20:47.588  -- Client 4
+current-episode 	value: 370
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 370994
+request-execute 	avg: 682.14ms, max: 707.42ms, count: 2190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	730.00req/s
+
+
+[EPISODE REPORT] episode 370: protocol = zyzzyva , throughput = 737.43req/s , ep
+isode time = 13.560633s, overall time = 679.0684863626957s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 371: protocol = prime , throughput = 4479.06req/s , epi
+sode time = 2.2326095s, overall time = 681.3010958731174s
+{4} nextProtocol = cheapbft
+leader mode set to be stable for the next episode
+14:20:50.590  Sending benchmark results to server.
+14:20:50.591  -- Client 4
+current-episode 	value: 372
+current-protocol	value: cheapbft
+last-executed-sequence	num: 372048
+request-execute 	avg: 147.62ms, max: 752.85ms, count: 10160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3386.67req/s
+
+
+14:20:53.592  Sending benchmark results to server.
+14:20:53.592  -- Client 4
+current-episode 	value: 372
+current-protocol	value: cheapbft
+last-executed-sequence	num: 372268
+request-execute 	avg: 505.13ms, max: 732.70ms, count: 2560
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	853.33req/s
+
+
+14:20:56.596  Sending benchmark results to server.
+14:20:56.598  -- Client 4
+current-episode 	value: 372
+current-protocol	value: cheapbft
+last-executed-sequence	num: 372491
+request-execute 	avg: 675.96ms, max: 701.46ms, count: 2220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	740.00req/s
+
+
+14:20:59.605  Sending benchmark results to server.
+14:20:59.606  -- Client 4
+current-episode 	value: 372
+current-protocol	value: cheapbft
+last-executed-sequence	num: 372714
+request-execute 	avg: 673.80ms, max: 691.43ms, count: 2230
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	743.33req/s
+
+
+14:21:02.609  Sending benchmark results to server.
+14:21:02.610  -- Client 4
+current-episode 	value: 372
+current-protocol	value: cheapbft
+last-executed-sequence	num: 372934
+request-execute 	avg: 676.78ms, max: 707.25ms, count: 2210
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	736.67req/s
+
+
+[EPISODE REPORT] episode 372: protocol = cheapbft , throughput = 735.60req/s , e
+pisode time = 13.594303s, overall time = 694.895399004221s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:21:05.610  Sending benchmark results to server.
+14:21:05.611  -- Client 4
+current-episode 	value: 373
+current-protocol	value: prime
+last-executed-sequence	num: 373949
+request-execute 	avg: 220.86ms, max: 761.22ms, count: 6810
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2270.00req/s
+
+
+[EPISODE REPORT] episode 373: protocol = prime , throughput = 4635.97req/s , epi
+sode time = 2.157044s, overall time = 697.0524429380894s
+{4} nextProtocol = sbft
+leader mode set to be stable for the next episode
+14:21:08.618  Sending benchmark results to server.
+14:21:08.619  -- Client 4
+current-episode 	value: 374
+current-protocol	value: sbft
+last-executed-sequence	num: 374217
+request-execute 	avg: 222.16ms, max: 699.31ms, count: 6010
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2003.33req/s
+
+
+14:21:11.628  Sending benchmark results to server.
+14:21:11.628  -- Client 4
+current-episode 	value: 374
+current-protocol	value: sbft
+last-executed-sequence	num: 374435
+request-execute 	avg: 689.72ms, max: 715.30ms, count: 2170
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	723.33req/s
+
+
+14:21:14.638  Sending benchmark results to server.
+14:21:14.639  -- Client 4
+current-episode 	value: 374
+current-protocol	value: sbft
+last-executed-sequence	num: 374652
+request-execute 	avg: 697.29ms, max: 716.43ms, count: 2160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	720.00req/s
+
+
+14:21:17.641  Sending benchmark results to server.
+14:21:17.642  -- Client 4
+current-episode 	value: 374
+current-protocol	value: sbft
+last-executed-sequence	num: 374875
+request-execute 	avg: 677.85ms, max: 702.58ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+[EPISODE REPORT] episode 374: protocol = sbft , throughput = 732.76req/s , episo
+de time = 13.64705s, overall time = 710.699492841959s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:21:20.637  Sending benchmark results to server.
+14:21:20.638  -- Client 4
+current-episode 	value: 375
+current-protocol	value: prime
+last-executed-sequence	num: 375588
+request-execute 	avg: 391.82ms, max: 726.51ms, count: 3850
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1283.33req/s
+
+
+[EPISODE REPORT] episode 375: protocol = prime , throughput = 4517.26req/s , epi
+sode time = 2.2137308s, overall time = 712.9132236540318s
+{4} nextProtocol = pbft
+leader mode set to be stable for the next episode
+14:21:23.650  Sending benchmark results to server.
+14:21:23.650  -- Client 4
+current-episode 	value: 376
+current-protocol	value: pbft
+last-executed-sequence	num: 376152
+request-execute 	avg: 144.90ms, max: 715.03ms, count: 8960
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2986.67req/s
+
+
+14:21:26.655  Sending benchmark results to server.
+14:21:26.656  -- Client 4
+current-episode 	value: 376
+current-protocol	value: pbft
+last-executed-sequence	num: 376372
+request-execute 	avg: 698.91ms, max: 735.38ms, count: 2160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	720.00req/s
+
+
+14:21:29.661  Sending benchmark results to server.
+14:21:29.662  -- Client 4
+current-episode 	value: 376
+current-protocol	value: pbft
+last-executed-sequence	num: 376590
+request-execute 	avg: 678.84ms, max: 703.53ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+14:21:32.668  Sending benchmark results to server.
+14:21:32.669  -- Client 4
+current-episode 	value: 376
+current-protocol	value: pbft
+last-executed-sequence	num: 376805
+request-execute 	avg: 697.45ms, max: 712.28ms, count: 2150
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	716.67req/s
+
+
+[EPISODE REPORT] episode 376: protocol = pbft , throughput = 721.82req/s , episo
+de time = 13.853913s, overall time = 726.7671369612217s
+{4} nextProtocol = hotstuff
+leader mode set to be rotate for the next episode
+14:21:35.675  Sending benchmark results to server.
+14:21:35.676  -- Client 4
+current-episode 	value: 377
+current-protocol	value: hotstuff
+last-executed-sequence	num: 377021
+request-execute 	avg: 692.10ms, max: 705.55ms, count: 2160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	720.00req/s
+
+
+14:21:38.673  Sending benchmark results to server.
+14:21:38.673  -- Client 4
+current-episode 	value: 377
+current-protocol	value: hotstuff
+last-executed-sequence	num: 377814
+request-execute 	avg: 252.93ms, max: 714.84ms, count: 5950
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1983.33req/s
+
+
+[EPISODE REPORT] episode 377: protocol = hotstuff , throughput = 2566.14req/s ,
+episode time = 3.8969107s, overall time = 730.6640476286411s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 378: protocol = prime , throughput = 4600.85req/s , epi
+sode time = 2.1735122s, overall time = 732.8375598490238s
+{4} nextProtocol = sbft
+leader mode set to be stable for the next episode
+14:21:41.678  Sending benchmark results to server.
+14:21:41.679  -- Client 4
+current-episode 	value: 379
+current-protocol	value: sbft
+last-executed-sequence	num: 379017
+request-execute 	avg: 135.60ms, max: 682.09ms, count: 11030
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3676.67req/s
+
+
+14:21:44.689  Sending benchmark results to server.
+14:21:44.690  -- Client 4
+current-episode 	value: 379
+current-protocol	value: sbft
+last-executed-sequence	num: 379238
+request-execute 	avg: 259.35ms, max: 703.24ms, count: 5150
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1716.67req/s
+
+
+14:21:47.698  Sending benchmark results to server.
+14:21:47.699  -- Client 4
+current-episode 	value: 379
+current-protocol	value: sbft
+last-executed-sequence	num: 379458
+request-execute 	avg: 676.06ms, max: 697.09ms, count: 2220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	740.00req/s
+
+
+14:21:50.700  Sending benchmark results to server.
+14:21:50.701  -- Client 4
+current-episode 	value: 379
+current-protocol	value: sbft
+last-executed-sequence	num: 379680
+request-execute 	avg: 680.68ms, max: 709.70ms, count: 2210
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	736.67req/s
+
+
+14:21:53.710  Sending benchmark results to server.
+14:21:53.710  -- Client 4
+current-episode 	value: 379
+current-protocol	value: sbft
+last-executed-sequence	num: 379897
+request-execute 	avg: 687.18ms, max: 711.22ms, count: 2170
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	723.33req/s
+
+
+[EPISODE REPORT] episode 379: protocol = sbft , throughput = 732.34req/s , episo
+de time = 13.654841s, overall time = 746.4924012720585s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:21:56.711  Sending benchmark results to server.
+14:21:56.712  -- Client 4
+current-episode 	value: 380
+current-protocol	value: prime
+last-executed-sequence	num: 380749
+request-execute 	avg: 349.46ms, max: 736.49ms, count: 4250
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1416.67req/s
+
+
+[EPISODE REPORT] episode 380: protocol = prime , throughput = 4655.15req/s , epi
+sode time = 2.1481595s, overall time = 748.6405607759953s
+{4} nextProtocol = sbft
+leader mode set to be stable for the next episode
+14:21:59.718  Sending benchmark results to server.
+14:21:59.719  -- Client 4
+current-episode 	value: 381
+current-protocol	value: sbft
+last-executed-sequence	num: 381185
+request-execute 	avg: 158.49ms, max: 671.70ms, count: 8600
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2866.67req/s
+
+
+14:22:02.720  Sending benchmark results to server.
+14:22:02.720  -- Client 4
+current-episode 	value: 381
+current-protocol	value: sbft
+last-executed-sequence	num: 381406
+request-execute 	avg: 669.40ms, max: 683.98ms, count: 2240
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	746.67req/s
+
+
+14:22:05.722  Sending benchmark results to server.
+14:22:05.723  -- Client 4
+current-episode 	value: 381
+current-protocol	value: sbft
+last-executed-sequence	num: 381625
+request-execute 	avg: 689.78ms, max: 716.16ms, count: 2180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	726.67req/s
+
+
+14:22:08.728  Sending benchmark results to server.
+14:22:08.730  -- Client 4
+current-episode 	value: 381
+current-protocol	value: sbft
+last-executed-sequence	num: 381850
+request-execute 	avg: 673.85ms, max: 702.75ms, count: 2230
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	743.33req/s
+
+
+[EPISODE REPORT] episode 381: protocol = sbft , throughput = 738.11req/s , episo
+de time = 13.548207s, overall time = 762.1887680590153s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:11.728  Sending benchmark results to server.
+14:22:11.728  -- Client 4
+current-episode 	value: 382
+current-protocol	value: prime
+last-executed-sequence	num: 382412
+request-execute 	avg: 682.16ms, max: 710.62ms, count: 2190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	730.00req/s
+
+
+[EPISODE REPORT] episode 382: protocol = prime , throughput = 4583.56req/s , epi
+sode time = 2.1817126s, overall time = 764.3704806864262s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:14.738  Sending benchmark results to server.
+14:22:14.739  -- Client 4
+current-episode 	value: 383
+current-protocol	value: prime
+last-executed-sequence	num: 383799
+request-execute 	avg: 111.54ms, max: 709.33ms, count: 13060
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4353.33req/s
+
+
+[EPISODE REPORT] episode 383: protocol = prime , throughput = 4645.08req/s , epi
+sode time = 2.152817s, overall time = 766.5232976973057s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 384: protocol = prime , throughput = 4658.62req/s , epi
+sode time = 2.1465592s, overall time = 768.6698569357395s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:17.748  Sending benchmark results to server.
+14:22:17.749  -- Client 4
+current-episode 	value: 385
+current-protocol	value: prime
+last-executed-sequence	num: 385199
+request-execute 	avg: 106.73ms, max: 117.23ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 385: protocol = prime , throughput = 4618.11req/s , epi
+sode time = 2.165386s, overall time = 770.8352428972721s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:20.759  Sending benchmark results to server.
+14:22:20.760  -- Client 4
+current-episode 	value: 386
+current-protocol	value: prime
+last-executed-sequence	num: 386599
+request-execute 	avg: 107.69ms, max: 115.05ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 386: protocol = prime , throughput = 4628.76req/s , epi
+sode time = 2.1604075s, overall time = 772.9956504404545s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 387: protocol = prime , throughput = 4723.29req/s , epi
+sode time = 2.117167s, overall time = 775.1128174364567s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:23.766  Sending benchmark results to server.
+14:22:23.766  -- Client 4
+current-episode 	value: 388
+current-protocol	value: prime
+last-executed-sequence	num: 387999
+request-execute 	avg: 106.80ms, max: 114.58ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 388: protocol = prime , throughput = 4644.78req/s , epi
+sode time = 2.152955s, overall time = 777.2657724916935s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:26.775  Sending benchmark results to server.
+14:22:26.775  -- Client 4
+current-episode 	value: 389
+current-protocol	value: prime
+last-executed-sequence	num: 389399
+request-execute 	avg: 106.96ms, max: 117.94ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 389: protocol = prime , throughput = 4605.59req/s , epi
+sode time = 2.1712723s, overall time = 779.4370447695255s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:29.786  Sending benchmark results to server.
+14:22:29.786  -- Client 4
+current-episode 	value: 390
+current-protocol	value: prime
+last-executed-sequence	num: 390799
+request-execute 	avg: 107.86ms, max: 114.55ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 390: protocol = prime , throughput = 4639.46req/s , epi
+sode time = 2.155423s, overall time = 781.5924676954746s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 391: protocol = prime , throughput = 4608.73req/s , epi
+sode time = 2.1697967s, overall time = 783.7622644007206s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:32.791  Sending benchmark results to server.
+14:22:32.794  -- Client 4
+current-episode 	value: 392
+current-protocol	value: prime
+last-executed-sequence	num: 392174
+request-execute 	avg: 107.78ms, max: 114.91ms, count: 13500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4500.00req/s
+
+
+[EPISODE REPORT] episode 392: protocol = prime , throughput = 4626.26req/s , epi
+sode time = 2.1615741s, overall time = 785.9238385260105s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:35.800  Sending benchmark results to server.
+14:22:35.802  -- Client 4
+current-episode 	value: 393
+current-protocol	value: prime
+last-executed-sequence	num: 393561
+request-execute 	avg: 107.87ms, max: 116.00ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 393: protocol = prime , throughput = 4659.08req/s , epi
+sode time = 2.1463487s, overall time = 788.070187240839s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 394: protocol = prime , throughput = 4685.09req/s , epi
+sode time = 2.1344314s, overall time = 790.2046186029911s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:38.804  Sending benchmark results to server.
+14:22:38.805  -- Client 4
+current-episode 	value: 395
+current-protocol	value: prime
+last-executed-sequence	num: 394999
+request-execute 	avg: 106.75ms, max: 117.81ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 395: protocol = prime , throughput = 4628.05req/s , epi
+sode time = 2.1607387s, overall time = 792.3653573095798s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:41.800  Sending benchmark results to server.
+14:22:41.801  -- Client 4
+current-episode 	value: 396
+current-protocol	value: prime
+last-executed-sequence	num: 396349
+request-execute 	avg: 107.15ms, max: 120.43ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 396: protocol = prime , throughput = 4642.40req/s , epi
+sode time = 2.1540604s, overall time = 794.5194176733494s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:44.809  Sending benchmark results to server.
+14:22:44.809  -- Client 4
+current-episode 	value: 397
+current-protocol	value: prime
+last-executed-sequence	num: 397749
+request-execute 	avg: 107.24ms, max: 115.90ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 397: protocol = prime , throughput = 4649.20req/s , epi
+sode time = 2.1509085s, overall time = 796.6703261435032s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 398: protocol = prime , throughput = 4589.94req/s , epi
+sode time = 2.1786776s, overall time = 798.8490037024021s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+14:22:47.815  Sending benchmark results to server.
+14:22:47.816  -- Client 4
+current-episode 	value: 399
+current-protocol	value: prime
+last-executed-sequence	num: 399149
+request-execute 	avg: 107.95ms, max: 116.96ms, count: 13930
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4643.33req/s
+
+
+^C%
+jaywang@Jays-MacBook-Pro code %
