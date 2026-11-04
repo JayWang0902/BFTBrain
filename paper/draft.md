@@ -5,7 +5,7 @@
 
 ## Abstract (draft)
 
-Adaptive Byzantine fault-tolerant (BFT) systems such as BFTBrain switch among consensus protocols at run time, using online learning to pick the protocol that performs best under the observed workload and faults. Their learning formulation assumes that the current protocol choice does not affect future fault patterns. We study what happens when a malicious replica violates this assumption. Using BFTBrain's own slow-proposal fault on a 4-replica deployment, we find that BFTBrain eventually converges to the right protocol under attack, but only after a long re-adaptation period (about 10 minutes in our setup) during which throughput is roughly one fifth of what the best protocol achieves. We trace this lag to three mechanisms: forced exploration of untried protocol transitions, an attack that becomes invisible to the learner under the immune protocol, and epochs that stretch when the system is slow. An attacker that repeatedly toggles its behavior can keep the system in this lag. We then propose [TODO: defenses, Phase 3] and show that [TODO: results].
+Adaptive Byzantine fault-tolerant (BFT) systems such as BFTBrain switch among consensus protocols at run time, using online learning to pick the protocol that performs best under the observed workload and faults. Their learning formulation assumes that conditions change slowly and independently of the protocol choice. We show that this leaves an *adaptation lag* that an attacker can exploit. Using BFTBrain's own slow-proposal fault on a 4-replica deployment, we find that BFTBrain eventually converges to the right protocol under attack, but only after a long re-adaptation period (about 10 minutes in our setup) during which throughput is roughly one fifth of what the best protocol achieves. We trace this lag to three mechanisms: forced exploration of untried protocol transitions, an attack that becomes invisible to the learner under the immune protocol, and epochs that stretch when the system is slow. The lag affects any fast-changing environment, but an adversary is its worst case: it can time its changes to the learner's progress and tie them to the learner's own choices. We then propose defenses that target the online learner itself, [TODO: attack memory, safe exploration], compare them with BFTide-style switching damping, and show that [TODO: results].
 
 ## 1 Introduction
 
@@ -13,12 +13,19 @@ No single BFT protocol is best under all conditions: protocols with a fast path 
 
 The bandit formulation rests on an explicit assumption. In the authors' words, "the current choice of protocol does not affect the pattern of workloads and faults in future epochs" [1]. A Byzantine replica is not bound by this assumption: it knows which protocol is running and can change its behavior accordingly.
 
-This paper asks whether the adaptation mechanism itself becomes an attack surface. Our findings so far:
+This paper asks whether the adaptation mechanism itself becomes an attack surface. The story has three steps.
 
-- Under a slow-leader attack, the best protocol changes (from Zyzzyva to Prime), so adaptation is genuinely needed.
-- BFTBrain does find the right protocol, but slowly, and the slowness has identifiable causes in its design.
-- [TODO: Phase 2] Whether an on/off attacker makes adaptive selection worse than a fixed protocol.
-- [TODO: Phase 3] Defenses that shorten the lag without hurting normal-case performance.
+**The weakness: adaptation lag.** When conditions change, BFTBrain does find the right protocol, but slowly. Under a slow-leader attack it takes about 10 minutes to settle on Prime, at roughly one fifth of Prime's throughput in the meantime (Section 5). The causes are in its design: every untried protocol transition must be tried once, the attack becomes invisible under Prime so the learner keeps trying to leave, and epochs stretch when the system is slow.
+
+**Why an attacker makes it worse.** The lag is a general limitation: any fast change in conditions triggers it. BFTBrain's own dynamic experiments change conditions every 20–30 minutes, where a 10-minute lag is tolerable. An attacker, however, chooses when conditions change. It can toggle its behavior just as the learner finishes adapting, attack only while a vulnerable protocol runs (so the learner's choice and the "environment" become correlated, which a contextual bandit cannot represent), and hide behind the immune protocol. The adversary is the worst case of a non-stationary environment. [TODO: Phase 2] How much an on/off attacker costs adaptive selection relative to fixed protocols and to an ideal switcher.
+
+**The fix: make online adaptation robust.** Our main contribution is defenses that target the online learner itself: remembering recent attack evidence so the immune protocol's attack-free appearance does not mislead the model, and limiting costly exploration while under attack. Because they address the lag rather than one attack, they also help under natural fast changes. We compare them with the switching damping used by BFTide [2]. [TODO: Phase 3 results.]
+
+Contributions:
+
+1. A measurement of BFTBrain's adaptation lag under a slow-leader attack and its three causes.
+2. [TODO] An evaluation of how an attacker who controls the timing of changes exploits the lag, against fixed-protocol baselines.
+3. [TODO] Defenses for online protocol selection, evaluated against the same attacks, a protocol-aware attacker who knows the defense, and the no-attack case.
 
 > [NOTE] Contribution framing agreed with the professor: (1) validation, (2) attack evaluation, (3) improvement; (3) is the main contribution.
 
@@ -102,30 +109,42 @@ Throughput per protocol while under attack (`results/pilot-2`):
 
 **Metrics.** Average throughput over the run; time to settle after each attack onset and end; number of protocol switches.
 
+**Reference points.** Besides the two fixed protocols, compare with an *ideal switcher* that runs Prime exactly while the attack is on and Zyzzyva otherwise; the gap to it is the cost of the lag.
+
+**Expectation (rough, from Section 5 numbers).** Fixed Zyzzyva ≈ (20,000 + 870) / 2 ≈ 10,000 req/s; fixed Prime ≈ 4,700; ideal switcher ≈ (20,000 + 4,600) / 2 ≈ 12,000. With a ~10-minute lag, BFTBrain cannot reach Prime within a 3-minute attack, so it may land near fixed Zyzzyva: not necessarily worse than every fixed protocol, but well short of the ideal. Whether it falls below fixed Zyzzyva depends on how quickly it returns after the attack ends, and on whether learned transitions make later attacks faster to handle. [NOTE] Prime's no-attack throughput is not yet measured; 4,800 is a guess.
+
 **Results.** [TODO]
 
 ## 7 Defenses
 
 > [TODO: Phase 3] Implement, evaluate, fill in.
 
-| Mechanism (Section 5) | Defense | Status |
-| --- | --- | --- |
-| Attack invisible under Prime | Attack memory: add a feature such as the maximum proposal slowness over the last N epochs | Planned (first) |
-| Repeated switching | Dwell period (as in BFTide [2]): after an attack-driven switch, stay ≥ k epochs; double k after a rapid re-switch | Planned (first) |
-| Forced exploration | Safe exploration: when an attack is detected, explore only transitions with small predicted loss | If time allows |
-| Stretched epochs | Time-based epochs, or a cap on epoch duration | If time allows |
+Our defenses target the online learner; BFTide's damping is borrowed as a baseline, not claimed.
 
-**Evaluation plan.** (1) Same on/off attack as Section 6, original vs. improved BFTBrain; (2) no-attack run to confirm normal-case throughput is unchanged; (3) a protocol-aware attacker that knows the defense (e.g., waits out the dwell period).
+| Mechanism (Section 5) | Defense | Role | Status |
+| --- | --- | --- | --- |
+| Attack invisible under Prime | Attack memory: add a feature such as the maximum proposal slowness over the last N epochs | Ours | Planned (first) |
+| Forced exploration | Safe exploration: when an attack is detected, explore only transitions with small predicted loss | Ours | Planned (second) |
+| Stretched epochs | Time-based epochs, or a cap on epoch duration | Ours | If time allows |
+| Repeated switching | Dwell period from BFTide [2]: stay ≥ k epochs after a switch; double k after a rapid re-switch | Baseline | Planned |
+
+**Evaluation plan.** Compare original BFTBrain, BFTBrain + BFTide-style dwell period, and BFTBrain + our defenses: (1) the on/off attack of Section 6; (2) a no-attack run, to confirm normal-case throughput is unchanged; (3) a natural fast-changing workload, to show the defenses help beyond attacks; (4) a protocol-aware attacker that knows the defense (e.g., waits out the dwell period, or attacks right after the memory window expires).
 
 ## 8 Related work
 
 - **BFTBrain** [1]: contextual bandit over six protocols; evaluates fixed, scheduled and randomized faults and data pollution (slight: only SBFT's reward inflated; severe: all values random). None of its adversaries reacts to the selected protocol.
-- **BFTide** [2]: switches between leader-based (HotStuff) and leaderless (FIN) protocols with an offline-trained DQN. Its network adversary tracks the current leader, not the selected protocol. It reports that a badly set threshold makes the policy oscillate, and prevents thrashing with a dwell period that doubles after rapid re-switching. No explicit attack budget.
+- **BFTide** [2]: switches between leader-based (HotStuff) and leaderless (FIN) protocols, and addresses several causes of slow or unstable switching, but by stepping away from online learning:
+    - An offline-trained DQN (trained in a simulator calibrated to testbed measurements) replaces online exploration, so there is no "try every transition" phase; the cost is that the policy only knows conditions it was trained on.
+    - Anti-thrashing rules: a node votes for a switch only if the same target is proposed in two consecutive windows and at least five windows have passed since the last switch; this dwell period doubles after a rapid re-switch. The reward also penalizes switching.
+    - Switching is embedded in normal operation, with no separate consensus round per switch.
+    - Under leader delay at 120 KB/s it reports latency of 7.53 s vs. 12.87 s for HotStuff and 26.41 s for BFTBrain (§6.5), consistent with our observation that BFTBrain adapts slowly. It attributes the gap to in-band switching and a latency-aware reward, without an ablation.
+    - Its network adversary tracks the current leader, not the selected protocol; no attack budget; no analysis of an attacker who times changes or reacts to the selection. It notes that a badly set threshold makes the policy oscillate, without a stability analysis.
+    - [NOTE] Read up to about three quarters of the HTML version; finish reading before submission.
 - **Adapt** (Bahsoun, Guerraoui, Shoker): supervised protocol selection; BFTBrain's main baseline. [TODO: read]
 - **AutoPilot**: RL-based tuning of BFT parameters with resilience to adversarial manipulation of learning. [TODO: read and position]
 - **Adversarial bandits** (e.g., EXP3): theory for bandits whose rewards are chosen by an adaptive adversary. [TODO: one paragraph]
 
-> [NOTE] Novelty wording: not "first protocol-dependent attack" (BFTBrain's SBFT pollution and BFTide's leader tracking are partly dependent). Ours: the adaptation lag as an attack surface, measured against fixed baselines, plus defenses.
+> [NOTE] Novelty wording: not "first protocol-dependent attack" (BFTBrain's SBFT pollution and BFTide's leader tracking are partly dependent), and not "dwell period" (BFTide). Ours: the adaptation lag of online protocol selection as an attack surface, its causes, and defenses that keep online learning (unlike BFTide's offline policy) while making it robust.
 
 ## 9 Limitations
 
