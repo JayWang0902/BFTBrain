@@ -1,0 +1,1913 @@
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 295716
+request-execute 	avg: 90.09ms, max: 468.98ms, count: 15660
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5220.00req/s
+
+
+16:11:51.521  Sending benchmark results to server.
+16:11:51.524  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 297513
+request-execute 	avg: 90.57ms, max: 324.00ms, count: 15710
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5236.67req/s
+
+
+16:11:54.532  Sending benchmark results to server.
+16:11:54.545  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 299467
+request-execute 	avg: 65.83ms, max: 241.49ms, count: 21400
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7133.33req/s
+
+
+16:11:57.524  Sending benchmark results to server.
+16:11:57.528  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 301312
+request-execute 	avg: 73.76ms, max: 284.77ms, count: 18880
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6293.33req/s
+
+
+16:12:00.529  Sending benchmark results to server.
+16:12:00.534  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 303120
+request-execute 	avg: 77.05ms, max: 208.61ms, count: 18010
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6003.33req/s
+
+
+16:12:03.582  Sending benchmark results to server.
+16:12:03.591  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 304644
+request-execute 	avg: 100.06ms, max: 337.84ms, count: 14400
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4800.00req/s
+
+
+16:12:06.537  Sending benchmark results to server.
+16:12:06.541  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 305951
+request-execute 	avg: 105.77ms, max: 286.01ms, count: 13340
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4446.67req/s
+
+
+16:12:09.540  Sending benchmark results to server.
+16:12:09.544  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 307949
+request-execute 	avg: 78.82ms, max: 408.28ms, count: 18870
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6290.00req/s
+
+
+16:12:12.545  Sending benchmark results to server.
+16:12:12.548  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 309181
+request-execute 	avg: 100.05ms, max: 486.52ms, count: 13700
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4566.67req/s
+
+
+16:12:15.549  Sending benchmark results to server.
+16:12:15.551  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 311188
+request-execute 	avg: 83.38ms, max: 290.30ms, count: 17510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5836.67req/s
+
+
+16:12:18.551  Sending benchmark results to server.
+16:12:18.552  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 314430
+request-execute 	avg: 42.85ms, max: 103.59ms, count: 33060
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	11020.00req/s
+
+
+16:12:21.565  Sending benchmark results to server.
+16:12:21.567  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 316332
+request-execute 	avg: 71.32ms, max: 729.75ms, count: 19870
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6623.33req/s
+
+
+16:12:24.555  Sending benchmark results to server.
+16:12:24.557  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 318637
+request-execute 	avg: 62.38ms, max: 294.31ms, count: 23200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7733.33req/s
+
+
+16:12:27.557  Sending benchmark results to server.
+16:12:27.561  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 321261
+request-execute 	avg: 57.37ms, max: 173.14ms, count: 24720
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8240.00req/s
+
+
+16:12:30.562  Sending benchmark results to server.
+16:12:30.564  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 323838
+request-execute 	avg: 57.11ms, max: 171.46ms, count: 25280
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8426.67req/s
+
+
+16:12:33.569  Sending benchmark results to server.
+16:12:33.576  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 326633
+request-execute 	avg: 51.24ms, max: 161.67ms, count: 28210
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9403.33req/s
+
+
+16:12:36.574  Sending benchmark results to server.
+16:12:36.576  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 328737
+request-execute 	avg: 65.52ms, max: 184.86ms, count: 21790
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7263.33req/s
+
+
+16:12:39.572  Sending benchmark results to server.
+16:12:39.574  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 331303
+request-execute 	avg: 64.13ms, max: 199.45ms, count: 22530
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7510.00req/s
+
+
+16:12:42.580  Sending benchmark results to server.
+16:12:42.583  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 333271
+request-execute 	avg: 60.15ms, max: 158.64ms, count: 23130
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7710.00req/s
+
+
+16:12:45.583  Sending benchmark results to server.
+16:12:45.584  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 335434
+request-execute 	avg: 70.85ms, max: 247.14ms, count: 19290
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6430.00req/s
+
+
+16:12:48.591  Sending benchmark results to server.
+16:12:48.600  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 337717
+request-execute 	avg: 56.60ms, max: 153.79ms, count: 25310
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8436.67req/s
+
+
+16:12:51.584  Sending benchmark results to server.
+16:12:51.586  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 340309
+request-execute 	avg: 59.53ms, max: 165.84ms, count: 23710
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7903.33req/s
+
+
+16:12:54.590  Sending benchmark results to server.
+16:12:54.593  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 342585
+request-execute 	avg: 57.32ms, max: 149.81ms, count: 24510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8170.00req/s
+
+
+16:12:57.587  Sending benchmark results to server.
+16:12:57.590  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 345725
+request-execute 	avg: 45.23ms, max: 150.71ms, count: 31610
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	10536.67req/s
+
+
+16:13:00.609  Sending benchmark results to server.
+16:13:00.612  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 348097
+request-execute 	avg: 66.16ms, max: 268.35ms, count: 21250
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7083.33req/s
+
+
+16:13:03.598  Sending benchmark results to server.
+16:13:03.600  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 350994
+request-execute 	avg: 47.74ms, max: 176.44ms, count: 29750
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9916.67req/s
+
+
+16:13:06.622  Sending benchmark results to server.
+16:13:06.626  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 353893
+request-execute 	avg: 47.23ms, max: 95.23ms, count: 30970
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	10323.33req/s
+
+
+16:13:09.617  Sending benchmark results to server.
+16:13:09.620  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 355309
+request-execute 	avg: 104.71ms, max: 669.34ms, count: 13640
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4546.67req/s
+
+
+16:13:12.831  Sending benchmark results to server.
+16:13:12.835  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 357978
+request-execute 	avg: 49.99ms, max: 184.04ms, count: 28430
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9476.67req/s
+
+
+16:13:15.658  Sending benchmark results to server.
+16:13:15.660  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 359352
+request-execute 	avg: 120.63ms, max: 439.67ms, count: 12160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4053.33req/s
+
+
+16:13:18.659  Sending benchmark results to server.
+16:13:18.661  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 361356
+request-execute 	avg: 82.22ms, max: 173.01ms, count: 17490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5830.00req/s
+
+
+16:13:21.666  Sending benchmark results to server.
+16:13:21.670  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 362608
+request-execute 	avg: 78.67ms, max: 396.60ms, count: 17790
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5930.00req/s
+
+
+16:13:24.676  Sending benchmark results to server.
+16:13:24.682  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 363660
+request-execute 	avg: 185.68ms, max: 394.21ms, count: 7960
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2653.33req/s
+
+
+16:13:27.671  Sending benchmark results to server.
+16:13:27.673  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 364954
+request-execute 	avg: 104.29ms, max: 356.49ms, count: 13690
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4563.33req/s
+
+
+16:13:30.675  Sending benchmark results to server.
+16:13:30.677  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 366315
+request-execute 	avg: 92.94ms, max: 631.49ms, count: 15260
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5086.67req/s
+
+
+16:13:33.699  Sending benchmark results to server.
+16:13:33.705  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 366961
+request-execute 	avg: 212.04ms, max: 879.52ms, count: 6820
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2273.33req/s
+
+
+16:13:36.678  Sending benchmark results to server.
+16:13:36.680  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 368262
+request-execute 	avg: 169.61ms, max: 558.64ms, count: 8810
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2936.67req/s
+
+
+16:13:39.703  Sending benchmark results to server.
+16:13:39.708  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 370003
+request-execute 	avg: 74.63ms, max: 442.24ms, count: 18550
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6183.33req/s
+
+
+16:13:42.714  Sending benchmark results to server.
+16:13:42.719  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 370814
+request-execute 	avg: 146.49ms, max: 474.31ms, count: 9860
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3286.67req/s
+
+
+16:13:45.714  Sending benchmark results to server.
+16:13:45.716  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 372304
+request-execute 	avg: 86.19ms, max: 271.83ms, count: 16030
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5343.33req/s
+
+
+16:13:48.708  Sending benchmark results to server.
+16:13:48.716  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 373897
+request-execute 	avg: 128.81ms, max: 573.91ms, count: 11450
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3816.67req/s
+
+
+16:13:51.738  Sending benchmark results to server.
+16:13:51.754  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 374619
+request-execute 	avg: 128.57ms, max: 432.99ms, count: 10980
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3660.00req/s
+
+
+16:13:54.716  Sending benchmark results to server.
+16:13:54.716  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 375252
+request-execute 	avg: 242.02ms, max: 655.01ms, count: 5960
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1986.67req/s
+
+
+16:13:57.710  Sending benchmark results to server.
+16:13:57.712  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 376960
+request-execute 	avg: 96.66ms, max: 455.30ms, count: 15820
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5273.33req/s
+
+
+16:14:00.718  Sending benchmark results to server.
+16:14:00.719  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 378910
+request-execute 	avg: 64.55ms, max: 203.97ms, count: 20970
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6990.00req/s
+
+
+16:14:03.729  Sending benchmark results to server.
+16:14:03.734  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 380993
+request-execute 	avg: 85.91ms, max: 479.49ms, count: 17030
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5676.67req/s
+
+
+16:14:06.742  Sending benchmark results to server.
+16:14:06.749  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 382814
+request-execute 	avg: 69.77ms, max: 315.00ms, count: 20030
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6676.67req/s
+
+
+16:14:09.796  Sending benchmark results to server.
+16:14:09.803  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 385232
+request-execute 	avg: 56.46ms, max: 174.67ms, count: 24490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8163.33req/s
+
+
+16:14:12.732  Sending benchmark results to server.
+16:14:12.734  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 387130
+request-execute 	avg: 89.14ms, max: 374.18ms, count: 15720
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5240.00req/s
+
+
+16:14:15.745  Sending benchmark results to server.
+16:14:15.750  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 389213
+request-execute 	avg: 52.83ms, max: 250.63ms, count: 25250
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8416.67req/s
+
+
+16:14:18.744  Sending benchmark results to server.
+16:14:18.749  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 390376
+request-execute 	avg: 124.24ms, max: 622.65ms, count: 11050
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3683.33req/s
+
+
+16:14:21.755  Sending benchmark results to server.
+16:14:21.759  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 392436
+request-execute 	avg: 77.16ms, max: 438.92ms, count: 19630
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6543.33req/s
+
+
+16:14:24.785  Sending benchmark results to server.
+16:14:24.787  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 393214
+request-execute 	avg: 105.72ms, max: 305.04ms, count: 11750
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3916.67req/s
+
+
+16:14:27.754  Sending benchmark results to server.
+16:14:27.757  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 394777
+request-execute 	avg: 159.10ms, max: 1.79s, count: 10410
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3470.00req/s
+
+
+16:14:30.756  Sending benchmark results to server.
+16:14:30.759  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 396272
+request-execute 	avg: 63.29ms, max: 311.00ms, count: 19600
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6533.33req/s
+
+
+16:14:33.755  Sending benchmark results to server.
+16:14:33.757  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 396524
+request-execute 	avg: 584.95ms, max: 617.53ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+16:14:36.765  Sending benchmark results to server.
+16:14:36.767  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 396773
+request-execute 	avg: 588.43ms, max: 649.43ms, count: 2520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	840.00req/s
+
+
+16:14:39.785  Sending benchmark results to server.
+16:14:39.800  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 397010
+request-execute 	avg: 636.87ms, max: 734.21ms, count: 2360
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	786.67req/s
+
+
+16:14:42.792  Sending benchmark results to server.
+16:14:42.795  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 397232
+request-execute 	avg: 659.06ms, max: 885.92ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+16:14:45.824  Sending benchmark results to server.
+16:14:45.827  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 397478
+request-execute 	avg: 619.09ms, max: 705.42ms, count: 2460
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	820.00req/s
+
+
+16:14:48.812  Sending benchmark results to server.
+16:14:48.820  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 397708
+request-execute 	avg: 641.55ms, max: 718.50ms, count: 2320
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	773.33req/s
+
+
+16:14:51.787  Sending benchmark results to server.
+16:14:51.790  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 397946
+request-execute 	avg: 616.98ms, max: 694.96ms, count: 2380
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	793.33req/s
+
+
+16:14:54.785  Sending benchmark results to server.
+16:14:54.787  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 398186
+request-execute 	avg: 619.51ms, max: 727.90ms, count: 2400
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	800.00req/s
+
+
+16:14:57.789  Sending benchmark results to server.
+16:14:57.791  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 398427
+request-execute 	avg: 635.67ms, max: 764.27ms, count: 2370
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	790.00req/s
+
+
+16:15:00.973  Sending benchmark results to server.
+16:15:00.986  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 398682
+request-execute 	avg: 595.16ms, max: 657.88ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+16:15:03.827  Sending benchmark results to server.
+16:15:03.842  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 398905
+request-execute 	avg: 644.80ms, max: 714.79ms, count: 2310
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	770.00req/s
+
+
+16:15:06.831  Sending benchmark results to server.
+16:15:06.837  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 399141
+request-execute 	avg: 617.13ms, max: 693.24ms, count: 2430
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	810.00req/s
+
+
+16:15:09.832  Sending benchmark results to server.
+16:15:09.836  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 399377
+request-execute 	avg: 632.19ms, max: 803.69ms, count: 2340
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	780.00req/s
+
+
+16:15:12.925  Sending benchmark results to server.
+16:15:12.935  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 399601
+request-execute 	avg: 652.56ms, max: 797.82ms, count: 2260
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	753.33req/s
+
+
+16:15:15.827  Sending benchmark results to server.
+16:15:15.829  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 399822
+request-execute 	avg: 709.88ms, max: 852.83ms, count: 1970
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	656.67req/s
+
+
+16:15:18.834  Sending benchmark results to server.
+16:15:18.835  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 400055
+request-execute 	avg: 635.42ms, max: 892.44ms, count: 2470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	823.33req/s
+
+
+16:15:21.838  Sending benchmark results to server.
+16:15:21.838  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 400298
+request-execute 	avg: 626.77ms, max: 715.17ms, count: 2400
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	800.00req/s
+
+
+16:15:24.899  Sending benchmark results to server.
+16:15:24.956  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 400516
+request-execute 	avg: 654.84ms, max: 842.94ms, count: 2280
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	760.00req/s
+
+
+16:15:27.864  Sending benchmark results to server.
+16:15:27.866  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 400731
+request-execute 	avg: 681.16ms, max: 823.40ms, count: 2160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	720.00req/s
+
+
+16:15:30.865  Sending benchmark results to server.
+16:15:30.866  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 400955
+request-execute 	avg: 668.14ms, max: 826.03ms, count: 2200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	733.33req/s
+
+
+16:15:33.864  Sending benchmark results to server.
+16:15:33.865  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 401200
+request-execute 	avg: 643.67ms, max: 790.53ms, count: 2360
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	786.67req/s
+
+
+16:15:36.864  Sending benchmark results to server.
+16:15:36.865  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 401452
+request-execute 	avg: 585.99ms, max: 601.95ms, count: 2520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	840.00req/s
+
+
+16:15:39.867  Sending benchmark results to server.
+16:15:39.868  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 401678
+request-execute 	avg: 644.75ms, max: 744.35ms, count: 2260
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	753.33req/s
+
+
+16:15:43.23  Sending benchmark results to server.
+16:15:43.24  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 401928
+request-execute 	avg: 596.44ms, max: 699.43ms, count: 2520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	840.00req/s
+
+
+16:15:45.910  Sending benchmark results to server.
+16:15:45.914  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 402139
+request-execute 	avg: 693.24ms, max: 945.86ms, count: 2130
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	710.00req/s
+
+
+16:15:48.890  Sending benchmark results to server.
+16:15:48.896  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 402370
+request-execute 	avg: 637.03ms, max: 756.39ms, count: 2330
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	776.67req/s
+
+
+16:15:51.889  Sending benchmark results to server.
+16:15:51.889  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 402621
+request-execute 	avg: 615.87ms, max: 723.39ms, count: 2450
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	816.67req/s
+
+
+16:15:54.889  Sending benchmark results to server.
+16:15:54.889  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 402870
+request-execute 	avg: 600.36ms, max: 660.40ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+16:15:57.893  Sending benchmark results to server.
+16:15:57.894  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 403106
+request-execute 	avg: 620.04ms, max: 715.14ms, count: 2370
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	790.00req/s
+
+
+16:16:00.896  Sending benchmark results to server.
+16:16:00.899  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 403350
+request-execute 	avg: 625.46ms, max: 731.02ms, count: 2410
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	803.33req/s
+
+
+16:16:03.999  Sending benchmark results to server.
+16:16:04.3  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 403605
+request-execute 	avg: 587.09ms, max: 622.80ms, count: 2540
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	846.67req/s
+
+
+16:16:06.903  Sending benchmark results to server.
+16:16:06.906  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 403846
+request-execute 	avg: 613.09ms, max: 701.65ms, count: 2430
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	810.00req/s
+
+
+16:16:09.918  Sending benchmark results to server.
+16:16:09.937  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 404092
+request-execute 	avg: 599.84ms, max: 650.70ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+16:16:12.935  Sending benchmark results to server.
+16:16:12.937  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 404342
+request-execute 	avg: 611.60ms, max: 691.53ms, count: 2450
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	816.67req/s
+
+
+16:16:15.920  Sending benchmark results to server.
+16:16:15.922  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 404592
+request-execute 	avg: 600.98ms, max: 731.64ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+16:16:18.918  Sending benchmark results to server.
+16:16:18.918  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 404840
+request-execute 	avg: 599.54ms, max: 656.79ms, count: 2500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	833.33req/s
+
+
+16:16:21.924  Sending benchmark results to server.
+16:16:21.924  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 405091
+request-execute 	avg: 601.91ms, max: 614.18ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+16:16:24.931  Sending benchmark results to server.
+16:16:24.932  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 405346
+request-execute 	avg: 588.57ms, max: 623.14ms, count: 2550
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	850.00req/s
+
+
+16:16:27.930  Sending benchmark results to server.
+16:16:27.931  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 405593
+request-execute 	avg: 597.21ms, max: 610.10ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+16:16:30.932  Sending benchmark results to server.
+16:16:30.932  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 405840
+request-execute 	avg: 608.99ms, max: 662.25ms, count: 2450
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	816.67req/s
+
+
+16:16:33.936  Sending benchmark results to server.
+16:16:33.937  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 406091
+request-execute 	avg: 602.75ms, max: 634.06ms, count: 2500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	833.33req/s
+
+
+16:16:36.943  Sending benchmark results to server.
+16:16:36.943  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 406339
+request-execute 	avg: 598.32ms, max: 616.23ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+16:16:39.945  Sending benchmark results to server.
+16:16:39.945  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 406588
+request-execute 	avg: 600.32ms, max: 667.34ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+16:16:42.954  Sending benchmark results to server.
+16:16:42.958  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 406838
+request-execute 	avg: 606.31ms, max: 654.70ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+16:16:45.954  Sending benchmark results to server.
+16:16:45.957  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 407088
+request-execute 	avg: 596.76ms, max: 652.95ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+16:16:48.951  Sending benchmark results to server.
+16:16:48.953  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 407338
+request-execute 	avg: 598.61ms, max: 627.18ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+16:16:51.956  Sending benchmark results to server.
+16:16:51.956  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 407589
+request-execute 	avg: 600.33ms, max: 656.15ms, count: 2500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	833.33req/s
+
+
+16:16:54.960  Sending benchmark results to server.
+16:16:54.961  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 407839
+request-execute 	avg: 595.57ms, max: 617.16ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+16:16:57.959  Sending benchmark results to server.
+16:16:57.959  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 408086
+request-execute 	avg: 607.48ms, max: 676.83ms, count: 2460
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	820.00req/s
+
+
+16:17:00.964  Sending benchmark results to server.
+16:17:00.965  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 408336
+request-execute 	avg: 601.39ms, max: 634.00ms, count: 2500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	833.33req/s
+
+
+16:17:03.974  Sending benchmark results to server.
+16:17:03.976  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 408588
+request-execute 	avg: 594.99ms, max: 622.61ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+16:17:06.977  Sending benchmark results to server.
+16:17:06.978  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 408837
+request-execute 	avg: 597.77ms, max: 622.17ms, count: 2510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	836.67req/s
+
+
+16:17:09.977  Sending benchmark results to server.
+16:17:09.977  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 409086
+request-execute 	avg: 603.12ms, max: 659.24ms, count: 2470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	823.33req/s
+
+
+16:17:12.981  Sending benchmark results to server.
+16:17:12.982  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 409333
+request-execute 	avg: 603.50ms, max: 655.53ms, count: 2480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	826.67req/s
+
+
+16:17:15.983  Sending benchmark results to server.
+16:17:15.984  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 409580
+request-execute 	avg: 611.05ms, max: 634.33ms, count: 2450
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	816.67req/s
+
+
+16:17:18.989  Sending benchmark results to server.
+16:17:18.989  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 409827
+request-execute 	avg: 603.21ms, max: 625.01ms, count: 2470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	823.33req/s
+
+
+16:17:21.994  Sending benchmark results to server.
+16:17:21.994  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 410078
+request-execute 	avg: 603.61ms, max: 675.85ms, count: 2500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	833.33req/s
+
+
+16:17:25.1  Sending benchmark results to server.
+16:17:25.2  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 410327
+request-execute 	avg: 598.18ms, max: 647.24ms, count: 2490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	830.00req/s
+
+
+16:17:28.6  Sending benchmark results to server.
+16:17:28.10  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 410580
+request-execute 	avg: 591.22ms, max: 656.31ms, count: 2530
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	843.33req/s
+
+
+16:17:31.22  Sending benchmark results to server.
+16:17:31.27  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 411646
+request-execute 	avg: 302.74ms, max: 622.70ms, count: 5370
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1790.00req/s
+
+
+16:17:34.13  Sending benchmark results to server.
+16:17:34.15  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 413977
+request-execute 	avg: 61.89ms, max: 257.21ms, count: 24100
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8033.33req/s
+
+
+16:17:37.31  Sending benchmark results to server.
+16:17:37.33  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 415775
+request-execute 	avg: 113.08ms, max: 319.41ms, count: 12600
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4200.00req/s
+
+
+16:17:40.24  Sending benchmark results to server.
+16:17:40.28  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 417739
+request-execute 	avg: 54.93ms, max: 200.62ms, count: 26550
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8850.00req/s
+
+
+16:17:43.31  Sending benchmark results to server.
+16:17:43.34  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 420058
+request-execute 	avg: 81.57ms, max: 249.67ms, count: 18340
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6113.33req/s
+
+
+16:17:46.26  Sending benchmark results to server.
+16:17:46.28  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 421115
+request-execute 	avg: 94.13ms, max: 452.05ms, count: 15370
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5123.33req/s
+
+
+16:17:49.46  Sending benchmark results to server.
+16:17:49.55  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 423488
+request-execute 	avg: 62.79ms, max: 255.59ms, count: 23380
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7793.33req/s
+
+
+16:17:52.36  Sending benchmark results to server.
+16:17:52.41  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 424948
+request-execute 	avg: 125.60ms, max: 281.36ms, count: 11270
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3756.67req/s
+
+
+16:17:55.71  Sending benchmark results to server.
+16:17:55.75  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 427168
+request-execute 	avg: 67.72ms, max: 337.19ms, count: 22670
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7556.67req/s
+
+
+16:17:58.43  Sending benchmark results to server.
+16:17:58.48  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 428525
+request-execute 	avg: 99.18ms, max: 261.22ms, count: 14470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4823.33req/s
+
+
+16:18:01.66  Sending benchmark results to server.
+16:18:01.68  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 430313
+request-execute 	avg: 66.19ms, max: 202.21ms, count: 21830
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7276.67req/s
+
+
+16:18:04.56  Sending benchmark results to server.
+16:18:04.60  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 432088
+request-execute 	avg: 119.21ms, max: 432.62ms, count: 12660
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4220.00req/s
+
+
+16:18:07.64  Sending benchmark results to server.
+16:18:07.66  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 433561
+request-execute 	avg: 76.95ms, max: 176.85ms, count: 18990
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6330.00req/s
+
+
+16:18:10.60  Sending benchmark results to server.
+16:18:10.62  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 435201
+request-execute 	avg: 128.75ms, max: 368.95ms, count: 11540
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3846.67req/s
+
+
+16:18:13.71  Sending benchmark results to server.
+16:18:13.73  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 436652
+request-execute 	avg: 70.49ms, max: 188.82ms, count: 20300
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6766.67req/s
+
+
+16:18:16.73  Sending benchmark results to server.
+16:18:16.76  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 438784
+request-execute 	avg: 97.71ms, max: 418.00ms, count: 15440
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5146.67req/s
+
+
+16:18:19.121  Sending benchmark results to server.
+16:18:19.127  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 440102
+request-execute 	avg: 79.77ms, max: 171.12ms, count: 18020
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6006.67req/s
+
+
+16:18:22.72  Sending benchmark results to server.
+16:18:22.75  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 442051
+request-execute 	avg: 103.45ms, max: 292.13ms, count: 14320
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4773.33req/s
+
+
+16:18:25.81  Sending benchmark results to server.
+16:18:25.98  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 443062
+request-execute 	avg: 84.56ms, max: 287.79ms, count: 16770
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5590.00req/s
+
+
+16:18:28.78  Sending benchmark results to server.
+16:18:28.82  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 444992
+request-execute 	avg: 98.42ms, max: 398.01ms, count: 15310
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5103.33req/s
+
+
+16:18:31.84  Sending benchmark results to server.
+16:18:31.87  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 446645
+request-execute 	avg: 93.54ms, max: 288.73ms, count: 15500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5166.67req/s
+
+
+16:18:34.86  Sending benchmark results to server.
+16:18:34.90  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 448682
+request-execute 	avg: 56.46ms, max: 153.78ms, count: 22200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7400.00req/s
+
+
+16:18:37.90  Sending benchmark results to server.
+16:18:37.93  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 450760
+request-execute 	avg: 103.51ms, max: 692.00ms, count: 15790
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5263.33req/s
+
+
+16:18:40.90  Sending benchmark results to server.
+16:18:40.91  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 452519
+request-execute 	avg: 64.04ms, max: 153.08ms, count: 22340
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7446.67req/s
+
+
+16:18:43.96  Sending benchmark results to server.
+16:18:43.98  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 454421
+request-execute 	avg: 86.14ms, max: 179.76ms, count: 16880
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5626.67req/s
+
+
+16:18:46.98  Sending benchmark results to server.
+16:18:46.100  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 456124
+request-execute 	avg: 80.82ms, max: 203.85ms, count: 17970
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5990.00req/s
+
+
+16:18:49.112  Sending benchmark results to server.
+16:18:49.119  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 458278
+request-execute 	avg: 68.52ms, max: 180.10ms, count: 21050
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7016.67req/s
+
+
+16:18:52.102  Sending benchmark results to server.
+16:18:52.104  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 460037
+request-execute 	avg: 79.73ms, max: 238.34ms, count: 17510
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5836.67req/s
+
+
+16:18:55.103  Sending benchmark results to server.
+16:18:55.106  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 462002
+request-execute 	avg: 66.51ms, max: 233.43ms, count: 21220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7073.33req/s
+
+
+16:18:58.108  Sending benchmark results to server.
+16:18:58.111  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 464469
+request-execute 	avg: 64.15ms, max: 156.66ms, count: 22130
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7376.67req/s
+
+
+16:19:01.106  Sending benchmark results to server.
+16:19:01.109  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 466430
+request-execute 	avg: 74.66ms, max: 185.21ms, count: 18680
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6226.67req/s
+
+
+16:19:04.112  Sending benchmark results to server.
+16:19:04.114  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 468271
+request-execute 	avg: 63.95ms, max: 227.91ms, count: 21850
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7283.33req/s
+
+
+16:19:07.111  Sending benchmark results to server.
+16:19:07.113  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 470393
+request-execute 	avg: 72.33ms, max: 248.84ms, count: 20340
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6780.00req/s
+
+
+16:19:10.118  Sending benchmark results to server.
+16:19:10.121  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 471805
+request-execute 	avg: 81.89ms, max: 237.09ms, count: 17220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5740.00req/s
+
+
+16:19:13.117  Sending benchmark results to server.
+16:19:13.121  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 474454
+request-execute 	avg: 69.69ms, max: 350.96ms, count: 20920
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6973.33req/s
+
+
+16:19:16.121  Sending benchmark results to server.
+16:19:16.122  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 477176
+request-execute 	avg: 52.42ms, max: 106.50ms, count: 26000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8666.67req/s
+
+
+16:19:19.129  Sending benchmark results to server.
+16:19:19.131  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 478931
+request-execute 	avg: 57.60ms, max: 173.23ms, count: 18110
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6036.67req/s
+
+
+16:19:22.128  Sending benchmark results to server.
+16:19:22.130  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 481373
+request-execute 	avg: 74.77ms, max: 940.40ms, count: 24490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8163.33req/s
+
+
+16:19:25.133  Sending benchmark results to server.
+16:19:25.136  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 483186
+request-execute 	avg: 66.22ms, max: 322.79ms, count: 21720
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7240.00req/s
+
+
+16:19:28.134  Sending benchmark results to server.
+16:19:28.137  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 485841
+request-execute 	avg: 59.20ms, max: 319.22ms, count: 23470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	7823.33req/s
+
+
+16:19:31.138  Sending benchmark results to server.
+16:19:31.139  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 488810
+request-execute 	avg: 48.00ms, max: 122.09ms, count: 27890
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	9296.67req/s
+
+
+16:19:34.146  Sending benchmark results to server.
+16:19:34.149  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 491069
+request-execute 	avg: 52.42ms, max: 131.52ms, count: 26600
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	8866.67req/s
+
+
+16:19:37.148  Sending benchmark results to server.
+16:19:37.150  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 492998
+request-execute 	avg: 71.63ms, max: 508.96ms, count: 20010
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	6670.00req/s
+
+
+16:19:40.155  Sending benchmark results to server.
+16:19:40.157  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 494147
+request-execute 	avg: 79.52ms, max: 696.95ms, count: 16470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	5490.00req/s
+
+
+16:19:43.156  Sending benchmark results to server.
+16:19:43.160  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 494529
+request-execute 	avg: 460.89ms, max: 782.71ms, count: 3250
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1083.33req/s
+
+
+16:19:46.160  Sending benchmark results to server.
+16:19:46.161  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 494957
+request-execute 	avg: 381.17ms, max: 565.17ms, count: 4070
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1356.67req/s
+
+
+16:19:49.166  Sending benchmark results to server.
+16:19:49.167  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 495343
+request-execute 	avg: 367.29ms, max: 668.68ms, count: 4220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1406.67req/s
+
+
+16:19:52.164  Sending benchmark results to server.
+16:19:52.165  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 495570
+request-execute 	avg: 479.63ms, max: 1.05s, count: 3100
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1033.33req/s
+
+
+16:19:55.167  Sending benchmark results to server.
+16:19:55.167  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 495942
+request-execute 	avg: 493.27ms, max: 1.23s, count: 2820
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	940.00req/s
+
+
+16:19:58.171  Sending benchmark results to server.
+16:19:58.171  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 496296
+request-execute 	avg: 417.89ms, max: 656.23ms, count: 3940
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1313.33req/s
+
+
+16:20:01.190  Sending benchmark results to server.
+16:20:01.191  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 496588
+request-execute 	avg: 470.52ms, max: 716.72ms, count: 3180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1060.00req/s
+
+
+16:20:04.180  Sending benchmark results to server.
+16:20:04.181  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 496990
+request-execute 	avg: 425.46ms, max: 633.60ms, count: 3430
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1143.33req/s
+
+
+16:20:07.182  Sending benchmark results to server.
+16:20:07.183  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 497367
+request-execute 	avg: 416.93ms, max: 692.63ms, count: 3720
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1240.00req/s
+
+
+16:20:10.228  Sending benchmark results to server.
+16:20:10.229  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 497781
+request-execute 	avg: 387.85ms, max: 522.81ms, count: 3570
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1190.00req/s
+
+
+16:20:13.195  Sending benchmark results to server.
+16:20:13.197  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 498179
+request-execute 	avg: 342.16ms, max: 537.76ms, count: 4580
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1526.67req/s
+
+
+16:20:16.209  Sending benchmark results to server.
+16:20:16.212  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 498546
+request-execute 	avg: 429.57ms, max: 615.65ms, count: 3090
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1030.00req/s
+
+
+16:20:19.207  Sending benchmark results to server.
+16:20:19.208  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 498959
+request-execute 	avg: 374.36ms, max: 519.60ms, count: 4190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1396.67req/s
+
+
+16:20:22.202  Sending benchmark results to server.
+16:20:22.203  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 499400
+request-execute 	avg: 357.69ms, max: 561.60ms, count: 3620
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1206.67req/s
+
+
+16:20:25.222  Sending benchmark results to server.
+16:20:25.234  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 499850
+request-execute 	avg: 334.99ms, max: 901.74ms, count: 5160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1720.00req/s
+
+
+16:20:28.208  Sending benchmark results to server.
+16:20:28.209  -- Client 4
+current-episode 	value: 0
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 500095
+request-execute 	avg: 459.47ms, max: 1.01s, count: 3100
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1033.33req/s
+
+
+^C%
+jaywang@Jays-MacBook-Pro code %

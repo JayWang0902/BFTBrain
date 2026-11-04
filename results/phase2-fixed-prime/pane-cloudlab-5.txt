@@ -1,0 +1,1829 @@
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 273: protocol = prime , throughput = 4784.38req/s , epi
+sode time = 2.090136s, overall time = 571.9820399284363s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:03:31.306  Sending benchmark results to server.
+17:03:31.307  -- Client 4
+current-episode 	value: 274
+current-protocol	value: prime
+last-executed-sequence	num: 274899
+request-execute 	avg: 103.94ms, max: 112.67ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 274: protocol = prime , throughput = 4816.42req/s , epi
+sode time = 2.076231s, overall time = 574.0582709312439s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 275: protocol = prime , throughput = 4777.69req/s , epi
+sode time = 2.0930638s, overall time = 576.1513347625732s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:03:34.312  Sending benchmark results to server.
+17:03:34.312  -- Client 4
+current-episode 	value: 276
+current-protocol	value: prime
+last-executed-sequence	num: 276349
+request-execute 	avg: 104.10ms, max: 108.49ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 276: protocol = prime , throughput = 4801.98req/s , epi
+sode time = 2.0824745s, overall time = 578.2338092327118s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:03:37.317  Sending benchmark results to server.
+17:03:37.317  -- Client 4
+current-episode 	value: 277
+current-protocol	value: prime
+last-executed-sequence	num: 277749
+request-execute 	avg: 103.98ms, max: 114.82ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 277: protocol = prime , throughput = 4767.82req/s , epi
+sode time = 2.0973964s, overall time = 580.3312056064606s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 278: protocol = prime , throughput = 4795.44req/s , epi
+sode time = 2.0853155s, overall time = 582.4165210723877s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:03:40.321  Sending benchmark results to server.
+17:03:40.321  -- Client 4
+current-episode 	value: 279
+current-protocol	value: prime
+last-executed-sequence	num: 279199
+request-execute 	avg: 104.07ms, max: 108.85ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 279: protocol = prime , throughput = 4761.77req/s , epi
+sode time = 2.1000612s, overall time = 584.5165822505951s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:03:43.322  Sending benchmark results to server.
+17:03:43.322  -- Client 4
+current-episode 	value: 280
+current-protocol	value: prime
+last-executed-sequence	num: 280649
+request-execute 	avg: 104.59ms, max: 111.12ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 280: protocol = prime , throughput = 4777.03req/s , epi
+sode time = 2.0933514s, overall time = 586.6099336147308s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 281: protocol = prime , throughput = 4786.47req/s , epi
+sode time = 2.0892217s, overall time = 588.699155330658s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:03:46.323  Sending benchmark results to server.
+17:03:46.323  -- Client 4
+current-episode 	value: 282
+current-protocol	value: prime
+last-executed-sequence	num: 282049
+request-execute 	avg: 104.17ms, max: 110.21ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 282: protocol = prime , throughput = 4770.51req/s , epi
+sode time = 2.0962105s, overall time = 590.7953658103943s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:03:49.327  Sending benchmark results to server.
+17:03:49.327  -- Client 4
+current-episode 	value: 283
+current-protocol	value: prime
+last-executed-sequence	num: 283499
+request-execute 	avg: 104.25ms, max: 111.51ms, count: 14320
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4773.33req/s
+
+
+[EPISODE REPORT] episode 283: protocol = prime , throughput = 4801.68req/s , epi
+sode time = 2.0826054s, overall time = 592.8779711723328s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:03:52.332  Sending benchmark results to server.
+17:03:52.332  -- Client 4
+current-episode 	value: 284
+current-protocol	value: prime
+last-executed-sequence	num: 284949
+request-execute 	avg: 104.20ms, max: 109.20ms, count: 14180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4726.67req/s
+
+
+[EPISODE REPORT] episode 284: protocol = prime , throughput = 4784.74req/s , epi
+sode time = 2.0899773s, overall time = 594.9679484367371s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 285: protocol = prime , throughput = 4780.64req/s , epi
+sode time = 2.0917714s, overall time = 597.0597198009491s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:03:55.338  Sending benchmark results to server.
+17:03:55.338  -- Client 4
+current-episode 	value: 286
+current-protocol	value: prime
+last-executed-sequence	num: 286399
+request-execute 	avg: 103.95ms, max: 109.66ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 286: protocol = prime , throughput = 4807.69req/s , epi
+sode time = 2.080003s, overall time = 599.1397228240967s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:03:58.343  Sending benchmark results to server.
+17:03:58.344  -- Client 4
+current-episode 	value: 287
+current-protocol	value: prime
+last-executed-sequence	num: 287849
+request-execute 	avg: 103.29ms, max: 109.69ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 287: protocol = prime , throughput = 4804.74req/s , epi
+sode time = 2.0812786s, overall time = 601.2210013866425s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 288: protocol = prime , throughput = 4803.92req/s , epi
+sode time = 2.0816348s, overall time = 603.3026361465454s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:01.348  Sending benchmark results to server.
+17:04:01.350  -- Client 4
+current-episode 	value: 289
+current-protocol	value: prime
+last-executed-sequence	num: 289249
+request-execute 	avg: 104.11ms, max: 109.21ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 289: protocol = prime , throughput = 4798.65req/s , epi
+sode time = 2.0839205s, overall time = 605.3865566253662s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:04.352  Sending benchmark results to server.
+17:04:04.353  -- Client 4
+current-episode 	value: 290
+current-protocol	value: prime
+last-executed-sequence	num: 290699
+request-execute 	avg: 103.67ms, max: 112.96ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 290: protocol = prime , throughput = 4800.53req/s , epi
+sode time = 2.0831015s, overall time = 607.4696581363678s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 291: protocol = prime , throughput = 4771.57req/s , epi
+sode time = 2.0957463s, overall time = 609.5654044151306s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:07.358  Sending benchmark results to server.
+17:04:07.358  -- Client 4
+current-episode 	value: 292
+current-protocol	value: prime
+last-executed-sequence	num: 292149
+request-execute 	avg: 104.14ms, max: 110.02ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 292: protocol = prime , throughput = 4784.89req/s , epi
+sode time = 2.0899138s, overall time = 611.6553182601929s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:10.362  Sending benchmark results to server.
+17:04:10.363  -- Client 4
+current-episode 	value: 293
+current-protocol	value: prime
+last-executed-sequence	num: 293599
+request-execute 	avg: 104.21ms, max: 111.44ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 293: protocol = prime , throughput = 4787.89req/s , epi
+sode time = 2.0886018s, overall time = 613.7439200878143s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 294: protocol = prime , throughput = 4787.16req/s , epi
+sode time = 2.0889206s, overall time = 615.832840681076s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:13.370  Sending benchmark results to server.
+17:04:13.370  -- Client 4
+current-episode 	value: 295
+current-protocol	value: prime
+last-executed-sequence	num: 295049
+request-execute 	avg: 103.92ms, max: 108.96ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 295: protocol = prime , throughput = 4783.73req/s , epi
+sode time = 2.090417s, overall time = 617.9232575893402s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:16.370  Sending benchmark results to server.
+17:04:16.371  -- Client 4
+current-episode 	value: 296
+current-protocol	value: prime
+last-executed-sequence	num: 296449
+request-execute 	avg: 104.16ms, max: 108.65ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 296: protocol = prime , throughput = 4774.38req/s , epi
+sode time = 2.0945134s, overall time = 620.0177710056305s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:19.375  Sending benchmark results to server.
+17:04:19.376  -- Client 4
+current-episode 	value: 297
+current-protocol	value: prime
+last-executed-sequence	num: 297875
+request-execute 	avg: 104.30ms, max: 111.93ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 297: protocol = prime , throughput = 4591.83req/s , epi
+sode time = 2.1777804s, overall time = 622.1955513954163s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 298: protocol = prime , throughput = 4789.89req/s , epi
+sode time = 2.08773s, overall time = 624.283281326294s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:22.376  Sending benchmark results to server.
+17:04:22.377  -- Client 4
+current-episode 	value: 299
+current-protocol	value: prime
+last-executed-sequence	num: 299299
+request-execute 	avg: 105.62ms, max: 199.84ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 299: protocol = prime , throughput = 4797.70req/s , epi
+sode time = 2.0843303s, overall time = 626.3676116466522s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:25.382  Sending benchmark results to server.
+17:04:25.382  -- Client 4
+current-episode 	value: 300
+current-protocol	value: prime
+last-executed-sequence	num: 300749
+request-execute 	avg: 103.79ms, max: 111.61ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 300: protocol = prime , throughput = 4785.37req/s , epi
+sode time = 2.0897033s, overall time = 628.4573149681091s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 301: protocol = prime , throughput = 4354.53req/s , epi
+sode time = 2.2964604s, overall time = 630.7537753582001s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:28.388  Sending benchmark results to server.
+17:04:28.393  -- Client 4
+current-episode 	value: 302
+current-protocol	value: prime
+last-executed-sequence	num: 302067
+request-execute 	avg: 107.45ms, max: 226.35ms, count: 13340
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4446.67req/s
+
+
+[EPISODE REPORT] episode 302: protocol = prime , throughput = 4189.45req/s , epi
+sode time = 2.3869493s, overall time = 633.1407246589661s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:31.389  Sending benchmark results to server.
+17:04:31.390  -- Client 4
+current-episode 	value: 303
+current-protocol	value: prime
+last-executed-sequence	num: 303362
+request-execute 	avg: 117.24ms, max: 209.57ms, count: 12670
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4223.33req/s
+
+
+[EPISODE REPORT] episode 303: protocol = prime , throughput = 4599.96req/s , epi
+sode time = 2.1739304s, overall time = 635.3146550655365s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:34.390  Sending benchmark results to server.
+17:04:34.390  -- Client 4
+current-episode 	value: 304
+current-protocol	value: prime
+last-executed-sequence	num: 304749
+request-execute 	avg: 104.59ms, max: 216.24ms, count: 13990
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4663.33req/s
+
+
+[EPISODE REPORT] episode 304: protocol = prime , throughput = 4802.94req/s , epi
+sode time = 2.0820565s, overall time = 637.3967115879059s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 305: protocol = prime , throughput = 4798.53req/s , epi
+sode time = 2.083972s, overall time = 639.4806835651398s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:37.395  Sending benchmark results to server.
+17:04:37.396  -- Client 4
+current-episode 	value: 306
+current-protocol	value: prime
+last-executed-sequence	num: 306199
+request-execute 	avg: 103.73ms, max: 110.25ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 306: protocol = prime , throughput = 4812.91req/s , epi
+sode time = 2.077743s, overall time = 641.558426618576s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:40.401  Sending benchmark results to server.
+17:04:40.401  -- Client 4
+current-episode 	value: 307
+current-protocol	value: prime
+last-executed-sequence	num: 307649
+request-execute 	avg: 103.73ms, max: 110.68ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 307: protocol = prime , throughput = 4786.80req/s , epi
+sode time = 2.089079s, overall time = 643.6475055217743s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 308: protocol = prime , throughput = 4790.19req/s , epi
+sode time = 2.0875986s, overall time = 645.7351040840149s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:43.406  Sending benchmark results to server.
+17:04:43.406  -- Client 4
+current-episode 	value: 309
+current-protocol	value: prime
+last-executed-sequence	num: 309099
+request-execute 	avg: 104.04ms, max: 111.51ms, count: 14050
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4683.33req/s
+
+
+[EPISODE REPORT] episode 309: protocol = prime , throughput = 4791.84req/s , epi
+sode time = 2.0868802s, overall time = 647.8219842910767s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:46.410  Sending benchmark results to server.
+17:04:46.411  -- Client 4
+current-episode 	value: 310
+current-protocol	value: prime
+last-executed-sequence	num: 310549
+request-execute 	avg: 103.69ms, max: 116.43ms, count: 14450
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4816.67req/s
+
+
+[EPISODE REPORT] episode 310: protocol = prime , throughput = 4819.40req/s , epi
+sode time = 2.0749485s, overall time = 649.8969328403473s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 311: protocol = prime , throughput = 4814.22req/s , epi
+sode time = 2.0771809s, overall time = 651.974113702774s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:49.411  Sending benchmark results to server.
+17:04:49.412  -- Client 4
+current-episode 	value: 312
+current-protocol	value: prime
+last-executed-sequence	num: 311999
+request-execute 	avg: 103.46ms, max: 114.80ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 312: protocol = prime , throughput = 4805.45req/s , epi
+sode time = 2.0809698s, overall time = 654.0550835132599s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:52.418  Sending benchmark results to server.
+17:04:52.419  -- Client 4
+current-episode 	value: 313
+current-protocol	value: prime
+last-executed-sequence	num: 313399
+request-execute 	avg: 103.67ms, max: 113.27ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 313: protocol = prime , throughput = 4807.69req/s , epi
+sode time = 2.080001s, overall time = 656.1350846290588s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:55.420  Sending benchmark results to server.
+17:04:55.421  -- Client 4
+current-episode 	value: 314
+current-protocol	value: prime
+last-executed-sequence	num: 314819
+request-execute 	avg: 103.56ms, max: 112.90ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 314: protocol = prime , throughput = 4599.13req/s , epi
+sode time = 2.1743221s, overall time = 658.3094067573547s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 315: protocol = prime , throughput = 4790.32req/s , epi
+sode time = 2.0875425s, overall time = 660.3969492912292s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:04:58.425  Sending benchmark results to server.
+17:04:58.425  -- Client 4
+current-episode 	value: 316
+current-protocol	value: prime
+last-executed-sequence	num: 316249
+request-execute 	avg: 105.88ms, max: 247.25ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 316: protocol = prime , throughput = 4775.78req/s , epi
+sode time = 2.093898s, overall time = 662.4908473491669s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:01.429  Sending benchmark results to server.
+17:05:01.429  -- Client 4
+current-episode 	value: 317
+current-protocol	value: prime
+last-executed-sequence	num: 317699
+request-execute 	avg: 104.23ms, max: 124.54ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 317: protocol = prime , throughput = 4835.95req/s , epi
+sode time = 2.0678475s, overall time = 664.5586948394775s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 318: protocol = prime , throughput = 4770.42req/s , epi
+sode time = 2.0962515s, overall time = 666.6549463272095s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:04.435  Sending benchmark results to server.
+17:05:04.435  -- Client 4
+current-episode 	value: 319
+current-protocol	value: prime
+last-executed-sequence	num: 319149
+request-execute 	avg: 103.52ms, max: 113.42ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 319: protocol = prime , throughput = 4798.14req/s , epi
+sode time = 2.0841396s, overall time = 668.7390859127045s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:07.437  Sending benchmark results to server.
+17:05:07.437  -- Client 4
+current-episode 	value: 320
+current-protocol	value: prime
+last-executed-sequence	num: 320599
+request-execute 	avg: 103.93ms, max: 111.78ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 320: protocol = prime , throughput = 4779.33req/s , epi
+sode time = 2.0923426s, overall time = 670.831428527832s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 321: protocol = prime , throughput = 4818.76req/s , epi
+sode time = 2.0752223s, overall time = 672.9066507816315s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:10.442  Sending benchmark results to server.
+17:05:10.443  -- Client 4
+current-episode 	value: 322
+current-protocol	value: prime
+last-executed-sequence	num: 322027
+request-execute 	avg: 104.02ms, max: 117.19ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 322: protocol = prime , throughput = 4805.73req/s , epi
+sode time = 2.08085s, overall time = 674.987500667572s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:13.445  Sending benchmark results to server.
+17:05:13.446  -- Client 4
+current-episode 	value: 323
+current-protocol	value: prime
+last-executed-sequence	num: 323449
+request-execute 	avg: 103.32ms, max: 111.82ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 323: protocol = prime , throughput = 4795.71req/s , epi
+sode time = 2.085196s, overall time = 677.072696685791s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:16.450  Sending benchmark results to server.
+17:05:16.451  -- Client 4
+current-episode 	value: 324
+current-protocol	value: prime
+last-executed-sequence	num: 324899
+request-execute 	avg: 103.90ms, max: 110.99ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 324: protocol = prime , throughput = 4794.33req/s , epi
+sode time = 2.085799s, overall time = 679.1584956645966s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 325: protocol = prime , throughput = 4794.84req/s , epi
+sode time = 2.0855734s, overall time = 681.2440690994263s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:19.454  Sending benchmark results to server.
+17:05:19.454  -- Client 4
+current-episode 	value: 326
+current-protocol	value: prime
+last-executed-sequence	num: 326349
+request-execute 	avg: 103.96ms, max: 110.23ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 326: protocol = prime , throughput = 4813.96req/s , epi
+sode time = 2.0772936s, overall time = 683.3213627338409s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:22.460  Sending benchmark results to server.
+17:05:22.461  -- Client 4
+current-episode 	value: 327
+current-protocol	value: prime
+last-executed-sequence	num: 327799
+request-execute 	avg: 103.45ms, max: 112.26ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 327: protocol = prime , throughput = 4804.37req/s , epi
+sode time = 2.081438s, overall time = 685.4028007984161s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 328: protocol = prime , throughput = 4796.05req/s , epi
+sode time = 2.0850503s, overall time = 687.4878511428833s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:25.462  Sending benchmark results to server.
+17:05:25.463  -- Client 4
+current-episode 	value: 329
+current-protocol	value: prime
+last-executed-sequence	num: 329249
+request-execute 	avg: 103.76ms, max: 115.34ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 329: protocol = prime , throughput = 4605.40req/s , epi
+sode time = 2.1713638s, overall time = 689.6592149734497s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:28.467  Sending benchmark results to server.
+17:05:28.468  -- Client 4
+current-episode 	value: 330
+current-protocol	value: prime
+last-executed-sequence	num: 330641
+request-execute 	avg: 106.13ms, max: 209.57ms, count: 13920
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4640.00req/s
+
+
+[EPISODE REPORT] episode 330: protocol = prime , throughput = 4573.17req/s , epi
+sode time = 2.1866686s, overall time = 691.8458836078644s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 331: protocol = prime , throughput = 4765.62req/s , epi
+sode time = 2.098364s, overall time = 693.9442477226257s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:31.471  Sending benchmark results to server.
+17:05:31.472  -- Client 4
+current-episode 	value: 332
+current-protocol	value: prime
+last-executed-sequence	num: 331999
+request-execute 	avg: 104.79ms, max: 208.79ms, count: 13580
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4526.67req/s
+
+
+[EPISODE REPORT] episode 332: protocol = prime , throughput = 4808.16req/s , epi
+sode time = 2.079797s, overall time = 696.024044752121s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:34.476  Sending benchmark results to server.
+17:05:34.477  -- Client 4
+current-episode 	value: 333
+current-protocol	value: prime
+last-executed-sequence	num: 333449
+request-execute 	avg: 103.61ms, max: 113.54ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 333: protocol = prime , throughput = 4790.28req/s , epi
+sode time = 2.087559s, overall time = 698.1116037368774s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:37.479  Sending benchmark results to server.
+17:05:37.480  -- Client 4
+current-episode 	value: 334
+current-protocol	value: prime
+last-executed-sequence	num: 334899
+request-execute 	avg: 103.52ms, max: 109.90ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 334: protocol = prime , throughput = 4831.31req/s , epi
+sode time = 2.0698328s, overall time = 700.1814365386963s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 335: protocol = prime , throughput = 4805.78req/s , epi
+sode time = 2.0808284s, overall time = 702.2622649669647s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:40.483  Sending benchmark results to server.
+17:05:40.484  -- Client 4
+current-episode 	value: 336
+current-protocol	value: prime
+last-executed-sequence	num: 336349
+request-execute 	avg: 103.59ms, max: 115.70ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 336: protocol = prime , throughput = 4784.49req/s , epi
+sode time = 2.0900865s, overall time = 704.3523514270782s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:43.489  Sending benchmark results to server.
+17:05:43.490  -- Client 4
+current-episode 	value: 337
+current-protocol	value: prime
+last-executed-sequence	num: 337799
+request-execute 	avg: 103.91ms, max: 111.90ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 337: protocol = prime , throughput = 4791.61req/s , epi
+sode time = 2.0869796s, overall time = 706.4393310546875s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 338: protocol = prime , throughput = 4801.63req/s , epi
+sode time = 2.082628s, overall time = 708.521959066391s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:46.494  Sending benchmark results to server.
+17:05:46.495  -- Client 4
+current-episode 	value: 339
+current-protocol	value: prime
+last-executed-sequence	num: 339249
+request-execute 	avg: 103.82ms, max: 114.31ms, count: 14040
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4680.00req/s
+
+
+[EPISODE REPORT] episode 339: protocol = prime , throughput = 4749.23req/s , epi
+sode time = 2.1056044s, overall time = 710.6275634765625s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:49.502  Sending benchmark results to server.
+17:05:49.502  -- Client 4
+current-episode 	value: 340
+current-protocol	value: prime
+last-executed-sequence	num: 340671
+request-execute 	avg: 103.64ms, max: 112.62ms, count: 14460
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4820.00req/s
+
+
+[EPISODE REPORT] episode 340: protocol = prime , throughput = 4833.45req/s , epi
+sode time = 2.0689137s, overall time = 712.6964771747589s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 341: protocol = prime , throughput = 4782.08req/s , epi
+sode time = 2.091142s, overall time = 714.7876191139221s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:52.503  Sending benchmark results to server.
+17:05:52.503  -- Client 4
+current-episode 	value: 342
+current-protocol	value: prime
+last-executed-sequence	num: 342099
+request-execute 	avg: 103.89ms, max: 110.24ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 342: protocol = prime , throughput = 4562.61req/s , epi
+sode time = 2.1917257s, overall time = 716.9793448448181s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:55.508  Sending benchmark results to server.
+17:05:55.508  -- Client 4
+current-episode 	value: 343
+current-protocol	value: prime
+last-executed-sequence	num: 343499
+request-execute 	avg: 105.14ms, max: 211.65ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 343: protocol = prime , throughput = 4777.62req/s , epi
+sode time = 2.0930927s, overall time = 719.0724375247955s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:58.514  Sending benchmark results to server.
+17:05:58.515  -- Client 4
+current-episode 	value: 344
+current-protocol	value: prime
+last-executed-sequence	num: 344949
+request-execute 	avg: 103.92ms, max: 110.70ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 344: protocol = prime , throughput = 4798.77req/s , epi
+sode time = 2.0838687s, overall time = 721.1563062667847s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 345: protocol = prime , throughput = 4795.95req/s , epi
+sode time = 2.0850947s, overall time = 723.2414009571075s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:01.519  Sending benchmark results to server.
+17:06:01.519  -- Client 4
+current-episode 	value: 346
+current-protocol	value: prime
+last-executed-sequence	num: 346399
+request-execute 	avg: 103.86ms, max: 124.17ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 346: protocol = prime , throughput = 4810.78req/s , epi
+sode time = 2.0786664s, overall time = 725.3200674057007s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:04.527  Sending benchmark results to server.
+17:06:04.528  -- Client 4
+current-episode 	value: 347
+current-protocol	value: prime
+last-executed-sequence	num: 347833
+request-execute 	avg: 103.31ms, max: 111.74ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 347: protocol = prime , throughput = 4804.61req/s , epi
+sode time = 2.0813336s, overall time = 727.4014010429382s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 348: protocol = prime , throughput = 4803.82req/s , epi
+sode time = 2.081676s, overall time = 729.4830770492554s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:07.528  Sending benchmark results to server.
+17:06:07.529  -- Client 4
+current-episode 	value: 349
+current-protocol	value: prime
+last-executed-sequence	num: 349249
+request-execute 	avg: 103.84ms, max: 110.62ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 349: protocol = prime , throughput = 4819.71req/s , epi
+sode time = 2.0748158s, overall time = 731.5578927993774s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:10.532  Sending benchmark results to server.
+17:06:10.533  -- Client 4
+current-episode 	value: 350
+current-protocol	value: prime
+last-executed-sequence	num: 350699
+request-execute 	avg: 103.44ms, max: 111.23ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 350: protocol = prime , throughput = 4768.55req/s , epi
+sode time = 2.0970736s, overall time = 733.6549663543701s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 351: protocol = prime , throughput = 4782.21req/s , epi
+sode time = 2.091083s, overall time = 735.7460494041443s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:13.539  Sending benchmark results to server.
+17:06:13.539  -- Client 4
+current-episode 	value: 352
+current-protocol	value: prime
+last-executed-sequence	num: 352149
+request-execute 	avg: 104.35ms, max: 115.35ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 352: protocol = prime , throughput = 4805.62req/s , epi
+sode time = 2.0808985s, overall time = 737.826947927475s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:16.543  Sending benchmark results to server.
+17:06:16.543  -- Client 4
+current-episode 	value: 353
+current-protocol	value: prime
+last-executed-sequence	num: 353599
+request-execute 	avg: 103.79ms, max: 114.09ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 353: protocol = prime , throughput = 4781.83req/s , epi
+sode time = 2.09125s, overall time = 739.9181978702545s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 354: protocol = prime , throughput = 4803.33req/s , epi
+sode time = 2.0818882s, overall time = 742.000086069107s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:19.547  Sending benchmark results to server.
+17:06:19.548  -- Client 4
+current-episode 	value: 355
+current-protocol	value: prime
+last-executed-sequence	num: 355049
+request-execute 	avg: 103.99ms, max: 114.59ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 355: protocol = prime , throughput = 4796.27req/s , epi
+sode time = 2.0849538s, overall time = 744.0850398540497s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:22.552  Sending benchmark results to server.
+17:06:22.554  -- Client 4
+current-episode 	value: 356
+current-protocol	value: prime
+last-executed-sequence	num: 356449
+request-execute 	avg: 103.68ms, max: 110.41ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 356: protocol = prime , throughput = 4570.29req/s , epi
+sode time = 2.1880457s, overall time = 746.2730855941772s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:25.555  Sending benchmark results to server.
+17:06:25.555  -- Client 4
+current-episode 	value: 357
+current-protocol	value: prime
+last-executed-sequence	num: 357849
+request-execute 	avg: 104.87ms, max: 212.25ms, count: 13500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4500.00req/s
+
+
+[EPISODE REPORT] episode 357: protocol = prime , throughput = 4790.11req/s , epi
+sode time = 2.087635s, overall time = 748.3607206344604s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 358: protocol = prime , throughput = 4784.62req/s , epi
+sode time = 2.0900319s, overall time = 750.4507524967194s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:28.560  Sending benchmark results to server.
+17:06:28.560  -- Client 4
+current-episode 	value: 359
+current-protocol	value: prime
+last-executed-sequence	num: 359299
+request-execute 	avg: 103.75ms, max: 114.12ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 359: protocol = prime , throughput = 4807.95req/s , epi
+sode time = 2.0798886s, overall time = 752.530641078949s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:31.566  Sending benchmark results to server.
+17:06:31.567  -- Client 4
+current-episode 	value: 360
+current-protocol	value: prime
+last-executed-sequence	num: 360749
+request-execute 	avg: 103.67ms, max: 113.19ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 360: protocol = prime , throughput = 4788.38req/s , epi
+sode time = 2.0883877s, overall time = 754.6190288066864s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 361: protocol = prime , throughput = 4775.15req/s , epi
+sode time = 2.0941737s, overall time = 756.7132024765015s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:34.569  Sending benchmark results to server.
+17:06:34.570  -- Client 4
+current-episode 	value: 362
+current-protocol	value: prime
+last-executed-sequence	num: 362187
+request-execute 	avg: 104.31ms, max: 111.81ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 362: protocol = prime , throughput = 4810.62req/s , epi
+sode time = 2.0787356s, overall time = 758.7919380664825s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:37.572  Sending benchmark results to server.
+17:06:37.573  -- Client 4
+current-episode 	value: 363
+current-protocol	value: prime
+last-executed-sequence	num: 363599
+request-execute 	avg: 103.56ms, max: 113.53ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 363: protocol = prime , throughput = 4795.20req/s , epi
+sode time = 2.0854177s, overall time = 760.8773558139801s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 364: protocol = prime , throughput = 4804.25req/s , epi
+sode time = 2.0814893s, overall time = 762.9588451385498s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:40.576  Sending benchmark results to server.
+17:06:40.577  -- Client 4
+current-episode 	value: 365
+current-protocol	value: prime
+last-executed-sequence	num: 365049
+request-execute 	avg: 103.60ms, max: 112.64ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 365: protocol = prime , throughput = 4842.01req/s , epi
+sode time = 2.0652578s, overall time = 765.0241029262543s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:43.580  Sending benchmark results to server.
+17:06:43.581  -- Client 4
+current-episode 	value: 366
+current-protocol	value: prime
+last-executed-sequence	num: 366486
+request-execute 	avg: 102.91ms, max: 113.33ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 366: protocol = prime , throughput = 4633.30req/s , epi
+sode time = 2.158287s, overall time = 767.1823899745941s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:46.603  Sending benchmark results to server.
+17:06:46.606  -- Client 4
+current-episode 	value: 367
+current-protocol	value: prime
+last-executed-sequence	num: 367949
+request-execute 	avg: 104.02ms, max: 201.84ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 367: protocol = prime , throughput = 4647.83req/s , epi
+sode time = 2.1515417s, overall time = 769.333931684494s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 368: protocol = prime , throughput = 4604.93req/s , epi
+sode time = 2.1715834s, overall time = 771.5055150985718s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:49.588  Sending benchmark results to server.
+17:06:49.590  -- Client 4
+current-episode 	value: 369
+current-protocol	value: prime
+last-executed-sequence	num: 369299
+request-execute 	avg: 103.39ms, max: 218.09ms, count: 14270
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4756.67req/s
+
+
+[EPISODE REPORT] episode 369: protocol = prime , throughput = 4858.12req/s , epi
+sode time = 2.0584114s, overall time = 773.5639264583588s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:52.588  Sending benchmark results to server.
+17:06:52.590  -- Client 4
+current-episode 	value: 370
+current-protocol	value: prime
+last-executed-sequence	num: 370749
+request-execute 	avg: 103.24ms, max: 205.40ms, count: 14230
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4743.33req/s
+
+
+[EPISODE REPORT] episode 370: protocol = prime , throughput = 4830.63req/s , epi
+sode time = 2.0701213s, overall time = 775.6340477466583s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 371: protocol = prime , throughput = 4835.33req/s , epi
+sode time = 2.0681102s, overall time = 777.7021579742432s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:55.589  Sending benchmark results to server.
+17:06:55.589  -- Client 4
+current-episode 	value: 372
+current-protocol	value: prime
+last-executed-sequence	num: 372199
+request-execute 	avg: 102.91ms, max: 116.47ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 372: protocol = prime , throughput = 4837.22req/s , epi
+sode time = 2.0673034s, overall time = 779.7694613933563s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:58.594  Sending benchmark results to server.
+17:06:58.595  -- Client 4
+current-episode 	value: 373
+current-protocol	value: prime
+last-executed-sequence	num: 373649
+request-execute 	avg: 102.87ms, max: 113.96ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 373: protocol = prime , throughput = 4837.12req/s , epi
+sode time = 2.0673444s, overall time = 781.8368058204651s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 374: protocol = prime , throughput = 4810.97req/s , epi
+sode time = 2.0785816s, overall time = 783.9153873920441s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:01.599  Sending benchmark results to server.
+17:07:01.603  -- Client 4
+current-episode 	value: 375
+current-protocol	value: prime
+last-executed-sequence	num: 375099
+request-execute 	avg: 102.96ms, max: 123.39ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 375: protocol = prime , throughput = 4811.23req/s , epi
+sode time = 2.0784695s, overall time = 785.9938569068909s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:04.600  Sending benchmark results to server.
+17:07:04.601  -- Client 4
+current-episode 	value: 376
+current-protocol	value: prime
+last-executed-sequence	num: 376549
+request-execute 	avg: 103.34ms, max: 115.98ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 376: protocol = prime , throughput = 4805.82req/s , epi
+sode time = 2.0808098s, overall time = 788.0746667385101s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 377: protocol = prime , throughput = 4803.21req/s , epi
+sode time = 2.0819411s, overall time = 790.1566078662872s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:07.604  Sending benchmark results to server.
+17:07:07.604  -- Client 4
+current-episode 	value: 378
+current-protocol	value: prime
+last-executed-sequence	num: 377999
+request-execute 	avg: 103.85ms, max: 116.68ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 378: protocol = prime , throughput = 4799.88req/s , epi
+sode time = 2.0833867s, overall time = 792.2399945259094s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:10.605  Sending benchmark results to server.
+17:07:10.606  -- Client 4
+current-episode 	value: 379
+current-protocol	value: prime
+last-executed-sequence	num: 379399
+request-execute 	avg: 103.57ms, max: 112.17ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 379: protocol = prime , throughput = 4799.04req/s , epi
+sode time = 2.0837514s, overall time = 794.3237459659576s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:13.608  Sending benchmark results to server.
+17:07:13.609  -- Client 4
+current-episode 	value: 380
+current-protocol	value: prime
+last-executed-sequence	num: 380849
+request-execute 	avg: 103.73ms, max: 111.68ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 380: protocol = prime , throughput = 4790.28req/s , epi
+sode time = 2.0875623s, overall time = 796.4113082885742s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 381: protocol = prime , throughput = 4803.45req/s , epi
+sode time = 2.0818388s, overall time = 798.4931471347809s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:16.613  Sending benchmark results to server.
+17:07:16.614  -- Client 4
+current-episode 	value: 382
+current-protocol	value: prime
+last-executed-sequence	num: 382299
+request-execute 	avg: 104.16ms, max: 110.95ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 382: protocol = prime , throughput = 4780.28req/s , epi
+sode time = 2.0919259s, overall time = 800.5850729942322s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:19.619  Sending benchmark results to server.
+17:07:19.619  -- Client 4
+current-episode 	value: 383
+current-protocol	value: prime
+last-executed-sequence	num: 383747
+request-execute 	avg: 103.79ms, max: 190.97ms, count: 13980
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4660.00req/s
+
+
+[EPISODE REPORT] episode 383: protocol = prime , throughput = 4583.87req/s , epi
+sode time = 2.1815608s, overall time = 802.7666337490082s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 384: protocol = prime , throughput = 4574.79req/s , epi
+sode time = 2.1858919s, overall time = 804.9525256156921s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:22.624  Sending benchmark results to server.
+17:07:22.624  -- Client 4
+current-episode 	value: 385
+current-protocol	value: prime
+last-executed-sequence	num: 385099
+request-execute 	avg: 105.80ms, max: 216.13ms, count: 13770
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4590.00req/s
+
+
+[EPISODE REPORT] episode 385: protocol = prime , throughput = 4821.17req/s , epi
+sode time = 2.0741863s, overall time = 807.0267119407654s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:25.628  Sending benchmark results to server.
+17:07:25.629  -- Client 4
+current-episode 	value: 386
+current-protocol	value: prime
+last-executed-sequence	num: 386549
+request-execute 	avg: 102.74ms, max: 205.46ms, count: 14250
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4750.00req/s
+
+
+[EPISODE REPORT] episode 386: protocol = prime , throughput = 4589.19req/s , epi
+sode time = 2.179035s, overall time = 809.2057468891144s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:28.638  Sending benchmark results to server.
+17:07:28.639  -- Client 4
+current-episode 	value: 387
+current-protocol	value: prime
+last-executed-sequence	num: 387949
+request-execute 	avg: 105.14ms, max: 200.02ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+[EPISODE REPORT] episode 387: protocol = prime , throughput = 4799.94req/s , epi
+sode time = 2.0833597s, overall time = 811.2891066074371s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 388: protocol = prime , throughput = 4602.35req/s , epi
+sode time = 2.172803s, overall time = 813.461909532547s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:31.641  Sending benchmark results to server.
+17:07:31.643  -- Client 4
+current-episode 	value: 389
+current-protocol	value: prime
+last-executed-sequence	num: 389349
+request-execute 	avg: 104.36ms, max: 190.61ms, count: 14360
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4786.67req/s
+
+
+[EPISODE REPORT] episode 389: protocol = prime , throughput = 4619.88req/s , epi
+sode time = 2.1645565s, overall time = 815.6264660358429s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:34.639  Sending benchmark results to server.
+17:07:34.641  -- Client 4
+current-episode 	value: 390
+current-protocol	value: prime
+last-executed-sequence	num: 390749
+request-execute 	avg: 104.29ms, max: 211.39ms, count: 13640
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4546.67req/s
+
+
+[EPISODE REPORT] episode 390: protocol = prime , throughput = 4814.61req/s , epi
+sode time = 2.077013s, overall time = 817.70347905159s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 391: protocol = prime , throughput = 4833.75req/s , epi
+sode time = 2.0687878s, overall time = 819.7722668647766s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:37.644  Sending benchmark results to server.
+17:07:37.645  -- Client 4
+current-episode 	value: 392
+current-protocol	value: prime
+last-executed-sequence	num: 392199
+request-execute 	avg: 103.03ms, max: 112.22ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 392: protocol = prime , throughput = 4814.48req/s , epi
+sode time = 2.0770693s, overall time = 821.8493361473083s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:40.653  Sending benchmark results to server.
+17:07:40.654  -- Client 4
+current-episode 	value: 393
+current-protocol	value: prime
+last-executed-sequence	num: 393649
+request-execute 	avg: 103.35ms, max: 112.65ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 393: protocol = prime , throughput = 4816.50req/s , epi
+sode time = 2.076197s, overall time = 823.9255330562592s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 394: protocol = prime , throughput = 4806.04req/s , epi
+sode time = 2.0807164s, overall time = 826.0062494277954s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:43.652  Sending benchmark results to server.
+17:07:43.653  -- Client 4
+current-episode 	value: 395
+current-protocol	value: prime
+last-executed-sequence	num: 395063
+request-execute 	avg: 103.54ms, max: 111.79ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 395: protocol = prime , throughput = 4838.93req/s , epi
+sode time = 2.066574s, overall time = 828.0728235244751s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:46.648  Sending benchmark results to server.
+17:07:46.649  -- Client 4
+current-episode 	value: 396
+current-protocol	value: prime
+last-executed-sequence	num: 396499
+request-execute 	avg: 102.86ms, max: 110.52ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 396: protocol = prime , throughput = 4190.30req/s , epi
+sode time = 2.3864665s, overall time = 830.4592900276184s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:49.651  Sending benchmark results to server.
+17:07:49.653  -- Client 4
+current-episode 	value: 397
+current-protocol	value: prime
+last-executed-sequence	num: 397789
+request-execute 	avg: 114.26ms, max: 237.71ms, count: 12880
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4293.33req/s
+
+
+[EPISODE REPORT] episode 397: protocol = prime , throughput = 4607.64req/s , epi
+sode time = 2.1703095s, overall time = 832.629599571228s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 398: protocol = prime , throughput = 4585.52req/s , epi
+sode time = 2.1807792s, overall time = 834.8103787899017s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:52.655  Sending benchmark results to server.
+17:07:52.656  -- Client 4
+current-episode 	value: 399
+current-protocol	value: prime
+last-executed-sequence	num: 399149
+request-execute 	avg: 104.00ms, max: 235.17ms, count: 13910
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4636.67req/s
+
+
+[EPISODE REPORT] episode 399: protocol = prime , throughput = 4840.95req/s , epi
+sode time = 2.0657105s, overall time = 836.8760893344879s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:55.658  Sending benchmark results to server.
+17:07:55.658  -- Client 4
+current-episode 	value: 400
+current-protocol	value: prime
+last-executed-sequence	num: 400599
+request-execute 	avg: 103.65ms, max: 208.71ms, count: 14030
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4676.67req/s
+
+
+[EPISODE REPORT] episode 400: protocol = prime , throughput = 4799.86req/s , epi
+sode time = 2.0833943s, overall time = 838.9594836235046s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 401: protocol = prime , throughput = 4808.41req/s , epi
+sode time = 2.0796888s, overall time = 841.039172410965s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:58.662  Sending benchmark results to server.
+17:07:58.662  -- Client 4
+current-episode 	value: 402
+current-protocol	value: prime
+last-executed-sequence	num: 402049
+request-execute 	avg: 103.90ms, max: 115.50ms, count: 14180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4726.67req/s
+
+
+[EPISODE REPORT] episode 402: protocol = prime , throughput = 4591.43req/s , epi
+sode time = 2.177973s, overall time = 843.2171454429626s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:01.666  Sending benchmark results to server.
+17:08:01.666  -- Client 4
+current-episode 	value: 403
+current-protocol	value: prime
+last-executed-sequence	num: 403439
+request-execute 	avg: 104.00ms, max: 182.40ms, count: 14390
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4796.67req/s
+
+
+[EPISODE REPORT] episode 403: protocol = prime , throughput = 4568.54req/s , epi
+sode time = 2.1888855s, overall time = 845.4060308933258s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:04.671  Sending benchmark results to server.
+17:08:04.671  -- Client 4
+current-episode 	value: 404
+current-protocol	value: prime
+last-executed-sequence	num: 404849
+request-execute 	avg: 105.32ms, max: 207.34ms, count: 13610
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4536.67req/s
+
+
+[EPISODE REPORT] episode 404: protocol = prime , throughput = 4818.84req/s , epi
+sode time = 2.0751882s, overall time = 847.4812190532684s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 405: protocol = prime , throughput = 4815.25req/s , epi
+sode time = 2.076735s, overall time = 849.5579540729523s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:07.673  Sending benchmark results to server.
+17:08:07.673  -- Client 4
+current-episode 	value: 406
+current-protocol	value: prime
+last-executed-sequence	num: 406299
+request-execute 	avg: 103.20ms, max: 112.03ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 406: protocol = prime , throughput = 4812.19req/s , epi
+sode time = 2.078055s, overall time = 851.63600897789s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:10.677  Sending benchmark results to server.
+17:08:10.678  -- Client 4
+current-episode 	value: 407
+current-protocol	value: prime
+last-executed-sequence	num: 407749
+request-execute 	avg: 103.22ms, max: 117.71ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 407: protocol = prime , throughput = 4835.28req/s , epi
+sode time = 2.068133s, overall time = 853.7041420936584s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 408: protocol = prime , throughput = 4812.47req/s , epi
+sode time = 2.0779366s, overall time = 855.782078742981s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:13.679  Sending benchmark results to server.
+17:08:13.680  -- Client 4
+current-episode 	value: 409
+current-protocol	value: prime
+last-executed-sequence	num: 409199
+request-execute 	avg: 103.53ms, max: 112.56ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 409: protocol = prime , throughput = 4839.38req/s , epi
+sode time = 2.0663798s, overall time = 857.8484585285187s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:16.683  Sending benchmark results to server.
+17:08:16.684  -- Client 4
+current-episode 	value: 410
+current-protocol	value: prime
+last-executed-sequence	num: 410649
+request-execute 	avg: 102.80ms, max: 122.41ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 410: protocol = prime , throughput = 4799.49req/s , epi
+sode time = 2.0835562s, overall time = 859.9320147037506s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 411: protocol = prime , throughput = 4594.54req/s , epi
+sode time = 2.1764984s, overall time = 862.1085131168365s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:19.687  Sending benchmark results to server.
+17:08:19.688  -- Client 4
+current-episode 	value: 412
+current-protocol	value: prime
+last-executed-sequence	num: 412049
+request-execute 	avg: 103.73ms, max: 125.83ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 412: protocol = prime , throughput = 4832.13req/s , epi
+sode time = 2.069481s, overall time = 864.1779940128326s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:22.690  Sending benchmark results to server.
+17:08:22.691  -- Client 4
+current-episode 	value: 413
+current-protocol	value: prime
+last-executed-sequence	num: 413499
+request-execute 	avg: 105.66ms, max: 204.16ms, count: 13820
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4606.67req/s
+
+
+[EPISODE REPORT] episode 413: protocol = prime , throughput = 4796.65req/s , epi
+sode time = 2.0847864s, overall time = 866.2627804279327s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:25.696  Sending benchmark results to server.
+17:08:25.696  -- Client 4
+current-episode 	value: 414
+current-protocol	value: prime
+last-executed-sequence	num: 414949
+request-execute 	avg: 103.03ms, max: 115.83ms, count: 14180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4726.67req/s
+
+
+[EPISODE REPORT] episode 414: protocol = prime , throughput = 4839.89req/s , epi
+sode time = 2.0661638s, overall time = 868.3289442062378s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 415: protocol = prime , throughput = 4839.01req/s , epi
+sode time = 2.0665376s, overall time = 870.3954818248749s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:28.700  Sending benchmark results to server.
+17:08:28.700  -- Client 4
+current-episode 	value: 416
+current-protocol	value: prime
+last-executed-sequence	num: 416399
+request-execute 	avg: 102.86ms, max: 113.48ms, count: 14830
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4943.33req/s
+
+
+[EPISODE REPORT] episode 416: protocol = prime , throughput = 4814.52req/s , epi
+sode time = 2.0770483s, overall time = 872.4725301265717s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:31.701  Sending benchmark results to server.
+17:08:31.701  -- Client 4
+current-episode 	value: 417
+current-protocol	value: prime
+last-executed-sequence	num: 417849
+request-execute 	avg: 103.01ms, max: 121.77ms, count: 14170
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4723.33req/s
+
+
+[EPISODE REPORT] episode 417: protocol = prime , throughput = 4830.75req/s , epi
+sode time = 2.070071s, overall time = 874.542601108551s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 418: protocol = prime , throughput = 4827.81req/s , epi
+sode time = 2.0713336s, overall time = 876.6139347553253s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:34.705  Sending benchmark results to server.
+17:08:34.706  -- Client 4
+current-episode 	value: 419
+current-protocol	value: prime
+last-executed-sequence	num: 419299
+request-execute 	avg: 102.99ms, max: 119.22ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+[EPISODE REPORT] episode 419: protocol = prime , throughput = 4821.20req/s , epi
+sode time = 2.0741725s, overall time = 878.688107252121s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:37.711  Sending benchmark results to server.
+17:08:37.712  -- Client 4
+current-episode 	value: 420
+current-protocol	value: prime
+last-executed-sequence	num: 420746
+request-execute 	avg: 102.95ms, max: 129.50ms, count: 14470
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4823.33req/s
+
+
+[EPISODE REPORT] episode 420: protocol = prime , throughput = 4606.33req/s , epi
+sode time = 2.1709232s, overall time = 880.8590304851532s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 421: protocol = prime , throughput = 4806.92req/s , epi
+sode time = 2.0803354s, overall time = 882.9393658638s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:40.718  Sending benchmark results to server.
+17:08:40.720  -- Client 4
+current-episode 	value: 422
+current-protocol	value: prime
+last-executed-sequence	num: 422149
+request-execute 	avg: 104.22ms, max: 216.45ms, count: 14030
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4676.67req/s
+
+
+[EPISODE REPORT] episode 422: protocol = prime , throughput = 4405.98req/s , epi
+sode time = 2.2696414s, overall time = 885.2090072631836s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:43.723  Sending benchmark results to server.
+17:08:43.724  -- Client 4
+current-episode 	value: 423
+current-protocol	value: prime
+last-executed-sequence	num: 423462
+request-execute 	avg: 106.52ms, max: 186.76ms, count: 13910
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4636.67req/s
+
+
+[EPISODE REPORT] episode 423: protocol = prime , throughput = 4579.11req/s , epi
+sode time = 2.183831s, overall time = 887.3928382396698s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:46.730  Sending benchmark results to server.
+17:08:46.732  -- Client 4
+current-episode 	value: 424
+current-protocol	value: prime
+last-executed-sequence	num: 424899
+request-execute 	avg: 106.88ms, max: 301.08ms, count: 13590
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4530.00req/s
+
+
+[EPISODE REPORT] episode 424: protocol = prime , throughput = 4819.81req/s , epi
+sode time = 2.0747714s, overall time = 889.4676096439362s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 425: protocol = prime , throughput = 4386.95req/s , epi
+sode time = 2.2794888s, overall time = 891.7470984458923s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:49.727  Sending benchmark results to server.
+17:08:49.730  -- Client 4
+current-episode 	value: 426
+current-protocol	value: prime
+last-executed-sequence	num: 426249
+request-execute 	avg: 108.70ms, max: 322.32ms, count: 13670
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4556.67req/s
+
+
+[EPISODE REPORT] episode 426: protocol = prime , throughput = 4811.26req/s , epi
+sode time = 2.078456s, overall time = 893.8255543708801s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:52.730  Sending benchmark results to server.
+17:08:52.730  -- Client 4
+current-episode 	value: 427
+current-protocol	value: prime
+last-executed-sequence	num: 427574
+request-execute 	avg: 102.87ms, max: 200.84ms, count: 14330
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4776.67req/s
+
+
+[EPISODE REPORT] episode 427: protocol = prime , throughput = 4003.26req/s , epi
+sode time = 2.4979649s, overall time = 896.3235192298889s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:55.731  Sending benchmark results to server.
+17:08:55.734  -- Client 4
+current-episode 	value: 428
+current-protocol	value: prime
+last-executed-sequence	num: 428891
+request-execute 	avg: 117.55ms, max: 299.12ms, count: 12240
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4080.00req/s
+
+
+[EPISODE REPORT] episode 428: protocol = prime , throughput = 4624.44req/s , epi
+sode time = 2.162423s, overall time = 898.4859421253204s
+{4} nextProtocol = prime
+leader mode set to be stable for the next episode
+^C%
+jaywang@Jays-MacBook-Pro code %

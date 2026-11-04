@@ -1,0 +1,1287 @@
+{0} [EPISODE REPORT] episode 0: protocol = prime , throughput = 3892.18req/s , episode time = 2.5692534s, overall time = 2.569253444671631s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 1: protocol = prime , throughput = 4825.29req/s , episode time = 2.0724158s, overall time = 4.641669273376465s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 2: protocol = prime , throughput = 4786.21req/s , episode time = 2.0893378s, overall time = 6.731007099151611s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 3: protocol = prime , throughput = 4800.10req/s , episode time = 2.0832882s, overall time = 8.814295291900635s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 4: protocol = prime , throughput = 4805.25req/s , episode time = 2.081056s, overall time = 10.89535140991211s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 5: protocol = prime , throughput = 4789.84req/s , episode time = 2.0877545s, overall time = 12.983105897903442s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 6: protocol = prime , throughput = 4788.68req/s , episode time = 2.0882578s, overall time = 15.071363687515259s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 7: protocol = prime , throughput = 4851.28req/s , episode time = 2.0613136s, overall time = 17.13267731666565s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 8: protocol = prime , throughput = 4803.14req/s , episode time = 2.08197s, overall time = 19.21464729309082s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 9: protocol = prime , throughput = 4821.73req/s , episode time = 2.0739434s, overall time = 21.288590669631958s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 10: protocol = prime , throughput = 4783.17req/s , episode time = 2.0906656s, overall time = 23.37925624847412s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 11: protocol = prime , throughput = 4832.28req/s , episode time = 2.069418s, overall time = 25.448674201965332s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 12: protocol = prime , throughput = 4789.93req/s , episode time = 2.087712s, overall time = 27.536386251449585s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 13: protocol = prime , throughput = 4795.19req/s , episode time = 2.0854251s, overall time = 29.621811389923096s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 14: protocol = prime , throughput = 4781.33req/s , episode time = 2.091469s, overall time = 31.71328043937683s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 15: protocol = prime , throughput = 4816.70req/s , episode time = 2.0761104s, overall time = 33.78939080238342s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 16: protocol = prime , throughput = 4819.23req/s , episode time = 2.0750215s, overall time = 35.86441230773926s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 17: protocol = prime , throughput = 4819.89req/s , episode time = 2.0747378s, overall time = 37.93915009498596s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 18: protocol = prime , throughput = 4779.27req/s , episode time = 2.0923688s, overall time = 40.03151893615723s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 19: protocol = prime , throughput = 4803.18req/s , episode time = 2.0819561s, overall time = 42.11347508430481s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 20: protocol = prime , throughput = 4815.06req/s , episode time = 2.0768194s, overall time = 44.19029450416565s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 21: protocol = prime , throughput = 4803.49req/s , episode time = 2.0818193s, overall time = 46.27211380004883s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 22: protocol = prime , throughput = 4802.37req/s , episode time = 2.082304s, overall time = 48.35441780090332s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 23: protocol = prime , throughput = 4792.70req/s , episode time = 2.0865064s, overall time = 50.44092416763306s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 24: protocol = prime , throughput = 4806.07req/s , episode time = 2.0807035s, overall time = 52.52162766456604s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 25: protocol = prime , throughput = 4781.90req/s , episode time = 2.09122s, overall time = 54.612847566604614s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 26: protocol = prime , throughput = 4778.42req/s , episode time = 2.0927434s, overall time = 56.70559096336365s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 27: protocol = prime , throughput = 4792.93req/s , episode time = 2.0864065s, overall time = 58.79199743270874s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 28: protocol = prime , throughput = 4819.08req/s , episode time = 2.0750837s, overall time = 60.86708116531372s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 29: protocol = prime , throughput = 4801.72req/s , episode time = 2.0825872s, overall time = 62.949668407440186s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 30: protocol = prime , throughput = 4794.56req/s , episode time = 2.0856988s, overall time = 65.0353672504425s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 31: protocol = prime , throughput = 4777.79req/s , episode time = 2.0930161s, overall time = 67.12838339805603s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 32: protocol = prime , throughput = 4822.28req/s , episode time = 2.0737073s, overall time = 69.20209074020386s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 33: protocol = prime , throughput = 4788.67req/s , episode time = 2.0882607s, overall time = 71.29035139083862s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 34: protocol = prime , throughput = 4783.38req/s , episode time = 2.090571s, overall time = 73.38092231750488s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 35: protocol = prime , throughput = 4816.91req/s , episode time = 2.0760179s, overall time = 75.45694017410278s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 36: protocol = prime , throughput = 4798.88req/s , episode time = 2.0838213s, overall time = 77.54076147079468s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 37: protocol = prime , throughput = 4795.16req/s , episode time = 2.0854375s, overall time = 79.6261990070343s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 38: protocol = prime , throughput = 4779.80req/s , episode time = 2.092139s, overall time = 81.71833801269531s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 39: protocol = prime , throughput = 4811.47req/s , episode time = 2.0783653s, overall time = 83.79670333862305s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 40: protocol = prime , throughput = 4821.37req/s , episode time = 2.0740974s, overall time = 85.87080073356628s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 41: protocol = prime , throughput = 4814.21req/s , episode time = 2.0771828s, overall time = 87.94798350334167s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 42: protocol = prime , throughput = 4793.34req/s , episode time = 2.0862298s, overall time = 90.03421330451965s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 43: protocol = prime , throughput = 4778.95req/s , episode time = 2.0925083s, overall time = 92.12672162055969s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 44: protocol = prime , throughput = 4813.40req/s , episode time = 2.0775316s, overall time = 94.20425319671631s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 45: protocol = prime , throughput = 4827.99req/s , episode time = 2.0712552s, overall time = 96.27550840377808s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 46: protocol = prime , throughput = 4801.90req/s , episode time = 2.0825098s, overall time = 98.35801815986633s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 47: protocol = prime , throughput = 4811.01req/s , episode time = 2.078565s, overall time = 100.43658304214478s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 48: protocol = prime , throughput = 4782.41req/s , episode time = 2.0909944s, overall time = 102.52757740020752s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 49: protocol = prime , throughput = 4814.74req/s , episode time = 2.0769572s, overall time = 104.60453462600708s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 50: protocol = prime , throughput = 4804.63req/s , episode time = 2.081326s, overall time = 106.6858606338501s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 51: protocol = prime , throughput = 4796.28req/s , episode time = 2.0849495s, overall time = 108.7708101272583s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 52: protocol = prime , throughput = 4814.56req/s , episode time = 2.077032s, overall time = 110.8478422164917s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 53: protocol = prime , throughput = 4792.40req/s , episode time = 2.086637s, overall time = 112.93447923660278s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 54: protocol = prime , throughput = 4799.45req/s , episode time = 2.0835717s, overall time = 115.01805090904236s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 55: protocol = prime , throughput = 4800.09req/s , episode time = 2.0832927s, overall time = 117.10134363174438s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 56: protocol = prime , throughput = 4808.14req/s , episode time = 2.0798059s, overall time = 119.18114948272705s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 57: protocol = prime , throughput = 4800.86req/s , episode time = 2.0829594s, overall time = 121.2641088962555s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 58: protocol = prime , throughput = 4793.22req/s , episode time = 2.0862782s, overall time = 123.35038709640503s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 59: protocol = prime , throughput = 4798.32req/s , episode time = 2.0840647s, overall time = 125.43445181846619s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 60: protocol = prime , throughput = 4803.91req/s , episode time = 2.0816398s, overall time = 127.5160915851593s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 61: protocol = prime , throughput = 4793.60req/s , episode time = 2.0861144s, overall time = 129.602205991745s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 62: protocol = prime , throughput = 4813.73req/s , episode time = 2.0773923s, overall time = 131.67959833145142s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 63: protocol = prime , throughput = 4802.12req/s , episode time = 2.0824125s, overall time = 133.7620108127594s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 64: protocol = prime , throughput = 4819.88req/s , episode time = 2.0747387s, overall time = 135.83674955368042s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 65: protocol = prime , throughput = 4797.89req/s , episode time = 2.0842488s, overall time = 137.92099833488464s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 66: protocol = prime , throughput = 4812.46req/s , episode time = 2.0779414s, overall time = 139.99893975257874s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 67: protocol = prime , throughput = 4801.29req/s , episode time = 2.0827746s, overall time = 142.08171439170837s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 68: protocol = prime , throughput = 4801.24req/s , episode time = 2.0827935s, overall time = 144.16450786590576s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 69: protocol = prime , throughput = 4787.16req/s , episode time = 2.0889206s, overall time = 146.25342845916748s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 70: protocol = prime , throughput = 4774.22req/s , episode time = 2.0945845s, overall time = 148.34801292419434s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 71: protocol = prime , throughput = 4788.60req/s , episode time = 2.0882914s, overall time = 150.4363043308258s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 72: protocol = prime , throughput = 4810.17req/s , episode time = 2.078929s, overall time = 152.51523327827454s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 73: protocol = prime , throughput = 4787.29req/s , episode time = 2.0888658s, overall time = 154.60409903526306s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 74: protocol = prime , throughput = 4811.02req/s , episode time = 2.0785618s, overall time = 156.68266081809998s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 75: protocol = prime , throughput = 4792.51req/s , episode time = 2.0865889s, overall time = 158.76924967765808s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 76: protocol = prime , throughput = 4786.60req/s , episode time = 2.0891652s, overall time = 160.85841488838196s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 77: protocol = prime , throughput = 4816.82req/s , episode time = 2.0760565s, overall time = 162.93447136878967s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 78: protocol = prime , throughput = 4784.76req/s , episode time = 2.0899682s, overall time = 165.02443957328796s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 79: protocol = prime , throughput = 4814.44req/s , episode time = 2.0770836s, overall time = 167.10152316093445s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 80: protocol = prime , throughput = 4788.92req/s , episode time = 2.0881557s, overall time = 169.1896789073944s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 81: protocol = prime , throughput = 4788.15req/s , episode time = 2.0884895s, overall time = 171.2781684398651s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 82: protocol = prime , throughput = 4787.25req/s , episode time = 2.0888834s, overall time = 173.3670518398285s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 83: protocol = prime , throughput = 4799.44req/s , episode time = 2.083576s, overall time = 175.4506278038025s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 84: protocol = prime , throughput = 4798.81req/s , episode time = 2.083851s, overall time = 177.53447890281677s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 85: protocol = prime , throughput = 4790.18req/s , episode time = 2.087606s, overall time = 179.62208485603333s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 86: protocol = prime , throughput = 4820.95req/s , episode time = 2.0742817s, overall time = 181.6963665485382s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 87: protocol = prime , throughput = 4800.77req/s , episode time = 2.082997s, overall time = 183.77936363220215s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 88: protocol = prime , throughput = 4781.39req/s , episode time = 2.0914416s, overall time = 185.8708052635193s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 89: protocol = prime , throughput = 4833.98req/s , episode time = 2.0686872s, overall time = 187.93949246406555s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 90: protocol = prime , throughput = 4788.13req/s , episode time = 2.0884984s, overall time = 190.02799081802368s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 91: protocol = prime , throughput = 4784.48req/s , episode time = 2.0900898s, overall time = 192.11808061599731s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 92: protocol = prime , throughput = 4773.12req/s , episode time = 2.0950677s, overall time = 194.213148355484s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 93: protocol = prime , throughput = 4767.00req/s , episode time = 2.0977535s, overall time = 196.31090188026428s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 94: protocol = prime , throughput = 4778.54req/s , episode time = 2.0926907s, overall time = 198.40359258651733s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 95: protocol = prime , throughput = 4801.93req/s , episode time = 2.0824978s, overall time = 200.48609042167664s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 96: protocol = prime , throughput = 4814.50req/s , episode time = 2.0770593s, overall time = 202.56314969062805s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 97: protocol = prime , throughput = 4802.32req/s , episode time = 2.0823255s, overall time = 204.64547514915466s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 98: protocol = prime , throughput = 4810.40req/s , episode time = 2.0788307s, overall time = 206.7243058681488s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 99: protocol = prime , throughput = 4774.94req/s , episode time = 2.0942657s, overall time = 208.8185715675354s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 100: protocol = prime , throughput = 4791.69req/s , episode time = 2.0869467s, overall time = 210.90551829338074s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 101: protocol = prime , throughput = 4783.29req/s , episode time = 2.0906107s, overall time = 212.9961290359497s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 102: protocol = prime , throughput = 4780.94req/s , episode time = 2.09164s, overall time = 215.08776903152466s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 103: protocol = prime , throughput = 4806.16req/s , episode time = 2.0806634s, overall time = 217.16843247413635s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 104: protocol = prime , throughput = 4821.35req/s , episode time = 2.074108s, overall time = 219.24254035949707s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 105: protocol = prime , throughput = 4767.38req/s , episode time = 2.097587s, overall time = 221.34012746810913s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 106: protocol = prime , throughput = 4786.77req/s , episode time = 2.0890908s, overall time = 223.42921829223633s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 107: protocol = prime , throughput = 4782.04req/s , episode time = 2.091157s, overall time = 225.52037525177002s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 108: protocol = prime , throughput = 4813.07req/s , episode time = 2.0776753s, overall time = 227.59805059432983s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 109: protocol = prime , throughput = 4765.73req/s , episode time = 2.0983129s, overall time = 229.69636344909668s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 110: protocol = prime , throughput = 4784.79req/s , episode time = 2.0899541s, overall time = 231.7863175868988s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 111: protocol = prime , throughput = 4822.10req/s , episode time = 2.0737858s, overall time = 233.86010336875916s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 112: protocol = prime , throughput = 4786.04req/s , episode time = 2.0894105s, overall time = 235.94951391220093s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 113: protocol = prime , throughput = 4783.13req/s , episode time = 2.0906816s, overall time = 238.0401954650879s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 114: protocol = prime , throughput = 4773.12req/s , episode time = 2.0950642s, overall time = 240.1352596282959s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 115: protocol = prime , throughput = 4770.14req/s , episode time = 2.0963733s, overall time = 242.23163294792175s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 116: protocol = prime , throughput = 4816.86req/s , episode time = 2.0760403s, overall time = 244.3076732158661s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 117: protocol = prime , throughput = 4775.65req/s , episode time = 2.0939574s, overall time = 246.4016306400299s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 118: protocol = prime , throughput = 4773.85req/s , episode time = 2.0947473s, overall time = 248.4963779449463s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 119: protocol = prime , throughput = 4781.52req/s , episode time = 2.0913866s, overall time = 250.58776450157166s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 120: protocol = prime , throughput = 4762.61req/s , episode time = 2.0996907s, overall time = 252.68745517730713s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 121: protocol = prime , throughput = 4785.98req/s , episode time = 2.089438s, overall time = 254.7768931388855s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 122: protocol = prime , throughput = 4784.85req/s , episode time = 2.0899296s, overall time = 256.866822719574s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 123: protocol = prime , throughput = 4777.11req/s , episode time = 2.093314s, overall time = 258.9601366519928s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 124: protocol = prime , throughput = 4781.66req/s , episode time = 2.0913236s, overall time = 261.0514602661133s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 125: protocol = prime , throughput = 4796.87req/s , episode time = 2.084691s, overall time = 263.13615131378174s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 126: protocol = prime , throughput = 4810.69req/s , episode time = 2.0787055s, overall time = 265.21485686302185s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 127: protocol = prime , throughput = 4818.09req/s , episode time = 2.0755093s, overall time = 267.2903661727905s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 128: protocol = prime , throughput = 4787.78req/s , episode time = 2.0886497s, overall time = 269.3790159225464s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 129: protocol = prime , throughput = 4767.85req/s , episode time = 2.0973833s, overall time = 271.4763991832733s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 130: protocol = prime , throughput = 4768.94req/s , episode time = 2.0969021s, overall time = 273.5733013153076s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 131: protocol = prime , throughput = 4790.47req/s , episode time = 2.0874796s, overall time = 275.66078090667725s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 132: protocol = prime , throughput = 4795.48req/s , episode time = 2.0852954s, overall time = 277.7460763454437s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 133: protocol = prime , throughput = 4793.41req/s , episode time = 2.0861971s, overall time = 279.83227348327637s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 134: protocol = prime , throughput = 4802.08req/s , episode time = 2.082431s, overall time = 281.9147045612335s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 135: protocol = prime , throughput = 4767.31req/s , episode time = 2.0976179s, overall time = 284.0123224258423s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 136: protocol = prime , throughput = 4800.55req/s , episode time = 2.0830967s, overall time = 286.0954191684723s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 137: protocol = prime , throughput = 4816.97req/s , episode time = 2.075994s, overall time = 288.1714131832123s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 138: protocol = prime , throughput = 4573.65req/s , episode time = 2.1864371s, overall time = 290.35785031318665s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 139: protocol = prime , throughput = 4802.07req/s , episode time = 2.0824373s, overall time = 292.44028759002686s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 140: protocol = prime , throughput = 4795.01req/s , episode time = 2.085501s, overall time = 294.5257885456085s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 141: protocol = prime , throughput = 4779.07req/s , episode time = 2.092459s, overall time = 296.6182475090027s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 142: protocol = prime , throughput = 4793.40req/s , episode time = 2.0862024s, overall time = 298.70444989204407s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 143: protocol = prime , throughput = 4775.49req/s , episode time = 2.094024s, overall time = 300.79847383499146s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 144: protocol = prime , throughput = 4806.13req/s , episode time = 2.0806751s, overall time = 302.8791489601135s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 145: protocol = prime , throughput = 4797.29req/s , episode time = 2.0845103s, overall time = 304.963659286499s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 146: protocol = prime , throughput = 4828.68req/s , episode time = 2.0709598s, overall time = 307.0346190929413s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 147: protocol = prime , throughput = 4787.57req/s , episode time = 2.0887437s, overall time = 309.1233627796173s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 148: protocol = prime , throughput = 4783.17req/s , episode time = 2.0906632s, overall time = 311.2140259742737s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 149: protocol = prime , throughput = 4772.50req/s , episode time = 2.0953383s, overall time = 313.30936431884766s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 150: protocol = prime , throughput = 4773.15req/s , episode time = 2.0950513s, overall time = 315.4044156074524s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 151: protocol = prime , throughput = 4794.34req/s , episode time = 2.0857947s, overall time = 317.4902102947235s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 152: protocol = prime , throughput = 4772.75req/s , episode time = 2.09523s, overall time = 319.5854403972626s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 153: protocol = prime , throughput = 4778.83req/s , episode time = 2.092561s, overall time = 321.6780014038086s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 154: protocol = prime , throughput = 4785.06req/s , episode time = 2.0898397s, overall time = 323.76784110069275s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 155: protocol = prime , throughput = 4786.19req/s , episode time = 2.089345s, overall time = 325.85718607902527s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 156: protocol = prime , throughput = 4811.76req/s , episode time = 2.078243s, overall time = 327.9354290962219s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 157: protocol = prime , throughput = 4788.82req/s , episode time = 2.0881958s, overall time = 330.0236248970032s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 158: protocol = prime , throughput = 4775.48req/s , episode time = 2.0940316s, overall time = 332.1176564693451s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 159: protocol = prime , throughput = 4802.21req/s , episode time = 2.0823724s, overall time = 334.2000288963318s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 160: protocol = prime , throughput = 4782.77req/s , episode time = 2.0908396s, overall time = 336.2908685207367s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 161: protocol = prime , throughput = 4763.03req/s , episode time = 2.0995052s, overall time = 338.3903737068176s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 162: protocol = prime , throughput = 4776.28req/s , episode time = 2.093681s, overall time = 340.48405480384827s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 163: protocol = prime , throughput = 4791.48req/s , episode time = 2.08704s, overall time = 342.57109475135803s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 164: protocol = prime , throughput = 4768.74req/s , episode time = 2.0969884s, overall time = 344.66808319091797s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 165: protocol = prime , throughput = 4775.58req/s , episode time = 2.0939846s, overall time = 346.7620677947998s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 166: protocol = prime , throughput = 4795.61req/s , episode time = 2.0852408s, overall time = 348.84730863571167s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 167: protocol = prime , throughput = 4793.07req/s , episode time = 2.0863452s, overall time = 350.93365383148193s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 168: protocol = prime , throughput = 4780.87req/s , episode time = 2.09167s, overall time = 353.02532386779785s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 169: protocol = prime , throughput = 4798.18req/s , episode time = 2.0841248s, overall time = 355.10944867134094s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 170: protocol = prime , throughput = 4801.31req/s , episode time = 2.0827634s, overall time = 357.19221210479736s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 171: protocol = prime , throughput = 4795.52req/s , episode time = 2.0852802s, overall time = 359.2774922847748s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 172: protocol = prime , throughput = 4812.07req/s , episode time = 2.0781064s, overall time = 361.3555986881256s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 173: protocol = prime , throughput = 4777.96req/s , episode time = 2.0929456s, overall time = 363.4485442638397s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 174: protocol = prime , throughput = 4836.57req/s , episode time = 2.0675821s, overall time = 365.51612639427185s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 175: protocol = prime , throughput = 4800.76req/s , episode time = 2.0830042s, overall time = 367.59913063049316s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 176: protocol = prime , throughput = 4817.97req/s , episode time = 2.075562s, overall time = 369.6746926307678s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 177: protocol = prime , throughput = 4811.70req/s , episode time = 2.0782685s, overall time = 371.75296115875244s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 178: protocol = prime , throughput = 4810.34req/s , episode time = 2.0788567s, overall time = 373.8318178653717s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 179: protocol = prime , throughput = 4806.54req/s , episode time = 2.0804975s, overall time = 375.91231536865234s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 180: protocol = prime , throughput = 4810.54req/s , episode time = 2.0787675s, overall time = 377.991082906723s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 181: protocol = prime , throughput = 4779.83req/s , episode time = 2.0921264s, overall time = 380.08320927619934s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 182: protocol = prime , throughput = 4833.88req/s , episode time = 2.0687315s, overall time = 382.1519408226013s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 183: protocol = prime , throughput = 4796.16req/s , episode time = 2.0850012s, overall time = 384.2369420528412s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 184: protocol = prime , throughput = 4821.25req/s , episode time = 2.074152s, overall time = 386.31109404563904s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 185: protocol = prime , throughput = 4796.26req/s , episode time = 2.0849583s, overall time = 388.39605236053467s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 186: protocol = prime , throughput = 4822.93req/s , episode time = 2.0734277s, overall time = 390.4694800376892s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 187: protocol = prime , throughput = 4816.19req/s , episode time = 2.0763283s, overall time = 392.5458083152771s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 188: protocol = prime , throughput = 4791.87req/s , episode time = 2.0868683s, overall time = 394.6326766014099s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 189: protocol = prime , throughput = 4808.47req/s , episode time = 2.0796635s, overall time = 396.71234011650085s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 190: protocol = prime , throughput = 4803.72req/s , episode time = 2.081721s, overall time = 398.79406118392944s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 191: protocol = prime , throughput = 4792.58req/s , episode time = 2.0865586s, overall time = 400.880619764328s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 192: protocol = prime , throughput = 4803.67req/s , episode time = 2.081741s, overall time = 402.96236085891724s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 193: protocol = prime , throughput = 4806.24req/s , episode time = 2.080628s, overall time = 405.04298877716064s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 194: protocol = prime , throughput = 4811.71req/s , episode time = 2.078262s, overall time = 407.1212508678436s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 195: protocol = prime , throughput = 4790.84req/s , episode time = 2.087316s, overall time = 409.208566904068s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 196: protocol = prime , throughput = 4789.30req/s , episode time = 2.0879858s, overall time = 411.29655265808105s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 197: protocol = prime , throughput = 4806.26req/s , episode time = 2.0806184s, overall time = 413.3771710395813s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 198: protocol = prime , throughput = 4794.33req/s , episode time = 2.0857973s, overall time = 415.4629683494568s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 199: protocol = prime , throughput = 4811.66req/s , episode time = 2.0782833s, overall time = 417.5412516593933s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 200: protocol = prime , throughput = 4820.61req/s , episode time = 2.0744257s, overall time = 419.61567735671997s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 201: protocol = prime , throughput = 4826.07req/s , episode time = 2.0720778s, overall time = 421.68775510787964s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 202: protocol = prime , throughput = 4797.39req/s , episode time = 2.0844672s, overall time = 423.7722222805023s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 203: protocol = prime , throughput = 4802.75req/s , episode time = 2.0821404s, overall time = 425.85436272621155s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 204: protocol = prime , throughput = 4793.80req/s , episode time = 2.0860283s, overall time = 427.9403910636902s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 205: protocol = prime , throughput = 4797.33req/s , episode time = 2.0844908s, overall time = 430.0248818397522s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 206: protocol = prime , throughput = 4800.50req/s , episode time = 2.0831172s, overall time = 432.10799908638s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 207: protocol = prime , throughput = 4767.48req/s , episode time = 2.0975463s, overall time = 434.20554542541504s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 208: protocol = prime , throughput = 4767.54req/s , episode time = 2.0975163s, overall time = 436.3030617237091s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 209: protocol = prime , throughput = 4789.60req/s , episode time = 2.0878587s, overall time = 438.3909204006195s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 210: protocol = prime , throughput = 4774.13req/s , episode time = 2.094621s, overall time = 440.48554134368896s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 211: protocol = prime , throughput = 4791.02req/s , episode time = 2.0872395s, overall time = 442.57278084754944s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 212: protocol = prime , throughput = 4776.33req/s , episode time = 2.093659s, overall time = 444.6664397716522s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 213: protocol = prime , throughput = 4772.93req/s , episode time = 2.0951498s, overall time = 446.7615895271301s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 214: protocol = prime , throughput = 4808.39req/s , episode time = 2.0796962s, overall time = 448.8412857055664s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 215: protocol = prime , throughput = 4792.13req/s , episode time = 2.0867543s, overall time = 450.9280400276184s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 216: protocol = prime , throughput = 4794.00req/s , episode time = 2.0859394s, overall time = 453.01397943496704s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 217: protocol = prime , throughput = 4811.74req/s , episode time = 2.0782485s, overall time = 455.092227935791s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 218: protocol = prime , throughput = 4799.00req/s , episode time = 2.0837667s, overall time = 457.1759946346283s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 219: protocol = prime , throughput = 4803.63req/s , episode time = 2.08176s, overall time = 459.2577545642853s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 220: protocol = prime , throughput = 4800.44req/s , episode time = 2.083141s, overall time = 461.340895652771s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 221: protocol = prime , throughput = 4796.42req/s , episode time = 2.0848904s, overall time = 463.4257860183716s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 222: protocol = prime , throughput = 4790.40req/s , episode time = 2.0875099s, overall time = 465.51329588890076s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 223: protocol = prime , throughput = 4786.75req/s , episode time = 2.0891s, overall time = 467.60239577293396s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 224: protocol = prime , throughput = 4802.22req/s , episode time = 2.0823689s, overall time = 469.68476462364197s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 225: protocol = prime , throughput = 4786.04req/s , episode time = 2.0894105s, overall time = 471.77417516708374s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 226: protocol = prime , throughput = 4791.97req/s , episode time = 2.0868227s, overall time = 473.86099791526794s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 227: protocol = prime , throughput = 4785.72req/s , episode time = 2.0895493s, overall time = 475.95054721832275s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 228: protocol = prime , throughput = 4772.85req/s , episode time = 2.095186s, overall time = 478.0457332134247s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 229: protocol = prime , throughput = 4762.14req/s , episode time = 2.0998948s, overall time = 480.14562797546387s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 230: protocol = prime , throughput = 4779.20req/s , episode time = 2.0924022s, overall time = 482.2380301952362s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 231: protocol = prime , throughput = 4785.78req/s , episode time = 2.0895247s, overall time = 484.32755494117737s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 232: protocol = prime , throughput = 4772.93req/s , episode time = 2.0951483s, overall time = 486.4227032661438s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 233: protocol = prime , throughput = 4768.39req/s , episode time = 2.0971448s, overall time = 488.5198481082916s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 234: protocol = prime , throughput = 4797.01req/s , episode time = 2.0846322s, overall time = 490.60448026657104s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 235: protocol = prime , throughput = 4790.38req/s , episode time = 2.0875182s, overall time = 492.6919984817505s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 236: protocol = prime , throughput = 4831.46req/s , episode time = 2.0697668s, overall time = 494.7617652416229s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 237: protocol = prime , throughput = 4811.86req/s , episode time = 2.078198s, overall time = 496.83996319770813s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 238: protocol = prime , throughput = 4802.87req/s , episode time = 2.0820885s, overall time = 498.9220516681671s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 239: protocol = prime , throughput = 4776.70req/s , episode time = 2.0934947s, overall time = 501.0155463218689s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 240: protocol = prime , throughput = 4822.67req/s , episode time = 2.073541s, overall time = 503.0890872478485s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 241: protocol = prime , throughput = 4789.58req/s , episode time = 2.087864s, overall time = 505.17695116996765s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 242: protocol = prime , throughput = 4819.98req/s , episode time = 2.0746958s, overall time = 507.25164699554443s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 243: protocol = prime , throughput = 4814.22req/s , episode time = 2.0771794s, overall time = 509.3288264274597s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 244: protocol = prime , throughput = 4809.89req/s , episode time = 2.0790482s, overall time = 511.407874584198s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 245: protocol = prime , throughput = 4785.67req/s , episode time = 2.0895698s, overall time = 513.4974443912506s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 246: protocol = prime , throughput = 4761.51req/s , episode time = 2.1001737s, overall time = 515.5976181030273s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 247: protocol = prime , throughput = 4778.43req/s , episode time = 2.092736s, overall time = 517.6903541088104s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 248: protocol = prime , throughput = 4775.93req/s , episode time = 2.0938342s, overall time = 519.7841882705688s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 249: protocol = prime , throughput = 4805.10req/s , episode time = 2.0811212s, overall time = 521.8653094768524s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 250: protocol = prime , throughput = 4779.69req/s , episode time = 2.0921853s, overall time = 523.9574947357178s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 251: protocol = prime , throughput = 4796.80req/s , episode time = 2.0847244s, overall time = 526.0422191619873s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 252: protocol = prime , throughput = 4806.10req/s , episode time = 2.0806887s, overall time = 528.1229078769684s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 253: protocol = prime , throughput = 4811.23req/s , episode time = 2.0784712s, overall time = 530.2013790607452s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 254: protocol = prime , throughput = 4787.14req/s , episode time = 2.0889318s, overall time = 532.2903108596802s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 255: protocol = prime , throughput = 4767.60req/s , episode time = 2.0974913s, overall time = 534.3878021240234s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 256: protocol = prime , throughput = 4771.23req/s , episode time = 2.095896s, overall time = 536.4836981296539s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 257: protocol = prime , throughput = 4796.07req/s , episode time = 2.0850394s, overall time = 538.5687375068665s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 258: protocol = prime , throughput = 4795.10req/s , episode time = 2.0854616s, overall time = 540.6541991233826s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 259: protocol = prime , throughput = 4774.24req/s , episode time = 2.0945756s, overall time = 542.748774766922s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 260: protocol = prime , throughput = 4798.72req/s , episode time = 2.083889s, overall time = 544.8326637744904s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 261: protocol = prime , throughput = 4784.67req/s , episode time = 2.0900087s, overall time = 546.9226725101471s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 262: protocol = prime , throughput = 4821.20req/s , episode time = 2.074171s, overall time = 548.9968435764313s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 263: protocol = prime , throughput = 4797.05req/s , episode time = 2.084614s, overall time = 551.0814576148987s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 264: protocol = prime , throughput = 4812.89req/s , episode time = 2.0777555s, overall time = 553.1592130661011s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 265: protocol = prime , throughput = 4796.97req/s , episode time = 2.0846503s, overall time = 555.2438633441925s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 266: protocol = prime , throughput = 4773.50req/s , episode time = 2.0948982s, overall time = 557.3387615680695s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 267: protocol = prime , throughput = 4792.00req/s , episode time = 2.0868123s, overall time = 559.4255738258362s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 268: protocol = prime , throughput = 4761.16req/s , episode time = 2.1003275s, overall time = 561.5259013175964s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 269: protocol = prime , throughput = 4781.45req/s , episode time = 2.0914164s, overall time = 563.6173176765442s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 270: protocol = prime , throughput = 4789.75req/s , episode time = 2.0877924s, overall time = 565.7051100730896s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 271: protocol = prime , throughput = 4808.09req/s , episode time = 2.0798264s, overall time = 567.7849364280701s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 272: protocol = prime , throughput = 4791.82req/s , episode time = 2.086889s, overall time = 569.8718254566193s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 273: protocol = prime , throughput = 4783.36req/s , episode time = 2.090579s, overall time = 571.9624044895172s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 274: protocol = prime , throughput = 4817.43req/s , episode time = 2.0757947s, overall time = 574.0381991863251s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 275: protocol = prime , throughput = 4777.55req/s , episode time = 2.093125s, overall time = 576.1313242912292s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 276: protocol = prime , throughput = 4799.32req/s , episode time = 2.0836282s, overall time = 578.2149524688721s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 277: protocol = prime , throughput = 4777.29req/s , episode time = 2.093237s, overall time = 580.3081893920898s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 278: protocol = prime , throughput = 4793.47req/s , episode time = 2.086171s, overall time = 582.3943603038788s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 279: protocol = prime , throughput = 4761.24req/s , episode time = 2.1002915s, overall time = 584.4946517944336s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 280: protocol = prime , throughput = 4773.89req/s , episode time = 2.0947258s, overall time = 586.5893776416779s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 281: protocol = prime , throughput = 4786.86req/s , episode time = 2.0890505s, overall time = 588.6784281730652s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 282: protocol = prime , throughput = 4771.49req/s , episode time = 2.0957825s, overall time = 590.774210691452s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 283: protocol = prime , throughput = 4804.88req/s , episode time = 2.0812166s, overall time = 592.8554272651672s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 284: protocol = prime , throughput = 4784.44req/s , episode time = 2.090108s, overall time = 594.9455351829529s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 285: protocol = prime , throughput = 4779.31req/s , episode time = 2.09235s, overall time = 597.0378851890564s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 286: protocol = prime , throughput = 4809.53req/s , episode time = 2.0792055s, overall time = 599.1170907020569s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 287: protocol = prime , throughput = 4802.77req/s , episode time = 2.082132s, overall time = 601.1992228031158s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 288: protocol = prime , throughput = 4804.57req/s , episode time = 2.0813534s, overall time = 603.2805762290955s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 289: protocol = prime , throughput = 4798.37req/s , episode time = 2.084041s, overall time = 605.3646173477173s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 290: protocol = prime , throughput = 4800.38req/s , episode time = 2.0831664s, overall time = 607.4477837085724s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 291: protocol = prime , throughput = 4770.83req/s , episode time = 2.0960715s, overall time = 609.5438551902771s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 292: protocol = prime , throughput = 4784.81req/s , episode time = 2.0899487s, overall time = 611.6338038444519s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 293: protocol = prime , throughput = 4789.81req/s , episode time = 2.0877671s, overall time = 613.7215709686279s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 294: protocol = prime , throughput = 4789.56req/s , episode time = 2.087874s, overall time = 615.8094449043274s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 295: protocol = prime , throughput = 4782.54req/s , episode time = 2.090939s, overall time = 617.9003839492798s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 296: protocol = prime , throughput = 4771.40req/s , episode time = 2.095823s, overall time = 619.9962069988251s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 297: protocol = prime , throughput = 4585.14req/s , episode time = 2.1809587s, overall time = 622.1771657466888s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 298: protocol = prime , throughput = 4796.67req/s , episode time = 2.0847778s, overall time = 624.2619435787201s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 299: protocol = prime , throughput = 4796.54req/s , episode time = 2.0848355s, overall time = 626.3467791080475s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 300: protocol = prime , throughput = 4786.09req/s , episode time = 2.0893872s, overall time = 628.4361662864685s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 301: protocol = prime , throughput = 4366.77req/s , episode time = 2.2900233s, overall time = 630.7261896133423s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 302: protocol = prime , throughput = 4181.96req/s , episode time = 2.3912225s, overall time = 633.1174120903015s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 303: protocol = prime , throughput = 4591.10req/s , episode time = 2.1781256s, overall time = 635.2955377101898s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 304: protocol = prime , throughput = 4811.53req/s , episode time = 2.0783403s, overall time = 637.3738780021667s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 305: protocol = prime , throughput = 4802.12req/s , episode time = 2.0824149s, overall time = 639.4562928676605s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 306: protocol = prime , throughput = 4808.00req/s , episode time = 2.079865s, overall time = 641.5361578464508s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 307: protocol = prime , throughput = 4787.34req/s , episode time = 2.088843s, overall time = 643.6250009536743s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 308: protocol = prime , throughput = 4789.26req/s , episode time = 2.0880063s, overall time = 645.7130072116852s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 309: protocol = prime , throughput = 4792.94req/s , episode time = 2.086403s, overall time = 647.7994101047516s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 310: protocol = prime , throughput = 4817.86req/s , episode time = 2.0756118s, overall time = 649.8750219345093s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 311: protocol = prime , throughput = 4819.15req/s , episode time = 2.0750542s, overall time = 651.9500761032104s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 312: protocol = prime , throughput = 4800.25req/s , episode time = 2.0832248s, overall time = 654.0333008766174s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 313: protocol = prime , throughput = 4809.50req/s , episode time = 2.0792162s, overall time = 656.112517118454s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 314: protocol = prime , throughput = 4595.19req/s , episode time = 2.1761892s, overall time = 658.2887063026428s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 315: protocol = prime , throughput = 4796.45req/s , episode time = 2.0848732s, overall time = 660.3735795021057s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 316: protocol = prime , throughput = 4775.17req/s , episode time = 2.0941653s, overall time = 662.4677448272705s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 317: protocol = prime , throughput = 4837.08req/s , episode time = 2.0673635s, overall time = 664.5351083278656s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 318: protocol = prime , throughput = 4773.50req/s , episode time = 2.094899s, overall time = 666.6300072669983s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 319: protocol = prime , throughput = 4793.55req/s , episode time = 2.0861351s, overall time = 668.7161424160004s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 320: protocol = prime , throughput = 4779.88req/s , episode time = 2.092104s, overall time = 670.8082463741302s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 321: protocol = prime , throughput = 4814.82req/s , episode time = 2.0769203s, overall time = 672.88516664505s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 322: protocol = prime , throughput = 4811.64req/s , episode time = 2.078295s, overall time = 674.963461637497s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 323: protocol = prime , throughput = 4792.66req/s , episode time = 2.0865238s, overall time = 677.049985408783s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 324: protocol = prime , throughput = 4800.13req/s , episode time = 2.083276s, overall time = 679.1332614421844s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 325: protocol = prime , throughput = 4790.71req/s , episode time = 2.0873737s, overall time = 681.220635175705s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 326: protocol = prime , throughput = 4812.00req/s , episode time = 2.0781386s, overall time = 683.298773765564s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 327: protocol = prime , throughput = 4801.98req/s , episode time = 2.0824735s, overall time = 685.3812472820282s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 328: protocol = prime , throughput = 4808.09req/s , episode time = 2.0798283s, overall time = 687.4610755443573s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 329: protocol = prime , throughput = 4592.84req/s , episode time = 2.1773043s, overall time = 689.6383798122406s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 330: protocol = prime , throughput = 4567.56req/s , episode time = 2.1893542s, overall time = 691.8277339935303s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 331: protocol = prime , throughput = 4773.05req/s , episode time = 2.0950973s, overall time = 693.9228312969208s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 332: protocol = prime , throughput = 4808.58req/s , episode time = 2.0796173s, overall time = 696.0024485588074s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 333: protocol = prime , throughput = 4792.71req/s , episode time = 2.0865033s, overall time = 698.0889518260956s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 334: protocol = prime , throughput = 4831.22req/s , episode time = 2.0698705s, overall time = 700.1588222980499s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 335: protocol = prime , throughput = 4806.14req/s , episode time = 2.0806713s, overall time = 702.2394936084747s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 336: protocol = prime , throughput = 4784.13req/s , episode time = 2.090244s, overall time = 704.329737663269s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 337: protocol = prime , throughput = 4789.40req/s , episode time = 2.087945s, overall time = 706.4176826477051s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 338: protocol = prime , throughput = 4801.64req/s , episode time = 2.082622s, overall time = 708.5003046989441s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 339: protocol = prime , throughput = 4773.15req/s , episode time = 2.0950518s, overall time = 710.595356464386s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 340: protocol = prime , throughput = 4812.54req/s , episode time = 2.0779066s, overall time = 712.6732630729675s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 341: protocol = prime , throughput = 4778.77req/s , episode time = 2.0925887s, overall time = 714.7658517360687s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 342: protocol = prime , throughput = 4553.31req/s , episode time = 2.1962025s, overall time = 716.9620542526245s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 343: protocol = prime , throughput = 4787.40req/s , episode time = 2.0888147s, overall time = 719.0508689880371s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 344: protocol = prime , throughput = 4799.32req/s , episode time = 2.0836303s, overall time = 721.1344993114471s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 345: protocol = prime , throughput = 4795.45req/s , episode time = 2.0853097s, overall time = 723.2198090553284s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 346: protocol = prime , throughput = 4807.56req/s , episode time = 2.080058s, overall time = 725.2998671531677s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 347: protocol = prime , throughput = 4810.65req/s , episode time = 2.07872s, overall time = 727.3785872459412s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 348: protocol = prime , throughput = 4804.00req/s , episode time = 2.0815978s, overall time = 729.4601850509644s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 349: protocol = prime , throughput = 4819.06req/s , episode time = 2.075094s, overall time = 731.5352790355682s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 350: protocol = prime , throughput = 4767.86req/s , episode time = 2.0973756s, overall time = 733.6326546669006s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 351: protocol = prime , throughput = 4781.62req/s , episode time = 2.0913424s, overall time = 735.7239971160889s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 352: protocol = prime , throughput = 4802.55req/s , episode time = 2.082228s, overall time = 737.8062250614166s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 353: protocol = prime , throughput = 4784.32req/s , episode time = 2.0901628s, overall time = 739.8963878154755s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 354: protocol = prime , throughput = 4803.24req/s , episode time = 2.081928s, overall time = 741.9783158302307s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 355: protocol = prime , throughput = 4800.86req/s , episode time = 2.0829604s, overall time = 744.0612761974335s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 356: protocol = prime , throughput = 4556.76req/s , episode time = 2.1945415s, overall time = 746.2558176517487s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 357: protocol = prime , throughput = 4801.18req/s , episode time = 2.0828228s, overall time = 748.3386404514313s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 358: protocol = prime , throughput = 4788.82req/s , episode time = 2.0881956s, overall time = 750.426836013794s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 359: protocol = prime , throughput = 4806.49req/s , episode time = 2.0805185s, overall time = 752.5073544979095s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 360: protocol = prime , throughput = 4784.76req/s , episode time = 2.089968s, overall time = 754.5973224639893s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 361: protocol = prime , throughput = 4775.21req/s , episode time = 2.0941467s, overall time = 756.6914691925049s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 362: protocol = prime , throughput = 4808.57req/s , episode time = 2.0796216s, overall time = 758.7710907459259s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 363: protocol = prime , throughput = 4794.97req/s , episode time = 2.0855193s, overall time = 760.8566100597382s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 364: protocol = prime , throughput = 4803.54req/s , episode time = 2.081797s, overall time = 762.9384069442749s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 365: protocol = prime , throughput = 4841.35req/s , episode time = 2.0655396s, overall time = 765.0039465427399s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 366: protocol = prime , throughput = 4627.38req/s , episode time = 2.1610513s, overall time = 767.1649978160858s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 367: protocol = prime , throughput = 4644.05req/s , episode time = 2.1532922s, overall time = 769.3182899951935s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 368: protocol = prime , throughput = 4607.21req/s , episode time = 2.1705127s, overall time = 771.4888026714325s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 369: protocol = prime , throughput = 4867.46req/s , episode time = 2.0544617s, overall time = 773.5432643890381s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 370: protocol = prime , throughput = 4830.76req/s , episode time = 2.0700696s, overall time = 775.613333940506s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 371: protocol = prime , throughput = 4843.37req/s , episode time = 2.0646777s, overall time = 777.6780116558075s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 372: protocol = prime , throughput = 4830.94req/s , episode time = 2.069989s, overall time = 779.7480006217957s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 373: protocol = prime , throughput = 4834.30req/s , episode time = 2.0685534s, overall time = 781.816554069519s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 374: protocol = prime , throughput = 4811.79req/s , episode time = 2.0782275s, overall time = 783.894781589508s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 375: protocol = prime , throughput = 4810.06req/s , episode time = 2.0789762s, overall time = 785.9737577438354s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 376: protocol = prime , throughput = 4808.39req/s , episode time = 2.079697s, overall time = 788.0534546375275s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 377: protocol = prime , throughput = 4802.46req/s , episode time = 2.0822659s, overall time = 790.1357204914093s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 378: protocol = prime , throughput = 4799.15req/s , episode time = 2.0837042s, overall time = 792.2194247245789s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 379: protocol = prime , throughput = 4801.16req/s , episode time = 2.0828307s, overall time = 794.3022553920746s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 380: protocol = prime , throughput = 4788.08req/s , episode time = 2.0885181s, overall time = 796.3907735347748s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 381: protocol = prime , throughput = 4803.07req/s , episode time = 2.0820024s, overall time = 798.4727759361267s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 382: protocol = prime , throughput = 4790.09req/s , episode time = 2.0876436s, overall time = 800.5604195594788s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 383: protocol = prime , throughput = 4564.44req/s , episode time = 2.190848s, overall time = 802.7512676715851s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 384: protocol = prime , throughput = 4578.03req/s , episode time = 2.1843462s, overall time = 804.9356138706207s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 385: protocol = prime , throughput = 4831.12req/s , episode time = 2.0699143s, overall time = 807.0055282115936s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 386: protocol = prime , throughput = 4581.64req/s , episode time = 2.1826265s, overall time = 809.1881546974182s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 387: protocol = prime , throughput = 4806.02req/s , episode time = 2.0807219s, overall time = 811.2688765525818s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 388: protocol = prime , throughput = 4593.59req/s , episode time = 2.1769452s, overall time = 813.445821762085s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 389: protocol = prime , throughput = 4622.35req/s , episode time = 2.163404s, overall time = 815.6092257499695s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 390: protocol = prime , throughput = 4822.31req/s , episode time = 2.073696s, overall time = 817.6829216480255s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 391: protocol = prime , throughput = 4831.28req/s , episode time = 2.0698452s, overall time = 819.7527668476105s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 392: protocol = prime , throughput = 4815.54req/s , episode time = 2.07661s, overall time = 821.8293769359589s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 393: protocol = prime , throughput = 4817.47req/s , episode time = 2.0757804s, overall time = 823.905157327652s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 394: protocol = prime , throughput = 4808.65req/s , episode time = 2.079586s, overall time = 825.9847433567047s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 395: protocol = prime , throughput = 4835.34req/s , episode time = 2.0681057s, overall time = 828.0528490543365s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 396: protocol = prime , throughput = 4191.54req/s , episode time = 2.3857567s, overall time = 830.4386057853699s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 397: protocol = prime , throughput = 4597.40req/s , episode time = 2.1751404s, overall time = 832.6137461662292s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 398: protocol = prime , throughput = 4583.17req/s , episode time = 2.1818976s, overall time = 834.7956438064575s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 399: protocol = prime , throughput = 4851.78req/s , episode time = 2.061098s, overall time = 836.8567419052124s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 400: protocol = prime , throughput = 4799.37req/s , episode time = 2.083607s, overall time = 838.9403488636017s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 401: protocol = prime , throughput = 4811.26req/s , episode time = 2.0784569s, overall time = 841.0188057422638s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 402: protocol = prime , throughput = 4581.24req/s , episode time = 2.1828132s, overall time = 843.2016189098358s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 403: protocol = prime , throughput = 4568.56req/s , episode time = 2.1888757s, overall time = 845.3904945850372s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 404: protocol = prime , throughput = 4825.93req/s , episode time = 2.0721393s, overall time = 847.4626338481903s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 405: protocol = prime , throughput = 4818.18req/s , episode time = 2.0754724s, overall time = 849.5381062030792s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 406: protocol = prime , throughput = 4809.65req/s , episode time = 2.0791514s, overall time = 851.6172575950623s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 407: protocol = prime , throughput = 4836.65req/s , episode time = 2.0675452s, overall time = 853.6848027706146s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 408: protocol = prime , throughput = 4810.80req/s , episode time = 2.0786564s, overall time = 855.7634592056274s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 409: protocol = prime , throughput = 4843.93req/s , episode time = 2.0644407s, overall time = 857.8278999328613s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 410: protocol = prime , throughput = 4793.93req/s , episode time = 2.085971s, overall time = 859.913871049881s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 411: protocol = prime , throughput = 4590.55req/s , episode time = 2.178387s, overall time = 862.092257976532s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 412: protocol = prime , throughput = 4839.03req/s , episode time = 2.0665317s, overall time = 864.1587896347046s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 413: protocol = prime , throughput = 4792.57req/s , episode time = 2.0865643s, overall time = 866.245353937149s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 414: protocol = prime , throughput = 4840.15req/s , episode time = 2.0660496s, overall time = 868.3114035129547s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 415: protocol = prime , throughput = 4841.63req/s , episode time = 2.065421s, overall time = 870.3768246173859s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 416: protocol = prime , throughput = 4819.41req/s , episode time = 2.0749445s, overall time = 872.4517691135406s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 417: protocol = prime , throughput = 4829.96req/s , episode time = 2.0704126s, overall time = 874.5221817493439s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 418: protocol = prime , throughput = 4822.51req/s , episode time = 2.0736089s, overall time = 876.5957906246185s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 419: protocol = prime , throughput = 4826.69req/s , episode time = 2.0718122s, overall time = 878.6676027774811s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 420: protocol = prime , throughput = 4589.45req/s , episode time = 2.1789103s, overall time = 880.8465130329132s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 421: protocol = prime , throughput = 4821.97req/s , episode time = 2.0738392s, overall time = 882.9203522205353s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 422: protocol = prime , throughput = 4397.04req/s , episode time = 2.274259s, overall time = 885.1946113109589s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 423: protocol = prime , throughput = 4583.11req/s , episode time = 2.1819227s, overall time = 887.3765339851379s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 424: protocol = prime , throughput = 4825.77req/s , episode time = 2.0722096s, overall time = 889.4487435817719s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 425: protocol = prime , throughput = 4382.44req/s , episode time = 2.2818322s, overall time = 891.730575799942s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 426: protocol = prime , throughput = 4817.09req/s , episode time = 2.075942s, overall time = 893.8065178394318s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 427: protocol = prime , throughput = 3994.87req/s , episode time = 2.503211s, overall time = 896.3097288608551s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode
+{0} [EPISODE REPORT] episode 428: protocol = prime , throughput = 4626.24req/s , episode time = 2.161584s, overall time = 898.4713127613068s
+{0} nextProtocol = prime
+{0} leader mode set to be stable for the next episode

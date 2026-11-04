@@ -1,0 +1,1849 @@
+last-executed-sequence	num: 728976
+request-execute 	avg: 27.14ms, max: 62.01ms, count: 53760
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	17920.00req/s
+
+
+[EPISODE REPORT] episode 728: protocol = zyzzyva , throughput = 18963.33req/s ,
+episode time = 0.5273336s, overall time = 729.7757163643837s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 729: protocol = zyzzyva , throughput = 19115.76req/s ,
+episode time = 0.52312857s, overall time = 730.2988449335098s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 730: protocol = zyzzyva , throughput = 19629.83req/s ,
+episode time = 0.5094288s, overall time = 730.8082737326622s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 731: protocol = zyzzyva , throughput = 18259.60req/s ,
+episode time = 0.54765725s, overall time = 731.3559309840202s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 732: protocol = zyzzyva , throughput = 20076.87req/s ,
+episode time = 0.49808562s, overall time = 731.8540166020393s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 733: protocol = zyzzyva , throughput = 18789.08req/s ,
+episode time = 0.5322241s, overall time = 732.3862407207489s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:50:40.550  Sending benchmark results to server.
+16:50:40.550  -- Client 4
+current-episode 	value: 734
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 734636
+request-execute 	avg: 25.44ms, max: 45.31ms, count: 57260
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	19086.67req/s
+
+
+[EPISODE REPORT] episode 734: protocol = zyzzyva , throughput = 18223.97req/s ,
+episode time = 0.54872787s, overall time = 732.9349685907364s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 735: protocol = zyzzyva , throughput = 18542.84req/s ,
+episode time = 0.5392918s, overall time = 733.4742603898048s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 736: protocol = zyzzyva , throughput = 19076.34req/s ,
+episode time = 0.52420956s, overall time = 733.9984699487686s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 737: protocol = zyzzyva , throughput = 17063.50req/s ,
+episode time = 0.58604616s, overall time = 734.584516108036s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 738: protocol = zyzzyva , throughput = 17825.97req/s ,
+episode time = 0.5609791s, overall time = 735.14549523592s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 739: protocol = zyzzyva , throughput = 19406.79req/s ,
+episode time = 0.5152837s, overall time = 735.660778939724s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:50:43.552  Sending benchmark results to server.
+16:50:43.553  -- Client 4
+current-episode 	value: 740
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 740159
+request-execute 	avg: 26.39ms, max: 47.43ms, count: 55210
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18403.33req/s
+
+
+[EPISODE REPORT] episode 740: protocol = zyzzyva , throughput = 19071.07req/s ,
+episode time = 0.52435446s, overall time = 736.1851333975792s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 741: protocol = zyzzyva , throughput = 18232.13req/s ,
+episode time = 0.54848224s, overall time = 736.7336156368256s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 742: protocol = zyzzyva , throughput = 19977.01req/s ,
+episode time = 0.5005754s, overall time = 737.2341910600662s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 743: protocol = zyzzyva , throughput = 18847.27req/s ,
+episode time = 0.53058094s, overall time = 737.7647719979286s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 744: protocol = zyzzyva , throughput = 17985.67req/s ,
+episode time = 0.5559981s, overall time = 738.3207700848579s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:50:46.557  Sending benchmark results to server.
+16:50:46.558  -- Client 4
+current-episode 	value: 745
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 745850
+request-execute 	avg: 25.45ms, max: 48.01ms, count: 57330
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	19110.00req/s
+
+
+[EPISODE REPORT] episode 745: protocol = zyzzyva , throughput = 18635.19req/s ,
+episode time = 0.5366191s, overall time = 738.8573892116547s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 746: protocol = zyzzyva , throughput = 19801.93req/s ,
+episode time = 0.50500137s, overall time = 739.3623905777931s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 747: protocol = zyzzyva , throughput = 19129.89req/s ,
+episode time = 0.52274203s, overall time = 739.8851326107979s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 748: protocol = zyzzyva , throughput = 19045.71req/s ,
+episode time = 0.5250525s, overall time = 740.4101850986481s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 749: protocol = zyzzyva , throughput = 18891.00req/s ,
+episode time = 0.52935266s, overall time = 740.9395377635956s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 750: protocol = zyzzyva , throughput = 17243.15req/s ,
+episode time = 0.57994056s, overall time = 741.5194783210754s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:50:49.561  Sending benchmark results to server.
+16:50:49.562  -- Client 4
+current-episode 	value: 751
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 751497
+request-execute 	avg: 25.75ms, max: 54.21ms, count: 56420
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18806.67req/s
+
+
+[EPISODE REPORT] episode 751: protocol = zyzzyva , throughput = 16119.88req/s ,
+episode time = 0.620352s, overall time = 742.1398303508759s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 752: protocol = zyzzyva , throughput = 16708.45req/s ,
+episode time = 0.59849954s, overall time = 742.7383298873901s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 753: protocol = zyzzyva , throughput = 17428.64req/s ,
+episode time = 0.57376826s, overall time = 743.3120981454849s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 754: protocol = zyzzyva , throughput = 15072.04req/s ,
+episode time = 0.66348034s, overall time = 743.9755784869194s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 755: protocol = zyzzyva , throughput = 16980.46req/s ,
+episode time = 0.58891237s, overall time = 744.5644908547401s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:50:52.570  Sending benchmark results to server.
+16:50:52.570  -- Client 4
+current-episode 	value: 756
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 756382
+request-execute 	avg: 29.38ms, max: 70.03ms, count: 49270
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	16423.33req/s
+
+
+[EPISODE REPORT] episode 756: protocol = zyzzyva , throughput = 18566.26req/s ,
+episode time = 0.53861153s, overall time = 745.1031023859978s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 757: protocol = zyzzyva , throughput = 18738.89req/s ,
+episode time = 0.53364956s, overall time = 745.6367519497871s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 758: protocol = zyzzyva , throughput = 20240.16req/s ,
+episode time = 0.49406713s, overall time = 746.1308190822601s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 759: protocol = zyzzyva , throughput = 17997.99req/s ,
+episode time = 0.5556177s, overall time = 746.6864367723465s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 760: protocol = zyzzyva , throughput = 18657.69req/s ,
+episode time = 0.53597206s, overall time = 747.2224088311195s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 761: protocol = zyzzyva , throughput = 18000.89req/s ,
+episode time = 0.5555281s, overall time = 747.7779369354248s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:50:55.568  Sending benchmark results to server.
+16:50:55.569  -- Client 4
+current-episode 	value: 762
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 761999
+request-execute 	avg: 26.55ms, max: 59.76ms, count: 55080
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18360.00req/s
+
+
+[EPISODE REPORT] episode 762: protocol = zyzzyva , throughput = 19384.12req/s ,
+episode time = 0.5158862s, overall time = 748.2938231229782s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 763: protocol = zyzzyva , throughput = 18221.92req/s ,
+episode time = 0.5487897s, overall time = 748.8426128029823s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 764: protocol = zyzzyva , throughput = 19449.59req/s ,
+episode time = 0.5141496s, overall time = 749.3567624092102s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 765: protocol = zyzzyva , throughput = 19588.98req/s ,
+episode time = 0.510491s, overall time = 749.8672534227371s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 766: protocol = zyzzyva , throughput = 17673.25req/s ,
+episode time = 0.56582683s, overall time = 750.4330802559853s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:50:58.569  Sending benchmark results to server.
+16:50:58.570  -- Client 4
+current-episode 	value: 767
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 767685
+request-execute 	avg: 25.52ms, max: 42.31ms, count: 57000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	19000.00req/s
+
+
+[EPISODE REPORT] episode 767: protocol = zyzzyva , throughput = 17775.19req/s ,
+episode time = 0.5625819s, overall time = 750.9956621527672s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 768: protocol = zyzzyva , throughput = 19264.19req/s ,
+episode time = 0.5190978s, overall time = 751.5147599577904s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 769: protocol = zyzzyva , throughput = 18128.48req/s ,
+episode time = 0.5516182s, overall time = 752.0663781762123s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 770: protocol = zyzzyva , throughput = 19648.83req/s ,
+episode time = 0.50893605s, overall time = 752.5753142237663s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 771: protocol = zyzzyva , throughput = 19398.14req/s ,
+episode time = 0.51551336s, overall time = 753.0908275842667s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 772: protocol = zyzzyva , throughput = 17158.86req/s ,
+episode time = 0.5827892s, overall time = 753.6736167669296s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:01.575  Sending benchmark results to server.
+16:51:01.575  -- Client 4
+current-episode 	value: 773
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 773217
+request-execute 	avg: 26.26ms, max: 76.50ms, count: 55680
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18560.00req/s
+
+
+[EPISODE REPORT] episode 773: protocol = zyzzyva , throughput = 17552.03req/s ,
+episode time = 0.5697347s, overall time = 754.2433514595032s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 774: protocol = zyzzyva , throughput = 16631.85req/s ,
+episode time = 0.6012562s, overall time = 754.8446076512337s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 775: protocol = zyzzyva , throughput = 19008.28req/s ,
+episode time = 0.52608645s, overall time = 755.3706941008568s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 776: protocol = zyzzyva , throughput = 17635.43req/s ,
+episode time = 0.5670402s, overall time = 755.9377343058586s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 777: protocol = zyzzyva , throughput = 16963.80req/s ,
+episode time = 0.5894904s, overall time = 756.5272247195244s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:04.576  Sending benchmark results to server.
+16:51:04.577  -- Client 4
+current-episode 	value: 778
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 778485
+request-execute 	avg: 27.59ms, max: 63.50ms, count: 52660
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	17553.33req/s
+
+
+[EPISODE REPORT] episode 778: protocol = zyzzyva , throughput = 20116.16req/s ,
+episode time = 0.4971128s, overall time = 757.0243375301361s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 779: protocol = zyzzyva , throughput = 17502.13req/s ,
+episode time = 0.5713591s, overall time = 757.5956966280937s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 780: protocol = zyzzyva , throughput = 17487.13req/s ,
+episode time = 0.57184905s, overall time = 758.1675456762314s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 781: protocol = zyzzyva , throughput = 19367.07req/s ,
+episode time = 0.51634043s, overall time = 758.6838861107826s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 782: protocol = zyzzyva , throughput = 19377.52req/s ,
+episode time = 0.5160619s, overall time = 759.1999480128288s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 783: protocol = zyzzyva , throughput = 18060.95req/s ,
+episode time = 0.55368066s, overall time = 759.7536286711693s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:07.582  Sending benchmark results to server.
+16:51:07.583  -- Client 4
+current-episode 	value: 784
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 784053
+request-execute 	avg: 26.61ms, max: 56.97ms, count: 54860
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18286.67req/s
+
+
+[EPISODE REPORT] episode 784: protocol = zyzzyva , throughput = 18221.05req/s ,
+episode time = 0.5488157s, overall time = 760.3024443984032s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 785: protocol = zyzzyva , throughput = 17337.20req/s ,
+episode time = 0.5767943s, overall time = 760.8792387247086s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 786: protocol = zyzzyva , throughput = 18146.79req/s ,
+episode time = 0.55106175s, overall time = 761.4303004741669s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 787: protocol = zyzzyva , throughput = 18738.78req/s ,
+episode time = 0.53365266s, overall time = 761.9639531373978s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 788: protocol = zyzzyva , throughput = 17620.03req/s ,
+episode time = 0.56753594s, overall time = 762.5314890742302s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:10.585  Sending benchmark results to server.
+16:51:10.585  -- Client 4
+current-episode 	value: 789
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 789514
+request-execute 	avg: 26.49ms, max: 47.18ms, count: 54970
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18323.33req/s
+
+
+[EPISODE REPORT] episode 789: protocol = zyzzyva , throughput = 20022.38req/s ,
+episode time = 0.49944106s, overall time = 763.0309301316738s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 790: protocol = zyzzyva , throughput = 17237.86req/s ,
+episode time = 0.58011854s, overall time = 763.611048668623s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 791: protocol = zyzzyva , throughput = 17622.98req/s ,
+episode time = 0.567441s, overall time = 764.1784896552563s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 792: protocol = zyzzyva , throughput = 19414.40req/s ,
+episode time = 0.5150815s, overall time = 764.6935711801052s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 793: protocol = zyzzyva , throughput = 18892.32req/s ,
+episode time = 0.5293157s, overall time = 765.222886890173s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 794: protocol = zyzzyva , throughput = 18552.08req/s ,
+episode time = 0.539023s, overall time = 765.7619098722935s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:13.586  Sending benchmark results to server.
+16:51:13.587  -- Client 4
+current-episode 	value: 795
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 795029
+request-execute 	avg: 26.55ms, max: 78.40ms, count: 54840
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18280.00req/s
+
+
+[EPISODE REPORT] episode 795: protocol = zyzzyva , throughput = 18237.38req/s ,
+episode time = 0.5483242s, overall time = 766.3102340996265s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 796: protocol = zyzzyva , throughput = 19911.49req/s ,
+episode time = 0.5022225s, overall time = 766.8124565780163s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 797: protocol = zyzzyva , throughput = 18086.47req/s ,
+episode time = 0.5528994s, overall time = 767.3653559982777s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 798: protocol = zyzzyva , throughput = 19437.07req/s ,
+episode time = 0.5144808s, overall time = 767.8798368275166s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 799: protocol = zyzzyva , throughput = 17673.55req/s ,
+episode time = 0.56581724s, overall time = 768.4456540644169s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:16.594  Sending benchmark results to server.
+16:51:16.595  -- Client 4
+current-episode 	value: 800
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 800653
+request-execute 	avg: 25.63ms, max: 47.87ms, count: 56700
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18900.00req/s
+
+
+[EPISODE REPORT] episode 800: protocol = zyzzyva , throughput = 18661.27req/s ,
+episode time = 0.53586936s, overall time = 768.981523424387s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 801: protocol = zyzzyva , throughput = 18002.52req/s ,
+episode time = 0.5554779s, overall time = 769.5370013415813s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 802: protocol = zyzzyva , throughput = 18909.98req/s ,
+episode time = 0.5288214s, overall time = 770.06582275033s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 803: protocol = zyzzyva , throughput = 19671.37req/s ,
+episode time = 0.5083531s, overall time = 770.5741758644581s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 804: protocol = zyzzyva , throughput = 18881.36req/s ,
+episode time = 0.529623s, overall time = 771.1037988364697s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 805: protocol = zyzzyva , throughput = 19161.77req/s ,
+episode time = 0.52187246s, overall time = 771.6256712973118s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:19.594  Sending benchmark results to server.
+16:51:19.595  -- Client 4
+current-episode 	value: 806
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 806306
+request-execute 	avg: 26.35ms, max: 44.42ms, count: 55390
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18463.33req/s
+
+
+[EPISODE REPORT] episode 806: protocol = zyzzyva , throughput = 19545.68req/s ,
+episode time = 0.51162195s, overall time = 772.1372932493687s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 807: protocol = zyzzyva , throughput = 16974.56req/s ,
+episode time = 0.5891169s, overall time = 772.7264101207256s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 808: protocol = zyzzyva , throughput = 20099.57req/s ,
+episode time = 0.49752313s, overall time = 773.223933249712s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 809: protocol = zyzzyva , throughput = 17024.07req/s ,
+episode time = 0.58740354s, overall time = 773.8113367855549s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 810: protocol = zyzzyva , throughput = 19289.68req/s ,
+episode time = 0.5184118s, overall time = 774.3297486007214s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:22.597  Sending benchmark results to server.
+16:51:22.598  -- Client 4
+current-episode 	value: 811
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 811773
+request-execute 	avg: 25.95ms, max: 70.62ms, count: 55830
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18610.00req/s
+
+
+[EPISODE REPORT] episode 811: protocol = zyzzyva , throughput = 15252.80req/s ,
+episode time = 0.65561736s, overall time = 774.9853659570217s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 812: protocol = zyzzyva , throughput = 17973.87req/s ,
+episode time = 0.5563633s, overall time = 775.5417292416096s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 813: protocol = zyzzyva , throughput = 15537.03req/s ,
+episode time = 0.6436235s, overall time = 776.1853527128696s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 814: protocol = zyzzyva , throughput = 19300.90req/s ,
+episode time = 0.5181106s, overall time = 776.7034632861614s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 815: protocol = zyzzyva , throughput = 18227.63req/s ,
+episode time = 0.5486176s, overall time = 777.2520808875561s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:25.597  Sending benchmark results to server.
+16:51:25.597  -- Client 4
+current-episode 	value: 816
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 816985
+request-execute 	avg: 28.42ms, max: 63.78ms, count: 51260
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	17086.67req/s
+
+
+[EPISODE REPORT] episode 816: protocol = zyzzyva , throughput = 18073.96req/s ,
+episode time = 0.55328214s, overall time = 777.8053630292416s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 817: protocol = zyzzyva , throughput = 19986.04req/s ,
+episode time = 0.50034934s, overall time = 778.3057123720646s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 818: protocol = zyzzyva , throughput = 19268.80req/s ,
+episode time = 0.5189735s, overall time = 778.8246859014034s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 819: protocol = zyzzyva , throughput = 18055.54req/s ,
+episode time = 0.55384666s, overall time = 779.3785325586796s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 820: protocol = zyzzyva , throughput = 19496.61req/s ,
+episode time = 0.51290965s, overall time = 779.8914422094822s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 821: protocol = zyzzyva , throughput = 18140.04req/s ,
+episode time = 0.55126655s, overall time = 780.4427087605s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:28.599  Sending benchmark results to server.
+16:51:28.600  -- Client 4
+current-episode 	value: 822
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 822720
+request-execute 	avg: 25.46ms, max: 60.62ms, count: 57290
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	19096.67req/s
+
+
+[EPISODE REPORT] episode 822: protocol = zyzzyva , throughput = 19764.68req/s ,
+episode time = 0.5059531s, overall time = 780.9486618340015s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 823: protocol = zyzzyva , throughput = 19750.77req/s ,
+episode time = 0.5063094s, overall time = 781.4549712240696s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 824: protocol = zyzzyva , throughput = 16794.27req/s ,
+episode time = 0.59544104s, overall time = 782.0504122674465s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 825: protocol = zyzzyva , throughput = 16541.46req/s ,
+episode time = 0.6045415s, overall time = 782.6549537479877s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 826: protocol = zyzzyva , throughput = 20505.31req/s ,
+episode time = 0.48767865s, overall time = 783.1426323950291s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 827: protocol = zyzzyva , throughput = 18405.24req/s ,
+episode time = 0.5433236s, overall time = 783.6859559714794s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:31.601  Sending benchmark results to server.
+16:51:31.601  -- Client 4
+current-episode 	value: 828
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 828238
+request-execute 	avg: 26.69ms, max: 69.57ms, count: 54730
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18243.33req/s
+
+
+[EPISODE REPORT] episode 828: protocol = zyzzyva , throughput = 18483.48req/s ,
+episode time = 0.54102355s, overall time = 784.2269795238972s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 829: protocol = zyzzyva , throughput = 19259.09req/s ,
+episode time = 0.5192353s, overall time = 784.7462148368359s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 830: protocol = zyzzyva , throughput = 19208.27req/s ,
+episode time = 0.520609s, overall time = 785.2668238580227s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 831: protocol = zyzzyva , throughput = 19118.35req/s ,
+episode time = 0.52305764s, overall time = 785.7898814976215s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 832: protocol = zyzzyva , throughput = 17641.48req/s ,
+episode time = 0.5668459s, overall time = 786.3567273914814s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:34.600  Sending benchmark results to server.
+16:51:34.601  -- Client 4
+current-episode 	value: 833
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 833701
+request-execute 	avg: 25.60ms, max: 44.60ms, count: 56760
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18920.00req/s
+
+
+[EPISODE REPORT] episode 833: protocol = zyzzyva , throughput = 16299.05req/s ,
+episode time = 0.61353266s, overall time = 786.9702600538731s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 834: protocol = zyzzyva , throughput = 17754.81req/s ,
+episode time = 0.5632278s, overall time = 787.5334878265858s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 835: protocol = zyzzyva , throughput = 13020.79req/s ,
+episode time = 0.76800275s, overall time = 788.3014905750751s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 836: protocol = zyzzyva , throughput = 14289.97req/s ,
+episode time = 0.6997915s, overall time = 789.0012820661068s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 837: protocol = zyzzyva , throughput = 18261.40req/s ,
+episode time = 0.5476032s, overall time = 789.548885256052s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:37.604  Sending benchmark results to server.
+16:51:37.606  -- Client 4
+current-episode 	value: 838
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 838451
+request-execute 	avg: 31.53ms, max: 106.47ms, count: 46230
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	15410.00req/s
+
+
+[EPISODE REPORT] episode 838: protocol = zyzzyva , throughput = 16359.40req/s ,
+episode time = 0.61126924s, overall time = 790.160154491663s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 839: protocol = zyzzyva , throughput = 19043.04req/s ,
+episode time = 0.52512634s, overall time = 790.685280829668s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 840: protocol = zyzzyva , throughput = 16449.04req/s ,
+episode time = 0.60793823s, overall time = 791.2932190597057s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 841: protocol = zyzzyva , throughput = 18707.50req/s ,
+episode time = 0.5345449s, overall time = 791.8277639448643s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 842: protocol = zyzzyva , throughput = 17234.65req/s ,
+episode time = 0.5802264s, overall time = 792.4079903662205s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:40.605  Sending benchmark results to server.
+16:51:40.606  -- Client 4
+current-episode 	value: 843
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 843663
+request-execute 	avg: 27.42ms, max: 51.62ms, count: 52660
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	17553.33req/s
+
+
+[EPISODE REPORT] episode 843: protocol = zyzzyva , throughput = 16992.38req/s ,
+episode time = 0.58849925s, overall time = 792.9964896142483s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 844: protocol = zyzzyva , throughput = 17722.26req/s ,
+episode time = 0.5642621s, overall time = 793.5607517063618s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 845: protocol = zyzzyva , throughput = 18590.11req/s ,
+episode time = 0.53792036s, overall time = 794.0986720621586s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 846: protocol = zyzzyva , throughput = 12805.59req/s ,
+episode time = 0.7809088s, overall time = 794.8795808851719s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 847: protocol = zyzzyva , throughput = 16770.48req/s ,
+episode time = 0.5962859s, overall time = 795.4758667647839s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:43.607  Sending benchmark results to server.
+16:51:43.608  -- Client 4
+current-episode 	value: 848
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 848497
+request-execute 	avg: 29.65ms, max: 95.80ms, count: 49140
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	16380.00req/s
+
+
+[EPISODE REPORT] episode 848: protocol = zyzzyva , throughput = 16276.57req/s ,
+episode time = 0.61437994s, overall time = 796.090246707201s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 849: protocol = zyzzyva , throughput = 16737.87req/s ,
+episode time = 0.5974477s, overall time = 796.6876944005489s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 850: protocol = zyzzyva , throughput = 16642.49req/s ,
+episode time = 0.6008717s, overall time = 797.288566082716s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 851: protocol = zyzzyva , throughput = 16012.11req/s ,
+episode time = 0.62452716s, overall time = 797.913093239069s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 852: protocol = zyzzyva , throughput = 17587.85req/s ,
+episode time = 0.5685742s, overall time = 798.4816674292088s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:46.611  Sending benchmark results to server.
+16:51:46.611  -- Client 4
+current-episode 	value: 853
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 853651
+request-execute 	avg: 28.97ms, max: 95.82ms, count: 49820
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	16606.67req/s
+
+
+[EPISODE REPORT] episode 853: protocol = zyzzyva , throughput = 20073.77req/s ,
+episode time = 0.49816266s, overall time = 798.9798300862312s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 854: protocol = zyzzyva , throughput = 18150.08req/s ,
+episode time = 0.55096185s, overall time = 799.5307919383049s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 855: protocol = zyzzyva , throughput = 20234.30req/s ,
+episode time = 0.4942103s, overall time = 800.0250022411346s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 856: protocol = zyzzyva , throughput = 17033.62req/s ,
+episode time = 0.5870742s, overall time = 800.6120764613152s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 857: protocol = zyzzyva , throughput = 20192.18req/s ,
+episode time = 0.49524117s, overall time = 801.1073176264763s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 858: protocol = zyzzyva , throughput = 18069.26req/s ,
+episode time = 0.55342615s, overall time = 801.6607437729836s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:49.616  Sending benchmark results to server.
+16:51:49.617  -- Client 4
+current-episode 	value: 859
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 859269
+request-execute 	avg: 25.96ms, max: 58.25ms, count: 56240
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18746.67req/s
+
+
+[EPISODE REPORT] episode 859: protocol = zyzzyva , throughput = 19118.27req/s ,
+episode time = 0.5230598s, overall time = 802.1838035583496s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 860: protocol = zyzzyva , throughput = 17011.47req/s ,
+episode time = 0.5878387s, overall time = 802.771642267704s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 861: protocol = zyzzyva , throughput = 20138.46req/s ,
+episode time = 0.4965622s, overall time = 803.2682044804096s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 862: protocol = zyzzyva , throughput = 18568.26req/s ,
+episode time = 0.5385533s, overall time = 803.8067577779293s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 863: protocol = zyzzyva , throughput = 17442.87req/s ,
+episode time = 0.5733003s, overall time = 804.380058079958s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:52.620  Sending benchmark results to server.
+16:51:52.621  -- Client 4
+current-episode 	value: 864
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 864866
+request-execute 	avg: 26.06ms, max: 68.83ms, count: 55840
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18613.33req/s
+
+
+[EPISODE REPORT] episode 864: protocol = zyzzyva , throughput = 20123.41req/s ,
+episode time = 0.4969337s, overall time = 804.8769917786121s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 865: protocol = zyzzyva , throughput = 15828.64req/s ,
+episode time = 0.6317662s, overall time = 805.5087579786777s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 866: protocol = zyzzyva , throughput = 18736.33req/s ,
+episode time = 0.53372234s, overall time = 806.0424803197384s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 867: protocol = zyzzyva , throughput = 19344.55req/s ,
+episode time = 0.51694155s, overall time = 806.5594218671322s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 868: protocol = zyzzyva , throughput = 18858.96req/s ,
+episode time = 0.53025186s, overall time = 807.0896737277508s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 869: protocol = zyzzyva , throughput = 18156.32req/s ,
+episode time = 0.55077237s, overall time = 807.6404460966587s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:55.623  Sending benchmark results to server.
+16:51:55.623  -- Client 4
+current-episode 	value: 870
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 870323
+request-execute 	avg: 26.82ms, max: 66.53ms, count: 54550
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18183.33req/s
+
+
+[EPISODE REPORT] episode 870: protocol = zyzzyva , throughput = 20035.66req/s ,
+episode time = 0.49911016s, overall time = 808.1395562589169s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 871: protocol = zyzzyva , throughput = 16669.48req/s ,
+episode time = 0.5998989s, overall time = 808.7394551336765s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 872: protocol = zyzzyva , throughput = 18651.08req/s ,
+episode time = 0.5361621s, overall time = 809.2756172120571s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 873: protocol = zyzzyva , throughput = 19171.48req/s ,
+episode time = 0.5216081s, overall time = 809.7972253262997s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 874: protocol = zyzzyva , throughput = 17079.31req/s ,
+episode time = 0.5855039s, overall time = 810.3827292025089s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:51:58.624  Sending benchmark results to server.
+16:51:58.625  -- Client 4
+current-episode 	value: 875
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 875896
+request-execute 	avg: 26.00ms, max: 47.29ms, count: 55990
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18663.33req/s
+
+
+[EPISODE REPORT] episode 875: protocol = zyzzyva , throughput = 20702.10req/s ,
+episode time = 0.48304284s, overall time = 810.8657720386982s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 876: protocol = zyzzyva , throughput = 16094.36req/s ,
+episode time = 0.62133557s, overall time = 811.487107604742s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 877: protocol = zyzzyva , throughput = 19172.98req/s ,
+episode time = 0.5215672s, overall time = 812.0086748301983s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 878: protocol = zyzzyva , throughput = 18136.64req/s ,
+episode time = 0.5513701s, overall time = 812.560044914484s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 879: protocol = zyzzyva , throughput = 18142.59req/s ,
+episode time = 0.55118924s, overall time = 813.1112341582775s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 880: protocol = zyzzyva , throughput = 19563.13req/s ,
+episode time = 0.5111655s, overall time = 813.6223996579647s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:01.625  Sending benchmark results to server.
+16:52:01.629  -- Client 4
+current-episode 	value: 881
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 881360
+request-execute 	avg: 27.11ms, max: 122.48ms, count: 53790
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	17930.00req/s
+
+
+[EPISODE REPORT] episode 881: protocol = zyzzyva , throughput = 17551.00req/s ,
+episode time = 0.5697681s, overall time = 814.1921677291393s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 882: protocol = zyzzyva , throughput = 15629.27req/s ,
+episode time = 0.63982517s, overall time = 814.8319928944111s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 883: protocol = zyzzyva , throughput = 17899.37req/s ,
+episode time = 0.55867887s, overall time = 815.3906717598438s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 884: protocol = zyzzyva , throughput = 19416.27req/s ,
+episode time = 0.5150321s, overall time = 815.9057038724422s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 885: protocol = zyzzyva , throughput = 17700.53req/s ,
+episode time = 0.56495476s, overall time = 816.4706586301327s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:04.631  Sending benchmark results to server.
+16:52:04.631  -- Client 4
+current-episode 	value: 886
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 886671
+request-execute 	avg: 27.16ms, max: 69.10ms, count: 53570
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	17856.67req/s
+
+
+[EPISODE REPORT] episode 886: protocol = zyzzyva , throughput = 18131.75req/s ,
+episode time = 0.5515187s, overall time = 817.0221773087978s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 887: protocol = zyzzyva , throughput = 18397.57req/s ,
+episode time = 0.54355013s, overall time = 817.565727442503s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 888: protocol = zyzzyva , throughput = 18391.91req/s ,
+episode time = 0.5437172s, overall time = 818.1094446480274s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 889: protocol = zyzzyva , throughput = 18246.48req/s ,
+episode time = 0.54805094s, overall time = 818.6574955880642s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 890: protocol = zyzzyva , throughput = 18327.49req/s ,
+episode time = 0.5456285s, overall time = 819.203124076128s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 891: protocol = zyzzyva , throughput = 17855.43req/s ,
+episode time = 0.5600536s, overall time = 819.7631776630878s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:07.635  Sending benchmark results to server.
+16:52:07.635  -- Client 4
+current-episode 	value: 892
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 892129
+request-execute 	avg: 26.66ms, max: 51.63ms, count: 54700
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18233.33req/s
+
+
+[EPISODE REPORT] episode 892: protocol = zyzzyva , throughput = 19219.06req/s ,
+episode time = 0.52031684s, overall time = 820.283494502306s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 893: protocol = zyzzyva , throughput = 17466.56req/s ,
+episode time = 0.5725227s, overall time = 820.8560172021389s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 894: protocol = zyzzyva , throughput = 20602.77req/s ,
+episode time = 0.48537156s, overall time = 821.3413887619972s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 895: protocol = zyzzyva , throughput = 17954.38req/s ,
+episode time = 0.55696726s, overall time = 821.8983560204506s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 896: protocol = zyzzyva , throughput = 17264.14req/s ,
+episode time = 0.5792352s, overall time = 822.4775912165642s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:10.634  Sending benchmark results to server.
+16:52:10.635  -- Client 4
+current-episode 	value: 897
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 897604
+request-execute 	avg: 26.26ms, max: 50.58ms, count: 55330
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18443.33req/s
+
+
+[EPISODE REPORT] episode 897: protocol = zyzzyva , throughput = 15306.97req/s ,
+episode time = 0.65329725s, overall time = 823.1308884620667s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 898: protocol = zyzzyva , throughput = 12991.59req/s ,
+episode time = 0.7697287s, overall time = 823.9006171822548s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 899: protocol = zyzzyva , throughput = 16684.24req/s ,
+episode time = 0.59936786s, overall time = 824.4999850392342s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 900: protocol = zyzzyva , throughput = 16165.60req/s ,
+episode time = 0.61859745s, overall time = 825.1185824871063s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 901: protocol = zyzzyva , throughput = 18421.47req/s ,
+episode time = 0.5428449s, overall time = 825.6614273786545s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:13.636  Sending benchmark results to server.
+16:52:13.637  -- Client 4
+current-episode 	value: 902
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 902252
+request-execute 	avg: 31.44ms, max: 80.04ms, count: 45900
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	15300.00req/s
+
+
+[EPISODE REPORT] episode 902: protocol = zyzzyva , throughput = 17562.68req/s ,
+episode time = 0.56938905s, overall time = 826.230816423893s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 903: protocol = zyzzyva , throughput = 16444.03req/s ,
+episode time = 0.6081235s, overall time = 826.8389399051666s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 904: protocol = zyzzyva , throughput = 17513.57req/s ,
+episode time = 0.5709858s, overall time = 827.409925699234s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 905: protocol = zyzzyva , throughput = 20082.64req/s ,
+episode time = 0.49794248s, overall time = 827.9078681766987s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 906: protocol = zyzzyva , throughput = 17556.74req/s ,
+episode time = 0.56958175s, overall time = 828.4774499237537s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:16.640  Sending benchmark results to server.
+16:52:16.641  -- Client 4
+current-episode 	value: 907
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 907584
+request-execute 	avg: 26.95ms, max: 68.59ms, count: 54000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18000.00req/s
+
+
+[EPISODE REPORT] episode 907: protocol = zyzzyva , throughput = 16405.22req/s ,
+episode time = 0.6095622s, overall time = 829.087012141943s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 908: protocol = zyzzyva , throughput = 18582.44req/s ,
+episode time = 0.5381425s, overall time = 829.6251546442509s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 909: protocol = zyzzyva , throughput = 16518.46req/s ,
+episode time = 0.60538334s, overall time = 830.2305379807949s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 910: protocol = zyzzyva , throughput = 19828.00req/s ,
+episode time = 0.50433725s, overall time = 830.7348752319813s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 911: protocol = zyzzyva , throughput = 17670.14req/s ,
+episode time = 0.5659264s, overall time = 831.3008016049862s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:19.645  Sending benchmark results to server.
+16:52:19.646  -- Client 4
+current-episode 	value: 912
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 912842
+request-execute 	avg: 27.65ms, max: 72.17ms, count: 52740
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	17580.00req/s
+
+
+[EPISODE REPORT] episode 912: protocol = zyzzyva , throughput = 16505.75req/s ,
+episode time = 0.6058496s, overall time = 831.9066512286663s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 913: protocol = zyzzyva , throughput = 18209.23req/s ,
+episode time = 0.5491721s, overall time = 832.4558233320713s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 914: protocol = zyzzyva , throughput = 17954.05req/s ,
+episode time = 0.5569773s, overall time = 833.012800604105s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 915: protocol = zyzzyva , throughput = 18232.08req/s ,
+episode time = 0.54848367s, overall time = 833.5612842738628s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 916: protocol = zyzzyva , throughput = 18065.51req/s ,
+episode time = 0.55354106s, overall time = 834.1148253381252s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 917: protocol = zyzzyva , throughput = 17687.22req/s ,
+episode time = 0.56538s, overall time = 834.6802053153515s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:22.647  Sending benchmark results to server.
+16:52:22.648  -- Client 4
+current-episode 	value: 918
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 918284
+request-execute 	avg: 27.02ms, max: 48.83ms, count: 54160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18053.33req/s
+
+
+[EPISODE REPORT] episode 918: protocol = zyzzyva , throughput = 19095.21req/s ,
+episode time = 0.52369165s, overall time = 835.2038969695568s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 919: protocol = zyzzyva , throughput = 19230.92req/s ,
+episode time = 0.51999587s, overall time = 835.7238928377628s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 920: protocol = zyzzyva , throughput = 18932.22req/s ,
+episode time = 0.5282s, overall time = 836.252092808485s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 921: protocol = zyzzyva , throughput = 19174.21req/s ,
+episode time = 0.521534s, overall time = 836.7736268341541s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 922: protocol = zyzzyva , throughput = 16317.10req/s ,
+episode time = 0.6128541s, overall time = 837.3864809572697s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:25.651  Sending benchmark results to server.
+16:52:25.652  -- Client 4
+current-episode 	value: 923
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 923802
+request-execute 	avg: 26.46ms, max: 43.86ms, count: 54890
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18296.67req/s
+
+
+[EPISODE REPORT] episode 923: protocol = zyzzyva , throughput = 17162.26req/s ,
+episode time = 0.5826739s, overall time = 837.9691548645496s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 924: protocol = zyzzyva , throughput = 20482.07req/s ,
+episode time = 0.488232s, overall time = 838.4573868513107s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 925: protocol = zyzzyva , throughput = 18176.02req/s ,
+episode time = 0.5501755s, overall time = 839.0075623393059s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 926: protocol = zyzzyva , throughput = 17675.94req/s ,
+episode time = 0.56574094s, overall time = 839.5733032822609s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 927: protocol = zyzzyva , throughput = 19125.69req/s ,
+episode time = 0.52285707s, overall time = 840.0961603522301s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 928: protocol = zyzzyva , throughput = 18457.33req/s ,
+episode time = 0.54179025s, overall time = 840.6379505991936s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:28.655  Sending benchmark results to server.
+16:52:28.656  -- Client 4
+current-episode 	value: 929
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 929417
+request-execute 	avg: 26.84ms, max: 63.40ms, count: 54400
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18133.33req/s
+
+
+[EPISODE REPORT] episode 929: protocol = zyzzyva , throughput = 19137.60req/s ,
+episode time = 0.52253157s, overall time = 841.1604821681976s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 930: protocol = zyzzyva , throughput = 17784.41req/s ,
+episode time = 0.5622903s, overall time = 841.7227724790573s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 931: protocol = zyzzyva , throughput = 16748.30req/s ,
+episode time = 0.5970754s, overall time = 842.319847881794s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 932: protocol = zyzzyva , throughput = 18785.86req/s ,
+episode time = 0.5323154s, overall time = 842.8521632552147s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 933: protocol = zyzzyva , throughput = 17303.53req/s ,
+episode time = 0.5779166s, overall time = 843.4300798773766s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:31.661  Sending benchmark results to server.
+16:52:31.661  -- Client 4
+current-episode 	value: 934
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 934817
+request-execute 	avg: 26.74ms, max: 45.33ms, count: 54410
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18136.67req/s
+
+
+[EPISODE REPORT] episode 934: protocol = zyzzyva , throughput = 18529.91req/s ,
+episode time = 0.5396681s, overall time = 843.9697479605675s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 935: protocol = zyzzyva , throughput = 19680.76req/s ,
+episode time = 0.50811034s, overall time = 844.4778583049774s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 936: protocol = zyzzyva , throughput = 16856.60req/s ,
+episode time = 0.59323955s, overall time = 845.0710978507996s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 937: protocol = zyzzyva , throughput = 18577.77req/s ,
+episode time = 0.53827786s, overall time = 845.6093757152557s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 938: protocol = zyzzyva , throughput = 17943.16req/s ,
+episode time = 0.55731547s, overall time = 846.1666911840439s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 939: protocol = zyzzyva , throughput = 19063.88req/s ,
+episode time = 0.5245522s, overall time = 846.6912434101105s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:34.662  Sending benchmark results to server.
+16:52:34.663  -- Client 4
+current-episode 	value: 940
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 940285
+request-execute 	avg: 26.59ms, max: 47.56ms, count: 54950
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18316.67req/s
+
+
+[EPISODE REPORT] episode 940: protocol = zyzzyva , throughput = 19193.16req/s ,
+episode time = 0.5210189s, overall time = 847.2122623324394s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 941: protocol = zyzzyva , throughput = 17452.84req/s ,
+episode time = 0.5729728s, overall time = 847.785235106945s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 942: protocol = zyzzyva , throughput = 18726.42req/s ,
+episode time = 0.5340048s, overall time = 848.3192399144173s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 943: protocol = zyzzyva , throughput = 18084.35req/s ,
+episode time = 0.5529642s, overall time = 848.8722041249275s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 944: protocol = zyzzyva , throughput = 19133.71req/s ,
+episode time = 0.52263784s, overall time = 849.3948419690132s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:37.669  Sending benchmark results to server.
+16:52:37.670  -- Client 4
+current-episode 	value: 945
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 945882
+request-execute 	avg: 26.24ms, max: 45.04ms, count: 55300
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18433.33req/s
+
+
+[EPISODE REPORT] episode 945: protocol = zyzzyva , throughput = 18609.35req/s ,
+episode time = 0.5373643s, overall time = 849.9322062730789s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 946: protocol = zyzzyva , throughput = 18272.65req/s ,
+episode time = 0.547266s, overall time = 850.4794722795486s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 947: protocol = zyzzyva , throughput = 18066.67req/s ,
+episode time = 0.5535055s, overall time = 851.0329777598381s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 948: protocol = zyzzyva , throughput = 17747.21req/s ,
+episode time = 0.56346893s, overall time = 851.5964466929436s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 949: protocol = zyzzyva , throughput = 18510.85req/s ,
+episode time = 0.54022384s, overall time = 852.1366705298424s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 950: protocol = zyzzyva , throughput = 18420.91req/s ,
+episode time = 0.54286146s, overall time = 852.6795319914818s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:40.672  Sending benchmark results to server.
+16:52:40.673  -- Client 4
+current-episode 	value: 951
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 951343
+request-execute 	avg: 26.61ms, max: 43.48ms, count: 54950
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18316.67req/s
+
+
+[EPISODE REPORT] episode 951: protocol = zyzzyva , throughput = 18217.27req/s ,
+episode time = 0.5489297s, overall time = 853.2284616827965s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 952: protocol = zyzzyva , throughput = 18427.94req/s ,
+episode time = 0.54265416s, overall time = 853.7711158394814s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 953: protocol = zyzzyva , throughput = 18097.78req/s ,
+episode time = 0.55255383s, overall time = 854.3236696720123s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 954: protocol = zyzzyva , throughput = 17630.68req/s ,
+episode time = 0.5671931s, overall time = 854.890862762928s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 955: protocol = zyzzyva , throughput = 17045.18req/s ,
+episode time = 0.5866761s, overall time = 855.4775388836861s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:43.678  Sending benchmark results to server.
+16:52:43.678  -- Client 4
+current-episode 	value: 956
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 956764
+request-execute 	avg: 26.71ms, max: 43.52ms, count: 54390
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18130.00req/s
+
+
+[EPISODE REPORT] episode 956: protocol = zyzzyva , throughput = 19711.72req/s ,
+episode time = 0.5073124s, overall time = 855.9848513007164s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 957: protocol = zyzzyva , throughput = 18385.23req/s ,
+episode time = 0.5439148s, overall time = 856.5287660956383s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 958: protocol = zyzzyva , throughput = 17610.85req/s ,
+episode time = 0.56783164s, overall time = 857.0965977311134s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 959: protocol = zyzzyva , throughput = 17857.14req/s ,
+episode time = 0.56000006s, overall time = 857.6565977931023s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 960: protocol = zyzzyva , throughput = 18905.92req/s ,
+episode time = 0.5289349s, overall time = 858.1855326890945s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 961: protocol = zyzzyva , throughput = 17108.62req/s ,
+episode time = 0.58450055s, overall time = 858.7700332403183s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:46.679  Sending benchmark results to server.
+16:52:46.680  -- Client 4
+current-episode 	value: 962
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 962185
+request-execute 	avg: 26.90ms, max: 48.29ms, count: 54410
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18136.67req/s
+
+
+[EPISODE REPORT] episode 962: protocol = zyzzyva , throughput = 18498.18req/s ,
+episode time = 0.54059374s, overall time = 859.3106269836426s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 963: protocol = zyzzyva , throughput = 17751.01req/s ,
+episode time = 0.5633482s, overall time = 859.8739751577377s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 964: protocol = zyzzyva , throughput = 17774.54req/s ,
+episode time = 0.56260246s, overall time = 860.4365776181221s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 965: protocol = zyzzyva , throughput = 16013.11req/s ,
+episode time = 0.6244883s, overall time = 861.0610659122467s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 966: protocol = zyzzyva , throughput = 15887.73req/s ,
+episode time = 0.6294167s, overall time = 861.6904826164246s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:49.684  Sending benchmark results to server.
+16:52:49.684  -- Client 4
+current-episode 	value: 967
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 967271
+request-execute 	avg: 27.97ms, max: 62.82ms, count: 52290
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	17430.00req/s
+
+
+[EPISODE REPORT] episode 967: protocol = zyzzyva , throughput = 17731.74req/s ,
+episode time = 0.5639605s, overall time = 862.2544431090355s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 968: protocol = zyzzyva , throughput = 20063.09req/s ,
+episode time = 0.49842772s, overall time = 862.7528708279133s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 969: protocol = zyzzyva , throughput = 15715.82req/s ,
+episode time = 0.63630134s, overall time = 863.3891721665859s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 970: protocol = zyzzyva , throughput = 19786.35req/s ,
+episode time = 0.5053989s, overall time = 863.894571095705s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 971: protocol = zyzzyva , throughput = 14052.40req/s ,
+episode time = 0.711622s, overall time = 864.6061930954456s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:52.689  Sending benchmark results to server.
+16:52:52.690  -- Client 4
+current-episode 	value: 972
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 972488
+request-execute 	avg: 27.34ms, max: 98.30ms, count: 52390
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	17463.33req/s
+
+
+[EPISODE REPORT] episode 972: protocol = zyzzyva , throughput = 16887.38req/s ,
+episode time = 0.5921581s, overall time = 865.198351174593s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 973: protocol = zyzzyva , throughput = 17889.90req/s ,
+episode time = 0.5589747s, overall time = 865.7573258578777s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 974: protocol = zyzzyva , throughput = 17815.25req/s ,
+episode time = 0.5613169s, overall time = 866.3186427652836s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 975: protocol = zyzzyva , throughput = 16751.76req/s ,
+episode time = 0.59695214s, overall time = 866.9155949056149s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 976: protocol = zyzzyva , throughput = 14927.00req/s ,
+episode time = 0.6699268s, overall time = 867.5855217278004s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:55.694  Sending benchmark results to server.
+16:52:55.694  -- Client 4
+current-episode 	value: 977
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 977601
+request-execute 	avg: 29.30ms, max: 142.95ms, count: 50130
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	16710.00req/s
+
+
+[EPISODE REPORT] episode 977: protocol = zyzzyva , throughput = 19862.15req/s ,
+episode time = 0.50347006s, overall time = 868.0889917910099s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 978: protocol = zyzzyva , throughput = 17474.51req/s ,
+episode time = 0.57226217s, overall time = 868.6612539589405s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 979: protocol = zyzzyva , throughput = 19110.33req/s ,
+episode time = 0.52327716s, overall time = 869.1845311224461s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 980: protocol = zyzzyva , throughput = 18390.81req/s ,
+episode time = 0.54374987s, overall time = 869.7282809913158s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 981: protocol = zyzzyva , throughput = 19624.43req/s ,
+episode time = 0.509569s, overall time = 870.2378499805927s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 982: protocol = zyzzyva , throughput = 17213.37req/s ,
+episode time = 0.5809439s, overall time = 870.8187938630581s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:52:58.695  Sending benchmark results to server.
+16:52:58.696  -- Client 4
+current-episode 	value: 983
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 983098
+request-execute 	avg: 26.98ms, max: 75.99ms, count: 54140
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18046.67req/s
+
+
+[EPISODE REPORT] episode 983: protocol = zyzzyva , throughput = 16854.37req/s ,
+episode time = 0.5933178s, overall time = 871.4121116697788s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 984: protocol = zyzzyva , throughput = 18287.66req/s ,
+episode time = 0.54681677s, overall time = 871.9589284360409s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 985: protocol = zyzzyva , throughput = 19597.73req/s ,
+episode time = 0.51026326s, overall time = 872.4691917002201s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 986: protocol = zyzzyva , throughput = 17746.96req/s ,
+episode time = 0.56347686s, overall time = 873.0326685607433s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 987: protocol = zyzzyva , throughput = 15848.72req/s ,
+episode time = 0.6309658s, overall time = 873.6636343896389s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:53:01.700  Sending benchmark results to server.
+16:53:01.700  -- Client 4
+current-episode 	value: 988
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 988445
+request-execute 	avg: 27.17ms, max: 48.32ms, count: 53800
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	17933.33req/s
+
+
+[EPISODE REPORT] episode 988: protocol = zyzzyva , throughput = 21210.22req/s ,
+episode time = 0.47147074s, overall time = 874.1351051330566s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 989: protocol = zyzzyva , throughput = 17758.31req/s ,
+episode time = 0.5631166s, overall time = 874.6982217431068s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 990: protocol = zyzzyva , throughput = 19196.89req/s ,
+episode time = 0.52091765s, overall time = 875.2191393971443s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 991: protocol = zyzzyva , throughput = 18572.89req/s ,
+episode time = 0.53841907s, overall time = 875.757558465004s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 992: protocol = zyzzyva , throughput = 18647.69req/s ,
+episode time = 0.5362594s, overall time = 876.2938178777695s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 993: protocol = zyzzyva , throughput = 17274.34req/s ,
+episode time = 0.57889336s, overall time = 876.8727112412453s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:53:04.702  Sending benchmark results to server.
+16:53:04.702  -- Client 4
+current-episode 	value: 994
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 994002
+request-execute 	avg: 26.45ms, max: 82.36ms, count: 55220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18406.67req/s
+
+
+[EPISODE REPORT] episode 994: protocol = zyzzyva , throughput = 20443.21req/s ,
+episode time = 0.48915985s, overall time = 877.3618710935116s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 995: protocol = zyzzyva , throughput = 17833.05req/s ,
+episode time = 0.56075656s, overall time = 877.9226276576519s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 996: protocol = zyzzyva , throughput = 19701.78req/s ,
+episode time = 0.5075684s, overall time = 878.4301960766315s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 997: protocol = zyzzyva , throughput = 17062.74req/s ,
+episode time = 0.5860722s, overall time = 879.0162682831287s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 998: protocol = zyzzyva , throughput = 19333.28req/s ,
+episode time = 0.51724285s, overall time = 879.5335111320019s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:53:07.702  Sending benchmark results to server.
+16:53:07.703  -- Client 4
+current-episode 	value: 999
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 999645
+request-execute 	avg: 26.44ms, max: 50.78ms, count: 55230
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18410.00req/s
+
+
+[EPISODE REPORT] episode 999: protocol = zyzzyva , throughput = 19337.89req/s ,
+episode time = 0.51711947s, overall time = 880.0506305992603s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1000: protocol = zyzzyva , throughput = 17827.07req/s ,
+ episode time = 0.5609447s, overall time = 880.6115752756596s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1001: protocol = zyzzyva , throughput = 19017.23req/s ,
+ episode time = 0.5258389s, overall time = 881.1374141871929s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1002: protocol = zyzzyva , throughput = 18023.06req/s ,
+ episode time = 0.55484474s, overall time = 881.6922589242458s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1003: protocol = zyzzyva , throughput = 20452.43req/s ,
+ episode time = 0.48893937s, overall time = 882.1811982989311s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1004: protocol = zyzzyva , throughput = 16844.86req/s ,
+ episode time = 0.59365296s, overall time = 882.7748512625694s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:53:10.703  Sending benchmark results to server.
+16:53:10.703  -- Client 4
+current-episode 	value: 1005
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 1005215
+request-execute 	avg: 25.84ms, max: 42.61ms, count: 56310
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18770.00req/s
+
+
+[EPISODE REPORT] episode 1005: protocol = zyzzyva , throughput = 20445.58req/s ,
+ episode time = 0.4891033s, overall time = 883.2639545500278s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1006: protocol = zyzzyva , throughput = 20367.72req/s ,
+ episode time = 0.490973s, overall time = 883.7549275457859s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1007: protocol = zyzzyva , throughput = 17581.90req/s ,
+ episode time = 0.56876683s, overall time = 884.3236943781376s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1008: protocol = zyzzyva , throughput = 17792.54req/s ,
+ episode time = 0.56203336s, overall time = 884.8857277333736s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1009: protocol = zyzzyva , throughput = 18385.70req/s ,
+ episode time = 0.5439009s, overall time = 885.4296286404133s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:53:13.708  Sending benchmark results to server.
+16:53:13.708  -- Client 4
+current-episode 	value: 1010
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 1010915
+request-execute 	avg: 26.01ms, max: 48.56ms, count: 55950
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18650.00req/s
+
+
+[EPISODE REPORT] episode 1010: protocol = zyzzyva , throughput = 20355.78req/s ,
+ episode time = 0.491261s, overall time = 885.9208896458149s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1011: protocol = zyzzyva , throughput = 17015.76req/s ,
+ episode time = 0.5876905s, overall time = 886.5085801184177s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1012: protocol = zyzzyva , throughput = 19303.31req/s ,
+ episode time = 0.5180458s, overall time = 887.0266259014606s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1013: protocol = zyzzyva , throughput = 16548.12req/s ,
+ episode time = 0.60429823s, overall time = 887.6309241354465s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1014: protocol = zyzzyva , throughput = 19726.59req/s ,
+ episode time = 0.5069301s, overall time = 888.1378542482853s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1015: protocol = zyzzyva , throughput = 20067.76req/s ,
+ episode time = 0.49831167s, overall time = 888.6361659169197s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:53:16.712  Sending benchmark results to server.
+16:53:16.713  -- Client 4
+current-episode 	value: 1016
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 1016410
+request-execute 	avg: 26.24ms, max: 68.53ms, count: 55700
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18566.67req/s
+
+
+[EPISODE REPORT] episode 1016: protocol = zyzzyva , throughput = 16917.14req/s ,
+ episode time = 0.5911165s, overall time = 889.2272824048996s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1017: protocol = zyzzyva , throughput = 19691.79req/s ,
+ episode time = 0.50782573s, overall time = 889.7351081371307s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1018: protocol = zyzzyva , throughput = 18243.69req/s ,
+ episode time = 0.5481347s, overall time = 890.2832428216934s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1019: protocol = zyzzyva , throughput = 20274.31req/s ,
+ episode time = 0.49323505s, overall time = 890.7764778733253s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1020: protocol = zyzzyva , throughput = 17314.01req/s ,
+ episode time = 0.5775671s, overall time = 891.3540449738503s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1021: protocol = zyzzyva , throughput = 19846.72req/s ,
+ episode time = 0.50386167s, overall time = 891.857906639576s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:53:19.718  Sending benchmark results to server.
+16:53:19.722  -- Client 4
+current-episode 	value: 1022
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 1022060
+request-execute 	avg: 25.66ms, max: 43.66ms, count: 56450
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18816.67req/s
+
+
+[EPISODE REPORT] episode 1022: protocol = zyzzyva , throughput = 18382.45req/s ,
+ episode time = 0.5439973s, overall time = 892.4019039273262s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1023: protocol = zyzzyva , throughput = 18745.04req/s ,
+ episode time = 0.5334743s, overall time = 892.9353782534599s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1024: protocol = zyzzyva , throughput = 20846.92req/s ,
+ episode time = 0.47968727s, overall time = 893.4150655269623s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1025: protocol = zyzzyva , throughput = 17769.29req/s ,
+ episode time = 0.56276864s, overall time = 893.9778341650963s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1026: protocol = zyzzyva , throughput = 17049.14req/s ,
+ episode time = 0.5865399s, overall time = 894.564374089241s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:53:22.719  Sending benchmark results to server.
+16:53:22.719  -- Client 4
+current-episode 	value: 1027
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 1027674
+request-execute 	avg: 26.03ms, max: 45.34ms, count: 56180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	18726.67req/s
+
+
+[EPISODE REPORT] episode 1027: protocol = zyzzyva , throughput = 20480.23req/s ,
+ episode time = 0.4882757s, overall time = 895.0526497960091s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1028: protocol = zyzzyva , throughput = 18120.46req/s ,
+ episode time = 0.55186254s, overall time = 895.6045123338699s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1029: protocol = zyzzyva , throughput = 13952.57req/s ,
+ episode time = 0.71671385s, overall time = 896.3212261795998s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1030: protocol = zyzzyva , throughput = 14886.10req/s ,
+ episode time = 0.67176765s, overall time = 896.9929938316345s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1031: protocol = zyzzyva , throughput = 15697.64req/s ,
+ episode time = 0.6370383s, overall time = 897.6300321221352s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+16:53:25.722  Sending benchmark results to server.
+16:53:25.724  -- Client 4
+current-episode 	value: 1032
+current-protocol	value: zyzzyva
+last-executed-sequence	num: 1032442
+request-execute 	avg: 29.34ms, max: 149.84ms, count: 49710
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	16570.00req/s
+
+
+[EPISODE REPORT] episode 1032: protocol = zyzzyva , throughput = 14209.06req/s ,
+ episode time = 0.7037762s, overall time = 898.3338083028793s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 1033: protocol = zyzzyva , throughput = 14817.98req/s ,
+ episode time = 0.6748557s, overall time = 899.0086640119553s
+{4} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+^C%
+jaywang@Jays-MacBook-Pro code %

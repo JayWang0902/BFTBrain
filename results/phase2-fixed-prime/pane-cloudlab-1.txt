@@ -1,0 +1,1941 @@
+last-executed-sequence	num: 316249
+message-process 	avg: 14.19ms, max: 59.94ms, count: 22494
+proposal (since-start)	count: 316300
+request-queue   	avg: 22.58ms, max: 119.61ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 316: protocol = prime , throughput = 4775.17req/s , epi
+sode time = 2.0941653s, overall time = 662.4677448272705s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  316
+{0} processCheckpoints, checkpointNum:  316
+{0} Update last stable checkpoint to  316
+{0} processCheckpoints, checkpointNum:  316
+17:05:01.428  Sending benchmark results to server.
+17:05:01.429  -- Node 0
+block-execute   	avg: 77.65ms, max: 104.12ms, count: 1400
+current-episode 	value: 317
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 317699
+message-process 	avg: 12.41ms, max: 45.26ms, count: 23005
+proposal (since-start)	count: 317750
+request-queue   	avg: 19.49ms, max: 45.32ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 317: protocol = prime , throughput = 4837.08req/s , epi
+sode time = 2.0673635s, overall time = 664.5351083278656s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  317
+{0} processCheckpoints, checkpointNum:  317
+{0} Update last stable checkpoint to  317
+{0} processCheckpoints, checkpointNum:  317
+[EPISODE REPORT] episode 318: protocol = prime , throughput = 4773.50req/s , epi
+sode time = 2.094899s, overall time = 666.6300072669983s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  318
+{0} processCheckpoints, checkpointNum:  318
+{0} Update last stable checkpoint to  318
+{0} processCheckpoints, checkpointNum:  318
+17:05:04.433  Sending benchmark results to server.
+17:05:04.436  -- Node 0
+block-execute   	avg: 77.93ms, max: 104.63ms, count: 1450
+current-episode 	value: 319
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 319149
+message-process 	avg: 12.01ms, max: 52.90ms, count: 23461
+proposal (since-start)	count: 319194
+request-queue   	avg: 18.92ms, max: 52.96ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 319: protocol = prime , throughput = 4793.55req/s , epi
+sode time = 2.0861351s, overall time = 668.7161424160004s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  319
+{0} processCheckpoints, checkpointNum:  319
+{0} Update last stable checkpoint to  319
+{0} processCheckpoints, checkpointNum:  319
+17:05:07.436  Sending benchmark results to server.
+17:05:07.438  -- Node 0
+block-execute   	avg: 78.39ms, max: 103.72ms, count: 1450
+current-episode 	value: 320
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 320599
+message-process 	avg: 11.96ms, max: 43.47ms, count: 23461
+proposal (since-start)	count: 320624
+request-queue   	avg: 19.07ms, max: 43.55ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 320: protocol = prime , throughput = 4779.88req/s , epi
+sode time = 2.092104s, overall time = 670.8082463741302s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  320
+{0} processCheckpoints, checkpointNum:  320
+{0} Update last stable checkpoint to  320
+{0} processCheckpoints, checkpointNum:  320
+[EPISODE REPORT] episode 321: protocol = prime , throughput = 4814.82req/s , epi
+sode time = 2.0769203s, overall time = 672.88516664505s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  321
+{0} Update last stable checkpoint to  321
+{0} processCheckpoints, checkpointNum:  321
+{0} processCheckpoints, checkpointNum:  321
+17:05:10.442  Sending benchmark results to server.
+17:05:10.443  -- Node 0
+block-execute   	avg: 75.91ms, max: 106.16ms, count: 1450
+current-episode 	value: 322
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 322049
+message-process 	avg: 13.22ms, max: 57.00ms, count: 23013
+proposal (since-start)	count: 322055
+request-queue   	avg: 20.96ms, max: 57.19ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 322: protocol = prime , throughput = 4811.64req/s , epi
+sode time = 2.078295s, overall time = 674.963461637497s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  322
+{0} processCheckpoints, checkpointNum:  322
+{0} Update last stable checkpoint to  322
+{0} processCheckpoints, checkpointNum:  322
+17:05:13.445  Sending benchmark results to server.
+17:05:13.445  -- Node 0
+block-execute   	avg: 75.46ms, max: 103.95ms, count: 1450
+current-episode 	value: 323
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 323449
+message-process 	avg: 13.21ms, max: 61.57ms, count: 23320
+proposal (since-start)	count: 323500
+request-queue   	avg: 20.80ms, max: 61.61ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  323
+{0} processCheckpoints, checkpointNum:  323
+{0} Update last stable checkpoint to  323
+{0} processCheckpoints, checkpointNum:  323
+[EPISODE REPORT] episode 323: protocol = prime , throughput = 4792.66req/s , epi
+sode time = 2.0865238s, overall time = 677.049985408783s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:16.450  Sending benchmark results to server.
+17:05:16.450  -- Node 0
+block-execute   	avg: 78.31ms, max: 106.99ms, count: 1400
+current-episode 	value: 324
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 324899
+message-process 	avg: 12.12ms, max: 45.26ms, count: 23241
+proposal (since-start)	count: 324950
+request-queue   	avg: 19.24ms, max: 45.35ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 324: protocol = prime , throughput = 4800.13req/s , epi
+sode time = 2.083276s, overall time = 679.1332614421844s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  324
+{0} processCheckpoints, checkpointNum:  324
+{0} Update last stable checkpoint to  324
+{0} processCheckpoints, checkpointNum:  324
+[EPISODE REPORT] episode 325: protocol = prime , throughput = 4790.71req/s , epi
+sode time = 2.0873737s, overall time = 681.220635175705s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  325
+{0} processCheckpoints, checkpointNum:  325
+{0} Update last stable checkpoint to  325
+{0} processCheckpoints, checkpointNum:  325
+17:05:19.453  Sending benchmark results to server.
+17:05:19.453  -- Node 0
+block-execute   	avg: 78.24ms, max: 103.86ms, count: 1450
+current-episode 	value: 326
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 326349
+message-process 	avg: 12.16ms, max: 45.24ms, count: 23461
+proposal (since-start)	count: 326400
+request-queue   	avg: 19.40ms, max: 45.33ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 326: protocol = prime , throughput = 4812.00req/s , epi
+sode time = 2.0781386s, overall time = 683.298773765564s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  326
+{0} processCheckpoints, checkpointNum:  326
+{0} Update last stable checkpoint to  326
+{0} processCheckpoints, checkpointNum:  326
+17:05:22.462  Sending benchmark results to server.
+17:05:22.467  -- Node 0
+block-execute   	avg: 76.31ms, max: 103.85ms, count: 1450
+current-episode 	value: 327
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 327799
+message-process 	avg: 12.83ms, max: 53.93ms, count: 23461
+proposal (since-start)	count: 327847
+request-queue   	avg: 20.51ms, max: 54.04ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  327
+{0} processCheckpoints, checkpointNum:  327
+{0} Update last stable checkpoint to  327
+{0} processCheckpoints, checkpointNum:  327
+[EPISODE REPORT] episode 327: protocol = prime , throughput = 4801.98req/s , epi
+sode time = 2.0824735s, overall time = 685.3812472820282s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 328: protocol = prime , throughput = 4808.09req/s , epi
+sode time = 2.0798283s, overall time = 687.4610755443573s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  328
+{0} processCheckpoints, checkpointNum:  328
+{0} Update last stable checkpoint to  328
+{0} processCheckpoints, checkpointNum:  328
+17:05:25.461  Sending benchmark results to server.
+17:05:25.462  -- Node 0
+block-execute   	avg: 77.08ms, max: 103.94ms, count: 1450
+current-episode 	value: 329
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 329249
+message-process 	avg: 12.26ms, max: 51.80ms, count: 23312
+proposal (since-start)	count: 329286
+request-queue   	avg: 19.34ms, max: 51.98ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 329: protocol = prime , throughput = 4592.84req/s , epi
+sode time = 2.1773043s, overall time = 689.6383798122406s
+{0} processCheckpoints, checkpointNum:  329
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  329
+{0} Update last stable checkpoint to  329
+{0} processCheckpoints, checkpointNum:  329
+17:05:28.466  Sending benchmark results to server.
+17:05:28.467  -- Node 0
+block-execute   	avg: 75.92ms, max: 176.34ms, count: 1392
+current-episode 	value: 330
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 330641
+message-process 	avg: 16.08ms, max: 117.37ms, count: 22191
+proposal (since-start)	count: 330673
+request-queue   	avg: 24.74ms, max: 123.52ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 330: protocol = prime , throughput = 4567.56req/s , epi
+sode time = 2.1893542s, overall time = 691.8277339935303s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  330
+{0} processCheckpoints, checkpointNum:  330
+{0} Update last stable checkpoint to  330
+{0} processCheckpoints, checkpointNum:  330
+{0} processCheckpoints, checkpointNum:  331
+{0} processCheckpoints, checkpointNum:  331
+{0} Update last stable checkpoint to  331
+{0} processCheckpoints, checkpointNum:  331
+[EPISODE REPORT] episode 331: protocol = prime , throughput = 4773.05req/s , epi
+sode time = 2.0950973s, overall time = 693.9228312969208s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:31.470  Sending benchmark results to server.
+17:05:31.471  -- Node 0
+block-execute   	avg: 77.24ms, max: 104.39ms, count: 1358
+current-episode 	value: 332
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 331999
+message-process 	avg: 12.75ms, max: 56.42ms, count: 22471
+proposal (since-start)	count: 332050
+request-queue   	avg: 20.14ms, max: 126.51ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 332: protocol = prime , throughput = 4808.58req/s , epi
+sode time = 2.0796173s, overall time = 696.0024485588074s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  332
+{0} processCheckpoints, checkpointNum:  332
+{0} Update last stable checkpoint to  332
+{0} processCheckpoints, checkpointNum:  332
+17:05:34.476  Sending benchmark results to server.
+17:05:34.476  -- Node 0
+block-execute   	avg: 77.85ms, max: 104.60ms, count: 1450
+current-episode 	value: 333
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 333449
+message-process 	avg: 12.44ms, max: 47.68ms, count: 23461
+proposal (since-start)	count: 333500
+request-queue   	avg: 19.60ms, max: 47.91ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  333
+{0} processCheckpoints, checkpointNum:  333
+{0} Update last stable checkpoint to  333
+{0} processCheckpoints, checkpointNum:  333
+[EPISODE REPORT] episode 333: protocol = prime , throughput = 4792.71req/s , epi
+sode time = 2.0865033s, overall time = 698.0889518260956s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:37.478  Sending benchmark results to server.
+17:05:37.479  -- Node 0
+block-execute   	avg: 74.64ms, max: 104.76ms, count: 1450
+current-episode 	value: 334
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 334899
+message-process 	avg: 14.05ms, max: 68.98ms, count: 23461
+proposal (since-start)	count: 334950
+request-queue   	avg: 22.39ms, max: 69.13ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 334: protocol = prime , throughput = 4831.22req/s , epi
+sode time = 2.0698705s, overall time = 700.1588222980499s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  334
+{0} processCheckpoints, checkpointNum:  334
+{0} Update last stable checkpoint to  334
+{0} processCheckpoints, checkpointNum:  334
+[EPISODE REPORT] episode 335: protocol = prime , throughput = 4806.14req/s , epi
+sode time = 2.0806713s, overall time = 702.2394936084747s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  335
+{0} processCheckpoints, checkpointNum:  335
+{0} Update last stable checkpoint to  335
+{0} processCheckpoints, checkpointNum:  335
+17:05:40.483  Sending benchmark results to server.
+17:05:40.483  -- Node 0
+block-execute   	avg: 74.58ms, max: 104.24ms, count: 1450
+current-episode 	value: 336
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 336349
+message-process 	avg: 13.75ms, max: 56.09ms, count: 23461
+proposal (since-start)	count: 336400
+request-queue   	avg: 21.80ms, max: 56.21ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 336: protocol = prime , throughput = 4784.13req/s , epi
+sode time = 2.090244s, overall time = 704.329737663269s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  336
+{0} processCheckpoints, checkpointNum:  336
+{0} Update last stable checkpoint to  336
+{0} processCheckpoints, checkpointNum:  336
+17:05:43.488  Sending benchmark results to server.
+17:05:43.490  -- Node 0
+block-execute   	avg: 77.27ms, max: 104.24ms, count: 1450
+current-episode 	value: 337
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 337799
+message-process 	avg: 12.76ms, max: 52.54ms, count: 23015
+proposal (since-start)	count: 337840
+request-queue   	avg: 20.04ms, max: 52.51ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  337
+{0} processCheckpoints, checkpointNum:  337
+{0} Update last stable checkpoint to  337
+{0} processCheckpoints, checkpointNum:  337
+[EPISODE REPORT] episode 337: protocol = prime , throughput = 4789.40req/s , epi
+sode time = 2.087945s, overall time = 706.4176826477051s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  338
+{0} processCheckpoints, checkpointNum:  338
+{0} Update last stable checkpoint to  338
+{0} processCheckpoints, checkpointNum:  338
+[EPISODE REPORT] episode 338: protocol = prime , throughput = 4801.64req/s , epi
+sode time = 2.082622s, overall time = 708.5003046989441s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:46.496  Sending benchmark results to server.
+17:05:46.496  -- Node 0
+block-execute   	avg: 76.53ms, max: 106.32ms, count: 1400
+current-episode 	value: 339
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 339249
+message-process 	avg: 13.13ms, max: 53.54ms, count: 23104
+proposal (since-start)	count: 339270
+request-queue   	avg: 20.93ms, max: 53.66ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 339: protocol = prime , throughput = 4773.15req/s , epi
+sode time = 2.0950518s, overall time = 710.595356464386s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  339
+{0} processCheckpoints, checkpointNum:  339
+{0} Update last stable checkpoint to  339
+{0} processCheckpoints, checkpointNum:  339
+17:05:49.504  Sending benchmark results to server.
+17:05:49.504  -- Node 0
+block-execute   	avg: 74.32ms, max: 104.52ms, count: 1450
+current-episode 	value: 340
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 340699
+message-process 	avg: 13.88ms, max: 78.59ms, count: 23455
+proposal (since-start)	count: 340707
+request-queue   	avg: 22.10ms, max: 78.70ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 340: protocol = prime , throughput = 4812.54req/s , epi
+sode time = 2.0779066s, overall time = 712.6732630729675s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  340
+{0} processCheckpoints, checkpointNum:  340
+{0} Update last stable checkpoint to  340
+{0} processCheckpoints, checkpointNum:  340
+{0} processCheckpoints, checkpointNum:  341
+{0} processCheckpoints, checkpointNum:  341
+{0} Update last stable checkpoint to  341
+{0} processCheckpoints, checkpointNum:  341
+[EPISODE REPORT] episode 341: protocol = prime , throughput = 4778.77req/s , epi
+sode time = 2.0925887s, overall time = 714.7658517360687s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:52.502  Sending benchmark results to server.
+17:05:52.503  -- Node 0
+block-execute   	avg: 76.67ms, max: 105.70ms, count: 1450
+current-episode 	value: 342
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 342099
+message-process 	avg: 12.91ms, max: 49.09ms, count: 23411
+proposal (since-start)	count: 342150
+request-queue   	avg: 20.53ms, max: 49.22ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 342: protocol = prime , throughput = 4553.31req/s , epi
+sode time = 2.1962025s, overall time = 716.9620542526245s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  342
+{0} processCheckpoints, checkpointNum:  342
+{0} Update last stable checkpoint to  342
+{0} processCheckpoints, checkpointNum:  342
+17:05:55.507  Sending benchmark results to server.
+17:05:55.508  -- Node 0
+block-execute   	avg: 76.37ms, max: 124.74ms, count: 1400
+current-episode 	value: 343
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 343499
+message-process 	avg: 13.47ms, max: 75.46ms, count: 22090
+proposal (since-start)	count: 343550
+request-queue   	avg: 21.57ms, max: 143.42ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  343
+{0} processCheckpoints, checkpointNum:  343
+{0} Update last stable checkpoint to  343
+{0} processCheckpoints, checkpointNum:  343
+[EPISODE REPORT] episode 343: protocol = prime , throughput = 4787.40req/s , epi
+sode time = 2.0888147s, overall time = 719.0508689880371s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:05:58.513  Sending benchmark results to server.
+17:05:58.515  -- Node 0
+block-execute   	avg: 78.09ms, max: 103.68ms, count: 1400
+current-episode 	value: 344
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 344949
+message-process 	avg: 12.09ms, max: 49.24ms, count: 23273
+proposal (since-start)	count: 344988
+request-queue   	avg: 19.30ms, max: 49.28ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 344: protocol = prime , throughput = 4799.32req/s , epi
+sode time = 2.0836303s, overall time = 721.1344993114471s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  344
+{0} processCheckpoints, checkpointNum:  344
+{0} Update last stable checkpoint to  344
+{0} processCheckpoints, checkpointNum:  344
+{0} processCheckpoints, checkpointNum:  345
+{0} processCheckpoints, checkpointNum:  345
+{0} Update last stable checkpoint to  345
+{0} processCheckpoints, checkpointNum:  345
+[EPISODE REPORT] episode 345: protocol = prime , throughput = 4795.45req/s , epi
+sode time = 2.0853097s, overall time = 723.2198090553284s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:01.518  Sending benchmark results to server.
+17:06:01.519  -- Node 0
+block-execute   	avg: 75.14ms, max: 105.28ms, count: 1450
+current-episode 	value: 346
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 346399
+message-process 	avg: 13.65ms, max: 60.69ms, count: 23461
+proposal (since-start)	count: 346421
+request-queue   	avg: 21.51ms, max: 60.77ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  346
+{0} processCheckpoints, checkpointNum:  346
+{0} Update last stable checkpoint to  346
+{0} processCheckpoints, checkpointNum:  346
+[EPISODE REPORT] episode 346: protocol = prime , throughput = 4807.56req/s , epi
+sode time = 2.080058s, overall time = 725.2998671531677s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:04.523  Sending benchmark results to server.
+17:06:04.526  -- Node 0
+block-execute   	avg: 76.75ms, max: 103.81ms, count: 1450
+current-episode 	value: 347
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 347849
+message-process 	avg: 12.83ms, max: 48.17ms, count: 23461
+proposal (since-start)	count: 347859
+request-queue   	avg: 20.25ms, max: 49.05ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 347: protocol = prime , throughput = 4810.65req/s , epi
+sode time = 2.07872s, overall time = 727.3785872459412s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  347
+{0} processCheckpoints, checkpointNum:  347
+{0} Update last stable checkpoint to  347
+{0} processCheckpoints, checkpointNum:  347
+[EPISODE REPORT] episode 348: protocol = prime , throughput = 4804.00req/s , epi
+sode time = 2.0815978s, overall time = 729.4601850509644s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  348
+{0} processCheckpoints, checkpointNum:  348
+{0} Update last stable checkpoint to  348
+{0} processCheckpoints, checkpointNum:  348
+17:06:07.527  Sending benchmark results to server.
+17:06:07.528  -- Node 0
+block-execute   	avg: 77.92ms, max: 103.92ms, count: 1450
+current-episode 	value: 349
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 349249
+message-process 	avg: 11.93ms, max: 50.96ms, count: 23277
+proposal (since-start)	count: 349300
+request-queue   	avg: 18.73ms, max: 51.37ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 349: protocol = prime , throughput = 4819.06req/s , epi
+sode time = 2.075094s, overall time = 731.5352790355682s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  349
+{0} processCheckpoints, checkpointNum:  349
+{0} Update last stable checkpoint to  349
+{0} processCheckpoints, checkpointNum:  349
+17:06:10.531  Sending benchmark results to server.
+17:06:10.532  -- Node 0
+block-execute   	avg: 77.23ms, max: 104.35ms, count: 1450
+current-episode 	value: 350
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 350699
+message-process 	avg: 12.54ms, max: 56.99ms, count: 23158
+proposal (since-start)	count: 350750
+request-queue   	avg: 19.90ms, max: 57.15ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 350: protocol = prime , throughput = 4767.86req/s , epi
+sode time = 2.0973756s, overall time = 733.6326546669006s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  350
+{0} processCheckpoints, checkpointNum:  350
+{0} Update last stable checkpoint to  350
+{0} processCheckpoints, checkpointNum:  350
+[EPISODE REPORT] episode 351: protocol = prime , throughput = 4781.62req/s , epi
+sode time = 2.0913424s, overall time = 735.7239971160889s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  351
+{0} processCheckpoints, checkpointNum:  351
+{0} Update last stable checkpoint to  351
+{0} processCheckpoints, checkpointNum:  351
+17:06:13.539  Sending benchmark results to server.
+17:06:13.540  -- Node 0
+block-execute   	avg: 78.54ms, max: 103.93ms, count: 1400
+current-episode 	value: 352
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 352149
+message-process 	avg: 12.18ms, max: 46.12ms, count: 23139
+proposal (since-start)	count: 352189
+request-queue   	avg: 19.31ms, max: 46.35ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  352
+[EPISODE REPORT] episode 352: protocol = prime , throughput = 4802.55req/s , epi
+sode time = 2.082228s, overall time = 737.8062250614166s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  352
+{0} Update last stable checkpoint to  352
+{0} processCheckpoints, checkpointNum:  352
+17:06:16.542  Sending benchmark results to server.
+17:06:16.543  -- Node 0
+block-execute   	avg: 77.04ms, max: 104.16ms, count: 1450
+current-episode 	value: 353
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 353599
+message-process 	avg: 12.68ms, max: 48.50ms, count: 23461
+proposal (since-start)	count: 353643
+request-queue   	avg: 20.17ms, max: 48.60ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 353: protocol = prime , throughput = 4784.32req/s , epi
+sode time = 2.0901628s, overall time = 739.8963878154755s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  353
+{0} processCheckpoints, checkpointNum:  353
+{0} Update last stable checkpoint to  353
+{0} processCheckpoints, checkpointNum:  353
+[EPISODE REPORT] episode 354: protocol = prime , throughput = 4803.24req/s , epi
+sode time = 2.081928s, overall time = 741.9783158302307s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  354
+{0} processCheckpoints, checkpointNum:  354
+{0} Update last stable checkpoint to  354
+{0} processCheckpoints, checkpointNum:  354
+17:06:19.549  Sending benchmark results to server.
+17:06:19.549  -- Node 0
+block-execute   	avg: 77.30ms, max: 104.30ms, count: 1450
+current-episode 	value: 355
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 355049
+message-process 	avg: 12.27ms, max: 53.74ms, count: 23244
+proposal (since-start)	count: 355066
+request-queue   	avg: 19.55ms, max: 53.86ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 355: protocol = prime , throughput = 4800.86req/s , epi
+sode time = 2.0829604s, overall time = 744.0612761974335s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  355
+{0} processCheckpoints, checkpointNum:  355
+{0} Update last stable checkpoint to  355
+{0} processCheckpoints, checkpointNum:  355
+17:06:22.550  Sending benchmark results to server.
+17:06:22.553  -- Node 0
+block-execute   	avg: 77.29ms, max: 105.17ms, count: 1450
+current-episode 	value: 356
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 356449
+message-process 	avg: 12.31ms, max: 52.87ms, count: 23002
+proposal (since-start)	count: 356500
+request-queue   	avg: 19.65ms, max: 52.95ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 356: protocol = prime , throughput = 4556.76req/s , epi
+sode time = 2.1945415s, overall time = 746.2558176517487s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  356
+{0} processCheckpoints, checkpointNum:  356
+{0} Update last stable checkpoint to  356
+{0} processCheckpoints, checkpointNum:  356
+17:06:25.554  Sending benchmark results to server.
+17:06:25.555  -- Node 0
+block-execute   	avg: 75.93ms, max: 109.56ms, count: 1350
+current-episode 	value: 357
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 357849
+message-process 	avg: 13.82ms, max: 106.87ms, count: 22528
+proposal (since-start)	count: 357900
+request-queue   	avg: 22.07ms, max: 135.60ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 357: protocol = prime , throughput = 4801.18req/s , epi
+sode time = 2.0828228s, overall time = 748.3386404514313s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  357
+{0} processCheckpoints, checkpointNum:  357
+{0} Update last stable checkpoint to  357
+{0} processCheckpoints, checkpointNum:  357
+{0} processCheckpoints, checkpointNum:  358
+{0} processCheckpoints, checkpointNum:  358
+{0} Update last stable checkpoint to  358
+{0} processCheckpoints, checkpointNum:  358
+[EPISODE REPORT] episode 358: protocol = prime , throughput = 4788.82req/s , epi
+sode time = 2.0881956s, overall time = 750.426836013794s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:28.559  Sending benchmark results to server.
+17:06:28.559  -- Node 0
+block-execute   	avg: 77.89ms, max: 103.78ms, count: 1450
+current-episode 	value: 359
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 359299
+message-process 	avg: 12.14ms, max: 49.88ms, count: 23461
+proposal (since-start)	count: 359350
+request-queue   	avg: 19.24ms, max: 49.96ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 359: protocol = prime , throughput = 4806.49req/s , epi
+sode time = 2.0805185s, overall time = 752.5073544979095s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  359
+{0} processCheckpoints, checkpointNum:  359
+{0} Update last stable checkpoint to  359
+{0} processCheckpoints, checkpointNum:  359
+17:06:31.567  Sending benchmark results to server.
+17:06:31.568  -- Node 0
+block-execute   	avg: 77.00ms, max: 105.05ms, count: 1450
+current-episode 	value: 360
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 360749
+message-process 	avg: 12.55ms, max: 51.01ms, count: 23461
+proposal (since-start)	count: 360778
+request-queue   	avg: 19.91ms, max: 51.11ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 360: protocol = prime , throughput = 4784.76req/s , epi
+sode time = 2.089968s, overall time = 754.5973224639893s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  360
+{0} processCheckpoints, checkpointNum:  360
+{0} Update last stable checkpoint to  360
+{0} processCheckpoints, checkpointNum:  360
+[EPISODE REPORT] episode 361: protocol = prime , throughput = 4775.21req/s , epi
+sode time = 2.0941467s, overall time = 756.6914691925049s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  361
+{0} processCheckpoints, checkpointNum:  361
+{0} Update last stable checkpoint to  361
+{0} processCheckpoints, checkpointNum:  361
+17:06:34.569  Sending benchmark results to server.
+17:06:34.570  -- Node 0
+block-execute   	avg: 75.70ms, max: 106.93ms, count: 1450
+current-episode 	value: 362
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 362199
+message-process 	avg: 13.84ms, max: 69.94ms, count: 22837
+proposal (since-start)	count: 362205
+request-queue   	avg: 21.79ms, max: 70.53ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 362: protocol = prime , throughput = 4808.57req/s , epi
+sode time = 2.0796216s, overall time = 758.7710907459259s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  362
+{0} processCheckpoints, checkpointNum:  362
+{0} Update last stable checkpoint to  362
+{0} processCheckpoints, checkpointNum:  362
+17:06:37.571  Sending benchmark results to server.
+17:06:37.572  -- Node 0
+block-execute   	avg: 76.93ms, max: 103.95ms, count: 1400
+current-episode 	value: 363
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 363599
+message-process 	avg: 12.70ms, max: 65.22ms, count: 23276
+proposal (since-start)	count: 363650
+request-queue   	avg: 20.11ms, max: 65.36ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 363: protocol = prime , throughput = 4794.97req/s , epi
+sode time = 2.0855193s, overall time = 760.8566100597382s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  363
+{0} processCheckpoints, checkpointNum:  363
+{0} Update last stable checkpoint to  363
+{0} processCheckpoints, checkpointNum:  363
+{0} processCheckpoints, checkpointNum:  364
+[EPISODE REPORT] episode 364: protocol = prime , throughput = 4803.54req/s , epi
+sode time = 2.081797s, overall time = 762.9384069442749s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  364
+{0} Update last stable checkpoint to  364
+{0} processCheckpoints, checkpointNum:  364
+17:06:40.576  Sending benchmark results to server.
+17:06:40.576  -- Node 0
+block-execute   	avg: 75.60ms, max: 104.01ms, count: 1450
+current-episode 	value: 365
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 365049
+message-process 	avg: 13.11ms, max: 52.15ms, count: 23461
+proposal (since-start)	count: 365100
+request-queue   	avg: 20.78ms, max: 52.29ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  365
+{0} processCheckpoints, checkpointNum:  365
+{0} Update last stable checkpoint to  365
+{0} processCheckpoints, checkpointNum:  365
+[EPISODE REPORT] episode 365: protocol = prime , throughput = 4841.35req/s , epi
+sode time = 2.0655396s, overall time = 765.0039465427399s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:06:43.579  Sending benchmark results to server.
+17:06:43.580  -- Node 0
+block-execute   	avg: 76.52ms, max: 104.07ms, count: 1450
+current-episode 	value: 366
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 366486
+message-process 	avg: 12.38ms, max: 56.10ms, count: 23461
+proposal (since-start)	count: 366537
+request-queue   	avg: 19.70ms, max: 56.43ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 366: protocol = prime , throughput = 4627.38req/s , epi
+sode time = 2.1610513s, overall time = 767.1649978160858s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  366
+{0} processCheckpoints, checkpointNum:  366
+{0} Update last stable checkpoint to  366
+{0} processCheckpoints, checkpointNum:  366
+17:06:46.581  Sending benchmark results to server.
+17:06:46.588  -- Node 0
+block-execute   	avg: 69.66ms, max: 110.94ms, count: 1400
+current-episode 	value: 367
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 367949
+message-process 	avg: 16.10ms, max: 127.53ms, count: 22661
+proposal (since-start)	count: 367959
+request-queue   	avg: 25.59ms, max: 127.90ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 367: protocol = prime , throughput = 4644.05req/s , epi
+sode time = 2.1532922s, overall time = 769.3182899951935s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  367
+{0} processCheckpoints, checkpointNum:  367
+{0} Update last stable checkpoint to  367
+{0} processCheckpoints, checkpointNum:  367
+[EPISODE REPORT] episode 368: protocol = prime , throughput = 4607.21req/s , epi
+sode time = 2.1705127s, overall time = 771.4888026714325s
+{0} processCheckpoints, checkpointNum:  368
+{0} processCheckpoints, checkpointNum:  368
+{0} Update last stable checkpoint to  368
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  368
+17:06:49.585  Sending benchmark results to server.
+17:06:49.586  -- Node 0
+block-execute   	avg: 66.28ms, max: 112.20ms, count: 1438
+current-episode 	value: 369
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 369299
+message-process 	avg: 17.94ms, max: 97.37ms, count: 22593
+proposal (since-start)	count: 369313
+request-queue   	avg: 28.03ms, max: 153.02ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 369: protocol = prime , throughput = 4867.46req/s , epi
+sode time = 2.0544617s, overall time = 773.5432643890381s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  369
+{0} processCheckpoints, checkpointNum:  369
+{0} Update last stable checkpoint to  369
+{0} processCheckpoints, checkpointNum:  369
+17:06:52.592  Sending benchmark results to server.
+17:06:52.593  -- Node 0
+block-execute   	avg: 72.78ms, max: 105.62ms, count: 1412
+current-episode 	value: 370
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 370749
+message-process 	avg: 14.76ms, max: 74.12ms, count: 22891
+proposal (since-start)	count: 370790
+request-queue   	avg: 23.05ms, max: 120.02ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 370: protocol = prime , throughput = 4830.76req/s , epi
+sode time = 2.0700696s, overall time = 775.613333940506s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  370
+{0} processCheckpoints, checkpointNum:  370
+{0} Update last stable checkpoint to  370
+{0} processCheckpoints, checkpointNum:  370
+[EPISODE REPORT] episode 371: protocol = prime , throughput = 4843.37req/s , epi
+sode time = 2.0646777s, overall time = 777.6780116558075s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  371
+{0} processCheckpoints, checkpointNum:  371
+{0} Update last stable checkpoint to  371
+{0} processCheckpoints, checkpointNum:  371
+17:06:55.588  Sending benchmark results to server.
+17:06:55.589  -- Node 0
+block-execute   	avg: 71.31ms, max: 104.48ms, count: 1450
+current-episode 	value: 372
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 372199
+message-process 	avg: 15.27ms, max: 70.65ms, count: 23617
+proposal (since-start)	count: 372241
+request-queue   	avg: 23.74ms, max: 70.98ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 372: protocol = prime , throughput = 4830.94req/s , epi
+sode time = 2.069989s, overall time = 779.7480006217957s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  372
+{0} processCheckpoints, checkpointNum:  372
+{0} Update last stable checkpoint to  372
+{0} processCheckpoints, checkpointNum:  372
+17:06:58.593  Sending benchmark results to server.
+17:06:58.596  -- Node 0
+block-execute   	avg: 73.86ms, max: 104.55ms, count: 1450
+current-episode 	value: 373
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 373649
+message-process 	avg: 14.22ms, max: 59.05ms, count: 23386
+proposal (since-start)	count: 373696
+request-queue   	avg: 21.85ms, max: 59.14ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 373: protocol = prime , throughput = 4834.30req/s , epi
+sode time = 2.0685534s, overall time = 781.816554069519s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  373
+{0} processCheckpoints, checkpointNum:  373
+{0} Update last stable checkpoint to  373
+{0} processCheckpoints, checkpointNum:  373
+[EPISODE REPORT] episode 374: protocol = prime , throughput = 4811.79req/s , epi
+sode time = 2.0782275s, overall time = 783.894781589508s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  374
+{0} processCheckpoints, checkpointNum:  374
+{0} Update last stable checkpoint to  374
+{0} processCheckpoints, checkpointNum:  374
+17:07:01.606  Sending benchmark results to server.
+17:07:01.607  -- Node 0
+block-execute   	avg: 72.08ms, max: 109.60ms, count: 1450
+current-episode 	value: 375
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 375099
+message-process 	avg: 14.81ms, max: 65.85ms, count: 23343
+proposal (since-start)	count: 375131
+request-queue   	avg: 22.95ms, max: 66.10ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 375: protocol = prime , throughput = 4810.06req/s , epi
+sode time = 2.0789762s, overall time = 785.9737577438354s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  375
+{0} processCheckpoints, checkpointNum:  375
+{0} Update last stable checkpoint to  375
+{0} processCheckpoints, checkpointNum:  375
+17:07:04.600  Sending benchmark results to server.
+17:07:04.600  -- Node 0
+block-execute   	avg: 75.78ms, max: 104.15ms, count: 1400
+current-episode 	value: 376
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 376549
+message-process 	avg: 13.44ms, max: 65.60ms, count: 23341
+proposal (since-start)	count: 376582
+request-queue   	avg: 21.09ms, max: 65.73ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 376: protocol = prime , throughput = 4808.39req/s , epi
+sode time = 2.079697s, overall time = 788.0534546375275s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  376
+{0} processCheckpoints, checkpointNum:  376
+{0} Update last stable checkpoint to  376
+{0} processCheckpoints, checkpointNum:  376
+{0} processCheckpoints, checkpointNum:  377
+[EPISODE REPORT] episode 377: protocol = prime , throughput = 4802.46req/s , epi
+sode time = 2.0822659s, overall time = 790.1357204914093s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  377
+{0} Update last stable checkpoint to  377
+{0} processCheckpoints, checkpointNum:  377
+17:07:07.603  Sending benchmark results to server.
+17:07:07.604  -- Node 0
+block-execute   	avg: 77.66ms, max: 103.96ms, count: 1450
+current-episode 	value: 378
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 377999
+message-process 	avg: 12.18ms, max: 41.12ms, count: 23456
+proposal (since-start)	count: 378007
+request-queue   	avg: 19.24ms, max: 41.35ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 378: protocol = prime , throughput = 4799.15req/s , epi
+sode time = 2.0837042s, overall time = 792.2194247245789s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  378
+{0} processCheckpoints, checkpointNum:  378
+{0} Update last stable checkpoint to  378
+{0} processCheckpoints, checkpointNum:  378
+17:07:10.604  Sending benchmark results to server.
+17:07:10.605  -- Node 0
+block-execute   	avg: 77.51ms, max: 103.86ms, count: 1450
+current-episode 	value: 379
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 379399
+message-process 	avg: 12.33ms, max: 50.19ms, count: 23461
+proposal (since-start)	count: 379450
+request-queue   	avg: 19.39ms, max: 50.31ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 379: protocol = prime , throughput = 4801.16req/s , epi
+sode time = 2.0828307s, overall time = 794.3022553920746s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  379
+{0} processCheckpoints, checkpointNum:  379
+{0} Update last stable checkpoint to  379
+{0} processCheckpoints, checkpointNum:  379
+17:07:13.608  Sending benchmark results to server.
+17:07:13.608  -- Node 0
+block-execute   	avg: 77.25ms, max: 104.54ms, count: 1450
+current-episode 	value: 380
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 380849
+message-process 	avg: 12.78ms, max: 49.06ms, count: 23383
+proposal (since-start)	count: 380900
+request-queue   	avg: 20.25ms, max: 49.04ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 380: protocol = prime , throughput = 4788.08req/s , epi
+sode time = 2.0885181s, overall time = 796.3907735347748s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  380
+{0} processCheckpoints, checkpointNum:  380
+{0} Update last stable checkpoint to  380
+{0} processCheckpoints, checkpointNum:  380
+[EPISODE REPORT] episode 381: protocol = prime , throughput = 4803.07req/s , epi
+sode time = 2.0820024s, overall time = 798.4727759361267s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  381
+{0} processCheckpoints, checkpointNum:  381
+{0} Update last stable checkpoint to  381
+{0} processCheckpoints, checkpointNum:  381
+17:07:16.613  Sending benchmark results to server.
+17:07:16.613  -- Node 0
+block-execute   	avg: 76.27ms, max: 103.94ms, count: 1450
+current-episode 	value: 382
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 382299
+message-process 	avg: 12.93ms, max: 52.38ms, count: 22983
+proposal (since-start)	count: 382350
+request-queue   	avg: 20.31ms, max: 52.52ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 382: protocol = prime , throughput = 4790.09req/s , epi
+sode time = 2.0876436s, overall time = 800.5604195594788s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  382
+{0} processCheckpoints, checkpointNum:  382
+{0} Update last stable checkpoint to  382
+{0} processCheckpoints, checkpointNum:  382
+17:07:19.618  Sending benchmark results to server.
+17:07:19.618  -- Node 0
+block-execute   	avg: 74.69ms, max: 107.98ms, count: 1398
+current-episode 	value: 383
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 383747
+message-process 	avg: 13.85ms, max: 85.06ms, count: 23176
+proposal (since-start)	count: 383784
+request-queue   	avg: 21.86ms, max: 85.23ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 383: protocol = prime , throughput = 4564.44req/s , epi
+sode time = 2.190848s, overall time = 802.7512676715851s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  383
+{0} processCheckpoints, checkpointNum:  383
+{0} Update last stable checkpoint to  383
+{0} processCheckpoints, checkpointNum:  383
+[EPISODE REPORT] episode 384: protocol = prime , throughput = 4578.03req/s , epi
+sode time = 2.1843462s, overall time = 804.9356138706207s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  384
+{0} processCheckpoints, checkpointNum:  384
+{0} Update last stable checkpoint to  384
+{0} processCheckpoints, checkpointNum:  384
+17:07:22.623  Sending benchmark results to server.
+17:07:22.623  -- Node 0
+block-execute   	avg: 75.75ms, max: 113.79ms, count: 1377
+current-episode 	value: 385
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 385099
+message-process 	avg: 15.02ms, max: 103.21ms, count: 22293
+proposal (since-start)	count: 385124
+request-queue   	avg: 23.81ms, max: 162.95ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 385: protocol = prime , throughput = 4831.12req/s , epi
+sode time = 2.0699143s, overall time = 807.0055282115936s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  385
+{0} processCheckpoints, checkpointNum:  385
+{0} Update last stable checkpoint to  385
+{0} processCheckpoints, checkpointNum:  385
+17:07:25.627  Sending benchmark results to server.
+17:07:25.628  -- Node 0
+block-execute   	avg: 72.94ms, max: 107.72ms, count: 1425
+current-episode 	value: 386
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 386549
+message-process 	avg: 14.21ms, max: 59.27ms, count: 23061
+proposal (since-start)	count: 386574
+request-queue   	avg: 22.43ms, max: 115.91ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 386: protocol = prime , throughput = 4581.64req/s , epi
+sode time = 2.1826265s, overall time = 809.1881546974182s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  386
+{0} processCheckpoints, checkpointNum:  386
+{0} Update last stable checkpoint to  386
+{0} processCheckpoints, checkpointNum:  386
+17:07:28.634  Sending benchmark results to server.
+17:07:28.635  -- Node 0
+block-execute   	avg: 73.22ms, max: 122.32ms, count: 1400
+current-episode 	value: 387
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 387949
+message-process 	avg: 15.21ms, max: 89.09ms, count: 22661
+proposal (since-start)	count: 387958
+request-queue   	avg: 23.39ms, max: 121.53ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 387: protocol = prime , throughput = 4806.02req/s , epi
+sode time = 2.0807219s, overall time = 811.2688765525818s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  387
+{0} processCheckpoints, checkpointNum:  387
+{0} Update last stable checkpoint to  387
+{0} processCheckpoints, checkpointNum:  387
+[EPISODE REPORT] episode 388: protocol = prime , throughput = 4593.59req/s , epi
+sode time = 2.1769452s, overall time = 813.445821762085s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  388
+{0} processCheckpoints, checkpointNum:  388
+{0} Update last stable checkpoint to  388
+{0} processCheckpoints, checkpointNum:  388
+17:07:31.639  Sending benchmark results to server.
+17:07:31.641  -- Node 0
+block-execute   	avg: 73.46ms, max: 111.55ms, count: 1436
+current-episode 	value: 389
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 389349
+message-process 	avg: 15.15ms, max: 103.91ms, count: 22958
+proposal (since-start)	count: 389361
+request-queue   	avg: 23.85ms, max: 103.96ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 389: protocol = prime , throughput = 4622.35req/s , epi
+sode time = 2.163404s, overall time = 815.6092257499695s
+{0} processCheckpoints, checkpointNum:  389
+{0} Update last stable checkpoint to  389
+{0} processCheckpoints, checkpointNum:  389
+{0} processCheckpoints, checkpointNum:  389
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:34.639  Sending benchmark results to server.
+17:07:34.640  -- Node 0
+block-execute   	avg: 70.72ms, max: 116.26ms, count: 1364
+current-episode 	value: 390
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 390749
+message-process 	avg: 15.88ms, max: 72.94ms, count: 22300
+proposal (since-start)	count: 390762
+request-queue   	avg: 25.44ms, max: 144.60ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 390: protocol = prime , throughput = 4822.31req/s , epi
+sode time = 2.073696s, overall time = 817.6829216480255s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  390
+{0} processCheckpoints, checkpointNum:  390
+{0} Update last stable checkpoint to  390
+{0} processCheckpoints, checkpointNum:  390
+{0} processCheckpoints, checkpointNum:  391
+[EPISODE REPORT] episode 391: protocol = prime , throughput = 4831.28req/s , epi
+sode time = 2.0698452s, overall time = 819.7527668476105s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  391
+{0} Update last stable checkpoint to  391
+{0} processCheckpoints, checkpointNum:  391
+17:07:37.643  Sending benchmark results to server.
+17:07:37.643  -- Node 0
+block-execute   	avg: 75.75ms, max: 103.99ms, count: 1450
+current-episode 	value: 392
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 392199
+message-process 	avg: 12.70ms, max: 68.14ms, count: 23419
+proposal (since-start)	count: 392209
+request-queue   	avg: 19.99ms, max: 68.26ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 392: protocol = prime , throughput = 4815.54req/s , epi
+sode time = 2.07661s, overall time = 821.8293769359589s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  392
+{0} processCheckpoints, checkpointNum:  392
+{0} Update last stable checkpoint to  392
+{0} processCheckpoints, checkpointNum:  392
+17:07:40.652  Sending benchmark results to server.
+17:07:40.652  -- Node 0
+block-execute   	avg: 75.78ms, max: 103.67ms, count: 1450
+current-episode 	value: 393
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 393649
+message-process 	avg: 13.12ms, max: 61.85ms, count: 23293
+proposal (since-start)	count: 393663
+request-queue   	avg: 20.91ms, max: 62.03ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 393: protocol = prime , throughput = 4817.47req/s , epi
+sode time = 2.0757804s, overall time = 823.905157327652s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  393
+{0} processCheckpoints, checkpointNum:  393
+{0} Update last stable checkpoint to  393
+{0} processCheckpoints, checkpointNum:  393
+[EPISODE REPORT] episode 394: protocol = prime , throughput = 4808.65req/s , epi
+sode time = 2.079586s, overall time = 825.9847433567047s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  394
+{0} processCheckpoints, checkpointNum:  394
+{0} Update last stable checkpoint to  394
+{0} processCheckpoints, checkpointNum:  394
+17:07:43.655  Sending benchmark results to server.
+17:07:43.661  -- Node 0
+block-execute   	avg: 75.24ms, max: 104.02ms, count: 1450
+current-episode 	value: 395
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 395099
+message-process 	avg: 13.38ms, max: 60.56ms, count: 23146
+proposal (since-start)	count: 395104
+request-queue   	avg: 20.95ms, max: 60.78ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 395: protocol = prime , throughput = 4835.34req/s , epi
+sode time = 2.0681057s, overall time = 828.0528490543365s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  395
+{0} processCheckpoints, checkpointNum:  395
+{0} Update last stable checkpoint to  395
+{0} processCheckpoints, checkpointNum:  395
+17:07:46.648  Sending benchmark results to server.
+17:07:46.648  -- Node 0
+block-execute   	avg: 71.47ms, max: 105.50ms, count: 1450
+current-episode 	value: 396
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 396499
+message-process 	avg: 15.20ms, max: 69.21ms, count: 23464
+proposal (since-start)	count: 396550
+request-queue   	avg: 24.01ms, max: 69.41ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  396
+{0} processCheckpoints, checkpointNum:  396
+{0} Update last stable checkpoint to  396
+[EPISODE REPORT] episode 396: protocol = prime , throughput = 4191.54req/s , epi
+sode time = 2.3857567s, overall time = 830.4386057853699s
+{0} processCheckpoints, checkpointNum:  396
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:07:49.650  Sending benchmark results to server.
+17:07:49.650  -- Node 0
+block-execute   	avg: 73.80ms, max: 180.58ms, count: 1288
+current-episode 	value: 397
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 397788
+message-process 	avg: 19.95ms, max: 142.78ms, count: 20819
+proposal (since-start)	count: 397838
+request-queue   	avg: 30.96ms, max: 153.15ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 397: protocol = prime , throughput = 4597.40req/s , epi
+sode time = 2.1751404s, overall time = 832.6137461662292s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  397
+{0} processCheckpoints, checkpointNum:  397
+{0} Update last stable checkpoint to  397
+{0} processCheckpoints, checkpointNum:  397
+[EPISODE REPORT] episode 398: protocol = prime , throughput = 4583.17req/s , epi
+sode time = 2.1818976s, overall time = 834.7956438064575s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  398
+{0} processCheckpoints, checkpointNum:  398
+{0} Update last stable checkpoint to  398
+{0} processCheckpoints, checkpointNum:  398
+17:07:52.655  Sending benchmark results to server.
+17:07:52.655  -- Node 0
+block-execute   	avg: 72.92ms, max: 105.91ms, count: 1407
+current-episode 	value: 399
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 399149
+message-process 	avg: 14.41ms, max: 67.72ms, count: 22716
+proposal (since-start)	count: 399200
+request-queue   	avg: 23.16ms, max: 143.65ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  399
+{0} processCheckpoints, checkpointNum:  399
+{0} Update last stable checkpoint to  399
+[EPISODE REPORT] episode 399: protocol = prime , throughput = 4851.78req/s , epi
+sode time = 2.061098s, overall time = 836.8567419052124s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  399
+17:07:55.657  Sending benchmark results to server.
+17:07:55.657  -- Node 0
+block-execute   	avg: 76.31ms, max: 103.74ms, count: 1405
+current-episode 	value: 400
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 400599
+message-process 	avg: 12.70ms, max: 50.48ms, count: 22706
+proposal (since-start)	count: 400650
+request-queue   	avg: 20.51ms, max: 145.54ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 400: protocol = prime , throughput = 4799.37req/s , epi
+sode time = 2.083607s, overall time = 838.9403488636017s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  400
+{0} processCheckpoints, checkpointNum:  400
+{0} Update last stable checkpoint to  400
+{0} processCheckpoints, checkpointNum:  400
+[EPISODE REPORT] episode 401: protocol = prime , throughput = 4811.26req/s , epi
+sode time = 2.0784569s, overall time = 841.0188057422638s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  401
+{0} processCheckpoints, checkpointNum:  401
+{0} Update last stable checkpoint to  401
+{0} processCheckpoints, checkpointNum:  401
+17:07:58.661  Sending benchmark results to server.
+17:07:58.661  -- Node 0
+block-execute   	avg: 76.27ms, max: 103.97ms, count: 1400
+current-episode 	value: 402
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 402049
+message-process 	avg: 12.83ms, max: 48.12ms, count: 23380
+proposal (since-start)	count: 402100
+request-queue   	avg: 20.38ms, max: 48.17ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 402: protocol = prime , throughput = 4581.24req/s , epi
+sode time = 2.1828132s, overall time = 843.2016189098358s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  402
+{0} processCheckpoints, checkpointNum:  402
+{0} Update last stable checkpoint to  402
+{0} processCheckpoints, checkpointNum:  402
+17:08:01.665  Sending benchmark results to server.
+17:08:01.666  -- Node 0
+block-execute   	avg: 73.18ms, max: 116.46ms, count: 1439
+current-episode 	value: 403
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 403439
+message-process 	avg: 15.07ms, max: 98.78ms, count: 23285
+proposal (since-start)	count: 403490
+request-queue   	avg: 23.36ms, max: 98.89ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 403: protocol = prime , throughput = 4568.56req/s , epi
+sode time = 2.1888757s, overall time = 845.3904945850372s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  403
+{0} processCheckpoints, checkpointNum:  403
+{0} Update last stable checkpoint to  403
+{0} processCheckpoints, checkpointNum:  403
+17:08:04.670  Sending benchmark results to server.
+17:08:04.671  -- Node 0
+block-execute   	avg: 75.51ms, max: 106.63ms, count: 1361
+current-episode 	value: 404
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 404849
+message-process 	avg: 14.05ms, max: 98.60ms, count: 22030
+proposal (since-start)	count: 404900
+request-queue   	avg: 22.33ms, max: 138.34ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  404
+{0} processCheckpoints, checkpointNum:  404
+{0} Update last stable checkpoint to  404
+{0} processCheckpoints, checkpointNum:  404
+[EPISODE REPORT] episode 404: protocol = prime , throughput = 4825.93req/s , epi
+sode time = 2.0721393s, overall time = 847.4626338481903s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 405: protocol = prime , throughput = 4818.18req/s , epi
+sode time = 2.0754724s, overall time = 849.5381062030792s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  405
+{0} processCheckpoints, checkpointNum:  405
+{0} Update last stable checkpoint to  405
+{0} processCheckpoints, checkpointNum:  405
+17:08:07.672  Sending benchmark results to server.
+17:08:07.672  -- Node 0
+block-execute   	avg: 74.74ms, max: 105.26ms, count: 1450
+current-episode 	value: 406
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 406299
+message-process 	avg: 13.62ms, max: 53.42ms, count: 23468
+proposal (since-start)	count: 406350
+request-queue   	avg: 21.51ms, max: 53.52ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  406
+{0} processCheckpoints, checkpointNum:  406
+{0} Update last stable checkpoint to  406
+{0} processCheckpoints, checkpointNum:  406
+[EPISODE REPORT] episode 406: protocol = prime , throughput = 4809.65req/s , epi
+sode time = 2.0791514s, overall time = 851.6172575950623s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:10.677  Sending benchmark results to server.
+17:08:10.677  -- Node 0
+block-execute   	avg: 75.65ms, max: 104.98ms, count: 1450
+current-episode 	value: 407
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 407749
+message-process 	avg: 12.97ms, max: 50.02ms, count: 23439
+proposal (since-start)	count: 407800
+request-queue   	avg: 20.33ms, max: 52.41ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  407
+{0} processCheckpoints, checkpointNum:  407
+{0} Update last stable checkpoint to  407
+[EPISODE REPORT] episode 407: protocol = prime , throughput = 4836.65req/s , epi
+sode time = 2.0675452s, overall time = 853.6848027706146s
+{0} processCheckpoints, checkpointNum:  407
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  408
+{0} processCheckpoints, checkpointNum:  408
+{0} Update last stable checkpoint to  408
+{0} processCheckpoints, checkpointNum:  408
+[EPISODE REPORT] episode 408: protocol = prime , throughput = 4810.80req/s , epi
+sode time = 2.0786564s, overall time = 855.7634592056274s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:13.680  Sending benchmark results to server.
+17:08:13.680  -- Node 0
+block-execute   	avg: 75.96ms, max: 105.68ms, count: 1450
+current-episode 	value: 409
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 409199
+message-process 	avg: 13.05ms, max: 51.76ms, count: 23092
+proposal (since-start)	count: 409241
+request-queue   	avg: 20.51ms, max: 51.84ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 409: protocol = prime , throughput = 4843.93req/s , epi
+sode time = 2.0644407s, overall time = 857.8278999328613s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  409
+{0} Update last stable checkpoint to  409
+{0} processCheckpoints, checkpointNum:  409
+{0} processCheckpoints, checkpointNum:  409
+17:08:16.682  Sending benchmark results to server.
+17:08:16.684  -- Node 0
+block-execute   	avg: 72.92ms, max: 103.74ms, count: 1450
+current-episode 	value: 410
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 410649
+message-process 	avg: 14.09ms, max: 59.61ms, count: 23656
+proposal (since-start)	count: 410684
+request-queue   	avg: 22.13ms, max: 59.81ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  410
+{0} processCheckpoints, checkpointNum:  410
+{0} Update last stable checkpoint to  410
+{0} processCheckpoints, checkpointNum:  410
+[EPISODE REPORT] episode 410: protocol = prime , throughput = 4793.93req/s , epi
+sode time = 2.085971s, overall time = 859.913871049881s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  411
+{0} processCheckpoints, checkpointNum:  411
+{0} Update last stable checkpoint to  411
+[EPISODE REPORT] episode 411: protocol = prime , throughput = 4590.55req/s , epi
+sode time = 2.178387s, overall time = 862.092257976532s
+{0} processCheckpoints, checkpointNum:  411
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:19.686  Sending benchmark results to server.
+17:08:19.688  -- Node 0
+block-execute   	avg: 74.63ms, max: 103.96ms, count: 1450
+current-episode 	value: 412
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 412049
+message-process 	avg: 14.04ms, max: 75.69ms, count: 23088
+proposal (since-start)	count: 412082
+request-queue   	avg: 22.04ms, max: 75.84ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  412
+{0} Update last stable checkpoint to  412
+{0} processCheckpoints, checkpointNum:  412
+[EPISODE REPORT] episode 412: protocol = prime , throughput = 4839.03req/s , epi
+sode time = 2.0665317s, overall time = 864.1587896347046s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  412
+17:08:22.690  Sending benchmark results to server.
+17:08:22.691  -- Node 0
+block-execute   	avg: 74.29ms, max: 129.87ms, count: 1400
+current-episode 	value: 413
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 413499
+message-process 	avg: 15.14ms, max: 109.67ms, count: 22451
+proposal (since-start)	count: 413532
+request-queue   	avg: 23.63ms, max: 116.17ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  413
+{0} processCheckpoints, checkpointNum:  413
+{0} Update last stable checkpoint to  413
+{0} processCheckpoints, checkpointNum:  413
+[EPISODE REPORT] episode 413: protocol = prime , throughput = 4792.57req/s , epi
+sode time = 2.0865643s, overall time = 866.245353937149s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:25.695  Sending benchmark results to server.
+17:08:25.695  -- Node 0
+block-execute   	avg: 74.22ms, max: 104.18ms, count: 1400
+current-episode 	value: 414
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 414949
+message-process 	avg: 14.15ms, max: 65.72ms, count: 23431
+proposal (since-start)	count: 414975
+request-queue   	avg: 22.06ms, max: 65.86ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 414: protocol = prime , throughput = 4840.15req/s , epi
+sode time = 2.0660496s, overall time = 868.3114035129547s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  414
+{0} processCheckpoints, checkpointNum:  414
+{0} Update last stable checkpoint to  414
+{0} processCheckpoints, checkpointNum:  414
+[EPISODE REPORT] episode 415: protocol = prime , throughput = 4841.63req/s , epi
+sode time = 2.065421s, overall time = 870.3768246173859s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  415
+{0} processCheckpoints, checkpointNum:  415
+{0} Update last stable checkpoint to  415
+{0} processCheckpoints, checkpointNum:  415
+17:08:28.700  Sending benchmark results to server.
+17:08:28.701  -- Node 0
+block-execute   	avg: 75.55ms, max: 103.85ms, count: 1500
+current-episode 	value: 416
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 416399
+message-process 	avg: 12.78ms, max: 48.70ms, count: 23567
+proposal (since-start)	count: 416431
+request-queue   	avg: 20.24ms, max: 48.86ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 416: protocol = prime , throughput = 4819.41req/s , epi
+sode time = 2.0749445s, overall time = 872.4517691135406s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  416
+{0} processCheckpoints, checkpointNum:  416
+{0} Update last stable checkpoint to  416
+{0} processCheckpoints, checkpointNum:  416
+17:08:31.700  Sending benchmark results to server.
+17:08:31.700  -- Node 0
+block-execute   	avg: 74.84ms, max: 104.30ms, count: 1400
+current-episode 	value: 417
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 417849
+message-process 	avg: 13.41ms, max: 66.30ms, count: 23355
+proposal (since-start)	count: 417873
+request-queue   	avg: 21.18ms, max: 66.38ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 417: protocol = prime , throughput = 4829.96req/s , epi
+sode time = 2.0704126s, overall time = 874.5221817493439s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  417
+{0} processCheckpoints, checkpointNum:  417
+{0} Update last stable checkpoint to  417
+{0} processCheckpoints, checkpointNum:  417
+[EPISODE REPORT] episode 418: protocol = prime , throughput = 4822.51req/s , epi
+sode time = 2.0736089s, overall time = 876.5957906246185s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  418
+{0} processCheckpoints, checkpointNum:  418
+{0} Update last stable checkpoint to  418
+{0} processCheckpoints, checkpointNum:  418
+17:08:34.707  Sending benchmark results to server.
+17:08:34.712  -- Node 0
+block-execute   	avg: 66.98ms, max: 104.63ms, count: 1450
+current-episode 	value: 419
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 419299
+message-process 	avg: 17.68ms, max: 68.35ms, count: 23461
+proposal (since-start)	count: 419316
+request-queue   	avg: 27.06ms, max: 68.54ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 419: protocol = prime , throughput = 4826.69req/s , epi
+sode time = 2.0718122s, overall time = 878.6676027774811s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  419
+{0} processCheckpoints, checkpointNum:  419
+{0} Update last stable checkpoint to  419
+{0} processCheckpoints, checkpointNum:  419
+17:08:37.717  Sending benchmark results to server.
+17:08:37.717  -- Node 0
+block-execute   	avg: 69.22ms, max: 105.18ms, count: 1447
+current-episode 	value: 420
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 420746
+message-process 	avg: 16.35ms, max: 83.09ms, count: 23413
+proposal (since-start)	count: 420772
+request-queue   	avg: 25.68ms, max: 83.22ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  420
+{0} processCheckpoints, checkpointNum:  420
+{0} Update last stable checkpoint to  420
+{0} processCheckpoints, checkpointNum:  420
+[EPISODE REPORT] episode 420: protocol = prime , throughput = 4589.45req/s , epi
+sode time = 2.1789103s, overall time = 880.8465130329132s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+[EPISODE REPORT] episode 421: protocol = prime , throughput = 4821.97req/s , epi
+sode time = 2.0738392s, overall time = 882.9203522205353s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  421
+{0} processCheckpoints, checkpointNum:  421
+{0} Update last stable checkpoint to  421
+{0} processCheckpoints, checkpointNum:  421
+17:08:40.719  Sending benchmark results to server.
+17:08:40.721  -- Node 0
+block-execute   	avg: 70.47ms, max: 104.94ms, count: 1403
+current-episode 	value: 422
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 422149
+message-process 	avg: 16.31ms, max: 69.48ms, count: 22709
+proposal (since-start)	count: 422161
+request-queue   	avg: 25.61ms, max: 155.53ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 422: protocol = prime , throughput = 4397.04req/s , epi
+sode time = 2.274259s, overall time = 885.1946113109589s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  422
+{0} processCheckpoints, checkpointNum:  422
+{0} Update last stable checkpoint to  422
+{0} processCheckpoints, checkpointNum:  422
+17:08:43.726  Sending benchmark results to server.
+17:08:43.727  -- Node 0
+block-execute   	avg: 69.38ms, max: 137.19ms, count: 1391
+current-episode 	value: 423
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 423462
+message-process 	avg: 19.02ms, max: 147.93ms, count: 22517
+proposal (since-start)	count: 423483
+request-queue   	avg: 28.88ms, max: 147.99ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  423
+{0} processCheckpoints, checkpointNum:  423
+{0} Update last stable checkpoint to  423
+{0} processCheckpoints, checkpointNum:  423
+[EPISODE REPORT] episode 423: protocol = prime , throughput = 4583.11req/s , epi
+sode time = 2.1819227s, overall time = 887.3765339851379s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+17:08:46.729  Sending benchmark results to server.
+17:08:46.730  -- Node 0
+block-execute   	avg: 76.15ms, max: 184.51ms, count: 1359
+current-episode 	value: 424
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 424899
+message-process 	avg: 15.43ms, max: 138.20ms, count: 22005
+proposal (since-start)	count: 424910
+request-queue   	avg: 23.63ms, max: 203.18ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 424: protocol = prime , throughput = 4825.77req/s , epi
+sode time = 2.0722096s, overall time = 889.4487435817719s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  424
+{0} processCheckpoints, checkpointNum:  424
+{0} Update last stable checkpoint to  424
+{0} processCheckpoints, checkpointNum:  424
+[EPISODE REPORT] episode 425: protocol = prime , throughput = 4382.44req/s , epi
+sode time = 2.2818322s, overall time = 891.730575799942s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  425
+{0} Update last stable checkpoint to  425
+{0} processCheckpoints, checkpointNum:  425
+{0} processCheckpoints, checkpointNum:  425
+17:08:49.733  Sending benchmark results to server.
+17:08:49.734  -- Node 0
+block-execute   	avg: 73.54ms, max: 218.03ms, count: 1367
+current-episode 	value: 426
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 426249
+message-process 	avg: 19.04ms, max: 221.19ms, count: 21886
+proposal (since-start)	count: 426264
+request-queue   	avg: 28.14ms, max: 221.39ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 426: protocol = prime , throughput = 4817.09req/s , epi
+sode time = 2.075942s, overall time = 893.8065178394318s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  426
+{0} processCheckpoints, checkpointNum:  426
+{0} Update last stable checkpoint to  426
+{0} processCheckpoints, checkpointNum:  426
+17:08:52.729  Sending benchmark results to server.
+17:08:52.731  -- Node 0
+block-execute   	avg: 70.28ms, max: 104.88ms, count: 1433
+current-episode 	value: 427
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 427615
+message-process 	avg: 15.83ms, max: 58.36ms, count: 23005
+proposal (since-start)	count: 427616
+request-queue   	avg: 24.15ms, max: 111.28ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 427: protocol = prime , throughput = 3994.87req/s , epi
+sode time = 2.503211s, overall time = 896.3097288608551s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  427
+{0} processCheckpoints, checkpointNum:  427
+{0} Update last stable checkpoint to  427
+{0} processCheckpoints, checkpointNum:  427
+17:08:55.730  Sending benchmark results to server.
+17:08:55.731  -- Node 0
+block-execute   	avg: 66.33ms, max: 216.00ms, count: 1224
+current-episode 	value: 428
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 428923
+message-process 	avg: 29.34ms, max: 212.66ms, count: 19987
+proposal (since-start)	count: 428927
+request-queue   	avg: 43.77ms, max: 212.88ms
+slow-path       	ratio: 0.00
+
+
+{0} processCheckpoints, checkpointNum:  428
+[EPISODE REPORT] episode 428: protocol = prime , throughput = 4626.24req/s , epi
+sode time = 2.161584s, overall time = 898.4713127613068s
+{0} nextProtocol = prime
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  428
+{0} Update last stable checkpoint to  428
+{0} processCheckpoints, checkpointNum:  428
+^C*** shutting down gRPC server since JVM is shutting down
+*** server shut down
+jaywang@Jays-MacBook-Pro code %

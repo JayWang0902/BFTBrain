@@ -1,0 +1,1913 @@
+current-protocol	value: prime
+last-executed-sequence	num: 137195
+request-execute 	avg: 106.84ms, max: 185.98ms, count: 13890
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4630.00req/s
+
+
+16:27:21.405  Sending benchmark results to server.
+16:27:21.405  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 138595
+request-execute 	avg: 107.18ms, max: 198.44ms, count: 13820
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4606.67req/s
+
+
+16:27:24.408  Sending benchmark results to server.
+16:27:24.416  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 140038
+request-execute 	avg: 102.63ms, max: 127.79ms, count: 14180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4726.67req/s
+
+
+16:27:27.412  Sending benchmark results to server.
+16:27:27.413  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 141384
+request-execute 	avg: 104.48ms, max: 188.97ms, count: 14220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4740.00req/s
+
+
+16:27:30.413  Sending benchmark results to server.
+16:27:30.413  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 142787
+request-execute 	avg: 106.48ms, max: 187.80ms, count: 13920
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4640.00req/s
+
+
+16:27:33.416  Sending benchmark results to server.
+16:27:33.417  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 144203
+request-execute 	avg: 105.56ms, max: 200.79ms, count: 13690
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4563.33req/s
+
+
+16:27:36.419  Sending benchmark results to server.
+16:27:36.420  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 145623
+request-execute 	avg: 103.89ms, max: 180.79ms, count: 13950
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4650.00req/s
+
+
+16:27:39.424  Sending benchmark results to server.
+16:27:39.428  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 146973
+request-execute 	avg: 105.22ms, max: 200.97ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+16:27:42.426  Sending benchmark results to server.
+16:27:42.427  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 148383
+request-execute 	avg: 106.09ms, max: 187.37ms, count: 14100
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4700.00req/s
+
+
+16:27:45.432  Sending benchmark results to server.
+16:27:45.432  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 149795
+request-execute 	avg: 102.75ms, max: 120.35ms, count: 14120
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4706.67req/s
+
+
+16:27:48.436  Sending benchmark results to server.
+16:27:48.437  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 151222
+request-execute 	avg: 106.99ms, max: 198.21ms, count: 13770
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4590.00req/s
+
+
+16:27:51.440  Sending benchmark results to server.
+16:27:51.441  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 152672
+request-execute 	avg: 101.45ms, max: 116.04ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+16:27:54.445  Sending benchmark results to server.
+16:27:54.445  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 154117
+request-execute 	avg: 103.90ms, max: 147.65ms, count: 14450
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4816.67req/s
+
+
+16:27:57.448  Sending benchmark results to server.
+16:27:57.449  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 155517
+request-execute 	avg: 102.28ms, max: 123.41ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+16:28:00.454  Sending benchmark results to server.
+16:28:00.454  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 156944
+request-execute 	avg: 105.27ms, max: 199.22ms, count: 14040
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4680.00req/s
+
+
+16:28:03.460  Sending benchmark results to server.
+16:28:03.460  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 158248
+request-execute 	avg: 116.62ms, max: 299.52ms, count: 12770
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4256.67req/s
+
+
+16:28:06.464  Sending benchmark results to server.
+16:28:06.465  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 159693
+request-execute 	avg: 103.58ms, max: 126.62ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+16:28:09.468  Sending benchmark results to server.
+16:28:09.469  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 161093
+request-execute 	avg: 104.26ms, max: 178.39ms, count: 14280
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4760.00req/s
+
+
+16:28:12.474  Sending benchmark results to server.
+16:28:12.475  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 162543
+request-execute 	avg: 103.74ms, max: 119.53ms, count: 14170
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4723.33req/s
+
+
+16:28:15.478  Sending benchmark results to server.
+16:28:15.478  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 163993
+request-execute 	avg: 102.97ms, max: 123.93ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+16:28:18.482  Sending benchmark results to server.
+16:28:18.483  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 165443
+request-execute 	avg: 103.39ms, max: 120.83ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+16:28:21.488  Sending benchmark results to server.
+16:28:21.489  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 166893
+request-execute 	avg: 103.63ms, max: 117.92ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+16:28:24.494  Sending benchmark results to server.
+16:28:24.495  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 168297
+request-execute 	avg: 104.24ms, max: 119.28ms, count: 14000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4666.67req/s
+
+
+16:28:27.494  Sending benchmark results to server.
+16:28:27.495  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 169743
+request-execute 	avg: 103.55ms, max: 115.68ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+16:28:30.502  Sending benchmark results to server.
+16:28:30.503  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 171165
+request-execute 	avg: 105.97ms, max: 204.39ms, count: 14220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4740.00req/s
+
+
+16:28:33.505  Sending benchmark results to server.
+16:28:33.505  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 172583
+request-execute 	avg: 106.00ms, max: 174.11ms, count: 14180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4726.67req/s
+
+
+16:28:36.510  Sending benchmark results to server.
+16:28:36.511  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 174031
+request-execute 	avg: 102.79ms, max: 178.52ms, count: 14480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4826.67req/s
+
+
+16:28:39.511  Sending benchmark results to server.
+16:28:39.512  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 175481
+request-execute 	avg: 103.64ms, max: 117.95ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+16:28:42.512  Sending benchmark results to server.
+16:28:42.513  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 176896
+request-execute 	avg: 106.21ms, max: 169.02ms, count: 13650
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4550.00req/s
+
+
+16:28:45.516  Sending benchmark results to server.
+16:28:45.517  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 178337
+request-execute 	avg: 103.55ms, max: 118.17ms, count: 14500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4833.33req/s
+
+
+16:28:48.519  Sending benchmark results to server.
+16:28:48.520  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 179737
+request-execute 	avg: 103.85ms, max: 192.16ms, count: 14410
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4803.33req/s
+
+
+16:28:51.521  Sending benchmark results to server.
+16:28:51.521  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 181117
+request-execute 	avg: 108.55ms, max: 189.17ms, count: 13800
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4600.00req/s
+
+
+16:28:54.526  Sending benchmark results to server.
+16:28:54.526  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 182562
+request-execute 	avg: 103.94ms, max: 168.81ms, count: 14450
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4816.67req/s
+
+
+16:28:57.531  Sending benchmark results to server.
+16:28:57.532  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 184012
+request-execute 	avg: 103.84ms, max: 126.11ms, count: 14160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4720.00req/s
+
+
+16:29:00.535  Sending benchmark results to server.
+16:29:00.537  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 185266
+request-execute 	avg: 106.95ms, max: 214.44ms, count: 13850
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4616.67req/s
+
+
+16:29:03.538  Sending benchmark results to server.
+16:29:03.540  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 186652
+request-execute 	avg: 117.06ms, max: 362.47ms, count: 12490
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4163.33req/s
+
+
+16:29:06.540  Sending benchmark results to server.
+16:29:06.542  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 188029
+request-execute 	avg: 106.22ms, max: 191.41ms, count: 14220
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4740.00req/s
+
+
+16:29:09.541  Sending benchmark results to server.
+16:29:09.542  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 189428
+request-execute 	avg: 107.72ms, max: 262.90ms, count: 13500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4500.00req/s
+
+
+16:29:12.546  Sending benchmark results to server.
+16:29:12.547  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 190852
+request-execute 	avg: 108.61ms, max: 198.67ms, count: 14180
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4726.67req/s
+
+
+16:29:15.559  Sending benchmark results to server.
+16:29:15.560  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 192183
+request-execute 	avg: 111.98ms, max: 299.05ms, count: 13310
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4436.67req/s
+
+
+16:29:18.561  Sending benchmark results to server.
+16:29:18.566  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 193513
+request-execute 	avg: 109.90ms, max: 203.38ms, count: 13660
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4553.33req/s
+
+
+16:29:21.559  Sending benchmark results to server.
+16:29:21.562  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 194878
+request-execute 	avg: 108.43ms, max: 187.09ms, count: 13750
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4583.33req/s
+
+
+16:29:24.567  Sending benchmark results to server.
+16:29:24.570  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 196273
+request-execute 	avg: 107.38ms, max: 197.11ms, count: 13990
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4663.33req/s
+
+
+16:29:27.570  Sending benchmark results to server.
+16:29:27.571  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 197560
+request-execute 	avg: 115.60ms, max: 491.69ms, count: 12370
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4123.33req/s
+
+
+16:29:30.572  Sending benchmark results to server.
+16:29:30.573  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 198972
+request-execute 	avg: 107.14ms, max: 199.49ms, count: 14120
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4706.67req/s
+
+
+16:29:33.573  Sending benchmark results to server.
+16:29:33.576  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 200392
+request-execute 	avg: 104.82ms, max: 195.45ms, count: 14290
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4763.33req/s
+
+
+16:29:36.577  Sending benchmark results to server.
+16:29:36.579  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 201832
+request-execute 	avg: 104.14ms, max: 195.65ms, count: 14320
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4773.33req/s
+
+
+16:29:39.582  Sending benchmark results to server.
+16:29:39.584  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 203172
+request-execute 	avg: 111.52ms, max: 212.98ms, count: 13390
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4463.33req/s
+
+
+16:29:42.595  Sending benchmark results to server.
+16:29:42.598  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 204520
+request-execute 	avg: 110.50ms, max: 209.00ms, count: 13400
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4466.67req/s
+
+
+16:29:45.595  Sending benchmark results to server.
+16:29:45.597  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 205890
+request-execute 	avg: 108.25ms, max: 206.45ms, count: 13780
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4593.33req/s
+
+
+16:29:48.595  Sending benchmark results to server.
+16:29:48.598  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 207269
+request-execute 	avg: 106.71ms, max: 202.30ms, count: 13630
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4543.33req/s
+
+
+16:29:51.652  Sending benchmark results to server.
+16:29:51.664  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 208638
+request-execute 	avg: 106.43ms, max: 198.80ms, count: 14330
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4776.67req/s
+
+
+16:29:54.613  Sending benchmark results to server.
+16:29:54.614  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 209995
+request-execute 	avg: 115.27ms, max: 208.93ms, count: 12740
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4246.67req/s
+
+
+16:29:57.611  Sending benchmark results to server.
+16:29:57.612  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 211377
+request-execute 	avg: 105.34ms, max: 197.76ms, count: 14030
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4676.67req/s
+
+
+16:30:00.615  Sending benchmark results to server.
+16:30:00.617  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 212757
+request-execute 	avg: 107.66ms, max: 200.04ms, count: 13940
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4646.67req/s
+
+
+16:30:03.618  Sending benchmark results to server.
+16:30:03.620  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 214130
+request-execute 	avg: 105.98ms, max: 193.35ms, count: 14130
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4710.00req/s
+
+
+16:30:06.622  Sending benchmark results to server.
+16:30:06.625  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 215519
+request-execute 	avg: 110.45ms, max: 206.55ms, count: 13140
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4380.00req/s
+
+
+16:30:09.623  Sending benchmark results to server.
+16:30:09.625  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 216894
+request-execute 	avg: 109.58ms, max: 190.17ms, count: 13900
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4633.33req/s
+
+
+16:30:12.629  Sending benchmark results to server.
+16:30:12.630  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 218330
+request-execute 	avg: 103.21ms, max: 193.05ms, count: 14140
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4713.33req/s
+
+
+16:30:15.632  Sending benchmark results to server.
+16:30:15.634  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 219732
+request-execute 	avg: 103.81ms, max: 175.21ms, count: 14450
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4816.67req/s
+
+
+16:30:18.635  Sending benchmark results to server.
+16:30:18.637  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 221150
+request-execute 	avg: 105.19ms, max: 188.73ms, count: 14260
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4753.33req/s
+
+
+16:30:21.639  Sending benchmark results to server.
+16:30:21.642  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 222545
+request-execute 	avg: 107.19ms, max: 197.12ms, count: 13360
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4453.33req/s
+
+
+16:30:24.643  Sending benchmark results to server.
+16:30:24.646  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 223948
+request-execute 	avg: 105.56ms, max: 201.50ms, count: 14200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4733.33req/s
+
+
+16:30:27.647  Sending benchmark results to server.
+16:30:27.650  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 225191
+request-execute 	avg: 110.86ms, max: 207.17ms, count: 13350
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4450.00req/s
+
+
+16:30:30.653  Sending benchmark results to server.
+16:30:30.655  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 226452
+request-execute 	avg: 126.43ms, max: 298.73ms, count: 11790
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3930.00req/s
+
+
+16:30:33.657  Sending benchmark results to server.
+16:30:33.662  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 227644
+request-execute 	avg: 116.28ms, max: 204.66ms, count: 12710
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4236.67req/s
+
+
+16:30:36.652  Sending benchmark results to server.
+16:30:36.656  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 228835
+request-execute 	avg: 133.53ms, max: 303.91ms, count: 11100
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3700.00req/s
+
+
+16:30:39.658  Sending benchmark results to server.
+16:30:39.661  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 230058
+request-execute 	avg: 115.77ms, max: 299.46ms, count: 12950
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4316.67req/s
+
+
+16:30:42.657  Sending benchmark results to server.
+16:30:42.659  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 231356
+request-execute 	avg: 119.83ms, max: 207.37ms, count: 12620
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4206.67req/s
+
+
+16:30:45.664  Sending benchmark results to server.
+16:30:45.666  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 232673
+request-execute 	avg: 110.96ms, max: 302.04ms, count: 13250
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4416.67req/s
+
+
+16:30:48.665  Sending benchmark results to server.
+16:30:48.667  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 234083
+request-execute 	avg: 108.44ms, max: 195.60ms, count: 13430
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4476.67req/s
+
+
+16:30:51.676  Sending benchmark results to server.
+16:30:51.687  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 235186
+request-execute 	avg: 111.49ms, max: 226.76ms, count: 13330
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4443.33req/s
+
+
+16:30:54.667  Sending benchmark results to server.
+16:30:54.671  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 236176
+request-execute 	avg: 195.92ms, max: 406.44ms, count: 7640
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2546.67req/s
+
+
+16:30:57.674  Sending benchmark results to server.
+16:30:57.678  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 237255
+request-execute 	avg: 116.19ms, max: 278.46ms, count: 12790
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4263.33req/s
+
+
+16:31:00.679  Sending benchmark results to server.
+16:31:00.680  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 238550
+request-execute 	avg: 135.74ms, max: 306.74ms, count: 10890
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3630.00req/s
+
+
+16:31:03.683  Sending benchmark results to server.
+16:31:03.685  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 239797
+request-execute 	avg: 107.03ms, max: 225.17ms, count: 13640
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4546.67req/s
+
+
+16:31:06.684  Sending benchmark results to server.
+16:31:06.685  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 241051
+request-execute 	avg: 124.75ms, max: 276.00ms, count: 11850
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3950.00req/s
+
+
+16:31:09.697  Sending benchmark results to server.
+16:31:09.699  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 242197
+request-execute 	avg: 118.86ms, max: 295.58ms, count: 12590
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4196.67req/s
+
+
+16:31:12.696  Sending benchmark results to server.
+16:31:12.698  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 243291
+request-execute 	avg: 154.10ms, max: 333.53ms, count: 9670
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3223.33req/s
+
+
+16:31:15.695  Sending benchmark results to server.
+16:31:15.699  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 244549
+request-execute 	avg: 114.22ms, max: 206.62ms, count: 12930
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4310.00req/s
+
+
+16:31:18.698  Sending benchmark results to server.
+16:31:18.700  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 245712
+request-execute 	avg: 126.96ms, max: 216.60ms, count: 11920
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3973.33req/s
+
+
+16:31:21.701  Sending benchmark results to server.
+16:31:21.703  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 247046
+request-execute 	avg: 115.98ms, max: 296.47ms, count: 12730
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4243.33req/s
+
+
+16:31:24.703  Sending benchmark results to server.
+16:31:24.703  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 248257
+request-execute 	avg: 115.72ms, max: 294.38ms, count: 12610
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4203.33req/s
+
+
+16:31:27.722  Sending benchmark results to server.
+16:31:27.728  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 249395
+request-execute 	avg: 139.77ms, max: 356.86ms, count: 10710
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3570.00req/s
+
+
+16:31:30.710  Sending benchmark results to server.
+16:31:30.712  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 250594
+request-execute 	avg: 123.16ms, max: 366.43ms, count: 12070
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4023.33req/s
+
+
+16:31:33.720  Sending benchmark results to server.
+16:31:33.723  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 251850
+request-execute 	avg: 113.67ms, max: 230.82ms, count: 12910
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4303.33req/s
+
+
+16:31:36.714  Sending benchmark results to server.
+16:31:36.717  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 253131
+request-execute 	avg: 123.33ms, max: 287.81ms, count: 12140
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4046.67req/s
+
+
+16:31:39.749  Sending benchmark results to server.
+16:31:39.751  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 254120
+request-execute 	avg: 125.43ms, max: 307.90ms, count: 11070
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3690.00req/s
+
+
+16:31:42.734  Sending benchmark results to server.
+16:31:42.739  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 255047
+request-execute 	avg: 165.75ms, max: 438.31ms, count: 9190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3063.33req/s
+
+
+16:31:45.730  Sending benchmark results to server.
+16:31:45.733  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 256015
+request-execute 	avg: 157.18ms, max: 320.47ms, count: 9350
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3116.67req/s
+
+
+16:31:48.733  Sending benchmark results to server.
+16:31:48.735  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 256917
+request-execute 	avg: 153.88ms, max: 311.36ms, count: 9480
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3160.00req/s
+
+
+16:31:51.749  Sending benchmark results to server.
+16:31:51.759  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 257862
+request-execute 	avg: 178.79ms, max: 467.44ms, count: 8290
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2763.33req/s
+
+
+16:31:54.742  Sending benchmark results to server.
+16:31:54.746  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 258832
+request-execute 	avg: 150.98ms, max: 409.51ms, count: 10000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3333.33req/s
+
+
+16:31:57.762  Sending benchmark results to server.
+16:31:57.775  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 259702
+request-execute 	avg: 163.36ms, max: 437.29ms, count: 9090
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3030.00req/s
+
+
+16:32:00.763  Sending benchmark results to server.
+16:32:00.769  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 260699
+request-execute 	avg: 146.47ms, max: 365.60ms, count: 10160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3386.67req/s
+
+
+16:32:03.770  Sending benchmark results to server.
+16:32:03.774  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 261753
+request-execute 	avg: 144.18ms, max: 302.54ms, count: 10420
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3473.33req/s
+
+
+16:32:06.769  Sending benchmark results to server.
+16:32:06.777  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 262789
+request-execute 	avg: 144.20ms, max: 354.76ms, count: 10290
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3430.00req/s
+
+
+16:32:09.764  Sending benchmark results to server.
+16:32:09.767  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 264000
+request-execute 	avg: 123.98ms, max: 294.51ms, count: 12010
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4003.33req/s
+
+
+16:32:12.770  Sending benchmark results to server.
+16:32:12.775  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 265147
+request-execute 	avg: 125.04ms, max: 310.40ms, count: 11690
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3896.67req/s
+
+
+16:32:15.798  Sending benchmark results to server.
+16:32:15.803  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 266293
+request-execute 	avg: 133.93ms, max: 304.87ms, count: 11110
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3703.33req/s
+
+
+16:32:18.777  Sending benchmark results to server.
+16:32:18.780  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 267566
+request-execute 	avg: 120.99ms, max: 305.52ms, count: 12240
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4080.00req/s
+
+
+16:32:21.816  Sending benchmark results to server.
+16:32:21.829  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 268738
+request-execute 	avg: 123.58ms, max: 293.23ms, count: 11720
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3906.67req/s
+
+
+16:32:24.784  Sending benchmark results to server.
+16:32:24.788  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 269825
+request-execute 	avg: 142.30ms, max: 306.92ms, count: 10790
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3596.67req/s
+
+
+16:32:27.789  Sending benchmark results to server.
+16:32:27.792  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 270947
+request-execute 	avg: 129.05ms, max: 316.32ms, count: 11580
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3860.00req/s
+
+
+16:32:30.796  Sending benchmark results to server.
+16:32:30.798  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 272084
+request-execute 	avg: 130.47ms, max: 307.73ms, count: 11290
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3763.33req/s
+
+
+16:32:33.795  Sending benchmark results to server.
+16:32:33.797  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 273206
+request-execute 	avg: 125.70ms, max: 303.61ms, count: 11630
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3876.67req/s
+
+
+16:32:36.798  Sending benchmark results to server.
+16:32:36.801  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 274429
+request-execute 	avg: 128.75ms, max: 328.88ms, count: 11740
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3913.33req/s
+
+
+16:32:39.801  Sending benchmark results to server.
+16:32:39.803  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 275463
+request-execute 	avg: 124.24ms, max: 326.22ms, count: 12120
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4040.00req/s
+
+
+16:32:42.814  Sending benchmark results to server.
+16:32:42.819  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 276630
+request-execute 	avg: 134.08ms, max: 326.86ms, count: 11030
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3676.67req/s
+
+
+16:32:45.807  Sending benchmark results to server.
+16:32:45.810  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 277835
+request-execute 	avg: 131.23ms, max: 306.25ms, count: 11350
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3783.33req/s
+
+
+16:32:48.811  Sending benchmark results to server.
+16:32:48.814  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 278710
+request-execute 	avg: 148.38ms, max: 386.98ms, count: 9940
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3313.33req/s
+
+
+16:32:51.816  Sending benchmark results to server.
+16:32:51.818  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 279755
+request-execute 	avg: 153.38ms, max: 316.81ms, count: 9610
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3203.33req/s
+
+
+16:32:54.819  Sending benchmark results to server.
+16:32:54.823  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 280745
+request-execute 	avg: 164.93ms, max: 419.12ms, count: 9050
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3016.67req/s
+
+
+16:32:57.818  Sending benchmark results to server.
+16:32:57.822  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 281866
+request-execute 	avg: 129.50ms, max: 298.06ms, count: 11410
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3803.33req/s
+
+
+16:33:00.825  Sending benchmark results to server.
+16:33:00.834  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 282703
+request-execute 	avg: 144.25ms, max: 215.70ms, count: 10200
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3400.00req/s
+
+
+16:33:03.826  Sending benchmark results to server.
+16:33:03.831  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 283873
+request-execute 	avg: 148.36ms, max: 611.30ms, count: 9840
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3280.00req/s
+
+
+16:33:06.832  Sending benchmark results to server.
+16:33:06.835  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 285036
+request-execute 	avg: 124.89ms, max: 253.68ms, count: 11910
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3970.00req/s
+
+
+16:33:09.847  Sending benchmark results to server.
+16:33:09.849  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 286109
+request-execute 	avg: 137.07ms, max: 302.39ms, count: 10860
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3620.00req/s
+
+
+16:33:12.837  Sending benchmark results to server.
+16:33:12.840  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 287278
+request-execute 	avg: 131.15ms, max: 304.75ms, count: 11500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3833.33req/s
+
+
+16:33:15.835  Sending benchmark results to server.
+16:33:15.836  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 288479
+request-execute 	avg: 123.80ms, max: 227.84ms, count: 11960
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3986.67req/s
+
+
+16:33:18.839  Sending benchmark results to server.
+16:33:18.841  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 289531
+request-execute 	avg: 129.45ms, max: 214.71ms, count: 11240
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3746.67req/s
+
+
+16:33:21.846  Sending benchmark results to server.
+16:33:21.848  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 290656
+request-execute 	avg: 143.26ms, max: 311.13ms, count: 10460
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3486.67req/s
+
+
+16:33:24.845  Sending benchmark results to server.
+16:33:24.848  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 291816
+request-execute 	avg: 124.94ms, max: 214.47ms, count: 11730
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3910.00req/s
+
+
+16:33:27.857  Sending benchmark results to server.
+16:33:27.859  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 292995
+request-execute 	avg: 131.87ms, max: 308.91ms, count: 11410
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3803.33req/s
+
+
+16:33:30.857  Sending benchmark results to server.
+16:33:30.858  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 294233
+request-execute 	avg: 122.81ms, max: 295.75ms, count: 12000
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4000.00req/s
+
+
+16:33:33.858  Sending benchmark results to server.
+16:33:33.861  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 295431
+request-execute 	avg: 118.14ms, max: 295.27ms, count: 12370
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	4123.33req/s
+
+
+16:33:36.945  Sending benchmark results to server.
+16:33:36.947  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 296502
+request-execute 	avg: 141.34ms, max: 341.25ms, count: 10620
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3540.00req/s
+
+
+16:33:39.859  Sending benchmark results to server.
+16:33:39.861  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 297113
+request-execute 	avg: 201.87ms, max: 604.76ms, count: 7030
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2343.33req/s
+
+
+16:33:42.860  Sending benchmark results to server.
+16:33:42.863  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 298071
+request-execute 	avg: 163.60ms, max: 413.56ms, count: 9380
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3126.67req/s
+
+
+16:33:45.867  Sending benchmark results to server.
+16:33:45.872  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 299168
+request-execute 	avg: 131.22ms, max: 233.44ms, count: 11240
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3746.67req/s
+
+
+16:33:48.876  Sending benchmark results to server.
+16:33:48.887  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 300043
+request-execute 	avg: 151.28ms, max: 287.07ms, count: 9620
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3206.67req/s
+
+
+16:33:51.876  Sending benchmark results to server.
+16:33:51.880  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 301110
+request-execute 	avg: 156.00ms, max: 504.93ms, count: 9990
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3330.00req/s
+
+
+16:33:54.868  Sending benchmark results to server.
+16:33:54.873  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 302252
+request-execute 	avg: 137.69ms, max: 393.37ms, count: 10870
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3623.33req/s
+
+
+16:33:57.876  Sending benchmark results to server.
+16:33:57.878  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 303436
+request-execute 	avg: 124.07ms, max: 217.42ms, count: 11920
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3973.33req/s
+
+
+16:34:00.875  Sending benchmark results to server.
+16:34:00.877  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 304501
+request-execute 	avg: 131.84ms, max: 299.79ms, count: 10880
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3626.67req/s
+
+
+16:34:03.878  Sending benchmark results to server.
+16:34:03.880  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 305463
+request-execute 	avg: 142.55ms, max: 493.81ms, count: 10500
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3500.00req/s
+
+
+16:34:06.891  Sending benchmark results to server.
+16:34:06.892  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 306440
+request-execute 	avg: 162.44ms, max: 507.78ms, count: 8930
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2976.67req/s
+
+
+16:34:09.885  Sending benchmark results to server.
+16:34:09.887  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 307216
+request-execute 	avg: 180.22ms, max: 515.37ms, count: 8360
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2786.67req/s
+
+
+16:34:12.889  Sending benchmark results to server.
+16:34:12.893  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 308089
+request-execute 	avg: 189.08ms, max: 420.20ms, count: 7960
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2653.33req/s
+
+
+16:34:15.894  Sending benchmark results to server.
+16:34:15.897  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 308807
+request-execute 	avg: 189.08ms, max: 415.37ms, count: 7520
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2506.67req/s
+
+
+16:34:18.898  Sending benchmark results to server.
+16:34:18.904  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 309672
+request-execute 	avg: 171.71ms, max: 610.05ms, count: 8930
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2976.67req/s
+
+
+16:34:21.901  Sending benchmark results to server.
+16:34:21.907  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 310534
+request-execute 	avg: 171.47ms, max: 439.23ms, count: 8630
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2876.67req/s
+
+
+16:34:24.899  Sending benchmark results to server.
+16:34:24.902  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 311382
+request-execute 	avg: 187.59ms, max: 508.47ms, count: 7960
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2653.33req/s
+
+
+16:34:27.900  Sending benchmark results to server.
+16:34:27.902  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 312289
+request-execute 	avg: 162.57ms, max: 341.06ms, count: 8750
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2916.67req/s
+
+
+16:34:30.912  Sending benchmark results to server.
+16:34:30.915  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 313114
+request-execute 	avg: 192.82ms, max: 515.62ms, count: 8060
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2686.67req/s
+
+
+16:34:33.923  Sending benchmark results to server.
+16:34:33.928  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 313993
+request-execute 	avg: 166.57ms, max: 307.87ms, count: 8790
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2930.00req/s
+
+
+16:34:36.917  Sending benchmark results to server.
+16:34:36.923  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 314571
+request-execute 	avg: 156.40ms, max: 408.61ms, count: 9370
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3123.33req/s
+
+
+16:34:39.927  Sending benchmark results to server.
+16:34:39.929  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 315246
+request-execute 	avg: 374.56ms, max: 1.62s, count: 4060
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	1353.33req/s
+
+
+16:34:42.998  Sending benchmark results to server.
+16:34:43.1  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 315970
+request-execute 	avg: 229.91ms, max: 612.63ms, count: 6700
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2233.33req/s
+
+
+16:34:45.936  Sending benchmark results to server.
+16:34:45.941  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 316917
+request-execute 	avg: 157.38ms, max: 431.97ms, count: 8980
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2993.33req/s
+
+
+16:34:48.931  Sending benchmark results to server.
+16:34:48.934  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 317577
+request-execute 	avg: 165.45ms, max: 393.74ms, count: 8950
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2983.33req/s
+
+
+16:34:51.937  Sending benchmark results to server.
+16:34:51.944  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 318485
+request-execute 	avg: 201.33ms, max: 521.19ms, count: 7330
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2443.33req/s
+
+
+16:34:54.934  Sending benchmark results to server.
+16:34:54.936  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 319570
+request-execute 	avg: 142.49ms, max: 319.19ms, count: 10970
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3656.67req/s
+
+
+16:34:57.934  Sending benchmark results to server.
+16:34:57.939  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 320406
+request-execute 	avg: 171.46ms, max: 389.94ms, count: 8660
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2886.67req/s
+
+
+16:35:00.940  Sending benchmark results to server.
+16:35:00.942  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 321333
+request-execute 	avg: 179.28ms, max: 519.79ms, count: 8160
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2720.00req/s
+
+
+16:35:03.947  Sending benchmark results to server.
+16:35:03.950  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 322316
+request-execute 	avg: 150.68ms, max: 507.23ms, count: 9860
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3286.67req/s
+
+
+16:35:06.947  Sending benchmark results to server.
+16:35:06.950  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 323192
+request-execute 	avg: 161.13ms, max: 368.73ms, count: 9190
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3063.33req/s
+
+
+16:35:09.960  Sending benchmark results to server.
+16:35:09.970  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 324140
+request-execute 	avg: 146.20ms, max: 507.55ms, count: 10230
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3410.00req/s
+
+
+16:35:12.951  Sending benchmark results to server.
+16:35:12.953  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 325050
+request-execute 	avg: 167.69ms, max: 310.38ms, count: 8920
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2973.33req/s
+
+
+16:35:15.986  Sending benchmark results to server.
+16:35:15.994  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 326085
+request-execute 	avg: 145.36ms, max: 393.17ms, count: 10270
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3423.33req/s
+
+
+16:35:18.956  Sending benchmark results to server.
+16:35:18.958  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 327043
+request-execute 	avg: 160.20ms, max: 521.60ms, count: 9210
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3070.00req/s
+
+
+16:35:21.958  Sending benchmark results to server.
+16:35:21.959  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 328004
+request-execute 	avg: 162.88ms, max: 410.43ms, count: 9280
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3093.33req/s
+
+
+16:35:24.957  Sending benchmark results to server.
+16:35:24.960  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 328978
+request-execute 	avg: 151.94ms, max: 328.22ms, count: 9670
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3223.33req/s
+
+
+16:35:27.964  Sending benchmark results to server.
+16:35:27.966  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 329986
+request-execute 	avg: 156.41ms, max: 302.36ms, count: 9550
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3183.33req/s
+
+
+16:35:30.971  Sending benchmark results to server.
+16:35:30.974  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 330942
+request-execute 	avg: 151.54ms, max: 299.47ms, count: 9620
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3206.67req/s
+
+
+16:35:33.970  Sending benchmark results to server.
+16:35:33.977  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 331799
+request-execute 	avg: 163.78ms, max: 319.88ms, count: 8900
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2966.67req/s
+
+
+16:35:36.965  Sending benchmark results to server.
+16:35:36.968  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 332902
+request-execute 	avg: 147.21ms, max: 413.24ms, count: 10360
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3453.33req/s
+
+
+16:35:39.981  Sending benchmark results to server.
+16:35:39.984  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 333749
+request-execute 	avg: 144.47ms, max: 301.90ms, count: 10280
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3426.67req/s
+
+
+16:35:42.971  Sending benchmark results to server.
+16:35:42.974  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 334728
+request-execute 	avg: 166.97ms, max: 410.27ms, count: 8810
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2936.67req/s
+
+
+16:35:45.977  Sending benchmark results to server.
+16:35:45.980  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 335763
+request-execute 	avg: 154.78ms, max: 305.36ms, count: 9990
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3330.00req/s
+
+
+16:35:48.990  Sending benchmark results to server.
+16:35:48.993  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 336594
+request-execute 	avg: 150.06ms, max: 293.05ms, count: 9630
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3210.00req/s
+
+
+16:35:51.990  Sending benchmark results to server.
+16:35:51.995  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 337512
+request-execute 	avg: 193.85ms, max: 499.59ms, count: 7650
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2550.00req/s
+
+
+16:35:54.986  Sending benchmark results to server.
+16:35:54.989  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 338414
+request-execute 	avg: 151.62ms, max: 412.19ms, count: 9930
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	3310.00req/s
+
+
+16:35:57.999  Sending benchmark results to server.
+16:35:58.6  -- Client 4
+current-episode 	value: 0
+current-protocol	value: prime
+last-executed-sequence	num: 339148
+request-execute 	avg: 171.23ms, max: 520.14ms, count: 8690
+request-interval	100.00us
+slow-path       	ratio: 0.00
+throughput      	2896.67req/s
+
+
+^C%
+jaywang@Jays-MacBook-Pro code %

@@ -1,0 +1,1910 @@
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 175481
+message-process 	avg: 390.98us, max: 11.79ms, count: 8931
+proposal (since-start)	count: 0
+request-queue   	avg: 24.30ms, max: 64.90ms
+slow-path       	ratio: 0.00
+
+
+16:28:42.511  Sending benchmark results to server.
+16:28:42.512  -- Node 1
+block-execute   	avg: 71.66ms, max: 116.08ms, count: 1365
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 176896
+message-process 	avg: 361.79us, max: 23.32ms, count: 8637
+proposal (since-start)	count: 0
+request-queue   	avg: 24.96ms, max: 68.01ms
+slow-path       	ratio: 0.00
+
+
+16:28:45.516  Sending benchmark results to server.
+16:28:45.516  -- Node 1
+block-execute   	avg: 71.19ms, max: 103.16ms, count: 1450
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 178337
+message-process 	avg: 328.70us, max: 9.66ms, count: 8932
+proposal (since-start)	count: 0
+request-queue   	avg: 24.38ms, max: 77.32ms
+slow-path       	ratio: 0.00
+
+
+16:28:48.518  Sending benchmark results to server.
+16:28:48.519  -- Node 1
+block-execute   	avg: 69.99ms, max: 105.04ms, count: 1441
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 179737
+message-process 	avg: 439.73us, max: 13.92ms, count: 8770
+proposal (since-start)	count: 0
+request-queue   	avg: 26.07ms, max: 101.24ms
+slow-path       	ratio: 0.00
+
+
+16:28:51.520  Sending benchmark results to server.
+16:28:51.521  -- Node 1
+block-execute   	avg: 69.92ms, max: 155.86ms, count: 1380
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 181117
+message-process 	avg: 360.66us, max: 11.30ms, count: 8404
+proposal (since-start)	count: 0
+request-queue   	avg: 28.89ms, max: 77.38ms
+slow-path       	ratio: 0.00
+
+
+16:28:54.525  Sending benchmark results to server.
+16:28:54.526  -- Node 1
+block-execute   	avg: 70.44ms, max: 108.21ms, count: 1445
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 182562
+message-process 	avg: 340.48us, max: 12.44ms, count: 8893
+proposal (since-start)	count: 0
+request-queue   	avg: 25.63ms, max: 68.28ms
+slow-path       	ratio: 0.00
+
+
+16:28:57.531  Sending benchmark results to server.
+16:28:57.531  -- Node 1
+block-execute   	avg: 68.68ms, max: 103.14ms, count: 1450
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 184012
+message-process 	avg: 350.77us, max: 13.99ms, count: 8859
+proposal (since-start)	count: 0
+request-queue   	avg: 26.10ms, max: 70.02ms
+slow-path       	ratio: 0.00
+
+
+16:29:00.533  Sending benchmark results to server.
+16:29:00.534  -- Node 1
+block-execute   	avg: 71.15ms, max: 205.27ms, count: 1351
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 185266
+message-process 	avg: 592.90us, max: 25.42ms, count: 8504
+proposal (since-start)	count: 0
+request-queue   	avg: 27.33ms, max: 148.50ms
+slow-path       	ratio: 0.00
+
+
+16:29:03.536  Sending benchmark results to server.
+16:29:03.537  -- Node 1
+block-execute   	avg: 61.51ms, max: 118.08ms, count: 1249
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 186652
+message-process 	avg: 552.47us, max: 34.95ms, count: 7803
+proposal (since-start)	count: 0
+request-queue   	avg: 47.07ms, max: 274.04ms
+slow-path       	ratio: 0.00
+
+
+16:29:06.539  Sending benchmark results to server.
+16:29:06.540  -- Node 1
+block-execute   	avg: 65.05ms, max: 113.30ms, count: 1422
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 188029
+message-process 	avg: 428.35us, max: 10.09ms, count: 8811
+proposal (since-start)	count: 0
+request-queue   	avg: 32.00ms, max: 123.79ms
+slow-path       	ratio: 0.00
+
+
+16:29:09.541  Sending benchmark results to server.
+16:29:09.542  -- Node 1
+block-execute   	avg: 67.79ms, max: 137.15ms, count: 1394
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 189428
+message-process 	avg: 389.43us, max: 21.21ms, count: 8288
+proposal (since-start)	count: 0
+request-queue   	avg: 29.44ms, max: 86.20ms
+slow-path       	ratio: 0.00
+
+
+16:29:12.545  Sending benchmark results to server.
+16:29:12.547  -- Node 1
+block-execute   	avg: 68.22ms, max: 153.40ms, count: 1374
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 190852
+message-process 	avg: 496.08us, max: 11.51ms, count: 8745
+proposal (since-start)	count: 0
+request-queue   	avg: 29.79ms, max: 77.16ms
+slow-path       	ratio: 0.00
+
+
+16:29:15.553  Sending benchmark results to server.
+16:29:15.556  -- Node 1
+block-execute   	avg: 65.37ms, max: 162.86ms, count: 1331
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 192183
+message-process 	avg: 433.81us, max: 9.82ms, count: 8129
+proposal (since-start)	count: 0
+request-queue   	avg: 37.81ms, max: 224.49ms
+slow-path       	ratio: 0.00
+
+
+16:29:18.554  Sending benchmark results to server.
+16:29:18.556  -- Node 1
+block-execute   	avg: 60.13ms, max: 181.39ms, count: 1366
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 193534
+message-process 	avg: 451.45us, max: 39.26ms, count: 8414
+proposal (since-start)	count: 0
+request-queue   	avg: 37.23ms, max: 128.90ms
+slow-path       	ratio: 0.00
+
+
+16:29:21.559  Sending benchmark results to server.
+16:29:21.559  -- Node 1
+block-execute   	avg: 66.23ms, max: 115.06ms, count: 1375
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 194923
+message-process 	avg: 389.28us, max: 13.06ms, count: 8497
+proposal (since-start)	count: 0
+request-queue   	avg: 31.99ms, max: 95.40ms
+slow-path       	ratio: 0.00
+
+
+16:29:24.565  Sending benchmark results to server.
+16:29:24.566  -- Node 1
+block-execute   	avg: 69.33ms, max: 161.93ms, count: 1399
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 196273
+message-process 	avg: 389.62us, max: 16.77ms, count: 8485
+proposal (since-start)	count: 0
+request-queue   	avg: 28.99ms, max: 85.88ms
+slow-path       	ratio: 0.00
+
+
+16:29:27.569  Sending benchmark results to server.
+16:29:27.570  -- Node 1
+block-execute   	avg: 65.40ms, max: 186.22ms, count: 1237
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 197560
+message-process 	avg: 1.10ms, max: 106.51ms, count: 7883
+proposal (since-start)	count: 0
+request-queue   	avg: 36.02ms, max: 234.66ms
+slow-path       	ratio: 0.00
+
+
+16:29:30.570  Sending benchmark results to server.
+16:29:30.571  -- Node 1
+block-execute   	avg: 69.55ms, max: 163.97ms, count: 1412
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 198972
+message-process 	avg: 521.05us, max: 55.25ms, count: 8703
+proposal (since-start)	count: 0
+request-queue   	avg: 26.28ms, max: 118.14ms
+slow-path       	ratio: 0.00
+
+
+16:29:33.572  Sending benchmark results to server.
+16:29:33.573  -- Node 1
+block-execute   	avg: 65.48ms, max: 131.77ms, count: 1429
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 200392
+message-process 	avg: 392.71us, max: 12.16ms, count: 8806
+proposal (since-start)	count: 0
+request-queue   	avg: 29.91ms, max: 102.03ms
+slow-path       	ratio: 0.00
+
+
+16:29:36.576  Sending benchmark results to server.
+16:29:36.578  -- Node 1
+block-execute   	avg: 61.71ms, max: 113.56ms, count: 1432
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 201832
+message-process 	avg: 459.26us, max: 12.95ms, count: 8638
+proposal (since-start)	count: 0
+request-queue   	avg: 33.45ms, max: 107.47ms
+slow-path       	ratio: 0.00
+
+
+16:29:39.581  Sending benchmark results to server.
+16:29:39.583  -- Node 1
+block-execute   	avg: 66.15ms, max: 157.54ms, count: 1339
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 203172
+message-process 	avg: 400.09us, max: 19.62ms, count: 8386
+proposal (since-start)	count: 0
+request-queue   	avg: 34.20ms, max: 162.67ms
+slow-path       	ratio: 0.00
+
+
+16:29:42.593  Sending benchmark results to server.
+16:29:42.603  -- Node 1
+block-execute   	avg: 62.44ms, max: 113.62ms, count: 1348
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 204520
+message-process 	avg: 423.83us, max: 11.46ms, count: 8133
+proposal (since-start)	count: 0
+request-queue   	avg: 40.53ms, max: 170.88ms
+slow-path       	ratio: 0.00
+
+
+16:29:45.591  Sending benchmark results to server.
+16:29:45.594  -- Node 1
+block-execute   	avg: 68.81ms, max: 186.06ms, count: 1370
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 205890
+message-process 	avg: 375.87us, max: 9.87ms, count: 8469
+proposal (since-start)	count: 0
+request-queue   	avg: 30.12ms, max: 111.20ms
+slow-path       	ratio: 0.00
+
+
+16:29:48.593  Sending benchmark results to server.
+16:29:48.598  -- Node 1
+block-execute   	avg: 62.18ms, max: 151.74ms, count: 1402
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 207269
+message-process 	avg: 391.82us, max: 9.92ms, count: 8586
+proposal (since-start)	count: 0
+request-queue   	avg: 34.47ms, max: 86.80ms
+slow-path       	ratio: 0.00
+
+
+16:29:51.607  Sending benchmark results to server.
+16:29:51.613  -- Node 1
+block-execute   	avg: 59.54ms, max: 119.27ms, count: 1401
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 208638
+message-process 	avg: 603.41us, max: 20.88ms, count: 8658
+proposal (since-start)	count: 0
+request-queue   	avg: 35.70ms, max: 90.72ms
+slow-path       	ratio: 0.00
+
+
+16:29:54.605  Sending benchmark results to server.
+16:29:54.607  -- Node 1
+block-execute   	avg: 65.45ms, max: 190.80ms, count: 1302
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 209995
+message-process 	avg: 498.62us, max: 14.62ms, count: 8010
+proposal (since-start)	count: 0
+request-queue   	avg: 37.77ms, max: 106.77ms
+slow-path       	ratio: 0.00
+
+
+16:29:57.609  Sending benchmark results to server.
+16:29:57.610  -- Node 1
+block-execute   	avg: 64.70ms, max: 170.75ms, count: 1368
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 211413
+message-process 	avg: 502.11us, max: 20.48ms, count: 8732
+proposal (since-start)	count: 0
+request-queue   	avg: 30.42ms, max: 90.32ms
+slow-path       	ratio: 0.00
+
+
+16:30:00.614  Sending benchmark results to server.
+16:30:00.615  -- Node 1
+block-execute   	avg: 67.37ms, max: 138.64ms, count: 1394
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 212757
+message-process 	avg: 420.17us, max: 14.17ms, count: 8577
+proposal (since-start)	count: 0
+request-queue   	avg: 28.24ms, max: 69.44ms
+slow-path       	ratio: 0.00
+
+
+16:30:03.616  Sending benchmark results to server.
+16:30:03.618  -- Node 1
+block-execute   	avg: 68.22ms, max: 120.39ms, count: 1413
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 214130
+message-process 	avg: 401.22us, max: 8.80ms, count: 8697
+proposal (since-start)	count: 0
+request-queue   	avg: 27.82ms, max: 88.49ms
+slow-path       	ratio: 0.00
+
+
+16:30:06.621  Sending benchmark results to server.
+16:30:06.622  -- Node 1
+block-execute   	avg: 71.09ms, max: 170.40ms, count: 1314
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 215519
+message-process 	avg: 419.53us, max: 25.22ms, count: 8136
+proposal (since-start)	count: 0
+request-queue   	avg: 29.80ms, max: 140.10ms
+slow-path       	ratio: 0.00
+
+
+16:30:09.623  Sending benchmark results to server.
+16:30:09.624  -- Node 1
+block-execute   	avg: 70.34ms, max: 162.69ms, count: 1410
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 216894
+message-process 	avg: 515.12us, max: 14.58ms, count: 8403
+proposal (since-start)	count: 0
+request-queue   	avg: 28.83ms, max: 87.43ms
+slow-path       	ratio: 0.00
+
+
+16:30:12.629  Sending benchmark results to server.
+16:30:12.630  -- Node 1
+block-execute   	avg: 68.40ms, max: 111.77ms, count: 1394
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 218330
+message-process 	avg: 364.06us, max: 9.59ms, count: 8881
+proposal (since-start)	count: 0
+request-queue   	avg: 25.78ms, max: 99.45ms
+slow-path       	ratio: 0.00
+
+
+16:30:15.631  Sending benchmark results to server.
+16:30:15.632  -- Node 1
+block-execute   	avg: 63.00ms, max: 112.55ms, count: 1471
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 219732
+message-process 	avg: 361.26us, max: 19.86ms, count: 8792
+proposal (since-start)	count: 0
+request-queue   	avg: 31.55ms, max: 83.48ms
+slow-path       	ratio: 0.00
+
+
+16:30:18.634  Sending benchmark results to server.
+16:30:18.635  -- Node 1
+block-execute   	avg: 64.33ms, max: 122.64ms, count: 1402
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 221150
+message-process 	avg: 403.10us, max: 19.16ms, count: 8636
+proposal (since-start)	count: 0
+request-queue   	avg: 31.95ms, max: 100.08ms
+slow-path       	ratio: 0.00
+
+
+16:30:21.636  Sending benchmark results to server.
+16:30:21.638  -- Node 1
+block-execute   	avg: 63.76ms, max: 116.63ms, count: 1334
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 222545
+message-process 	avg: 402.56us, max: 28.70ms, count: 8510
+proposal (since-start)	count: 0
+request-queue   	avg: 34.15ms, max: 100.26ms
+slow-path       	ratio: 0.00
+
+
+16:30:24.642  Sending benchmark results to server.
+16:30:24.646  -- Node 1
+block-execute   	avg: 63.16ms, max: 106.02ms, count: 1453
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 223948
+message-process 	avg: 445.10us, max: 16.29ms, count: 8663
+proposal (since-start)	count: 0
+request-queue   	avg: 33.13ms, max: 120.32ms
+slow-path       	ratio: 0.00
+
+
+16:30:27.645  Sending benchmark results to server.
+16:30:27.648  -- Node 1
+block-execute   	avg: 69.41ms, max: 158.60ms, count: 1302
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 225191
+message-process 	avg: 412.34us, max: 11.68ms, count: 8331
+proposal (since-start)	count: 0
+request-queue   	avg: 30.79ms, max: 113.26ms
+slow-path       	ratio: 0.00
+
+
+16:30:30.651  Sending benchmark results to server.
+16:30:30.654  -- Node 1
+block-execute   	avg: 56.28ms, max: 132.46ms, count: 1179
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 226452
+message-process 	avg: 660.21us, max: 29.79ms, count: 7174
+proposal (since-start)	count: 0
+request-queue   	avg: 60.00ms, max: 205.75ms
+slow-path       	ratio: 0.00
+
+
+16:30:33.651  Sending benchmark results to server.
+16:30:33.656  -- Node 1
+block-execute   	avg: 54.73ms, max: 121.15ms, count: 1271
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 227644
+message-process 	avg: 502.42us, max: 13.31ms, count: 7990
+proposal (since-start)	count: 0
+request-queue   	avg: 50.65ms, max: 130.43ms
+slow-path       	ratio: 0.00
+
+
+16:30:36.650  Sending benchmark results to server.
+16:30:36.653  -- Node 1
+block-execute   	avg: 55.08ms, max: 127.31ms, count: 1110
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 228835
+message-process 	avg: 903.07us, max: 36.93ms, count: 6892
+proposal (since-start)	count: 0
+request-queue   	avg: 70.39ms, max: 202.13ms
+slow-path       	ratio: 0.00
+
+
+16:30:39.656  Sending benchmark results to server.
+16:30:39.658  -- Node 1
+block-execute   	avg: 57.26ms, max: 162.70ms, count: 1295
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 230058
+message-process 	avg: 518.13us, max: 17.78ms, count: 8002
+proposal (since-start)	count: 0
+request-queue   	avg: 46.01ms, max: 236.04ms
+slow-path       	ratio: 0.00
+
+
+16:30:42.656  Sending benchmark results to server.
+16:30:42.658  -- Node 1
+block-execute   	avg: 55.31ms, max: 122.33ms, count: 1262
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 231356
+message-process 	avg: 605.82us, max: 17.52ms, count: 7534
+proposal (since-start)	count: 0
+request-queue   	avg: 57.56ms, max: 163.59ms
+slow-path       	ratio: 0.00
+
+
+16:30:45.663  Sending benchmark results to server.
+16:30:45.664  -- Node 1
+block-execute   	avg: 60.51ms, max: 208.28ms, count: 1343
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 232673
+message-process 	avg: 462.36us, max: 12.47ms, count: 8267
+proposal (since-start)	count: 0
+request-queue   	avg: 39.56ms, max: 132.39ms
+slow-path       	ratio: 0.00
+
+
+16:30:48.666  Sending benchmark results to server.
+16:30:48.669  -- Node 1
+block-execute   	avg: 63.87ms, max: 147.47ms, count: 1343
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 234083
+message-process 	avg: 463.28us, max: 21.02ms, count: 8471
+proposal (since-start)	count: 0
+request-queue   	avg: 36.84ms, max: 99.33ms
+slow-path       	ratio: 0.00
+
+
+16:30:51.668  Sending benchmark results to server.
+16:30:51.687  -- Node 1
+block-execute   	avg: 60.85ms, max: 163.37ms, count: 1315
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 235186
+message-process 	avg: 1.04ms, max: 25.79ms, count: 8012
+proposal (since-start)	count: 0
+request-queue   	avg: 41.46ms, max: 170.75ms
+slow-path       	ratio: 0.00
+
+
+16:30:54.666  Sending benchmark results to server.
+16:30:54.668  -- Node 1
+block-execute   	avg: 66.90ms, max: 179.23ms, count: 764
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 236176
+message-process 	avg: 1.07ms, max: 35.16ms, count: 4936
+proposal (since-start)	count: 0
+request-queue   	avg: 118.40ms, max: 303.21ms
+slow-path       	ratio: 0.00
+
+
+16:30:57.671  Sending benchmark results to server.
+16:30:57.674  -- Node 1
+block-execute   	avg: 62.27ms, max: 160.16ms, count: 1279
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 237255
+message-process 	avg: 1.83ms, max: 49.48ms, count: 7832
+proposal (since-start)	count: 0
+request-queue   	avg: 40.01ms, max: 147.21ms
+slow-path       	ratio: 0.00
+
+
+16:31:00.678  Sending benchmark results to server.
+16:31:00.682  -- Node 1
+block-execute   	avg: 60.27ms, max: 233.70ms, count: 1089
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 238550
+message-process 	avg: 589.90us, max: 30.25ms, count: 6918
+proposal (since-start)	count: 0
+request-queue   	avg: 66.25ms, max: 284.19ms
+slow-path       	ratio: 0.00
+
+
+16:31:03.680  Sending benchmark results to server.
+16:31:03.683  -- Node 1
+block-execute   	avg: 57.95ms, max: 120.31ms, count: 1364
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 239797
+message-process 	avg: 589.94us, max: 18.84ms, count: 8318
+proposal (since-start)	count: 0
+request-queue   	avg: 39.42ms, max: 129.07ms
+slow-path       	ratio: 0.00
+
+
+16:31:06.683  Sending benchmark results to server.
+16:31:06.685  -- Node 1
+block-execute   	avg: 57.06ms, max: 184.01ms, count: 1185
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 241051
+message-process 	avg: 582.15us, max: 24.33ms, count: 7380
+proposal (since-start)	count: 0
+request-queue   	avg: 54.51ms, max: 231.18ms
+slow-path       	ratio: 0.00
+
+
+16:31:09.695  Sending benchmark results to server.
+16:31:09.698  -- Node 1
+block-execute   	avg: 63.72ms, max: 196.57ms, count: 1259
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 242197
+message-process 	avg: 549.16us, max: 33.72ms, count: 7846
+proposal (since-start)	count: 0
+request-queue   	avg: 42.07ms, max: 209.69ms
+slow-path       	ratio: 0.00
+
+
+16:31:12.694  Sending benchmark results to server.
+16:31:12.698  -- Node 1
+block-execute   	avg: 60.26ms, max: 194.19ms, count: 967
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 243291
+message-process 	avg: 814.34us, max: 29.22ms, count: 6011
+proposal (since-start)	count: 0
+request-queue   	avg: 83.92ms, max: 260.57ms
+slow-path       	ratio: 0.00
+
+
+16:31:15.693  Sending benchmark results to server.
+16:31:15.695  -- Node 1
+block-execute   	avg: 60.32ms, max: 155.18ms, count: 1293
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 244549
+message-process 	avg: 465.97us, max: 8.83ms, count: 7935
+proposal (since-start)	count: 0
+request-queue   	avg: 43.19ms, max: 139.81ms
+slow-path       	ratio: 0.00
+
+
+16:31:18.697  Sending benchmark results to server.
+16:31:18.699  -- Node 1
+block-execute   	avg: 53.00ms, max: 137.23ms, count: 1192
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 245712
+message-process 	avg: 573.52us, max: 16.80ms, count: 7372
+proposal (since-start)	count: 0
+request-queue   	avg: 63.17ms, max: 164.35ms
+slow-path       	ratio: 0.00
+
+
+16:31:21.697  Sending benchmark results to server.
+16:31:21.700  -- Node 1
+block-execute   	avg: 61.77ms, max: 158.72ms, count: 1273
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 247046
+message-process 	avg: 468.29us, max: 13.71ms, count: 7850
+proposal (since-start)	count: 0
+request-queue   	avg: 43.40ms, max: 138.35ms
+slow-path       	ratio: 0.00
+
+
+16:31:24.702  Sending benchmark results to server.
+16:31:24.703  -- Node 1
+block-execute   	avg: 60.53ms, max: 142.83ms, count: 1261
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 248257
+message-process 	avg: 535.19us, max: 35.34ms, count: 7810
+proposal (since-start)	count: 0
+request-queue   	avg: 45.46ms, max: 210.25ms
+slow-path       	ratio: 0.00
+
+
+16:31:27.706  Sending benchmark results to server.
+16:31:27.716  -- Node 1
+block-execute   	avg: 64.04ms, max: 177.25ms, count: 1071
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 249395
+message-process 	avg: 676.02us, max: 44.25ms, count: 6646
+proposal (since-start)	count: 0
+request-queue   	avg: 61.39ms, max: 243.90ms
+slow-path       	ratio: 0.00
+
+
+16:31:30.709  Sending benchmark results to server.
+16:31:30.712  -- Node 1
+block-execute   	avg: 60.05ms, max: 200.62ms, count: 1207
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 250594
+message-process 	avg: 718.17us, max: 40.84ms, count: 7576
+proposal (since-start)	count: 0
+request-queue   	avg: 53.07ms, max: 239.05ms
+slow-path       	ratio: 0.00
+
+
+16:31:33.717  Sending benchmark results to server.
+16:31:33.721  -- Node 1
+block-execute   	avg: 58.76ms, max: 166.31ms, count: 1291
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 251850
+message-process 	avg: 2.82ms, max: 74.44ms, count: 7936
+proposal (since-start)	count: 0
+request-queue   	avg: 47.01ms, max: 150.72ms
+slow-path       	ratio: 0.00
+
+
+16:31:36.713  Sending benchmark results to server.
+16:31:36.714  -- Node 1
+block-execute   	avg: 62.19ms, max: 153.81ms, count: 1214
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 253131
+message-process 	avg: 542.60us, max: 25.03ms, count: 7304
+proposal (since-start)	count: 0
+request-queue   	avg: 52.22ms, max: 153.11ms
+slow-path       	ratio: 0.00
+
+
+16:31:39.720  Sending benchmark results to server.
+16:31:39.731  -- Node 1
+block-execute   	avg: 59.76ms, max: 183.26ms, count: 1107
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 254120
+message-process 	avg: 668.07us, max: 52.79ms, count: 6926
+proposal (since-start)	count: 0
+request-queue   	avg: 59.62ms, max: 271.45ms
+slow-path       	ratio: 0.00
+
+
+16:31:42.728  Sending benchmark results to server.
+16:31:42.730  -- Node 1
+block-execute   	avg: 63.34ms, max: 202.53ms, count: 919
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 255047
+message-process 	avg: 753.54us, max: 32.21ms, count: 5865
+proposal (since-start)	count: 0
+request-queue   	avg: 89.30ms, max: 346.21ms
+slow-path       	ratio: 0.00
+
+
+16:31:45.729  Sending benchmark results to server.
+16:31:45.732  -- Node 1
+block-execute   	avg: 59.55ms, max: 219.46ms, count: 935
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 256015
+message-process 	avg: 720.50us, max: 33.09ms, count: 5893
+proposal (since-start)	count: 0
+request-queue   	avg: 85.78ms, max: 299.36ms
+slow-path       	ratio: 0.00
+
+
+16:31:48.731  Sending benchmark results to server.
+16:31:48.734  -- Node 1
+block-execute   	avg: 56.69ms, max: 133.89ms, count: 948
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 256917
+message-process 	avg: 1.14ms, max: 45.71ms, count: 5716
+proposal (since-start)	count: 0
+request-queue   	avg: 91.92ms, max: 266.55ms
+slow-path       	ratio: 0.00
+
+
+16:31:51.747  Sending benchmark results to server.
+16:31:51.755  -- Node 1
+block-execute   	avg: 62.46ms, max: 227.54ms, count: 829
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 257862
+message-process 	avg: 1.27ms, max: 55.71ms, count: 5415
+proposal (since-start)	count: 0
+request-queue   	avg: 108.09ms, max: 337.97ms
+slow-path       	ratio: 0.00
+
+
+16:31:54.741  Sending benchmark results to server.
+16:31:54.744  -- Node 1
+block-execute   	avg: 56.69ms, max: 221.36ms, count: 1000
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 258832
+message-process 	avg: 1.43ms, max: 101.56ms, count: 6149
+proposal (since-start)	count: 0
+request-queue   	avg: 85.50ms, max: 312.16ms
+slow-path       	ratio: 0.00
+
+
+16:31:57.756  Sending benchmark results to server.
+16:31:57.761  -- Node 1
+block-execute   	avg: 62.64ms, max: 163.77ms, count: 909
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 259702
+message-process 	avg: 792.36us, max: 27.67ms, count: 5788
+proposal (since-start)	count: 0
+request-queue   	avg: 91.87ms, max: 375.49ms
+slow-path       	ratio: 0.00
+
+
+16:32:00.755  Sending benchmark results to server.
+16:32:00.762  -- Node 1
+block-execute   	avg: 61.43ms, max: 184.26ms, count: 1016
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 260699
+message-process 	avg: 759.95us, max: 18.92ms, count: 6220
+proposal (since-start)	count: 0
+request-queue   	avg: 75.04ms, max: 235.96ms
+slow-path       	ratio: 0.00
+
+
+16:32:03.759  Sending benchmark results to server.
+16:32:03.766  -- Node 1
+block-execute   	avg: 57.73ms, max: 149.87ms, count: 1042
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 261753
+message-process 	avg: 650.32us, max: 32.33ms, count: 6356
+proposal (since-start)	count: 0
+request-queue   	avg: 76.30ms, max: 228.93ms
+slow-path       	ratio: 0.00
+
+
+16:32:06.771  Sending benchmark results to server.
+16:32:06.777  -- Node 1
+block-execute   	avg: 58.01ms, max: 168.96ms, count: 1029
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 262789
+message-process 	avg: 707.25us, max: 24.47ms, count: 6642
+proposal (since-start)	count: 0
+request-queue   	avg: 75.24ms, max: 257.04ms
+slow-path       	ratio: 0.00
+
+
+16:32:09.763  Sending benchmark results to server.
+16:32:09.765  -- Node 1
+block-execute   	avg: 57.60ms, max: 209.14ms, count: 1201
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 264000
+message-process 	avg: 590.77us, max: 15.07ms, count: 7267
+proposal (since-start)	count: 0
+request-queue   	avg: 56.52ms, max: 219.09ms
+slow-path       	ratio: 0.00
+
+
+16:32:12.768  Sending benchmark results to server.
+16:32:12.771  -- Node 1
+block-execute   	avg: 55.70ms, max: 158.47ms, count: 1169
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 265147
+message-process 	avg: 605.35us, max: 15.23ms, count: 7299
+proposal (since-start)	count: 0
+request-queue   	avg: 60.44ms, max: 207.35ms
+slow-path       	ratio: 0.00
+
+
+16:32:15.783  Sending benchmark results to server.
+16:32:15.787  -- Node 1
+block-execute   	avg: 56.13ms, max: 209.87ms, count: 1111
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 266293
+message-process 	avg: 684.97us, max: 19.88ms, count: 6943
+proposal (since-start)	count: 0
+request-queue   	avg: 66.13ms, max: 245.23ms
+slow-path       	ratio: 0.00
+
+
+16:32:18.774  Sending benchmark results to server.
+16:32:18.777  -- Node 1
+block-execute   	avg: 59.30ms, max: 145.80ms, count: 1224
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 267566
+message-process 	avg: 680.55us, max: 34.80ms, count: 7631
+proposal (since-start)	count: 0
+request-queue   	avg: 50.95ms, max: 214.51ms
+slow-path       	ratio: 0.00
+
+
+16:32:21.797  Sending benchmark results to server.
+16:32:21.816  -- Node 1
+block-execute   	avg: 56.83ms, max: 134.99ms, count: 1172
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 268738
+message-process 	avg: 615.09us, max: 26.81ms, count: 7049
+proposal (since-start)	count: 0
+request-queue   	avg: 60.68ms, max: 224.04ms
+slow-path       	ratio: 0.00
+
+
+16:32:24.782  Sending benchmark results to server.
+16:32:24.784  -- Node 1
+block-execute   	avg: 62.60ms, max: 213.36ms, count: 1079
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 269825
+message-process 	avg: 612.06us, max: 34.22ms, count: 6655
+proposal (since-start)	count: 0
+request-queue   	avg: 68.34ms, max: 248.73ms
+slow-path       	ratio: 0.00
+
+
+16:32:27.786  Sending benchmark results to server.
+16:32:27.789  -- Node 1
+block-execute   	avg: 54.02ms, max: 130.18ms, count: 1158
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 270947
+message-process 	avg: 882.52us, max: 38.97ms, count: 7203
+proposal (since-start)	count: 0
+request-queue   	avg: 66.92ms, max: 274.76ms
+slow-path       	ratio: 0.00
+
+
+16:32:30.795  Sending benchmark results to server.
+16:32:30.797  -- Node 1
+block-execute   	avg: 57.28ms, max: 179.48ms, count: 1129
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 272084
+message-process 	avg: 702.14us, max: 40.84ms, count: 7049
+proposal (since-start)	count: 0
+request-queue   	avg: 63.27ms, max: 243.59ms
+slow-path       	ratio: 0.00
+
+
+16:32:33.794  Sending benchmark results to server.
+16:32:33.796  -- Node 1
+block-execute   	avg: 59.87ms, max: 161.91ms, count: 1163
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 273206
+message-process 	avg: 1.96ms, max: 57.38ms, count: 7174
+proposal (since-start)	count: 0
+request-queue   	avg: 61.35ms, max: 239.00ms
+slow-path       	ratio: 0.00
+
+
+16:32:36.797  Sending benchmark results to server.
+16:32:36.800  -- Node 1
+block-execute   	avg: 57.11ms, max: 171.04ms, count: 1174
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 274429
+message-process 	avg: 813.49us, max: 49.23ms, count: 7291
+proposal (since-start)	count: 0
+request-queue   	avg: 62.31ms, max: 253.24ms
+slow-path       	ratio: 0.00
+
+
+16:32:39.801  Sending benchmark results to server.
+16:32:39.804  -- Node 1
+block-execute   	avg: 57.93ms, max: 152.59ms, count: 1212
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 275463
+message-process 	avg: 1.03ms, max: 39.94ms, count: 7485
+proposal (since-start)	count: 0
+request-queue   	avg: 56.53ms, max: 238.77ms
+slow-path       	ratio: 0.00
+
+
+16:32:42.812  Sending benchmark results to server.
+16:32:42.816  -- Node 1
+block-execute   	avg: 60.60ms, max: 158.22ms, count: 1103
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 276630
+message-process 	avg: 627.25us, max: 28.77ms, count: 6869
+proposal (since-start)	count: 0
+request-queue   	avg: 65.25ms, max: 245.14ms
+slow-path       	ratio: 0.00
+
+
+16:32:45.805  Sending benchmark results to server.
+16:32:45.808  -- Node 1
+block-execute   	avg: 56.07ms, max: 129.14ms, count: 1135
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 277835
+message-process 	avg: 581.87us, max: 25.61ms, count: 7067
+proposal (since-start)	count: 0
+request-queue   	avg: 68.39ms, max: 229.28ms
+slow-path       	ratio: 0.00
+
+
+16:32:48.811  Sending benchmark results to server.
+16:32:48.816  -- Node 1
+block-execute   	avg: 54.73ms, max: 152.15ms, count: 994
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 278710
+message-process 	avg: 766.51us, max: 22.09ms, count: 6118
+proposal (since-start)	count: 0
+request-queue   	avg: 84.91ms, max: 306.00ms
+slow-path       	ratio: 0.00
+
+
+16:32:51.811  Sending benchmark results to server.
+16:32:51.813  -- Node 1
+block-execute   	avg: 62.23ms, max: 144.08ms, count: 961
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 279755
+message-process 	avg: 910.42us, max: 22.63ms, count: 6093
+proposal (since-start)	count: 0
+request-queue   	avg: 81.12ms, max: 247.90ms
+slow-path       	ratio: 0.00
+
+
+16:32:54.814  Sending benchmark results to server.
+16:32:54.817  -- Node 1
+block-execute   	avg: 58.59ms, max: 174.17ms, count: 905
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 280745
+message-process 	avg: 1.52ms, max: 37.77ms, count: 5749
+proposal (since-start)	count: 0
+request-queue   	avg: 101.21ms, max: 329.40ms
+slow-path       	ratio: 0.00
+
+
+16:32:57.817  Sending benchmark results to server.
+16:32:57.818  -- Node 1
+block-execute   	avg: 55.46ms, max: 126.02ms, count: 1141
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 281866
+message-process 	avg: 711.32us, max: 27.69ms, count: 7013
+proposal (since-start)	count: 0
+request-queue   	avg: 66.10ms, max: 222.29ms
+slow-path       	ratio: 0.00
+
+
+16:33:00.819  Sending benchmark results to server.
+16:33:00.821  -- Node 1
+block-execute   	avg: 57.43ms, max: 143.36ms, count: 1020
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 282730
+message-process 	avg: 1.41ms, max: 37.90ms, count: 6404
+proposal (since-start)	count: 0
+request-queue   	avg: 82.04ms, max: 183.03ms
+slow-path       	ratio: 0.00
+
+
+16:33:03.825  Sending benchmark results to server.
+16:33:03.829  -- Node 1
+block-execute   	avg: 57.42ms, max: 150.93ms, count: 984
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 283873
+message-process 	avg: 634.19us, max: 24.64ms, count: 6176
+proposal (since-start)	count: 0
+request-queue   	avg: 82.62ms, max: 508.15ms
+slow-path       	ratio: 0.00
+
+
+16:33:06.827  Sending benchmark results to server.
+16:33:06.830  -- Node 1
+block-execute   	avg: 56.48ms, max: 138.92ms, count: 1191
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 285036
+message-process 	avg: 1.34ms, max: 53.32ms, count: 7212
+proposal (since-start)	count: 0
+request-queue   	avg: 59.23ms, max: 168.08ms
+slow-path       	ratio: 0.00
+
+
+16:33:09.842  Sending benchmark results to server.
+16:33:09.847  -- Node 1
+block-execute   	avg: 55.26ms, max: 176.46ms, count: 1118
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 286124
+message-process 	avg: 2.33ms, max: 72.02ms, count: 6886
+proposal (since-start)	count: 0
+request-queue   	avg: 74.21ms, max: 242.77ms
+slow-path       	ratio: 0.00
+
+
+16:33:12.838  Sending benchmark results to server.
+16:33:12.841  -- Node 1
+block-execute   	avg: 59.32ms, max: 179.37ms, count: 1084
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 287278
+message-process 	avg: 836.21us, max: 22.58ms, count: 6922
+proposal (since-start)	count: 0
+request-queue   	avg: 63.85ms, max: 235.56ms
+slow-path       	ratio: 0.00
+
+
+16:33:15.833  Sending benchmark results to server.
+16:33:15.835  -- Node 1
+block-execute   	avg: 54.62ms, max: 135.45ms, count: 1230
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 288479
+message-process 	avg: 796.13us, max: 31.83ms, count: 7564
+proposal (since-start)	count: 0
+request-queue   	avg: 59.56ms, max: 148.22ms
+slow-path       	ratio: 0.00
+
+
+16:33:18.837  Sending benchmark results to server.
+16:33:18.839  -- Node 1
+block-execute   	avg: 61.10ms, max: 137.53ms, count: 1124
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 289531
+message-process 	avg: 610.37us, max: 19.40ms, count: 6902
+proposal (since-start)	count: 0
+request-queue   	avg: 60.67ms, max: 174.91ms
+slow-path       	ratio: 0.00
+
+
+16:33:21.843  Sending benchmark results to server.
+16:33:21.845  -- Node 1
+block-execute   	avg: 62.88ms, max: 160.20ms, count: 1046
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 290656
+message-process 	avg: 2.07ms, max: 75.25ms, count: 6471
+proposal (since-start)	count: 0
+request-queue   	avg: 75.04ms, max: 205.52ms
+slow-path       	ratio: 0.00
+
+
+16:33:24.844  Sending benchmark results to server.
+16:33:24.849  -- Node 1
+block-execute   	avg: 56.68ms, max: 123.09ms, count: 1173
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 291816
+message-process 	avg: 919.31us, max: 39.25ms, count: 7334
+proposal (since-start)	count: 0
+request-queue   	avg: 60.85ms, max: 149.00ms
+slow-path       	ratio: 0.00
+
+
+16:33:27.849  Sending benchmark results to server.
+16:33:27.852  -- Node 1
+block-execute   	avg: 57.91ms, max: 147.22ms, count: 1141
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 293016
+message-process 	avg: 1.61ms, max: 56.47ms, count: 7082
+proposal (since-start)	count: 0
+request-queue   	avg: 64.77ms, max: 230.05ms
+slow-path       	ratio: 0.00
+
+
+16:33:30.852  Sending benchmark results to server.
+16:33:30.854  -- Node 1
+block-execute   	avg: 55.88ms, max: 146.40ms, count: 1200
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 294252
+message-process 	avg: 650.96us, max: 23.12ms, count: 7632
+proposal (since-start)	count: 0
+request-queue   	avg: 57.81ms, max: 168.57ms
+slow-path       	ratio: 0.00
+
+
+16:33:33.855  Sending benchmark results to server.
+16:33:33.858  -- Node 1
+block-execute   	avg: 60.45ms, max: 132.46ms, count: 1237
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 295431
+message-process 	avg: 623.27us, max: 47.51ms, count: 7496
+proposal (since-start)	count: 0
+request-queue   	avg: 48.15ms, max: 190.96ms
+slow-path       	ratio: 0.00
+
+
+16:33:36.862  Sending benchmark results to server.
+16:33:36.874  -- Node 1
+block-execute   	avg: 61.47ms, max: 155.70ms, count: 1062
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 296502
+message-process 	avg: 710.13us, max: 23.14ms, count: 6522
+proposal (since-start)	count: 0
+request-queue   	avg: 70.63ms, max: 239.55ms
+slow-path       	ratio: 0.00
+
+
+16:33:39.858  Sending benchmark results to server.
+16:33:39.862  -- Node 1
+block-execute   	avg: 58.57ms, max: 213.32ms, count: 703
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 297113
+message-process 	avg: 1.16ms, max: 37.97ms, count: 4413
+proposal (since-start)	count: 0
+request-queue   	avg: 140.80ms, max: 510.11ms
+slow-path       	ratio: 0.00
+
+
+16:33:42.861  Sending benchmark results to server.
+16:33:42.865  -- Node 1
+block-execute   	avg: 56.30ms, max: 164.65ms, count: 938
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 298071
+message-process 	avg: 1.08ms, max: 39.65ms, count: 5989
+proposal (since-start)	count: 0
+request-queue   	avg: 100.17ms, max: 362.66ms
+slow-path       	ratio: 0.00
+
+
+16:33:45.864  Sending benchmark results to server.
+16:33:45.870  -- Node 1
+block-execute   	avg: 57.98ms, max: 174.24ms, count: 1124
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 299168
+message-process 	avg: 976.62us, max: 58.10ms, count: 6898
+proposal (since-start)	count: 0
+request-queue   	avg: 67.36ms, max: 183.87ms
+slow-path       	ratio: 0.00
+
+
+16:33:48.870  Sending benchmark results to server.
+16:33:48.872  -- Node 1
+block-execute   	avg: 56.98ms, max: 174.52ms, count: 962
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 300043
+message-process 	avg: 791.25us, max: 35.80ms, count: 6169
+proposal (since-start)	count: 0
+request-queue   	avg: 88.09ms, max: 215.56ms
+slow-path       	ratio: 0.00
+
+
+16:33:51.869  Sending benchmark results to server.
+16:33:51.875  -- Node 1
+block-execute   	avg: 62.86ms, max: 163.11ms, count: 999
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 301110
+message-process 	avg: 856.48us, max: 41.46ms, count: 6010
+proposal (since-start)	count: 0
+request-queue   	avg: 83.07ms, max: 396.14ms
+slow-path       	ratio: 0.00
+
+
+16:33:54.871  Sending benchmark results to server.
+16:33:54.874  -- Node 1
+block-execute   	avg: 55.15ms, max: 148.85ms, count: 1087
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 302252
+message-process 	avg: 693.59us, max: 24.41ms, count: 6742
+proposal (since-start)	count: 0
+request-queue   	avg: 76.32ms, max: 341.27ms
+slow-path       	ratio: 0.00
+
+
+16:33:57.871  Sending benchmark results to server.
+16:33:57.875  -- Node 1
+block-execute   	avg: 59.00ms, max: 190.76ms, count: 1192
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 303436
+message-process 	avg: 599.66us, max: 26.88ms, count: 7446
+proposal (since-start)	count: 0
+request-queue   	avg: 54.03ms, max: 152.72ms
+slow-path       	ratio: 0.00
+
+
+16:34:00.874  Sending benchmark results to server.
+16:34:00.877  -- Node 1
+block-execute   	avg: 54.48ms, max: 140.24ms, count: 1088
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 304501
+message-process 	avg: 798.26us, max: 35.25ms, count: 6750
+proposal (since-start)	count: 0
+request-queue   	avg: 70.94ms, max: 223.88ms
+slow-path       	ratio: 0.00
+
+
+16:34:03.875  Sending benchmark results to server.
+16:34:03.878  -- Node 1
+block-execute   	avg: 61.05ms, max: 202.29ms, count: 1050
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 305463
+message-process 	avg: 962.14us, max: 38.13ms, count: 6712
+proposal (since-start)	count: 0
+request-queue   	avg: 69.52ms, max: 384.11ms
+slow-path       	ratio: 0.00
+
+
+16:34:06.882  Sending benchmark results to server.
+16:34:06.890  -- Node 1
+block-execute   	avg: 55.31ms, max: 148.81ms, count: 893
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 306440
+message-process 	avg: 839.78us, max: 27.87ms, count: 5457
+proposal (since-start)	count: 0
+request-queue   	avg: 100.67ms, max: 413.49ms
+slow-path       	ratio: 0.00
+
+
+16:34:09.883  Sending benchmark results to server.
+16:34:09.885  -- Node 1
+block-execute   	avg: 61.06ms, max: 137.43ms, count: 836
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 307216
+message-process 	avg: 1.15ms, max: 34.09ms, count: 5170
+proposal (since-start)	count: 0
+request-queue   	avg: 112.37ms, max: 427.99ms
+slow-path       	ratio: 0.00
+
+
+16:34:12.890  Sending benchmark results to server.
+16:34:12.893  -- Node 1
+block-execute   	avg: 57.17ms, max: 171.92ms, count: 796
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 308089
+message-process 	avg: 2.17ms, max: 130.46ms, count: 4990
+proposal (since-start)	count: 0
+request-queue   	avg: 124.99ms, max: 345.41ms
+slow-path       	ratio: 0.00
+
+
+16:34:15.891  Sending benchmark results to server.
+16:34:15.896  -- Node 1
+block-execute   	avg: 57.80ms, max: 143.31ms, count: 752
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 308807
+message-process 	avg: 1.02ms, max: 37.03ms, count: 4737
+proposal (since-start)	count: 0
+request-queue   	avg: 124.16ms, max: 337.50ms
+slow-path       	ratio: 0.00
+
+
+16:34:18.896  Sending benchmark results to server.
+16:34:18.901  -- Node 1
+block-execute   	avg: 55.70ms, max: 137.73ms, count: 893
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 309672
+message-process 	avg: 799.13us, max: 28.38ms, count: 5619
+proposal (since-start)	count: 0
+request-queue   	avg: 108.22ms, max: 561.36ms
+slow-path       	ratio: 0.00
+
+
+16:34:21.902  Sending benchmark results to server.
+16:34:21.904  -- Node 1
+block-execute   	avg: 60.89ms, max: 186.45ms, count: 863
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 310534
+message-process 	avg: 858.63us, max: 41.87ms, count: 5440
+proposal (since-start)	count: 0
+request-queue   	avg: 105.42ms, max: 317.62ms
+slow-path       	ratio: 0.00
+
+
+16:34:24.906  Sending benchmark results to server.
+16:34:24.909  -- Node 1
+block-execute   	avg: 62.90ms, max: 260.29ms, count: 801
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 311382
+message-process 	avg: 1.08ms, max: 44.27ms, count: 5001
+proposal (since-start)	count: 0
+request-queue   	avg: 112.53ms, max: 410.45ms
+slow-path       	ratio: 0.00
+
+
+16:34:27.899  Sending benchmark results to server.
+16:34:27.902  -- Node 1
+block-execute   	avg: 57.26ms, max: 150.69ms, count: 871
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 312289
+message-process 	avg: 842.55us, max: 31.87ms, count: 5452
+proposal (since-start)	count: 0
+request-queue   	avg: 95.94ms, max: 245.77ms
+slow-path       	ratio: 0.00
+
+
+16:34:30.903  Sending benchmark results to server.
+16:34:30.908  -- Node 1
+block-execute   	avg: 61.09ms, max: 243.01ms, count: 805
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 313114
+message-process 	avg: 1.71ms, max: 47.00ms, count: 5251
+proposal (since-start)	count: 0
+request-queue   	avg: 123.05ms, max: 392.70ms
+slow-path       	ratio: 0.00
+
+
+16:34:33.909  Sending benchmark results to server.
+16:34:33.914  -- Node 1
+block-execute   	avg: 57.32ms, max: 127.83ms, count: 879
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 313993
+message-process 	avg: 1.01ms, max: 34.08ms, count: 5376
+proposal (since-start)	count: 0
+request-queue   	avg: 107.06ms, max: 216.80ms
+slow-path       	ratio: 0.00
+
+
+16:34:36.912  Sending benchmark results to server.
+16:34:36.920  -- Node 1
+block-execute   	avg: 57.38ms, max: 166.81ms, count: 937
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 314621
+message-process 	avg: 736.80us, max: 51.83ms, count: 5764
+proposal (since-start)	count: 0
+request-queue   	avg: 89.88ms, max: 271.26ms
+slow-path       	ratio: 0.00
+
+
+16:34:39.933  Sending benchmark results to server.
+16:34:39.936  -- Node 1
+block-execute   	avg: 97.19ms, max: 721.74ms, count: 406
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 315246
+message-process 	avg: 3.54ms, max: 615.51ms, count: 2593
+proposal (since-start)	count: 0
+request-queue   	avg: 221.56ms, max: 1.12s
+slow-path       	ratio: 0.00
+
+
+16:34:42.989  Sending benchmark results to server.
+16:34:43.3  -- Node 1
+block-execute   	avg: 65.78ms, max: 228.56ms, count: 670
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 315996
+message-process 	avg: 2.65ms, max: 74.28ms, count: 4275
+proposal (since-start)	count: 0
+request-queue   	avg: 153.95ms, max: 466.22ms
+slow-path       	ratio: 0.00
+
+
+16:34:45.930  Sending benchmark results to server.
+16:34:45.933  -- Node 1
+block-execute   	avg: 64.23ms, max: 288.74ms, count: 889
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 316917
+message-process 	avg: 1.22ms, max: 60.14ms, count: 5591
+proposal (since-start)	count: 0
+request-queue   	avg: 86.05ms, max: 314.05ms
+slow-path       	ratio: 0.00
+
+
+16:34:48.929  Sending benchmark results to server.
+16:34:48.931  -- Node 1
+block-execute   	avg: 58.86ms, max: 162.14ms, count: 910
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 317577
+message-process 	avg: 794.26us, max: 31.85ms, count: 5599
+proposal (since-start)	count: 0
+request-queue   	avg: 99.25ms, max: 321.50ms
+slow-path       	ratio: 0.00
+
+
+16:34:51.934  Sending benchmark results to server.
+16:34:51.940  -- Node 1
+block-execute   	avg: 63.58ms, max: 227.85ms, count: 771
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 318485
+message-process 	avg: 976.45us, max: 33.52ms, count: 4819
+proposal (since-start)	count: 0
+request-queue   	avg: 124.54ms, max: 441.96ms
+slow-path       	ratio: 0.00
+
+
+16:34:54.932  Sending benchmark results to server.
+16:34:54.934  -- Node 1
+block-execute   	avg: 55.35ms, max: 126.05ms, count: 1053
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 319570
+message-process 	avg: 837.62us, max: 39.31ms, count: 6603
+proposal (since-start)	count: 0
+request-queue   	avg: 75.66ms, max: 253.25ms
+slow-path       	ratio: 0.00
+
+
+16:34:57.934  Sending benchmark results to server.
+16:34:57.937  -- Node 1
+block-execute   	avg: 60.01ms, max: 163.81ms, count: 866
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 320406
+message-process 	avg: 854.64us, max: 33.74ms, count: 5416
+proposal (since-start)	count: 0
+request-queue   	avg: 103.40ms, max: 352.05ms
+slow-path       	ratio: 0.00
+
+
+16:35:00.937  Sending benchmark results to server.
+16:35:00.941  -- Node 1
+block-execute   	avg: 58.67ms, max: 169.02ms, count: 856
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 321333
+message-process 	avg: 1.02ms, max: 48.64ms, count: 5333
+proposal (since-start)	count: 0
+request-queue   	avg: 108.47ms, max: 436.04ms
+slow-path       	ratio: 0.00
+
+
+16:35:03.946  Sending benchmark results to server.
+16:35:03.947  -- Node 1
+block-execute   	avg: 54.05ms, max: 152.18ms, count: 946
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 322316
+message-process 	avg: 751.41us, max: 30.55ms, count: 6124
+proposal (since-start)	count: 0
+request-queue   	avg: 86.70ms, max: 439.70ms
+slow-path       	ratio: 0.00
+
+
+16:35:06.944  Sending benchmark results to server.
+16:35:06.946  -- Node 1
+block-execute   	avg: 64.34ms, max: 179.58ms, count: 901
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 323192
+message-process 	avg: 1.50ms, max: 42.77ms, count: 5526
+proposal (since-start)	count: 0
+request-queue   	avg: 91.55ms, max: 279.08ms
+slow-path       	ratio: 0.00
+
+
+16:35:09.952  Sending benchmark results to server.
+16:35:09.953  -- Node 1
+block-execute   	avg: 58.27ms, max: 170.50ms, count: 1041
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 324173
+message-process 	avg: 887.08us, max: 60.52ms, count: 6453
+proposal (since-start)	count: 0
+request-queue   	avg: 83.83ms, max: 421.83ms
+slow-path       	ratio: 0.00
+
+
+16:35:12.948  Sending benchmark results to server.
+16:35:12.950  -- Node 1
+block-execute   	avg: 61.85ms, max: 219.07ms, count: 892
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 325050
+message-process 	avg: 1.99ms, max: 53.82ms, count: 5568
+proposal (since-start)	count: 0
+request-queue   	avg: 98.23ms, max: 266.88ms
+slow-path       	ratio: 0.00
+
+
+16:35:15.976  Sending benchmark results to server.
+16:35:15.981  -- Node 1
+block-execute   	avg: 58.25ms, max: 160.91ms, count: 1027
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 326085
+message-process 	avg: 910.65us, max: 20.72ms, count: 6420
+proposal (since-start)	count: 0
+request-queue   	avg: 77.88ms, max: 282.41ms
+slow-path       	ratio: 0.00
+
+
+16:35:18.959  Sending benchmark results to server.
+16:35:18.961  -- Node 1
+block-execute   	avg: 56.33ms, max: 156.68ms, count: 921
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 327043
+message-process 	avg: 991.05us, max: 25.99ms, count: 5737
+proposal (since-start)	count: 0
+request-queue   	avg: 101.36ms, max: 458.84ms
+slow-path       	ratio: 0.00
+
+
+16:35:21.959  Sending benchmark results to server.
+16:35:21.961  -- Node 1
+block-execute   	avg: 59.91ms, max: 159.90ms, count: 928
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 328002
+message-process 	avg: 857.13us, max: 44.47ms, count: 5731
+proposal (since-start)	count: 0
+request-queue   	avg: 91.99ms, max: 347.28ms
+slow-path       	ratio: 0.00
+
+
+16:35:24.956  Sending benchmark results to server.
+16:35:24.960  -- Node 1
+block-execute   	avg: 62.96ms, max: 165.02ms, count: 967
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 328978
+message-process 	avg: 818.90us, max: 46.15ms, count: 6092
+proposal (since-start)	count: 0
+request-queue   	avg: 80.91ms, max: 256.02ms
+slow-path       	ratio: 0.00
+
+
+16:35:27.962  Sending benchmark results to server.
+16:35:27.964  -- Node 1
+block-execute   	avg: 58.80ms, max: 132.30ms, count: 955
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 329986
+message-process 	avg: 808.70us, max: 26.69ms, count: 6056
+proposal (since-start)	count: 0
+request-queue   	avg: 90.89ms, max: 243.14ms
+slow-path       	ratio: 0.00
+
+
+16:35:30.965  Sending benchmark results to server.
+16:35:30.969  -- Node 1
+block-execute   	avg: 56.53ms, max: 141.69ms, count: 928
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 330942
+message-process 	avg: 1.64ms, max: 83.32ms, count: 5867
+proposal (since-start)	count: 0
+request-queue   	avg: 93.36ms, max: 213.71ms
+slow-path       	ratio: 0.00
+
+
+16:35:33.968  Sending benchmark results to server.
+16:35:33.975  -- Node 1
+block-execute   	avg: 60.40ms, max: 190.91ms, count: 924
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 331799
+message-process 	avg: 1.65ms, max: 96.27ms, count: 5670
+proposal (since-start)	count: 0
+request-queue   	avg: 101.98ms, max: 291.35ms
+slow-path       	ratio: 0.00
+
+
+16:35:36.964  Sending benchmark results to server.
+16:35:36.966  -- Node 1
+block-execute   	avg: 57.26ms, max: 178.25ms, count: 1036
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 332902
+message-process 	avg: 829.94us, max: 33.38ms, count: 6469
+proposal (since-start)	count: 0
+request-queue   	avg: 74.77ms, max: 343.43ms
+slow-path       	ratio: 0.00
+
+
+16:35:39.973  Sending benchmark results to server.
+16:35:39.979  -- Node 1
+block-execute   	avg: 58.30ms, max: 135.70ms, count: 1028
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 333749
+message-process 	avg: 1.07ms, max: 50.57ms, count: 6380
+proposal (since-start)	count: 0
+request-queue   	avg: 81.04ms, max: 273.56ms
+slow-path       	ratio: 0.00
+
+
+16:35:42.970  Sending benchmark results to server.
+16:35:42.973  -- Node 1
+block-execute   	avg: 58.04ms, max: 147.71ms, count: 881
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 334728
+message-process 	avg: 1.20ms, max: 43.04ms, count: 5500
+proposal (since-start)	count: 0
+request-queue   	avg: 103.73ms, max: 352.39ms
+slow-path       	ratio: 0.00
+
+
+16:35:45.976  Sending benchmark results to server.
+16:35:45.977  -- Node 1
+block-execute   	avg: 58.42ms, max: 171.82ms, count: 1018
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 335763
+message-process 	avg: 831.00us, max: 27.94ms, count: 6240
+proposal (since-start)	count: 0
+request-queue   	avg: 88.02ms, max: 222.01ms
+slow-path       	ratio: 0.00
+
+
+16:35:48.983  Sending benchmark results to server.
+16:35:48.986  -- Node 1
+block-execute   	avg: 56.99ms, max: 163.97ms, count: 976
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 336627
+message-process 	avg: 824.25us, max: 23.07ms, count: 6070
+proposal (since-start)	count: 0
+request-queue   	avg: 89.22ms, max: 209.33ms
+slow-path       	ratio: 0.00
+
+
+16:35:51.985  Sending benchmark results to server.
+16:35:51.993  -- Node 1
+block-execute   	avg: 60.73ms, max: 128.12ms, count: 733
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 337539
+message-process 	avg: 1.13ms, max: 24.44ms, count: 4643
+proposal (since-start)	count: 0
+request-queue   	avg: 124.58ms, max: 416.99ms
+slow-path       	ratio: 0.00
+
+
+16:35:54.983  Sending benchmark results to server.
+16:35:54.986  -- Node 1
+block-execute   	avg: 54.72ms, max: 115.31ms, count: 993
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 338414
+message-process 	avg: 1.15ms, max: 51.97ms, count: 6258
+proposal (since-start)	count: 0
+request-queue   	avg: 91.16ms, max: 343.50ms
+slow-path       	ratio: 0.00
+
+
+16:35:57.999  Sending benchmark results to server.
+16:35:58.3  -- Node 1
+block-execute   	avg: 58.59ms, max: 166.26ms, count: 869
+current-episode 	value: 0
+current-protocol	value: prime
+in-dark			value: false
+last-executed-sequence	num: 339152
+message-process 	avg: 1.07ms, max: 44.73ms, count: 5449
+proposal (since-start)	count: 0
+request-queue   	avg: 106.04ms, max: 455.44ms
+slow-path       	ratio: 0.00
+
+
+^C*** shutting down gRPC server since JVM is shutting down
+*** server shut down
+jaywang@Jays-MacBook-Pro code %

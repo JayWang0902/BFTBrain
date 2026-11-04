@@ -1,0 +1,1988 @@
+
+
+[EPISODE REPORT] episode 843: protocol = zyzzyva , throughput = 16990.79req/s ,
+episode time = 0.588554s, overall time = 793.0031726658344s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  843
+{0} processCheckpoints, checkpointNum:  843
+{0} Update last stable checkpoint to  843
+{0} processCheckpoints, checkpointNum:  843
+[EPISODE REPORT] episode 844: protocol = zyzzyva , throughput = 17716.19req/s ,
+episode time = 0.56445533s, overall time = 793.5676279962063s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  844
+{0} processCheckpoints, checkpointNum:  844
+{0} Update last stable checkpoint to  844
+{0} processCheckpoints, checkpointNum:  844
+[EPISODE REPORT] episode 845: protocol = zyzzyva , throughput = 18584.02req/s ,
+episode time = 0.53809667s, overall time = 794.1057246625423s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  845
+{0} processCheckpoints, checkpointNum:  845
+{0} Update last stable checkpoint to  845
+{0} processCheckpoints, checkpointNum:  845
+[EPISODE REPORT] episode 846: protocol = zyzzyva , throughput = 12814.42req/s ,
+episode time = 0.780371s, overall time = 794.8860956728458s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  846
+{0} processCheckpoints, checkpointNum:  846
+{0} Update last stable checkpoint to  846
+{0} processCheckpoints, checkpointNum:  846
+[EPISODE REPORT] episode 847: protocol = zyzzyva , throughput = 16754.50req/s ,
+episode time = 0.59685475s, overall time = 795.4829504191875s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  847
+{0} processCheckpoints, checkpointNum:  847
+{0} Update last stable checkpoint to  847
+{0} processCheckpoints, checkpointNum:  847
+16:51:43.605  Sending benchmark results to server.
+16:51:43.606  -- Node 0
+block-execute   	avg: 16.66us, max: 2.21ms, count: 4914
+current-episode 	value: 848
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 848498
+message-process 	avg: 28.61ms, max: 92.26ms, count: 49141
+proposal (since-start)	count: 907440
+request-queue   	avg: 29.11ms, max: 92.46ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 848: protocol = zyzzyva , throughput = 16371.14req/s ,
+episode time = 0.6108309s, overall time = 796.0937813222408s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  848
+{0} processCheckpoints, checkpointNum:  848
+{0} Update last stable checkpoint to  848
+{0} processCheckpoints, checkpointNum:  848
+[EPISODE REPORT] episode 849: protocol = zyzzyva , throughput = 16663.57req/s ,
+episode time = 0.60011166s, overall time = 796.6938929855824s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  849
+{0} processCheckpoints, checkpointNum:  849
+{0} Update last stable checkpoint to  849
+{0} processCheckpoints, checkpointNum:  849
+[EPISODE REPORT] episode 850: protocol = zyzzyva , throughput = 16634.96req/s ,
+episode time = 0.60114366s, overall time = 797.2950366437435s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  850
+{0} processCheckpoints, checkpointNum:  850
+{0} Update last stable checkpoint to  850
+{0} processCheckpoints, checkpointNum:  850
+[EPISODE REPORT] episode 851: protocol = zyzzyva , throughput = 16000.09req/s ,
+episode time = 0.62499654s, overall time = 797.9200331866741s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  851
+{0} processCheckpoints, checkpointNum:  851
+{0} Update last stable checkpoint to  851
+{0} processCheckpoints, checkpointNum:  851
+[EPISODE REPORT] episode 852: protocol = zyzzyva , throughput = 17586.54req/s ,
+episode time = 0.5686165s, overall time = 798.4886496961117s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  852
+{0} processCheckpoints, checkpointNum:  852
+{0} Update last stable checkpoint to  852
+{0} processCheckpoints, checkpointNum:  852
+16:51:46.610  Sending benchmark results to server.
+16:51:46.612  -- Node 0
+block-execute   	avg: 15.35us, max: 2.30ms, count: 4981
+current-episode 	value: 853
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 853652
+message-process 	avg: 27.98ms, max: 92.67ms, count: 49811
+proposal (since-start)	count: 913044
+request-queue   	avg: 28.68ms, max: 95.02ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 853: protocol = zyzzyva , throughput = 20070.30req/s ,
+episode time = 0.49824864s, overall time = 798.9868983328342s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  853
+{0} processCheckpoints, checkpointNum:  853
+{0} Update last stable checkpoint to  853
+{0} processCheckpoints, checkpointNum:  853
+[EPISODE REPORT] episode 854: protocol = zyzzyva , throughput = 18150.56req/s ,
+episode time = 0.55094725s, overall time = 799.53784558177s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  854
+{0} processCheckpoints, checkpointNum:  854
+{0} Update last stable checkpoint to  854
+{0} processCheckpoints, checkpointNum:  854
+[EPISODE REPORT] episode 855: protocol = zyzzyva , throughput = 20351.74req/s ,
+episode time = 0.49135837s, overall time = 800.0292039513588s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  855
+{0} processCheckpoints, checkpointNum:  855
+{0} Update last stable checkpoint to  855
+{0} processCheckpoints, checkpointNum:  855
+[EPISODE REPORT] episode 856: protocol = zyzzyva , throughput = 16949.93req/s ,
+episode time = 0.589973s, overall time = 800.6191769242287s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  856
+{0} processCheckpoints, checkpointNum:  856
+{0} Update last stable checkpoint to  856
+{0} processCheckpoints, checkpointNum:  856
+[EPISODE REPORT] episode 857: protocol = zyzzyva , throughput = 20204.05req/s ,
+episode time = 0.49495023s, overall time = 801.1141271591187s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  857
+{0} processCheckpoints, checkpointNum:  857
+{0} Update last stable checkpoint to  857
+{0} processCheckpoints, checkpointNum:  857
+[EPISODE REPORT] episode 858: protocol = zyzzyva , throughput = 18054.71req/s ,
+episode time = 0.55387217s, overall time = 801.6679993271828s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  858
+{0} processCheckpoints, checkpointNum:  858
+{0} Update last stable checkpoint to  858
+{0} processCheckpoints, checkpointNum:  858
+16:51:49.617  Sending benchmark results to server.
+16:51:49.618  -- Node 0
+block-execute   	avg: 14.29us, max: 2.37ms, count: 5624
+current-episode 	value: 859
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 859271
+message-process 	avg: 25.10ms, max: 57.09ms, count: 56243
+proposal (since-start)	count: 919111
+request-queue   	avg: 25.58ms, max: 57.35ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 859: protocol = zyzzyva , throughput = 19119.02req/s ,
+episode time = 0.52303946s, overall time = 802.191038787365s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  859
+{0} processCheckpoints, checkpointNum:  859
+{0} Update last stable checkpoint to  859
+{0} processCheckpoints, checkpointNum:  859
+[EPISODE REPORT] episode 860: protocol = zyzzyva , throughput = 17009.27req/s ,
+episode time = 0.58791465s, overall time = 802.7789534330368s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  860
+{0} processCheckpoints, checkpointNum:  860
+{0} Update last stable checkpoint to  860
+{0} processCheckpoints, checkpointNum:  860
+[EPISODE REPORT] episode 861: protocol = zyzzyva , throughput = 20142.70req/s ,
+episode time = 0.4964578s, overall time = 803.2754112184048s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  861
+{0} processCheckpoints, checkpointNum:  861
+{0} Update last stable checkpoint to  861
+{0} processCheckpoints, checkpointNum:  861
+[EPISODE REPORT] episode 862: protocol = zyzzyva , throughput = 18562.79req/s ,
+episode time = 0.53871214s, overall time = 803.8141233623028s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  862
+{0} processCheckpoints, checkpointNum:  862
+{0} Update last stable checkpoint to  862
+{0} processCheckpoints, checkpointNum:  862
+[EPISODE REPORT] episode 863: protocol = zyzzyva , throughput = 17441.11req/s ,
+episode time = 0.5733579s, overall time = 804.3874812424183s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  863
+{0} processCheckpoints, checkpointNum:  863
+{0} Update last stable checkpoint to  863
+{0} processCheckpoints, checkpointNum:  863
+16:51:52.619  Sending benchmark results to server.
+16:51:52.620  -- Node 0
+block-execute   	avg: 13.78us, max: 2.36ms, count: 5584
+current-episode 	value: 864
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 864866
+message-process 	avg: 25.04ms, max: 67.71ms, count: 55841
+proposal (since-start)	count: 925204
+request-queue   	avg: 25.57ms, max: 68.27ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 864: protocol = zyzzyva , throughput = 20127.90req/s ,
+episode time = 0.49682277s, overall time = 804.8843040168285s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  864
+{0} processCheckpoints, checkpointNum:  864
+{0} Update last stable checkpoint to  864
+{0} processCheckpoints, checkpointNum:  864
+[EPISODE REPORT] episode 865: protocol = zyzzyva , throughput = 15830.57req/s ,
+episode time = 0.63168937s, overall time = 805.515993386507s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  865
+{0} processCheckpoints, checkpointNum:  865
+{0} Update last stable checkpoint to  865
+{0} processCheckpoints, checkpointNum:  865
+[EPISODE REPORT] episode 866: protocol = zyzzyva , throughput = 18737.15req/s ,
+episode time = 0.53369915s, overall time = 806.0496925413609s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  866
+{0} processCheckpoints, checkpointNum:  866
+{0} Update last stable checkpoint to  866
+{0} processCheckpoints, checkpointNum:  866
+[EPISODE REPORT] episode 867: protocol = zyzzyva , throughput = 19339.53req/s ,
+episode time = 0.5170757s, overall time = 806.56676825881s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  867
+{0} processCheckpoints, checkpointNum:  867
+{0} Update last stable checkpoint to  867
+{0} processCheckpoints, checkpointNum:  867
+[EPISODE REPORT] episode 868: protocol = zyzzyva , throughput = 18857.15req/s ,
+episode time = 0.53030294s, overall time = 807.0970712006092s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  868
+{0} processCheckpoints, checkpointNum:  868
+{0} Update last stable checkpoint to  868
+{0} processCheckpoints, checkpointNum:  868
+[EPISODE REPORT] episode 869: protocol = zyzzyva , throughput = 18158.54req/s ,
+episode time = 0.550705s, overall time = 807.6477762162685s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  869
+{0} processCheckpoints, checkpointNum:  869
+{0} Update last stable checkpoint to  869
+{0} processCheckpoints, checkpointNum:  869
+16:51:55.622  Sending benchmark results to server.
+16:51:55.623  -- Node 0
+block-execute   	avg: 15.11us, max: 2.59ms, count: 5455
+current-episode 	value: 870
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 870324
+message-process 	avg: 25.95ms, max: 65.60ms, count: 54548
+proposal (since-start)	count: 931209
+request-queue   	avg: 26.57ms, max: 65.77ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 870: protocol = zyzzyva , throughput = 20039.97req/s ,
+episode time = 0.4990026s, overall time = 808.1467788219452s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  870
+{0} processCheckpoints, checkpointNum:  870
+{0} Update last stable checkpoint to  870
+{0} processCheckpoints, checkpointNum:  870
+[EPISODE REPORT] episode 871: protocol = zyzzyva , throughput = 16664.83req/s ,
+episode time = 0.6000662s, overall time = 808.7468450069427s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  871
+{0} processCheckpoints, checkpointNum:  871
+{0} Update last stable checkpoint to  871
+{0} processCheckpoints, checkpointNum:  871
+[EPISODE REPORT] episode 872: protocol = zyzzyva , throughput = 18650.47req/s ,
+episode time = 0.53617936s, overall time = 809.2830243706703s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  872
+{0} processCheckpoints, checkpointNum:  872
+{0} Update last stable checkpoint to  872
+{0} processCheckpoints, checkpointNum:  872
+[EPISODE REPORT] episode 873: protocol = zyzzyva , throughput = 19167.11req/s ,
+episode time = 0.52172697s, overall time = 809.8047513365746s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  873
+{0} Update last stable checkpoint to  873
+{0} processCheckpoints, checkpointNum:  873
+{0} processCheckpoints, checkpointNum:  873
+[EPISODE REPORT] episode 874: protocol = zyzzyva , throughput = 17082.94req/s ,
+episode time = 0.5853795s, overall time = 810.3901308178902s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  874
+{0} processCheckpoints, checkpointNum:  874
+{0} Update last stable checkpoint to  874
+{0} processCheckpoints, checkpointNum:  874
+16:51:58.624  Sending benchmark results to server.
+16:51:58.624  -- Node 0
+block-execute   	avg: 13.26us, max: 305.75us, count: 5600
+current-episode 	value: 875
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 875897
+message-process 	avg: 25.14ms, max: 46.50ms, count: 55994
+proposal (since-start)	count: 937300
+request-queue   	avg: 25.67ms, max: 46.78ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 875: protocol = zyzzyva , throughput = 20692.80req/s ,
+episode time = 0.48325992s, overall time = 810.8733907341957s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  875
+{0} processCheckpoints, checkpointNum:  875
+{0} Update last stable checkpoint to  875
+{0} processCheckpoints, checkpointNum:  875
+[EPISODE REPORT] episode 876: protocol = zyzzyva , throughput = 16096.33req/s ,
+episode time = 0.62125975s, overall time = 811.4946504831314s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  876
+{0} processCheckpoints, checkpointNum:  876
+{0} Update last stable checkpoint to  876
+{0} processCheckpoints, checkpointNum:  876
+[EPISODE REPORT] episode 877: protocol = zyzzyva , throughput = 19188.49req/s ,
+episode time = 0.5211458s, overall time = 812.0157963037491s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  877
+{0} processCheckpoints, checkpointNum:  877
+{0} Update last stable checkpoint to  877
+{0} processCheckpoints, checkpointNum:  877
+[EPISODE REPORT] episode 878: protocol = zyzzyva , throughput = 18130.90req/s ,
+episode time = 0.5515445s, overall time = 812.5673407912254s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  878
+{0} processCheckpoints, checkpointNum:  878
+{0} Update last stable checkpoint to  878
+{0} processCheckpoints, checkpointNum:  878
+[EPISODE REPORT] episode 879: protocol = zyzzyva , throughput = 18134.86req/s ,
+episode time = 0.5514242s, overall time = 813.1187649965286s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  879
+{0} processCheckpoints, checkpointNum:  879
+{0} Update last stable checkpoint to  879
+{0} processCheckpoints, checkpointNum:  879
+[EPISODE REPORT] episode 880: protocol = zyzzyva , throughput = 19567.99req/s ,
+episode time = 0.5110388s, overall time = 813.629803776741s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  880
+{0} processCheckpoints, checkpointNum:  880
+{0} Update last stable checkpoint to  880
+{0} processCheckpoints, checkpointNum:  880
+16:52:01.624  Sending benchmark results to server.
+16:52:01.626  -- Node 0
+block-execute   	avg: 14.69us, max: 3.82ms, count: 5378
+current-episode 	value: 881
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 881360
+message-process 	avg: 26.21ms, max: 121.24ms, count: 53788
+proposal (since-start)	count: 943228
+request-queue   	avg: 26.94ms, max: 121.46ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 881: protocol = zyzzyva , throughput = 17545.32req/s ,
+episode time = 0.5699525s, overall time = 814.1997562646866s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  881
+{0} processCheckpoints, checkpointNum:  881
+{0} Update last stable checkpoint to  881
+{0} processCheckpoints, checkpointNum:  881
+[EPISODE REPORT] episode 882: protocol = zyzzyva , throughput = 15633.24req/s ,
+episode time = 0.63966286s, overall time = 814.8394191265106s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  882
+{0} processCheckpoints, checkpointNum:  882
+{0} Update last stable checkpoint to  882
+{0} processCheckpoints, checkpointNum:  882
+[EPISODE REPORT] episode 883: protocol = zyzzyva , throughput = 17899.91req/s ,
+episode time = 0.5586619s, overall time = 815.3980810046196s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  883
+{0} processCheckpoints, checkpointNum:  883
+{0} Update last stable checkpoint to  883
+{0} processCheckpoints, checkpointNum:  883
+[EPISODE REPORT] episode 884: protocol = zyzzyva , throughput = 19412.84req/s ,
+episode time = 0.5151229s, overall time = 815.913203895092s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  884
+{0} processCheckpoints, checkpointNum:  884
+{0} Update last stable checkpoint to  884
+{0} processCheckpoints, checkpointNum:  884
+[EPISODE REPORT] episode 885: protocol = zyzzyva , throughput = 17699.56req/s ,
+episode time = 0.56498575s, overall time = 816.4781896471977s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  885
+{0} processCheckpoints, checkpointNum:  885
+{0} Update last stable checkpoint to  885
+{0} processCheckpoints, checkpointNum:  885
+16:52:04.629  Sending benchmark results to server.
+16:52:04.630  -- Node 0
+block-execute   	avg: 14.42us, max: 458.75us, count: 5357
+current-episode 	value: 886
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 886671
+message-process 	avg: 26.26ms, max: 67.92ms, count: 53567
+proposal (since-start)	count: 949062
+request-queue   	avg: 26.90ms, max: 68.21ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 886: protocol = zyzzyva , throughput = 18127.54req/s ,
+episode time = 0.55164695s, overall time = 817.0298365950584s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  886
+{0} processCheckpoints, checkpointNum:  886
+{0} Update last stable checkpoint to  886
+{0} processCheckpoints, checkpointNum:  886
+[EPISODE REPORT] episode 887: protocol = zyzzyva , throughput = 18416.93req/s ,
+episode time = 0.5429787s, overall time = 817.5728152990341s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  887
+{0} processCheckpoints, checkpointNum:  887
+{0} Update last stable checkpoint to  887
+{0} processCheckpoints, checkpointNum:  887
+[EPISODE REPORT] episode 888: protocol = zyzzyva , throughput = 18380.58req/s ,
+episode time = 0.54405254s, overall time = 818.1168678402901s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  888
+{0} processCheckpoints, checkpointNum:  888
+{0} Update last stable checkpoint to  888
+{0} processCheckpoints, checkpointNum:  888
+[EPISODE REPORT] episode 889: protocol = zyzzyva , throughput = 18239.43req/s ,
+episode time = 0.5482627s, overall time = 818.6651305556297s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  889
+{0} processCheckpoints, checkpointNum:  889
+{0} Update last stable checkpoint to  889
+{0} processCheckpoints, checkpointNum:  889
+[EPISODE REPORT] episode 890: protocol = zyzzyva , throughput = 18327.24req/s ,
+episode time = 0.54563576s, overall time = 819.2107663154602s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  890
+{0} processCheckpoints, checkpointNum:  890
+{0} Update last stable checkpoint to  890
+{0} processCheckpoints, checkpointNum:  890
+[EPISODE REPORT] episode 891: protocol = zyzzyva , throughput = 17862.98req/s ,
+episode time = 0.559817s, overall time = 819.7705833315849s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  891
+{0} processCheckpoints, checkpointNum:  891
+{0} Update last stable checkpoint to  891
+{0} processCheckpoints, checkpointNum:  891
+16:52:07.634  Sending benchmark results to server.
+16:52:07.634  -- Node 0
+block-execute   	avg: 13.12us, max: 160.83us, count: 5470
+current-episode 	value: 892
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 892129
+message-process 	avg: 25.82ms, max: 50.89ms, count: 54702
+proposal (since-start)	count: 955089
+request-queue   	avg: 26.45ms, max: 51.11ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 892: protocol = zyzzyva , throughput = 19210.91req/s ,
+episode time = 0.5205376s, overall time = 820.2911209464073s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  892
+{0} processCheckpoints, checkpointNum:  892
+{0} Update last stable checkpoint to  892
+{0} processCheckpoints, checkpointNum:  892
+[EPISODE REPORT] episode 893: protocol = zyzzyva , throughput = 17471.75req/s ,
+episode time = 0.5723524s, overall time = 820.8634733557701s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  893
+{0} processCheckpoints, checkpointNum:  893
+{0} Update last stable checkpoint to  893
+{0} processCheckpoints, checkpointNum:  893
+[EPISODE REPORT] episode 894: protocol = zyzzyva , throughput = 20591.89req/s ,
+episode time = 0.4856281s, overall time = 821.3491014540195s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  894
+{0} processCheckpoints, checkpointNum:  894
+{0} Update last stable checkpoint to  894
+{0} processCheckpoints, checkpointNum:  894
+[EPISODE REPORT] episode 895: protocol = zyzzyva , throughput = 17958.27req/s ,
+episode time = 0.5568465s, overall time = 821.9059479534626s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  895
+{0} processCheckpoints, checkpointNum:  895
+{0} Update last stable checkpoint to  895
+{0} processCheckpoints, checkpointNum:  895
+[EPISODE REPORT] episode 896: protocol = zyzzyva , throughput = 17268.59req/s ,
+episode time = 0.579086s, overall time = 822.4850339591503s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  896
+{0} processCheckpoints, checkpointNum:  896
+{0} Update last stable checkpoint to  896
+{0} processCheckpoints, checkpointNum:  896
+16:52:10.633  Sending benchmark results to server.
+16:52:10.634  -- Node 0
+block-execute   	avg: 13.49us, max: 164.25us, count: 5534
+current-episode 	value: 897
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 897604
+message-process 	avg: 25.38ms, max: 50.04ms, count: 55335
+proposal (since-start)	count: 961107
+request-queue   	avg: 25.94ms, max: 50.27ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 897: protocol = zyzzyva , throughput = 15322.76req/s ,
+episode time = 0.65262395s, overall time = 823.1376579105854s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  897
+{0} processCheckpoints, checkpointNum:  897
+{0} Update last stable checkpoint to  897
+{0} processCheckpoints, checkpointNum:  897
+[EPISODE REPORT] episode 898: protocol = zyzzyva , throughput = 12980.53req/s ,
+episode time = 0.7703845s, overall time = 823.9080424010754s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  898
+{0} Update last stable checkpoint to  898
+{0} processCheckpoints, checkpointNum:  898
+{0} processCheckpoints, checkpointNum:  898
+[EPISODE REPORT] episode 899: protocol = zyzzyva , throughput = 16682.59req/s ,
+episode time = 0.59942746s, overall time = 824.5074698626995s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  899
+{0} processCheckpoints, checkpointNum:  899
+{0} Update last stable checkpoint to  899
+{0} processCheckpoints, checkpointNum:  899
+[EPISODE REPORT] episode 900: protocol = zyzzyva , throughput = 16165.07req/s ,
+episode time = 0.61861783s, overall time = 825.1260876953602s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  900
+{0} processCheckpoints, checkpointNum:  900
+{0} Update last stable checkpoint to  900
+{0} processCheckpoints, checkpointNum:  900
+[EPISODE REPORT] episode 901: protocol = zyzzyva , throughput = 18422.33req/s ,
+episode time = 0.5428194s, overall time = 825.6689070761204s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  901
+{0} processCheckpoints, checkpointNum:  901
+{0} Update last stable checkpoint to  901
+{0} processCheckpoints, checkpointNum:  901
+16:52:13.635  Sending benchmark results to server.
+16:52:13.636  -- Node 0
+block-execute   	avg: 15.99us, max: 573.25us, count: 4589
+current-episode 	value: 902
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 902251
+message-process 	avg: 30.39ms, max: 78.92ms, count: 45893
+proposal (since-start)	count: 966333
+request-queue   	avg: 31.27ms, max: 79.16ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 902: protocol = zyzzyva , throughput = 17563.00req/s ,
+episode time = 0.5693788s, overall time = 826.23828586936s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  902
+{0} processCheckpoints, checkpointNum:  902
+{0} Update last stable checkpoint to  902
+{0} processCheckpoints, checkpointNum:  902
+[EPISODE REPORT] episode 903: protocol = zyzzyva , throughput = 16442.20req/s ,
+episode time = 0.6081913s, overall time = 826.8464771807194s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  903
+{0} processCheckpoints, checkpointNum:  903
+{0} Update last stable checkpoint to  903
+{0} processCheckpoints, checkpointNum:  903
+[EPISODE REPORT] episode 904: protocol = zyzzyva , throughput = 17510.59req/s ,
+episode time = 0.571083s, overall time = 827.4175601899624s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  904
+{0} processCheckpoints, checkpointNum:  904
+{0} Update last stable checkpoint to  904
+{0} processCheckpoints, checkpointNum:  904
+[EPISODE REPORT] episode 905: protocol = zyzzyva , throughput = 20077.73req/s ,
+episode time = 0.4980643s, overall time = 827.915624499321s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  905
+{0} processCheckpoints, checkpointNum:  905
+{0} Update last stable checkpoint to  905
+{0} processCheckpoints, checkpointNum:  905
+[EPISODE REPORT] episode 906: protocol = zyzzyva , throughput = 17559.39req/s ,
+episode time = 0.56949586s, overall time = 828.4851203560829s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  906
+{0} processCheckpoints, checkpointNum:  906
+{0} Update last stable checkpoint to  906
+{0} processCheckpoints, checkpointNum:  906
+16:52:16.639  Sending benchmark results to server.
+16:52:16.641  -- Node 0
+block-execute   	avg: 16.27us, max: 2.98ms, count: 5400
+current-episode 	value: 907
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 907584
+message-process 	avg: 26.04ms, max: 67.35ms, count: 54001
+proposal (since-start)	count: 972138
+request-queue   	avg: 26.58ms, max: 67.77ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 907: protocol = zyzzyva , throughput = 16408.49req/s ,
+episode time = 0.60944045s, overall time = 829.0945608019829s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  907
+{0} processCheckpoints, checkpointNum:  907
+{0} Update last stable checkpoint to  907
+{0} processCheckpoints, checkpointNum:  907
+[EPISODE REPORT] episode 908: protocol = zyzzyva , throughput = 18576.48req/s ,
+episode time = 0.5383152s, overall time = 829.6328759789467s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  908
+{0} processCheckpoints, checkpointNum:  908
+{0} Update last stable checkpoint to  908
+{0} processCheckpoints, checkpointNum:  908
+[EPISODE REPORT] episode 909: protocol = zyzzyva , throughput = 16520.05req/s ,
+episode time = 0.60532504s, overall time = 830.2382010221481s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  909
+{0} processCheckpoints, checkpointNum:  909
+{0} Update last stable checkpoint to  909
+{0} processCheckpoints, checkpointNum:  909
+[EPISODE REPORT] episode 910: protocol = zyzzyva , throughput = 19848.94req/s ,
+episode time = 0.5038053s, overall time = 830.7420063018799s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  910
+{0} processCheckpoints, checkpointNum:  910
+{0} Update last stable checkpoint to  910
+{0} processCheckpoints, checkpointNum:  910
+[EPISODE REPORT] episode 911: protocol = zyzzyva , throughput = 17657.05req/s ,
+episode time = 0.566346s, overall time = 831.308352291584s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  911
+{0} processCheckpoints, checkpointNum:  911
+{0} Update last stable checkpoint to  911
+{0} processCheckpoints, checkpointNum:  911
+16:52:19.645  Sending benchmark results to server.
+16:52:19.646  -- Node 0
+block-execute   	avg: 14.03us, max: 507.83us, count: 5275
+current-episode 	value: 912
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 912842
+message-process 	avg: 26.77ms, max: 70.86ms, count: 52746
+proposal (since-start)	count: 977900
+request-queue   	avg: 27.34ms, max: 71.10ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 912: protocol = zyzzyva , throughput = 16504.44req/s ,
+episode time = 0.6058976s, overall time = 831.9142498970032s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  912
+{0} processCheckpoints, checkpointNum:  912
+{0} Update last stable checkpoint to  912
+{0} processCheckpoints, checkpointNum:  912
+[EPISODE REPORT] episode 913: protocol = zyzzyva , throughput = 18215.62req/s ,
+episode time = 0.5489795s, overall time = 832.4632294178009s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  913
+{0} processCheckpoints, checkpointNum:  913
+{0} Update last stable checkpoint to  913
+{0} processCheckpoints, checkpointNum:  913
+[EPISODE REPORT] episode 914: protocol = zyzzyva , throughput = 17944.85req/s ,
+episode time = 0.55726284s, overall time = 833.0204922556877s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  914
+{0} processCheckpoints, checkpointNum:  914
+{0} Update last stable checkpoint to  914
+{0} processCheckpoints, checkpointNum:  914
+[EPISODE REPORT] episode 915: protocol = zyzzyva , throughput = 18238.41req/s ,
+episode time = 0.54829353s, overall time = 833.5687857866287s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  915
+{0} processCheckpoints, checkpointNum:  915
+{0} Update last stable checkpoint to  915
+{0} processCheckpoints, checkpointNum:  915
+[EPISODE REPORT] episode 916: protocol = zyzzyva , throughput = 18065.73req/s ,
+episode time = 0.5535342s, overall time = 834.122319996357s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  916
+{0} processCheckpoints, checkpointNum:  916
+{0} Update last stable checkpoint to  916
+{0} processCheckpoints, checkpointNum:  916
+[EPISODE REPORT] episode 917: protocol = zyzzyva , throughput = 17684.56req/s ,
+episode time = 0.56546515s, overall time = 834.6877851486206s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  917
+{0} Update last stable checkpoint to  917
+{0} processCheckpoints, checkpointNum:  917
+{0} processCheckpoints, checkpointNum:  917
+16:52:22.647  Sending benchmark results to server.
+16:52:22.648  -- Node 0
+block-execute   	avg: 14.51us, max: 2.72ms, count: 5415
+current-episode 	value: 918
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 918285
+message-process 	avg: 26.17ms, max: 47.84ms, count: 54152
+proposal (since-start)	count: 983887
+request-queue   	avg: 26.78ms, max: 48.04ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 918: protocol = zyzzyva , throughput = 19093.34req/s ,
+episode time = 0.52374274s, overall time = 835.2115278840065s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  918
+{0} processCheckpoints, checkpointNum:  918
+{0} Update last stable checkpoint to  918
+{0} processCheckpoints, checkpointNum:  918
+[EPISODE REPORT] episode 919: protocol = zyzzyva , throughput = 19238.61req/s ,
+episode time = 0.51978797s, overall time = 835.7313158512115s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  919
+{0} processCheckpoints, checkpointNum:  919
+{0} Update last stable checkpoint to  919
+{0} processCheckpoints, checkpointNum:  919
+[EPISODE REPORT] episode 920: protocol = zyzzyva , throughput = 18933.87req/s ,
+episode time = 0.5281542s, overall time = 836.2594700455666s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  920
+{0} processCheckpoints, checkpointNum:  920
+{0} Update last stable checkpoint to  920
+{0} processCheckpoints, checkpointNum:  920
+[EPISODE REPORT] episode 921: protocol = zyzzyva , throughput = 19194.69req/s ,
+episode time = 0.5209775s, overall time = 836.7804475426674s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  921
+{0} processCheckpoints, checkpointNum:  921
+{0} Update last stable checkpoint to  921
+{0} processCheckpoints, checkpointNum:  921
+[EPISODE REPORT] episode 922: protocol = zyzzyva , throughput = 16297.11req/s ,
+episode time = 0.6136056s, overall time = 837.3940531611443s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  922
+{0} processCheckpoints, checkpointNum:  922
+{0} Update last stable checkpoint to  922
+{0} processCheckpoints, checkpointNum:  922
+16:52:25.651  Sending benchmark results to server.
+16:52:25.651  -- Node 0
+block-execute   	avg: 13.85us, max: 231.75us, count: 5489
+current-episode 	value: 923
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 923802
+message-process 	avg: 25.57ms, max: 42.33ms, count: 54890
+proposal (since-start)	count: 989897
+request-queue   	avg: 26.04ms, max: 43.28ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 923: protocol = zyzzyva , throughput = 17163.69req/s ,
+episode time = 0.58262545s, overall time = 837.976678609848s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  923
+{0} processCheckpoints, checkpointNum:  923
+{0} Update last stable checkpoint to  923
+{0} processCheckpoints, checkpointNum:  923
+[EPISODE REPORT] episode 924: protocol = zyzzyva , throughput = 20489.04req/s ,
+episode time = 0.4880659s, overall time = 838.4647445082664s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  924
+{0} processCheckpoints, checkpointNum:  924
+{0} Update last stable checkpoint to  924
+{0} processCheckpoints, checkpointNum:  924
+[EPISODE REPORT] episode 925: protocol = zyzzyva , throughput = 18170.08req/s ,
+episode time = 0.55035526s, overall time = 839.0150997638702s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  925
+{0} processCheckpoints, checkpointNum:  925
+{0} Update last stable checkpoint to  925
+{0} processCheckpoints, checkpointNum:  925
+[EPISODE REPORT] episode 926: protocol = zyzzyva , throughput = 17681.23req/s ,
+episode time = 0.5655714s, overall time = 839.5806711912155s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  926
+{0} processCheckpoints, checkpointNum:  926
+{0} Update last stable checkpoint to  926
+{0} processCheckpoints, checkpointNum:  926
+[EPISODE REPORT] episode 927: protocol = zyzzyva , throughput = 19118.58req/s ,
+episode time = 0.52305144s, overall time = 840.1037226319313s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  927
+{0} processCheckpoints, checkpointNum:  927
+{0} Update last stable checkpoint to  927
+{0} processCheckpoints, checkpointNum:  927
+[EPISODE REPORT] episode 928: protocol = zyzzyva , throughput = 18464.35req/s ,
+episode time = 0.5415842s, overall time = 840.6453068256378s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  928
+{0} processCheckpoints, checkpointNum:  928
+{0} Update last stable checkpoint to  928
+{0} processCheckpoints, checkpointNum:  928
+16:52:28.654  Sending benchmark results to server.
+16:52:28.655  -- Node 0
+block-execute   	avg: 13.56us, max: 200.70us, count: 5440
+current-episode 	value: 929
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 929417
+message-process 	avg: 25.97ms, max: 62.84ms, count: 54400
+proposal (since-start)	count: 995988
+request-queue   	avg: 26.56ms, max: 63.01ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 929: protocol = zyzzyva , throughput = 19133.18req/s ,
+episode time = 0.5226524s, overall time = 841.1679592132568s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  929
+{0} processCheckpoints, checkpointNum:  929
+{0} Update last stable checkpoint to  929
+{0} processCheckpoints, checkpointNum:  929
+[EPISODE REPORT] episode 930: protocol = zyzzyva , throughput = 17783.12req/s ,
+episode time = 0.56233114s, overall time = 841.7302903532982s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  930
+{0} processCheckpoints, checkpointNum:  930
+{0} Update last stable checkpoint to  930
+{0} processCheckpoints, checkpointNum:  930
+[EPISODE REPORT] episode 931: protocol = zyzzyva , throughput = 16747.93req/s ,
+episode time = 0.59708863s, overall time = 842.327378988266s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  931
+{0} processCheckpoints, checkpointNum:  931
+{0} Update last stable checkpoint to  931
+{0} processCheckpoints, checkpointNum:  931
+[EPISODE REPORT] episode 932: protocol = zyzzyva , throughput = 18784.76req/s ,
+episode time = 0.53234655s, overall time = 842.8597255349159s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  932
+{0} processCheckpoints, checkpointNum:  932
+{0} Update last stable checkpoint to  932
+{0} processCheckpoints, checkpointNum:  932
+[EPISODE REPORT] episode 933: protocol = zyzzyva , throughput = 17307.81req/s ,
+episode time = 0.5777738s, overall time = 843.4374993443489s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  933
+{0} processCheckpoints, checkpointNum:  933
+{0} Update last stable checkpoint to  933
+{0} processCheckpoints, checkpointNum:  933
+16:52:31.660  Sending benchmark results to server.
+16:52:31.660  -- Node 0
+block-execute   	avg: 15.59us, max: 2.84ms, count: 5441
+current-episode 	value: 934
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 934816
+message-process 	avg: 25.83ms, max: 44.41ms, count: 54414
+proposal (since-start)	count: 1001911
+request-queue   	avg: 26.32ms, max: 44.79ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 934: protocol = zyzzyva , throughput = 18658.69req/s ,
+episode time = 0.53594345s, overall time = 843.9734427928925s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  934
+{0} processCheckpoints, checkpointNum:  934
+{0} Update last stable checkpoint to  934
+{0} processCheckpoints, checkpointNum:  934
+[EPISODE REPORT] episode 935: protocol = zyzzyva , throughput = 19546.57req/s ,
+episode time = 0.5115988s, overall time = 844.4850416183472s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  935
+{0} processCheckpoints, checkpointNum:  935
+{0} Update last stable checkpoint to  935
+{0} processCheckpoints, checkpointNum:  935
+[EPISODE REPORT] episode 936: protocol = zyzzyva , throughput = 16855.39req/s ,
+episode time = 0.593282s, overall time = 845.0783236026764s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  936
+{0} processCheckpoints, checkpointNum:  936
+{0} Update last stable checkpoint to  936
+{0} processCheckpoints, checkpointNum:  936
+[EPISODE REPORT] episode 937: protocol = zyzzyva , throughput = 18577.45req/s ,
+episode time = 0.5382871s, overall time = 845.6166107058525s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  937
+{0} processCheckpoints, checkpointNum:  937
+{0} Update last stable checkpoint to  937
+{0} processCheckpoints, checkpointNum:  937
+[EPISODE REPORT] episode 938: protocol = zyzzyva , throughput = 17945.54req/s ,
+episode time = 0.5572415s, overall time = 846.1738522052765s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  938
+{0} processCheckpoints, checkpointNum:  938
+{0} Update last stable checkpoint to  938
+{0} processCheckpoints, checkpointNum:  938
+[EPISODE REPORT] episode 939: protocol = zyzzyva , throughput = 19064.53req/s ,
+episode time = 0.52453434s, overall time = 846.6983865499496s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  939
+{0} processCheckpoints, checkpointNum:  939
+{0} Update last stable checkpoint to  939
+{0} processCheckpoints, checkpointNum:  939
+16:52:34.662  Sending benchmark results to server.
+16:52:34.663  -- Node 0
+block-execute   	avg: 13.73us, max: 440.12us, count: 5495
+current-episode 	value: 940
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 940286
+message-process 	avg: 25.73ms, max: 46.77ms, count: 54948
+proposal (since-start)	count: 1007899
+request-queue   	avg: 26.28ms, max: 47.01ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 940: protocol = zyzzyva , throughput = 19199.01req/s ,
+episode time = 0.5208601s, overall time = 847.2192466259003s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  940
+{0} processCheckpoints, checkpointNum:  940
+{0} Update last stable checkpoint to  940
+{0} processCheckpoints, checkpointNum:  940
+[EPISODE REPORT] episode 941: protocol = zyzzyva , throughput = 17443.33req/s ,
+episode time = 0.57328504s, overall time = 847.7925316691399s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  941
+{0} processCheckpoints, checkpointNum:  941
+{0} Update last stable checkpoint to  941
+{0} processCheckpoints, checkpointNum:  941
+[EPISODE REPORT] episode 942: protocol = zyzzyva , throughput = 18741.23req/s ,
+episode time = 0.5335829s, overall time = 848.3261145949364s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  942
+{0} processCheckpoints, checkpointNum:  942
+{0} Update last stable checkpoint to  942
+{0} processCheckpoints, checkpointNum:  942
+[EPISODE REPORT] episode 943: protocol = zyzzyva , throughput = 18071.20req/s ,
+episode time = 0.5533666s, overall time = 848.8794811964035s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  943
+{0} processCheckpoints, checkpointNum:  943
+{0} Update last stable checkpoint to  943
+{0} processCheckpoints, checkpointNum:  943
+[EPISODE REPORT] episode 944: protocol = zyzzyva , throughput = 19133.80req/s ,
+episode time = 0.52263534s, overall time = 849.4021165370941s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  944
+{0} processCheckpoints, checkpointNum:  944
+{0} Update last stable checkpoint to  944
+{0} processCheckpoints, checkpointNum:  944
+16:52:37.668  Sending benchmark results to server.
+16:52:37.670  -- Node 0
+block-execute   	avg: 13.71us, max: 210.62us, count: 5533
+current-episode 	value: 945
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 945884
+message-process 	avg: 25.37ms, max: 39.98ms, count: 55328
+proposal (since-start)	count: 1013981
+request-queue   	avg: 25.86ms, max: 44.39ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 945: protocol = zyzzyva , throughput = 18626.69req/s ,
+episode time = 0.5368639s, overall time = 849.9389804601669s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  945
+{0} processCheckpoints, checkpointNum:  945
+{0} Update last stable checkpoint to  945
+{0} processCheckpoints, checkpointNum:  945
+[EPISODE REPORT] episode 946: protocol = zyzzyva , throughput = 18255.28req/s ,
+episode time = 0.54778683s, overall time = 850.4867672920227s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  946
+{0} processCheckpoints, checkpointNum:  946
+{0} Update last stable checkpoint to  946
+{0} processCheckpoints, checkpointNum:  946
+[EPISODE REPORT] episode 947: protocol = zyzzyva , throughput = 18071.25req/s ,
+episode time = 0.5533652s, overall time = 851.0401324629784s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  947
+{0} processCheckpoints, checkpointNum:  947
+{0} Update last stable checkpoint to  947
+{0} processCheckpoints, checkpointNum:  947
+[EPISODE REPORT] episode 948: protocol = zyzzyva , throughput = 17741.88req/s ,
+episode time = 0.56363803s, overall time = 851.6037704944611s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  948
+{0} processCheckpoints, checkpointNum:  948
+{0} Update last stable checkpoint to  948
+{0} processCheckpoints, checkpointNum:  948
+[EPISODE REPORT] episode 949: protocol = zyzzyva , throughput = 18510.32req/s ,
+episode time = 0.54023904s, overall time = 852.1440095305443s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  949
+{0} processCheckpoints, checkpointNum:  949
+{0} Update last stable checkpoint to  949
+{0} processCheckpoints, checkpointNum:  949
+[EPISODE REPORT] episode 950: protocol = zyzzyva , throughput = 18423.32req/s ,
+episode time = 0.5427903s, overall time = 852.6867998242378s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  950
+{0} processCheckpoints, checkpointNum:  950
+{0} Update last stable checkpoint to  950
+{0} processCheckpoints, checkpointNum:  950
+16:52:40.672  Sending benchmark results to server.
+16:52:40.674  -- Node 0
+block-execute   	avg: 13.84us, max: 1.35ms, count: 5492
+current-episode 	value: 951
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 951344
+message-process 	avg: 25.75ms, max: 41.43ms, count: 54925
+proposal (since-start)	count: 1019995
+request-queue   	avg: 26.21ms, max: 42.77ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 951: protocol = zyzzyva , throughput = 18222.45req/s ,
+episode time = 0.5487736s, overall time = 853.2355734109879s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  951
+{0} processCheckpoints, checkpointNum:  951
+{0} Update last stable checkpoint to  951
+{0} processCheckpoints, checkpointNum:  951
+[EPISODE REPORT] episode 952: protocol = zyzzyva , throughput = 18434.34req/s ,
+episode time = 0.54246575s, overall time = 853.7780391573906s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  952
+{0} Update last stable checkpoint to  952
+{0} processCheckpoints, checkpointNum:  952
+{0} processCheckpoints, checkpointNum:  952
+[EPISODE REPORT] episode 953: protocol = zyzzyva , throughput = 18086.59req/s ,
+episode time = 0.55289596s, overall time = 854.3309351205826s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  953
+{0} processCheckpoints, checkpointNum:  953
+{0} Update last stable checkpoint to  953
+{0} processCheckpoints, checkpointNum:  953
+[EPISODE REPORT] episode 954: protocol = zyzzyva , throughput = 17636.66req/s ,
+episode time = 0.5670008s, overall time = 854.8979359269142s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  954
+{0} processCheckpoints, checkpointNum:  954
+{0} Update last stable checkpoint to  954
+{0} processCheckpoints, checkpointNum:  954
+[EPISODE REPORT] episode 955: protocol = zyzzyva , throughput = 17042.09req/s ,
+episode time = 0.5867824s, overall time = 855.4847183227539s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  955
+{0} processCheckpoints, checkpointNum:  955
+{0} Update last stable checkpoint to  955
+{0} processCheckpoints, checkpointNum:  955
+16:52:43.677  Sending benchmark results to server.
+16:52:43.678  -- Node 0
+block-execute   	avg: 14.70us, max: 1.73ms, count: 5439
+current-episode 	value: 956
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 956764
+message-process 	avg: 25.82ms, max: 40.84ms, count: 54390
+proposal (since-start)	count: 1025961
+request-queue   	avg: 26.28ms, max: 42.99ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 956: protocol = zyzzyva , throughput = 19707.38req/s ,
+episode time = 0.507424s, overall time = 855.9921423196793s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  956
+{0} processCheckpoints, checkpointNum:  956
+{0} Update last stable checkpoint to  956
+{0} processCheckpoints, checkpointNum:  956
+[EPISODE REPORT] episode 957: protocol = zyzzyva , throughput = 18385.06req/s ,
+episode time = 0.5439199s, overall time = 856.5360622406006s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  957
+{0} processCheckpoints, checkpointNum:  957
+{0} Update last stable checkpoint to  957
+{0} processCheckpoints, checkpointNum:  957
+[EPISODE REPORT] episode 958: protocol = zyzzyva , throughput = 17607.43req/s ,
+episode time = 0.567942s, overall time = 857.1040042638779s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  958
+{0} processCheckpoints, checkpointNum:  958
+{0} Update last stable checkpoint to  958
+{0} processCheckpoints, checkpointNum:  958
+[EPISODE REPORT] episode 959: protocol = zyzzyva , throughput = 17870.56req/s ,
+episode time = 0.5595796s, overall time = 857.6635838747025s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  959
+{0} processCheckpoints, checkpointNum:  959
+{0} Update last stable checkpoint to  959
+{0} processCheckpoints, checkpointNum:  959
+[EPISODE REPORT] episode 960: protocol = zyzzyva , throughput = 18891.64req/s ,
+episode time = 0.5293347s, overall time = 858.1929185986519s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  960
+{0} processCheckpoints, checkpointNum:  960
+{0} Update last stable checkpoint to  960
+{0} processCheckpoints, checkpointNum:  960
+[EPISODE REPORT] episode 961: protocol = zyzzyva , throughput = 17102.64req/s ,
+episode time = 0.5847049s, overall time = 858.7776234745979s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  961
+{0} Update last stable checkpoint to  961
+{0} processCheckpoints, checkpointNum:  961
+{0} processCheckpoints, checkpointNum:  961
+16:52:46.679  Sending benchmark results to server.
+16:52:46.679  -- Node 0
+block-execute   	avg: 13.23us, max: 124.75us, count: 5441
+current-episode 	value: 962
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 962185
+message-process 	avg: 26.05ms, max: 47.32ms, count: 54402
+proposal (since-start)	count: 1031922
+request-queue   	avg: 26.59ms, max: 47.55ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 962: protocol = zyzzyva , throughput = 18496.98req/s ,
+episode time = 0.54062873s, overall time = 859.3182522058487s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  962
+{0} processCheckpoints, checkpointNum:  962
+{0} Update last stable checkpoint to  962
+{0} processCheckpoints, checkpointNum:  962
+[EPISODE REPORT] episode 963: protocol = zyzzyva , throughput = 17749.86req/s ,
+episode time = 0.5633848s, overall time = 859.8816369771957s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  963
+{0} processCheckpoints, checkpointNum:  963
+{0} Update last stable checkpoint to  963
+{0} processCheckpoints, checkpointNum:  963
+[EPISODE REPORT] episode 964: protocol = zyzzyva , throughput = 17774.39req/s ,
+episode time = 0.5626071s, overall time = 860.4442440867424s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  964
+{0} Update last stable checkpoint to  964
+{0} processCheckpoints, checkpointNum:  964
+{0} processCheckpoints, checkpointNum:  964
+[EPISODE REPORT] episode 965: protocol = zyzzyva , throughput = 16016.09req/s ,
+episode time = 0.6243721s, overall time = 861.0686162114143s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  965
+{0} processCheckpoints, checkpointNum:  965
+{0} Update last stable checkpoint to  965
+{0} processCheckpoints, checkpointNum:  965
+[EPISODE REPORT] episode 966: protocol = zyzzyva , throughput = 15898.44req/s ,
+episode time = 0.62899256s, overall time = 861.69760876894s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  966
+{0} processCheckpoints, checkpointNum:  966
+{0} Update last stable checkpoint to  966
+{0} processCheckpoints, checkpointNum:  966
+16:52:49.683  Sending benchmark results to server.
+16:52:49.683  -- Node 0
+block-execute   	avg: 15.37us, max: 1.05ms, count: 5229
+current-episode 	value: 967
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 967271
+message-process 	avg: 27.04ms, max: 61.73ms, count: 52293
+proposal (since-start)	count: 1037565
+request-queue   	avg: 27.73ms, max: 61.95ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 967: protocol = zyzzyva , throughput = 17714.41req/s ,
+episode time = 0.5645123s, overall time = 862.2621210813522s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  967
+{0} processCheckpoints, checkpointNum:  967
+{0} Update last stable checkpoint to  967
+{0} processCheckpoints, checkpointNum:  967
+[EPISODE REPORT] episode 968: protocol = zyzzyva , throughput = 20061.28req/s ,
+episode time = 0.49847263s, overall time = 862.7605937123299s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  968
+{0} processCheckpoints, checkpointNum:  968
+{0} Update last stable checkpoint to  968
+{0} processCheckpoints, checkpointNum:  968
+[EPISODE REPORT] episode 969: protocol = zyzzyva , throughput = 15721.45req/s ,
+episode time = 0.6360738s, overall time = 863.3966675400734s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  969
+{0} Update last stable checkpoint to  969
+{0} processCheckpoints, checkpointNum:  969
+{0} processCheckpoints, checkpointNum:  969
+[EPISODE REPORT] episode 970: protocol = zyzzyva , throughput = 19795.60req/s ,
+episode time = 0.50516284s, overall time = 863.9018303751945s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  970
+{0} processCheckpoints, checkpointNum:  970
+{0} Update last stable checkpoint to  970
+{0} processCheckpoints, checkpointNum:  970
+[EPISODE REPORT] episode 971: protocol = zyzzyva , throughput = 14090.04req/s ,
+episode time = 0.7097214s, overall time = 864.6115517616272s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  971
+{0} processCheckpoints, checkpointNum:  971
+{0} Update last stable checkpoint to  971
+{0} processCheckpoints, checkpointNum:  971
+16:52:52.689  Sending benchmark results to server.
+16:52:52.690  -- Node 0
+block-execute   	avg: 14.80us, max: 2.45ms, count: 5241
+current-episode 	value: 972
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 972489
+message-process 	avg: 26.44ms, max: 97.61ms, count: 52410
+proposal (since-start)	count: 1043212
+request-queue   	avg: 27.13ms, max: 97.82ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 972: protocol = zyzzyva , throughput = 16823.69req/s ,
+episode time = 0.59440005s, overall time = 865.2059518098831s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  972
+{0} processCheckpoints, checkpointNum:  972
+{0} Update last stable checkpoint to  972
+{0} processCheckpoints, checkpointNum:  972
+[EPISODE REPORT] episode 973: protocol = zyzzyva , throughput = 17892.12req/s ,
+episode time = 0.55890536s, overall time = 865.764857172966s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  973
+{0} processCheckpoints, checkpointNum:  973
+{0} Update last stable checkpoint to  973
+{0} processCheckpoints, checkpointNum:  973
+[EPISODE REPORT] episode 974: protocol = zyzzyva , throughput = 17838.68req/s ,
+episode time = 0.56057966s, overall time = 866.3254368305206s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  974
+{0} processCheckpoints, checkpointNum:  974
+{0} Update last stable checkpoint to  974
+{0} processCheckpoints, checkpointNum:  974
+[EPISODE REPORT] episode 975: protocol = zyzzyva , throughput = 16733.49req/s ,
+episode time = 0.59760404s, overall time = 866.9230408668518s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  975
+{0} processCheckpoints, checkpointNum:  975
+{0} Update last stable checkpoint to  975
+{0} processCheckpoints, checkpointNum:  975
+[EPISODE REPORT] episode 976: protocol = zyzzyva , throughput = 14920.84req/s ,
+episode time = 0.67020357s, overall time = 867.593244433403s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  976
+{0} processCheckpoints, checkpointNum:  976
+{0} Update last stable checkpoint to  976
+{0} processCheckpoints, checkpointNum:  976
+16:52:55.693  Sending benchmark results to server.
+16:52:55.694  -- Node 0
+block-execute   	avg: 16.29us, max: 3.64ms, count: 5011
+current-episode 	value: 977
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 977601
+message-process 	avg: 28.32ms, max: 141.73ms, count: 50110
+proposal (since-start)	count: 1048917
+request-queue   	avg: 28.88ms, max: 141.95ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 977: protocol = zyzzyva , throughput = 19860.47req/s ,
+episode time = 0.50351286s, overall time = 868.0967572927475s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  977
+{0} processCheckpoints, checkpointNum:  977
+{0} Update last stable checkpoint to  977
+{0} processCheckpoints, checkpointNum:  977
+[EPISODE REPORT] episode 978: protocol = zyzzyva , throughput = 17473.65req/s ,
+episode time = 0.5722901s, overall time = 868.6690474152565s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  978
+{0} processCheckpoints, checkpointNum:  978
+{0} Update last stable checkpoint to  978
+{0} processCheckpoints, checkpointNum:  978
+[EPISODE REPORT] episode 979: protocol = zyzzyva , throughput = 19107.42req/s ,
+episode time = 0.523357s, overall time = 869.1924043893814s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  979
+{0} processCheckpoints, checkpointNum:  979
+{0} Update last stable checkpoint to  979
+{0} processCheckpoints, checkpointNum:  979
+[EPISODE REPORT] episode 980: protocol = zyzzyva , throughput = 18526.82req/s ,
+episode time = 0.5397581s, overall time = 869.7321624755859s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  980
+{0} processCheckpoints, checkpointNum:  980
+{0} Update last stable checkpoint to  980
+{0} processCheckpoints, checkpointNum:  980
+[EPISODE REPORT] episode 981: protocol = zyzzyva , throughput = 19475.46req/s ,
+episode time = 0.5134668s, overall time = 870.2456292510033s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  981
+{0} processCheckpoints, checkpointNum:  981
+{0} Update last stable checkpoint to  981
+{0} processCheckpoints, checkpointNum:  981
+[EPISODE REPORT] episode 982: protocol = zyzzyva , throughput = 17210.02req/s ,
+episode time = 0.58105695s, overall time = 870.8266862034798s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  982
+{0} processCheckpoints, checkpointNum:  982
+{0} Update last stable checkpoint to  982
+{0} processCheckpoints, checkpointNum:  982
+16:52:58.694  Sending benchmark results to server.
+16:52:58.695  -- Node 0
+block-execute   	avg: 13.54us, max: 200.37us, count: 5415
+current-episode 	value: 983
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 983098
+message-process 	avg: 26.11ms, max: 75.19ms, count: 54147
+proposal (since-start)	count: 1054908
+request-queue   	avg: 26.77ms, max: 75.38ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 983: protocol = zyzzyva , throughput = 16851.96req/s ,
+episode time = 0.5934029s, overall time = 871.4200891256332s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  983
+{0} Update last stable checkpoint to  983
+{0} processCheckpoints, checkpointNum:  983
+{0} processCheckpoints, checkpointNum:  983
+[EPISODE REPORT] episode 984: protocol = zyzzyva , throughput = 18291.42req/s ,
+episode time = 0.5467043s, overall time = 871.9667934179306s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  984
+{0} processCheckpoints, checkpointNum:  984
+{0} Update last stable checkpoint to  984
+{0} processCheckpoints, checkpointNum:  984
+[EPISODE REPORT] episode 985: protocol = zyzzyva , throughput = 19596.84req/s ,
+episode time = 0.51028633s, overall time = 872.4770797491074s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  985
+{0} processCheckpoints, checkpointNum:  985
+{0} Update last stable checkpoint to  985
+{0} processCheckpoints, checkpointNum:  985
+[EPISODE REPORT] episode 986: protocol = zyzzyva , throughput = 17742.02req/s ,
+episode time = 0.5636337s, overall time = 873.040713429451s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  986
+{0} processCheckpoints, checkpointNum:  986
+{0} Update last stable checkpoint to  986
+{0} processCheckpoints, checkpointNum:  986
+[EPISODE REPORT] episode 987: protocol = zyzzyva , throughput = 15851.08req/s ,
+episode time = 0.63087195s, overall time = 873.671585381031s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  987
+{0} processCheckpoints, checkpointNum:  987
+{0} Update last stable checkpoint to  987
+{0} processCheckpoints, checkpointNum:  987
+16:53:01.700  Sending benchmark results to server.
+16:53:01.701  -- Node 0
+block-execute   	avg: 15.29us, max: 2.63ms, count: 5381
+current-episode 	value: 988
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 988446
+message-process 	avg: 26.28ms, max: 46.61ms, count: 53816
+proposal (since-start)	count: 1060722
+request-queue   	avg: 26.79ms, max: 46.97ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 988: protocol = zyzzyva , throughput = 21199.46req/s ,
+episode time = 0.4717102s, overall time = 874.1432955861092s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  988
+{0} processCheckpoints, checkpointNum:  988
+{0} Update last stable checkpoint to  988
+{0} processCheckpoints, checkpointNum:  988
+[EPISODE REPORT] episode 989: protocol = zyzzyva , throughput = 17759.82req/s ,
+episode time = 0.56306887s, overall time = 874.7063644528389s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  989
+{0} processCheckpoints, checkpointNum:  989
+{0} Update last stable checkpoint to  989
+{0} processCheckpoints, checkpointNum:  989
+[EPISODE REPORT] episode 990: protocol = zyzzyva , throughput = 19198.46req/s ,
+episode time = 0.52087504s, overall time = 875.2272394895554s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  990
+{0} processCheckpoints, checkpointNum:  990
+{0} Update last stable checkpoint to  990
+{0} processCheckpoints, checkpointNum:  990
+[EPISODE REPORT] episode 991: protocol = zyzzyva , throughput = 18575.78req/s ,
+episode time = 0.5383354s, overall time = 875.7655748724937s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  991
+{0} processCheckpoints, checkpointNum:  991
+{0} Update last stable checkpoint to  991
+{0} processCheckpoints, checkpointNum:  991
+[EPISODE REPORT] episode 992: protocol = zyzzyva , throughput = 18646.47req/s ,
+episode time = 0.5362946s, overall time = 876.3018694519997s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  992
+{0} processCheckpoints, checkpointNum:  992
+{0} Update last stable checkpoint to  992
+{0} processCheckpoints, checkpointNum:  992
+[EPISODE REPORT] episode 993: protocol = zyzzyva , throughput = 17268.39req/s ,
+episode time = 0.57909286s, overall time = 876.8809623122215s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  993
+{0} processCheckpoints, checkpointNum:  993
+{0} Update last stable checkpoint to  993
+{0} processCheckpoints, checkpointNum:  993
+16:53:04.701  Sending benchmark results to server.
+16:53:04.701  -- Node 0
+block-execute   	avg: 13.52us, max: 169.50us, count: 5520
+current-episode 	value: 994
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 994002
+message-process 	avg: 25.59ms, max: 80.89ms, count: 55202
+proposal (since-start)	count: 1066754
+request-queue   	avg: 26.16ms, max: 81.16ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 994: protocol = zyzzyva , throughput = 20439.37req/s ,
+episode time = 0.48925197s, overall time = 877.3702142834663s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  994
+{0} processCheckpoints, checkpointNum:  994
+{0} Update last stable checkpoint to  994
+{0} processCheckpoints, checkpointNum:  994
+[EPISODE REPORT] episode 995: protocol = zyzzyva , throughput = 17836.90req/s ,
+episode time = 0.56063557s, overall time = 877.9308498501778s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  995
+{0} processCheckpoints, checkpointNum:  995
+{0} Update last stable checkpoint to  995
+{0} processCheckpoints, checkpointNum:  995
+[EPISODE REPORT] episode 996: protocol = zyzzyva , throughput = 19697.87req/s ,
+episode time = 0.5076691s, overall time = 878.4385189414024s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  996
+{0} processCheckpoints, checkpointNum:  996
+{0} Update last stable checkpoint to  996
+{0} processCheckpoints, checkpointNum:  996
+[EPISODE REPORT] episode 997: protocol = zyzzyva , throughput = 17067.95req/s ,
+episode time = 0.58589333s, overall time = 879.0244122743607s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  997
+{0} processCheckpoints, checkpointNum:  997
+{0} Update last stable checkpoint to  997
+{0} processCheckpoints, checkpointNum:  997
+[EPISODE REPORT] episode 998: protocol = zyzzyva , throughput = 19332.31req/s ,
+episode time = 0.51726866s, overall time = 879.541680932045s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  998
+{0} processCheckpoints, checkpointNum:  998
+{0} Update last stable checkpoint to  998
+{0} processCheckpoints, checkpointNum:  998
+16:53:07.704  Sending benchmark results to server.
+16:53:07.704  -- Node 0
+block-execute   	avg: 13.51us, max: 442.20us, count: 5525
+current-episode 	value: 999
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 999649
+message-process 	avg: 25.47ms, max: 50.07ms, count: 55245
+proposal (since-start)	count: 1072912
+request-queue   	avg: 26.08ms, max: 50.19ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 999: protocol = zyzzyva , throughput = 19329.04req/s ,
+episode time = 0.51735634s, overall time = 880.0590372681618s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  999
+{0} processCheckpoints, checkpointNum:  999
+{0} Update last stable checkpoint to  999
+{0} processCheckpoints, checkpointNum:  999
+[EPISODE REPORT] episode 1000: protocol = zyzzyva , throughput = 17830.12req/s ,
+ episode time = 0.5608489s, overall time = 880.6198861598969s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1000
+{0} Update last stable checkpoint to  1000
+{0} processCheckpoints, checkpointNum:  1000
+{0} processCheckpoints, checkpointNum:  1000
+[EPISODE REPORT] episode 1001: protocol = zyzzyva , throughput = 19018.39req/s ,
+ episode time = 0.5258068s, overall time = 881.1456929445267s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1001
+{0} processCheckpoints, checkpointNum:  1001
+{0} Update last stable checkpoint to  1001
+{0} processCheckpoints, checkpointNum:  1001
+[EPISODE REPORT] episode 1002: protocol = zyzzyva , throughput = 18040.39req/s ,
+ episode time = 0.5543118s, overall time = 881.7000047564507s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1002
+{0} processCheckpoints, checkpointNum:  1002
+{0} Update last stable checkpoint to  1002
+{0} processCheckpoints, checkpointNum:  1002
+[EPISODE REPORT] episode 1003: protocol = zyzzyva , throughput = 20425.03req/s ,
+ episode time = 0.48959532s, overall time = 882.1896000802517s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1003
+{0} processCheckpoints, checkpointNum:  1003
+{0} Update last stable checkpoint to  1003
+{0} processCheckpoints, checkpointNum:  1003
+[EPISODE REPORT] episode 1004: protocol = zyzzyva , throughput = 16846.75req/s ,
+ episode time = 0.59358644s, overall time = 882.7831865251064s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1004
+{0} processCheckpoints, checkpointNum:  1004
+{0} Update last stable checkpoint to  1004
+{0} processCheckpoints, checkpointNum:  1004
+16:53:10.702  Sending benchmark results to server.
+16:53:10.702  -- Node 0
+block-execute   	avg: 13.58us, max: 229.12us, count: 5629
+current-episode 	value: 1005
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 1005215
+message-process 	avg: 24.98ms, max: 41.72ms, count: 56293
+proposal (since-start)	count: 1078966
+request-queue   	avg: 25.46ms, max: 41.94ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 1005: protocol = zyzzyva , throughput = 20440.65req/s ,
+ episode time = 0.48922125s, overall time = 883.2724077701569s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1005
+{0} processCheckpoints, checkpointNum:  1005
+{0} Update last stable checkpoint to  1005
+{0} processCheckpoints, checkpointNum:  1005
+[EPISODE REPORT] episode 1006: protocol = zyzzyva , throughput = 20365.94req/s ,
+ episode time = 0.49101597s, overall time = 883.7634237408638s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1006
+{0} processCheckpoints, checkpointNum:  1006
+{0} Update last stable checkpoint to  1006
+{0} processCheckpoints, checkpointNum:  1006
+[EPISODE REPORT] episode 1007: protocol = zyzzyva , throughput = 17590.40req/s ,
+ episode time = 0.56849176s, overall time = 884.3319154977798s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1007
+{0} processCheckpoints, checkpointNum:  1007
+{0} Update last stable checkpoint to  1007
+{0} processCheckpoints, checkpointNum:  1007
+[EPISODE REPORT] episode 1008: protocol = zyzzyva , throughput = 17793.92req/s ,
+ episode time = 0.5619896s, overall time = 884.8939051032066s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1008
+{0} processCheckpoints, checkpointNum:  1008
+{0} Update last stable checkpoint to  1008
+{0} processCheckpoints, checkpointNum:  1008
+[EPISODE REPORT] episode 1009: protocol = zyzzyva , throughput = 18399.23req/s ,
+ episode time = 0.543501s, overall time = 885.4374061226845s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1009
+{0} processCheckpoints, checkpointNum:  1009
+{0} Update last stable checkpoint to  1009
+{0} processCheckpoints, checkpointNum:  1009
+16:53:13.707  Sending benchmark results to server.
+16:53:13.708  -- Node 0
+block-execute   	avg: 13.65us, max: 472.54us, count: 5596
+current-episode 	value: 1010
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 1010916
+message-process 	avg: 25.15ms, max: 47.88ms, count: 55962
+proposal (since-start)	count: 1085217
+request-queue   	avg: 25.69ms, max: 48.13ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 1010: protocol = zyzzyva , throughput = 20326.07req/s ,
+ episode time = 0.4919789s, overall time = 885.9293850362301s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1010
+{0} processCheckpoints, checkpointNum:  1010
+{0} Update last stable checkpoint to  1010
+{0} processCheckpoints, checkpointNum:  1010
+[EPISODE REPORT] episode 1011: protocol = zyzzyva , throughput = 17027.67req/s ,
+ episode time = 0.5872793s, overall time = 886.5166643559933s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1011
+{0} processCheckpoints, checkpointNum:  1011
+{0} Update last stable checkpoint to  1011
+{0} processCheckpoints, checkpointNum:  1011
+[EPISODE REPORT] episode 1012: protocol = zyzzyva , throughput = 19288.60req/s ,
+ episode time = 0.51844084s, overall time = 887.0351051986217s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1012
+{0} processCheckpoints, checkpointNum:  1012
+{0} Update last stable checkpoint to  1012
+{0} processCheckpoints, checkpointNum:  1012
+[EPISODE REPORT] episode 1013: protocol = zyzzyva , throughput = 16547.95req/s ,
+ episode time = 0.60430443s, overall time = 887.6394096314907s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1013
+{0} processCheckpoints, checkpointNum:  1013
+{0} Update last stable checkpoint to  1013
+{0} processCheckpoints, checkpointNum:  1013
+[EPISODE REPORT] episode 1014: protocol = zyzzyva , throughput = 19743.93req/s ,
+ episode time = 0.50648475s, overall time = 888.1458943784237s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1014
+{0} processCheckpoints, checkpointNum:  1014
+{0} Update last stable checkpoint to  1014
+{0} processCheckpoints, checkpointNum:  1014
+[EPISODE REPORT] episode 1015: protocol = zyzzyva , throughput = 20048.84req/s ,
+ episode time = 0.49878204s, overall time = 888.6446764171124s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1015
+{0} processCheckpoints, checkpointNum:  1015
+{0} Update last stable checkpoint to  1015
+{0} processCheckpoints, checkpointNum:  1015
+16:53:16.713  Sending benchmark results to server.
+16:53:16.713  -- Node 0
+block-execute   	avg: 15.39us, max: 4.70ms, count: 5569
+current-episode 	value: 1016
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 1016411
+message-process 	avg: 25.32ms, max: 67.63ms, count: 55684
+proposal (since-start)	count: 1091207
+request-queue   	avg: 25.98ms, max: 67.84ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 1016: protocol = zyzzyva , throughput = 16918.52req/s ,
+ episode time = 0.5910683s, overall time = 889.2357447445393s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1016
+{0} processCheckpoints, checkpointNum:  1016
+{0} Update last stable checkpoint to  1016
+{0} processCheckpoints, checkpointNum:  1016
+[EPISODE REPORT] episode 1017: protocol = zyzzyva , throughput = 19694.31req/s ,
+ episode time = 0.5077609s, overall time = 889.7435056269169s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1017
+{0} processCheckpoints, checkpointNum:  1017
+{0} Update last stable checkpoint to  1017
+{0} processCheckpoints, checkpointNum:  1017
+[EPISODE REPORT] episode 1018: protocol = zyzzyva , throughput = 18238.88req/s ,
+ episode time = 0.5482793s, overall time = 890.2917849123478s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1018
+{0} processCheckpoints, checkpointNum:  1018
+{0} Update last stable checkpoint to  1018
+{0} processCheckpoints, checkpointNum:  1018
+[EPISODE REPORT] episode 1019: protocol = zyzzyva , throughput = 20276.95req/s ,
+ episode time = 0.4931709s, overall time = 890.7849557995796s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1019
+{0} Update last stable checkpoint to  1019
+{0} processCheckpoints, checkpointNum:  1019
+{0} processCheckpoints, checkpointNum:  1019
+[EPISODE REPORT] episode 1020: protocol = zyzzyva , throughput = 17410.89req/s ,
+ episode time = 0.5743533s, overall time = 891.3593090772629s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1020
+{0} processCheckpoints, checkpointNum:  1020
+{0} Update last stable checkpoint to  1020
+{0} processCheckpoints, checkpointNum:  1020
+[EPISODE REPORT] episode 1021: protocol = zyzzyva , throughput = 19722.28req/s ,
+ episode time = 0.5070408s, overall time = 891.866349875927s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1021
+{0} processCheckpoints, checkpointNum:  1021
+{0} Update last stable checkpoint to  1021
+{0} processCheckpoints, checkpointNum:  1021
+16:53:19.717  Sending benchmark results to server.
+16:53:19.718  -- Node 0
+block-execute   	avg: 14.20us, max: 2.71ms, count: 5646
+current-episode 	value: 1022
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 1022060
+message-process 	avg: 24.80ms, max: 42.13ms, count: 56458
+proposal (since-start)	count: 1097343
+request-queue   	avg: 25.27ms, max: 42.40ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 1022: protocol = zyzzyva , throughput = 18381.32req/s ,
+ episode time = 0.5440304s, overall time = 892.4103803038597s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1022
+{0} processCheckpoints, checkpointNum:  1022
+{0} Update last stable checkpoint to  1022
+{0} processCheckpoints, checkpointNum:  1022
+[EPISODE REPORT] episode 1023: protocol = zyzzyva , throughput = 18747.66req/s ,
+ episode time = 0.5333998s, overall time = 892.9437801241875s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1023
+{0} processCheckpoints, checkpointNum:  1023
+{0} Update last stable checkpoint to  1023
+{0} processCheckpoints, checkpointNum:  1023
+[EPISODE REPORT] episode 1024: protocol = zyzzyva , throughput = 20841.00req/s ,
+ episode time = 0.47982335s, overall time = 893.4236034750938s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1024
+{0} Update last stable checkpoint to  1024
+{0} processCheckpoints, checkpointNum:  1024
+{0} processCheckpoints, checkpointNum:  1024
+[EPISODE REPORT] episode 1025: protocol = zyzzyva , throughput = 17769.54req/s ,
+ episode time = 0.56276095s, overall time = 893.9863644242287s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1025
+{0} processCheckpoints, checkpointNum:  1025
+{0} Update last stable checkpoint to  1025
+{0} processCheckpoints, checkpointNum:  1025
+[EPISODE REPORT] episode 1026: protocol = zyzzyva , throughput = 17051.61req/s ,
+ episode time = 0.5864549s, overall time = 894.57281935215s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1026
+{0} processCheckpoints, checkpointNum:  1026
+{0} Update last stable checkpoint to  1026
+{0} processCheckpoints, checkpointNum:  1026
+16:53:22.718  Sending benchmark results to server.
+16:53:22.718  -- Node 0
+block-execute   	avg: 13.90us, max: 2.66ms, count: 5616
+current-episode 	value: 1027
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 1027673
+message-process 	avg: 25.20ms, max: 44.77ms, count: 56167
+proposal (since-start)	count: 1103458
+request-queue   	avg: 25.77ms, max: 45.00ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 1027: protocol = zyzzyva , throughput = 20479.86req/s ,
+ episode time = 0.4882847s, overall time = 895.0611040592194s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1027
+{0} processCheckpoints, checkpointNum:  1027
+{0} Update last stable checkpoint to  1027
+{0} processCheckpoints, checkpointNum:  1027
+[EPISODE REPORT] episode 1028: protocol = zyzzyva , throughput = 18117.59req/s ,
+ episode time = 0.5519497s, overall time = 895.6130537390709s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1028
+{0} processCheckpoints, checkpointNum:  1028
+{0} Update last stable checkpoint to  1028
+{0} processCheckpoints, checkpointNum:  1028
+[EPISODE REPORT] episode 1029: protocol = zyzzyva , throughput = 13952.37req/s ,
+ episode time = 0.7167239s, overall time = 896.3297776579857s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1029
+{0} Update last stable checkpoint to  1029
+{0} processCheckpoints, checkpointNum:  1029
+{0} processCheckpoints, checkpointNum:  1029
+[EPISODE REPORT] episode 1030: protocol = zyzzyva , throughput = 14886.07req/s ,
+ episode time = 0.6717691s, overall time = 897.0015467405319s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1030
+{0} processCheckpoints, checkpointNum:  1030
+{0} Update last stable checkpoint to  1030
+{0} processCheckpoints, checkpointNum:  1030
+[EPISODE REPORT] episode 1031: protocol = zyzzyva , throughput = 15697.14req/s ,
+ episode time = 0.63705873s, overall time = 897.6386054754257s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1031
+{0} processCheckpoints, checkpointNum:  1031
+{0} Update last stable checkpoint to  1031
+{0} processCheckpoints, checkpointNum:  1031
+16:53:25.736  Sending benchmark results to server.
+16:53:25.747  -- Node 0
+block-execute   	avg: 15.50us, max: 1.59ms, count: 4972
+current-episode 	value: 1032
+current-protocol	value: zyzzyva
+in-dark			value: false
+last-executed-sequence	num: 1032452
+message-process 	avg: 28.39ms, max: 146.71ms, count: 49722
+proposal (since-start)	count: 1108713
+request-queue   	avg: 29.11ms, max: 146.98ms
+slow-path       	ratio: 0.00
+
+
+[EPISODE REPORT] episode 1032: protocol = zyzzyva , throughput = 14209.75req/s ,
+ episode time = 0.703742s, overall time = 898.3423475027084s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1032
+{0} processCheckpoints, checkpointNum:  1032
+{0} Update last stable checkpoint to  1032
+{0} processCheckpoints, checkpointNum:  1032
+[EPISODE REPORT] episode 1033: protocol = zyzzyva , throughput = 14821.29req/s ,
+ episode time = 0.67470527s, overall time = 899.017052769661s
+{0} nextProtocol = zyzzyva
+leader mode set to be stable for the next episode
+{0} processCheckpoints, checkpointNum:  1033
+{0} processCheckpoints, checkpointNum:  1033
+{0} Update last stable checkpoint to  1033
+{0} processCheckpoints, checkpointNum:  1033
+^C*** shutting down gRPC server since JVM is shutting down
+*** server shut down
+jaywang@Jays-MacBook-Pro code %

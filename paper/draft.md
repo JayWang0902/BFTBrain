@@ -17,14 +17,14 @@ This paper asks whether the adaptation mechanism itself becomes an attack surfac
 
 **The weakness: adaptation lag.** When conditions change, BFTBrain does find the right protocol, but slowly. Under a slow-leader attack it takes about 10 minutes to settle on Prime, at roughly one fifth of Prime's throughput in the meantime (Section 5). The causes are in its design: every untried protocol transition must be tried once, the attack becomes invisible under Prime so the learner keeps trying to leave, and epochs stretch when the system is slow.
 
-**Why an attacker makes it worse.** The lag is a general limitation: any fast change in conditions triggers it. BFTBrain's own dynamic experiments change conditions every 20–30 minutes, where a 10-minute lag is tolerable. An attacker, however, chooses when conditions change. It can toggle its behavior just as the learner finishes adapting, attack only while a vulnerable protocol runs (so the learner's choice and the "environment" become correlated, which a contextual bandit cannot represent), and hide behind the immune protocol. The adversary is the worst case of a non-stationary environment. [TODO: Phase 2] How much an on/off attacker costs adaptive selection relative to fixed protocols and to an ideal switcher.
+**Why an attacker makes it worse.** The lag is a general limitation: any fast change in conditions triggers it. BFTBrain's own dynamic experiments change conditions every 20–30 minutes, where a 10-minute lag is tolerable. An attacker, however, chooses when conditions change. It can toggle its behavior just as the learner finishes adapting, attack only while a vulnerable protocol runs (so the learner's choice and the "environment" become correlated, which a contextual bandit cannot represent), and hide behind the immune protocol. The adversary is the worst case of a non-stationary environment. Even a simple attacker that switches on and off every 3 minutes, shorter than the lag, means BFTBrain never adapts to the attack: it performs the same as always running the fastest attack-free protocol and 13% below an ideal switcher (Section 6).
 
 **The fix: make online adaptation robust.** Our main contribution is defenses that target the online learner itself: remembering recent attack evidence so the immune protocol's attack-free appearance does not mislead the model, and limiting costly exploration while under attack. Because they address the lag rather than one attack, they also help under natural fast changes. We compare them with the switching damping used by BFTide [2]. [TODO: Phase 3 results.]
 
 Contributions:
 
 1. A measurement of BFTBrain's adaptation lag under a slow-leader attack and its three causes.
-2. [TODO] An evaluation of how an attacker who controls the timing of changes exploits the lag, against fixed-protocol baselines.
+2. An evaluation showing that an on/off attacker whose phases are shorter than the lag removes the benefit of adaptation entirely, against fixed-protocol and ideal-switcher baselines.
 3. [TODO] Defenses for online protocol selection, evaluated against the same attacks, a protocol-aware attacker who knows the defense, and the no-attack case.
 
 > [NOTE] Contribution framing agreed with the professor: (1) validation, (2) attack evaluation, (3) improvement; (3) is the main contribution.
@@ -111,9 +111,27 @@ Throughput per protocol while under attack (`results/pilot-2`):
 
 **Reference points.** Besides the two fixed protocols, compare with an *ideal switcher* that runs Prime exactly while the attack is on and Zyzzyva otherwise; the gap to it is the cost of the lag.
 
-**Expectation (rough, from Section 5 numbers).** Fixed Zyzzyva ≈ (20,000 + 870) / 2 ≈ 10,000 req/s; fixed Prime ≈ 4,700; ideal switcher ≈ (20,000 + 4,600) / 2 ≈ 12,000. With a ~10-minute lag, BFTBrain cannot reach Prime within a 3-minute attack, so it may land near fixed Zyzzyva: not necessarily worse than every fixed protocol, but well short of the ideal. Whether it falls below fixed Zyzzyva depends on how quickly it returns after the attack ends, and on whether learned transitions make later attacks faster to handle. [NOTE] Prime's no-attack throughput is not yet measured; 4,800 is a guess.
+**Expectation (rough, from Section 5 numbers).** Fixed Zyzzyva ≈ (20,000 + 870) / 2 ≈ 10,000 req/s; fixed Prime ≈ 4,700; ideal switcher ≈ (20,000 + 4,600) / 2 ≈ 12,000. With a ~10-minute lag, BFTBrain cannot reach Prime within a 3-minute attack, so it may land near fixed Zyzzyva: not necessarily worse than every fixed protocol, but well short of the ideal. Whether it falls below fixed Zyzzyva depends on how quickly it returns after the attack ends, and on whether learned transitions make later attacks faster to handle. (Measured afterwards: Prime ~4,780 with or without the attack.)
 
-**Results.** [TODO]
+**Results** (single runs, 20 ms delay; `results/phase2-adaptive`, `results/phase2-fixed-zyzzyva`, `results/phase2-fixed-prime`; configs `exp/pilot/phase2-onoff-*.yaml`; summary from `scripts/analyze_phase2.py`). Throughput in req/s from the coordinator's 3-second samples, excluding the first 60 s.
+
+| Run | Average | Off 60–180 s | On 180–360 s | Off 360–540 s | On 540–720 s | Off 720–900 s |
+| --- | --- | --- | --- | --- | --- | --- |
+| BFTBrain (adaptive) | 10,930 | 20,189 | 1,021 | 16,830 | 1,124 | 18,703 |
+| Fixed Zyzzyva | 10,904 | 19,454 | 868 | 18,307 | 862 | 17,995 |
+| Fixed Prime | 4,775 | 4,798 | 4,787 | 4,796 | 4,764 | 4,739 |
+| Ideal switcher (computed: better fixed protocol per phase) | ~12,600 | | | | | |
+
+**Findings.**
+
+1. *Adaptation brought no gain.* BFTBrain matched always running Zyzzyva (10,930 vs. 10,904) and fell 13% short of the ideal switcher.
+2. *It never adapted to the attack.* In both 3-minute attacks it cycled through CheapBFT, SBFT, PBFT, HotStuff and Zyzzyva (Prime ≤4% of attacked time) and ran at ~1,000 req/s, versus ~4,780 for Prime: a 4.5x gap during attacks.
+3. *It recovered from the attack quickly.* When the attack stopped, it returned to Zyzzyva within seconds.
+4. *Prime is unaffected by the attack* (~4,780 with and without it), so Prime's no-attack throughput is now measured, not assumed.
+
+**Interpretation.** With a ~10-minute adaptation lag, any attack phase shorter than the lag is never adapted to; BFTBrain behaves like the fastest attack-free protocol. In this setting that is not worse than the best fixed protocol, but the adaptive system delivers none of its promised benefit. The loss would grow if the attacker lengthens its attack phases toward the lag (BFTBrain still wanders) or if the best attack-free protocol were more fragile. [TODO: optional run with longer attack phases or a protocol-aware attacker.]
+
+> [NOTE] First attempt at the fixed runs set `checkpoint-size` to 10^9 to stop switching. That also disables checkpoint cleanup, and throughput decayed over the run (`results/phase2-fixed-*-invalid-nocheckpoint`). Rerun with `switching.debug-sequence: [<protocol>]` and normal checkpoints.
 
 ## 7 Defenses
 

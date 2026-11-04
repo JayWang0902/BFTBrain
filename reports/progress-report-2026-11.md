@@ -6,9 +6,9 @@ Nov 4, 2026 · @Rongjian Wang
 
 ## Summary
 
-We have BFTBrain running end to end on a single machine and have validated its behavior under a slow-leader attack. Under a 20 ms proposal-delay attack, BFTBrain eventually settles on the right protocol (Prime), but only after about 10 minutes of re-exploration, during which throughput is roughly one fifth of Prime's.
+We have BFTBrain running end to end on a single machine and have validated its behavior under a slow-leader attack. Under a 20 ms proposal-delay attack, BFTBrain eventually settles on the right protocol (Prime), but only after about 10 minutes of re-exploration, during which throughput is roughly one fifth of Prime's. When the attack is switched on and off every 3 minutes, BFTBrain never adapts in time: it averages the same as always running Zyzzyva (10,930 vs. 10,904 req/s) and 13% below an ideal switcher.
 
-This adaptation lag, not a permanent wrong choice, is the weakness we will target. The project now follows three phases: (1) validation, done; (2) a short attack evaluation that quantifies the lag against fixed-protocol baselines; and (3) the main contribution, defenses that shorten or remove it.
+This adaptation lag, not a permanent wrong choice, is the weakness we will target. The project now follows three phases: (1) validation, done; (2) a short attack evaluation that quantifies the lag against fixed-protocol baselines, done; and (3) the main contribution, defenses that shorten or remove it.
 
 ## Roadmap
 
@@ -68,7 +68,7 @@ What we learned:
 
 ## Phase 2: attack evaluation
 
-Phase 2 is deliberately small: three runs, no new attack code, to measure how much the adaptation lag costs when the attack keeps turning on and off. Results will be added here.
+Phase 2 is deliberately small: three runs, no new attack code, to measure how much the adaptation lag costs when the attack keeps turning on and off. Results are below.
 
 Attack: the same slow-proposal fault, on for 3 minutes and off for 3 minutes, repeated over a \~15-minute run.
 
@@ -86,24 +86,41 @@ Metrics:
 
 Expected outcome: each on/off transition forces BFTBrain to re-adapt, so it may do worse overall than one or both fixed protocols. Whatever the result, these numbers become the baseline that Phase 3 must improve on.
 
-Results: to be added after the runs.
+**Results (Nov 4, single runs, 20 ms delay).** BFTBrain gained nothing from adapting: it averaged 10,930 req/s, the same as always running Zyzzyva (10,904), and 13% below an ideal switcher (~12,600) that runs Prime only during attacks.
+
+| Run | Average from 60 s | Off 60–180 s | On 180–360 s | Off 360–540 s | On 540–720 s | Off 720–900 s |
+| --- | --- | --- | --- | --- | --- | --- |
+| BFTBrain (adaptive) | 10,930 | 20,189 | 1,021 | 16,830 | 1,124 | 18,703 |
+| Fixed Zyzzyva | 10,904 | 19,454 | 868 | 18,307 | 862 | 17,995 |
+| Fixed Prime | 4,775 | 4,798 | 4,787 | 4,796 | 4,764 | 4,739 |
+| Ideal switcher (computed) | ~12,600 | Zyzzyva | Prime | Zyzzyva | Prime | Zyzzyva |
+
+Throughput in req/s, from the coordinator's 3-second samples. The ideal switcher takes the better fixed protocol in each phase. Data: `results/phase2-*`.
+
+- During each 3-minute attack, BFTBrain tried CheapBFT, SBFT, PBFT, HotStuff and Zyzzyva but never settled on Prime, so it ran at ~1,000 req/s while Prime would have given ~4,780.
+- After each attack ended it returned to Zyzzyva within seconds, so it lost little in the attack-free phases.
+- Net effect: adaptation recovered quickly from attacks but never adapted to them, so it matched the best fixed protocol rather than beating it.
+- Prime's throughput is the same with and without the attack (~4,780), confirming the fault is fully disabled under Prime.
+
+A first attempt at the fixed runs disabled checkpoints (to stop switching), which made throughput decay over time; it was discarded and rerun with a one-protocol switching sequence and normal checkpoints.
 
 ## Phase 3: improving BFTBrain
 
-Phase 3 is the main contribution: we will first implement attack memory and a dwell period, the two low-cost defenses aimed directly at what Phase 1 showed, then evaluate them under the Phase 2 attack.
+Phase 3 is the main contribution: defenses that make the online learner itself robust, compared against BFTide's switching damping as a baseline, under the Phase 2 attack.
 
-| Weakness seen in Phase 1 | Proposed defense | Effort | Priority |
+| Weakness seen in Phase 1 | Defense | Role | Priority |
 | --- | --- | --- | --- |
-| Under Prime the attack is invisible, so the state looks normal and BFTBrain tries to leave | Attack memory: add a feature such as the maximum proposal slowness seen in the last N epochs | Low | First |
-| Repeated switching between Prime and vulnerable protocols | Dwell period (as in BFTide): after an attack-driven switch, stay at least k epochs; double k after a rapid re-switch | Low | First |
-| Forced exploration of every untried protocol pair while under attack | Safe exploration: when an attack is detected, explore only pairs whose predicted loss is small | Medium | If time allows |
-| Epochs stretch under attack, so decisions slow down | Time-based epochs, or a cap on epoch duration | Low–medium | If time allows |
+| Under Prime the attack is invisible, so the state looks normal and BFTBrain tries to leave | Attack memory: add a feature such as the maximum proposal slowness seen in the last N epochs | Ours | First |
+| Forced exploration of every untried protocol pair while under attack | Safe exploration: when an attack is detected, explore only pairs whose predicted loss is small | Ours | Second |
+| Epochs stretch under attack, so decisions slow down | Time-based epochs, or a cap on epoch duration | Ours | If time allows |
+| Repeated switching between Prime and vulnerable protocols | Dwell period from BFTide: stay at least k epochs after a switch; double k after a rapid re-switch | Baseline | Planned |
 
 Evaluation:
 
-1. Same on/off attack as Phase 2: original vs. improved BFTBrain on settling time, average throughput and switch count.
+1. Same on/off attack as Phase 2: original BFTBrain vs. BFTBrain + BFTide-style dwell period vs. BFTBrain + our defenses, on average throughput, throughput during attacks, and switch count. Target: close the 13% gap to the ideal switcher.
 2. No-attack run: the improved version must not lose normal-case throughput.
-3. Smarter attacker: a protocol-aware attacker that only attacks when the system leaves Prime, or waits out the dwell period, to check the defense still holds when the attacker knows about it.
+3. A natural fast-changing workload, to show the defenses help beyond attacks.
+4. Smarter attacker: a protocol-aware attacker that knows the defense (e.g., waits out the dwell period, or attacks right after the memory window expires).
 
 ## Scope changes from the proposal
 
